@@ -9,7 +9,7 @@ from detonator import (SingletonParent, add_minus_to_YYYYmmdd,
                        datetime_from_str, df_2_mongo, get_logger,
                        make_db_connection, md5_iterable, mongo_2_df,
                        resample_ohlcv, sleep, tomorrow_of)
-from detonator.types import IntradayInterval, DailyInterval
+from detonator.types import DailyInterval, IntradayInterval
 from pandas import DataFrame
 from yfinance import Ticker as YTicker
 from yfinance import Tickers
@@ -414,7 +414,7 @@ class MarketDataShovel(SingletonParent):
                     _logger.info('%s loop time for %s', ticker,
                                  (datetime.now() - now).total_seconds())
                 filtered_dict = {key: value for key,
-                value in results.items() if not value}
+                                 value in results.items() if not value}
                 return list(filtered_dict.keys())
 
             else:
@@ -530,7 +530,7 @@ class MarketDataShovel(SingletonParent):
                 return DataFrame()
             if period != 'max':
                 expected = len(tickers.tickers) * \
-                           int(period[0:-1]) * (390 / int(interval[0:-1]))
+                    int(period[0:-1]) * (390 / int(interval[0:-1]))
                 if expected != len(df):
                     _logger.warning(
                         'Expected bars number: %s, actual: %s', expected, len(df))
@@ -647,14 +647,17 @@ class MarketDataShovel(SingletonParent):
         if self._tcs.is_mkt_open():
             df = self.fetch_bars(tickers=tickers, interval='1d')
 
-        bars = mongo_2_df(TickerDailyInfo.objects(ticker__in=tickers).order_by('trade_date'))
+        bars = mongo_2_df(TickerDailyInfo.objects(
+            ticker__in=tickers).order_by('trade_date'))
 
         if df.empty and bars.empty:
             _logger.debug('No bars found for %s', tickers)
             return {}
         if not df.empty:
-            bars = bars[['trade_date', 'ticker', 'open', 'high', 'low', 'close', 'volume']]
-            bars['timestamp'] = pd.to_datetime(bars['trade_date'], format='%Y%m%d')
+            bars = bars[['trade_date', 'ticker', 'open',
+                         'high', 'low', 'close', 'volume']]
+            bars['timestamp'] = pd.to_datetime(
+                bars['trade_date'], format='%Y%m%d')
             bars.drop(columns=['trade_date'], inplace=True)
         bars = pd.concat([bars, df])
         bars = bars.sort_values('timestamp')

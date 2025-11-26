@@ -3,6 +3,7 @@
 from typing import Any, Dict
 
 from fastapi import APIRouter
+
 from ...ws.connection_manager_v2 import get_websocket_manager
 
 router = APIRouter(prefix="/diagnostics", tags=["diagnostics"])

@@ -4,7 +4,7 @@ from threading import Thread
 from typing import Any, Callable, Dict, List, Optional
 
 import pytz
-from dataminer import MarketDataShovel, VegasTunnel, TradeCalendarShovel
+from dataminer import MarketDataShovel, TradeCalendarShovel, VegasTunnel
 from detonator import IntradayTaskScheduler, get_logger, make_db_connection
 from pandas import DataFrame
 
@@ -26,11 +26,13 @@ class VegasTunnelIntegration:
                                                                            tzinfo=pytz.timezone('America/New_York')),
                                                              schedule_delay=-0.1)
         self.bars: Optional[Dict[str, Dict[str, DataFrame]]] = {}
-        self.trade_calendar: Optional[TradeCalendarShovel] = TradeCalendarShovel.get_instance()
+        self.trade_calendar: Optional[TradeCalendarShovel] = TradeCalendarShovel.get_instance(
+        )
 
     def _interval_callback(self, intervals: List[str]) -> Any:
         if not self.trade_calendar.is_mkt_open():
-            self.logger.info('Market not open, skipping update vegas tunnel signal...')
+            self.logger.info(
+                'Market not open, skipping update vegas tunnel signal...')
             return
         mds: MarketDataShovel = MarketDataShovel.get_instance()
         tickers = [t.upper().replace('.', '-')

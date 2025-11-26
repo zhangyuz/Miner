@@ -1,6 +1,6 @@
 from celery import Celery
 from celery.schedules import crontab
-from detonator import get_logger,is_prod
+from detonator import get_logger, is_prod
 from minerworkers import app
 
 from ._version import version
@@ -23,7 +23,8 @@ def setup_periodic_tasks(sender: Celery, **_):
     This function is connected to the `on_after_configure` signal.
     """
     if not is_prod():
-        _logger.info('Skip setting up periodic tasks for non production environment')
+        _logger.info(
+            'Skip setting up periodic tasks for non production environment')
         return
     _logger.info('Setting up miner service periodic tasks ...')
     sender.add_periodic_task(

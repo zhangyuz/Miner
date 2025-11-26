@@ -5,7 +5,8 @@ from ._config import Config, parser_config
 from ._data_converter import (df_2_mongo, dict_to_mongo, mongo_2_df,
                               resample_ohlcv)
 from ._datetime import datetime_from_str, tomorrow_of, utc_to_target_tz
-from ._db import ensure_db_connection, make_db_connection
+from ._db import (ensure_db_connection, make_db_connection,
+                  retry_mongo_operation)
 from ._env import is_in_daemon, is_in_docker, is_prod
 from ._exchanges import IDX_COUNTRY_EXCHANGE_MAP
 from ._hash import md5_iterable, md5_str
@@ -23,7 +24,7 @@ __all__ = [
     'df_2_mongo', 'mongo_2_df', 'dict_to_mongo', 'resample_ohlcv',
     'tomorrow_of', 'datetime_from_str',
     'utc_to_target_tz',
-    'ensure_db_connection', 'make_db_connection',
+    'ensure_db_connection', 'make_db_connection', 'retry_mongo_operation',
     'is_in_docker', 'is_in_daemon', 'is_prod',
     'IDX_COUNTRY_EXCHANGE_MAP',
     'md5_str', 'md5_iterable',

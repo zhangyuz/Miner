@@ -14,7 +14,7 @@ _DEFAULT_LOG_DATE_FORMAT = '%Y%m%d %H%M%S'
 
 logging.basicConfig(format=_DEFAULT_LOG_FORMAT, datefmt=_DEFAULT_LOG_DATE_FORMAT,
                     force=True, level=logging.INFO,
-                    handlers=[RichHandler(rich_tracebacks=False, locals_max_string=1024, console=Console(width=240),
+                    handlers=[RichHandler(markup=True, rich_tracebacks=False, locals_max_string=1024, console=Console(width=240, markup=True),
                                           show_level=False, show_time=False, show_path=False)])
 
 with contextlib.suppress(Exception):

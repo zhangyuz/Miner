@@ -12,7 +12,7 @@ from typing import Dict, Literal
 
 import numpy as np
 from detonator import (SingletonParent, get_logger, is_in_daemon,
-                       make_db_connection, mongo_2_df)
+                       make_db_connection, mongo_2_df, retry_mongo_operation)
 from mongoengine import QuerySet
 from pymongo import UpdateOne
 
@@ -132,8 +132,11 @@ def _calculate_indicator(ticker: str, indicator: Literal['sma', 'ema'] = 'sma', 
         _logger.info('Executing %d bulk operations for %s',
                      len(bulk_operations), ticker)
         # Log first few operations for debugging
-        result = TickerDailyInfo._get_collection().bulk_write(
-            bulk_operations, ordered=False)
+        collection = TickerDailyInfo._get_collection()
+        result = retry_mongo_operation(
+            lambda: collection.bulk_write(bulk_operations, ordered=False),
+            operation_name=f'bulk_write for {ticker} {indicator}{period}'
+        )
         duration = (datetime.now() - start_time).total_seconds()
         _logger.info('Update completed in %.4f seconds. Modified: %d, Matched: %d',
                      duration, result.modified_count, result.matched_count)

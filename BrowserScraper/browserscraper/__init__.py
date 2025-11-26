@@ -25,7 +25,8 @@ def setup_periodic_tasks(sender: Celery, **kwargs):
     This function is connected to the `on_after_configure` signal.
     """
     if not is_prod():
-        _logger.info('Skipping setting up period task for non production environment')
+        _logger.info(
+            'Skipping setting up period task for non production environment')
         return
     # Add the daily update task.
     _logger.info(

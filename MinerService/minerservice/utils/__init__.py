@@ -38,7 +38,8 @@ async def send_message(websocket: WebSocket, client_id: str, type: str, message:
 
 app_password = os.environ.get('MAIL_SENDER_PWD', '')
 mail_sender = os.environ.get('MAIL_SENDER', '')
-mail_receivers = [r.strip() for r in os.environ.get('MAIL_RECEIVERS', '').split(',')]
+mail_receivers = [r.strip()
+                  for r in os.environ.get('MAIL_RECEIVERS', '').split(',')]
 
 
 def send_email(message: Dict[str, str]):

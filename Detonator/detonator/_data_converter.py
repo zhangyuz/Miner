@@ -143,7 +143,8 @@ def resample_ohlcv_calendar(bars: DataFrame, freq: str) -> DataFrame:
     # Ensure datetime index
     if type(bars.index) not in [DatetimeIndex, PeriodIndex, TimedeltaIndex]:
         if 'timestamp' not in bars.columns:
-            _logger.warning('timestamp and columns %s not exist in DataFrame!', required_columns)
+            _logger.warning(
+                'timestamp and columns %s not exist in DataFrame!', required_columns)
             return DataFrame()
         bars = bars.set_index('timestamp', drop=False)
 

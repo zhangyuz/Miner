@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import pytz
 from detonator import (SingletonParent, get_logger, make_db_connection,
-                       mongo_2_df, run_parallel)
+                       mongo_2_df, retry_mongo_operation, run_parallel)
 from pandas import DataFrame
 from scipy.signal import find_peaks
 
@@ -173,10 +173,14 @@ class WedgePop(SingletonParent):
             else:
                 # Handle string representation from mongo_2_df
                 object_id = ObjectId(object_id['$oid'])
-            result = TickerDailyInfo.objects(id=object_id).update(
-                wedge_status=data['wedge_status'].iloc[i])
+            wedge_status_value = data['wedge_status'].iloc[i]
+            result = retry_mongo_operation(
+                lambda: TickerDailyInfo.objects(id=object_id).update(
+                    wedge_status=wedge_status_value),
+                operation_name=f'update wedge_status for {ticker} on {data.iloc[i]["trade_date"]}'
+            )
             _l.info(
-                f'{ticker} on {data.iloc[i]["trade_date"]} {object_id} to {data["wedge_status"].iloc[i]} result: {result}')
+                f'{ticker} on {data.iloc[i]["trade_date"]} {object_id} to {wedge_status_value} result: {result}')
         return True  # Return True to indicate successful processing
 
     def update_wedge_pop_for_index(self, idx: Literal['spx', 'iwd', 'iwf', 'iwm']) -> bool:

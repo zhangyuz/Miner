@@ -7508,5 +7508,15 @@
     "close": 573.5,
     "volume": 865355.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "PWR",
+    "open": 563.2199707031,
+    "high": 567.296875,
+    "low": 544.8549804688,
+    "close": 545.6400146484,
+    "volume": 1042295.0,
+    "wedge_status": "drop"
   }
 ]

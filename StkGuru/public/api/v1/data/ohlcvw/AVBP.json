@@ -4978,5 +4978,15 @@
     "close": 22.75,
     "volume": 232221.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "AVBP",
+    "open": 22.4099998474,
+    "high": 23.3299999237,
+    "low": 21.7700004578,
+    "close": 21.8050003052,
+    "volume": 226584.0,
+    "wedge_status": "none"
   }
 ]

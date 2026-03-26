@@ -7508,5 +7508,15 @@
     "close": 26.7800006866,
     "volume": 161545.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "BFST",
+    "open": 26.5,
+    "high": 26.8799991608,
+    "low": 26.5,
+    "close": 26.8400001526,
+    "volume": 108626.0,
+    "wedge_status": "pop"
   }
 ]

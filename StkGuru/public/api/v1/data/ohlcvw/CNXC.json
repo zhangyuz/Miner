@@ -7508,5 +7508,15 @@
     "close": 24.6700000763,
     "volume": 3334557.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "CNXC",
+    "open": 24.5,
+    "high": 27.7700004578,
+    "low": 24.4925003052,
+    "close": 27.7199993134,
+    "volume": 2279443.0,
+    "wedge_status": "none"
   }
 ]

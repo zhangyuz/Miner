@@ -7508,5 +7508,15 @@
     "close": 15.0,
     "volume": 333915.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "TNXP",
+    "open": 14.3000001907,
+    "high": 14.9799003601,
+    "low": 13.75,
+    "close": 13.75,
+    "volume": 403163.0,
+    "wedge_status": "drop"
   }
 ]

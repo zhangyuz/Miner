@@ -7508,5 +7508,15 @@
     "close": 42.5099983215,
     "volume": 232137.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "AMWD",
+    "open": 42.0,
+    "high": 42.5600013733,
+    "low": 40.4141998291,
+    "close": 41.4900016785,
+    "volume": 188951.0,
+    "wedge_status": "none"
   }
 ]

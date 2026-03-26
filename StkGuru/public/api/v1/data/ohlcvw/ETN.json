@@ -7508,5 +7508,15 @@
     "close": 375.0,
     "volume": 2481107.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "ETN",
+    "open": 370.75,
+    "high": 373.3500061035,
+    "low": 356.6700134277,
+    "close": 357.1000061035,
+    "volume": 2025702.0,
+    "wedge_status": "none"
   }
 ]

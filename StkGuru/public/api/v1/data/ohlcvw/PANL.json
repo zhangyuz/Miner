@@ -7508,5 +7508,15 @@
     "close": 6.9600000381,
     "volume": 473522.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "PANL",
+    "open": 6.8899998665,
+    "high": 7.0399999619,
+    "low": 6.8200001717,
+    "close": 6.8400001526,
+    "volume": 403282.0,
+    "wedge_status": "none"
   }
 ]

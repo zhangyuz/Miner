@@ -7508,5 +7508,15 @@
     "close": 28.75,
     "volume": 137241.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "THRM",
+    "open": 28.3400001526,
+    "high": 29.3050003052,
+    "low": 28.2600002289,
+    "close": 29.1299991608,
+    "volume": 232610.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 108.0,
     "volume": 1208452.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "TTMI",
+    "open": 104.3099975586,
+    "high": 104.6100006104,
+    "low": 95.6200027466,
+    "close": 95.9300003052,
+    "volume": 1783420.0,
+    "wedge_status": "none"
   }
 ]

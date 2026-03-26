@@ -7508,5 +7508,15 @@
     "close": 0.88349998,
     "volume": 32146.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "SLSN",
+    "open": 0.8700000048,
+    "high": 0.9362999797,
+    "low": 0.8600000143,
+    "close": 0.9362999797,
+    "volume": 9702.0,
+    "wedge_status": "none"
   }
 ]

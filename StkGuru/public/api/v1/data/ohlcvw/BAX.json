@@ -7508,5 +7508,15 @@
     "close": 17.1200008392,
     "volume": 5249462.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "BAX",
+    "open": 17.0,
+    "high": 17.5,
+    "low": 16.5599994659,
+    "close": 16.6650009155,
+    "volume": 6765916.0,
+    "wedge_status": "none"
   }
 ]

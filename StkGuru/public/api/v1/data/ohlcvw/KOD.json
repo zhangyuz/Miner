@@ -7508,5 +7508,15 @@
     "close": 22.75,
     "volume": 745778.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "KOD",
+    "open": 35.6800003052,
+    "high": 40.4636993408,
+    "low": 33.5,
+    "close": 39.7599983215,
+    "volume": 13041000.0,
+    "wedge_status": "none"
   }
 ]

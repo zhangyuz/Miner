@@ -7508,5 +7508,15 @@
     "close": 4237.75,
     "volume": 236674.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "BKNG",
+    "open": 4226.330078125,
+    "high": 4275.0,
+    "low": 4184.2099609375,
+    "close": 4213.759765625,
+    "volume": 319837.0,
+    "wedge_status": "none"
   }
 ]

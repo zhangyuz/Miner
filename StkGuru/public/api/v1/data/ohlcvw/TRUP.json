@@ -7508,5 +7508,15 @@
     "close": 25.5,
     "volume": 203264.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "TRUP",
+    "open": 25.5300006866,
+    "high": 26.25,
+    "low": 25.1399993896,
+    "close": 26.0400009155,
+    "volume": 251497.0,
+    "wedge_status": "none"
   }
 ]

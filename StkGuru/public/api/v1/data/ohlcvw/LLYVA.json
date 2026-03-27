@@ -6128,5 +6128,15 @@
     "close": 89.4899978638,
     "volume": 83082.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "LLYVA",
+    "open": 88.9300003052,
+    "high": 88.9300003052,
+    "low": 85.6100006104,
+    "close": 86.4000015259,
+    "volume": 81036.0,
+    "wedge_status": "none"
   }
 ]

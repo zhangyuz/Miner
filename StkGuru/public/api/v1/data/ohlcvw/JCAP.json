@@ -1448,5 +1448,15 @@
     "close": 19.1399993896,
     "volume": 204086.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "JCAP",
+    "open": 18.8600006104,
+    "high": 19.125,
+    "low": 18.5100002289,
+    "close": 18.5599994659,
+    "volume": 175590.0,
+    "wedge_status": "none"
   }
 ]

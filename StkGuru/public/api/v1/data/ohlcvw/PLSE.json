@@ -7508,5 +7508,15 @@
     "close": 21.5,
     "volume": 103271.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "PLSE",
+    "open": 21.6000003815,
+    "high": 21.6200008392,
+    "low": 20.2299995422,
+    "close": 20.5699996948,
+    "volume": 150700.0,
+    "wedge_status": "none"
   }
 ]

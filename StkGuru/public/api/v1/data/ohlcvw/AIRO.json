@@ -1528,5 +1528,15 @@
     "close": 9.0600004196,
     "volume": 445343.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "AIRO",
+    "open": 8.9200000763,
+    "high": 9.0200004578,
+    "low": 8.4849996567,
+    "close": 8.5799999237,
+    "volume": 512322.0,
+    "wedge_status": "none"
   }
 ]

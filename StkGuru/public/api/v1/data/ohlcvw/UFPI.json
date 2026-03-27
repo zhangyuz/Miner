@@ -7508,5 +7508,15 @@
     "close": 90.6800003052,
     "volume": 245906.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "UFPI",
+    "open": 90.25,
+    "high": 91.0599975586,
+    "low": 89.5199966431,
+    "close": 89.6800003052,
+    "volume": 344762.0,
+    "wedge_status": "none"
   }
 ]

@@ -2818,5 +2818,15 @@
     "close": 0.1400000006,
     "volume": 1117078.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "ZSPC",
+    "open": 0.1413999945,
+    "high": 0.1413999945,
+    "low": 0.1228,
+    "close": 0.1228,
+    "volume": 1577312.0,
+    "wedge_status": "none"
   }
 ]

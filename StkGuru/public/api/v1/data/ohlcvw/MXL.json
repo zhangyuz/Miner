@@ -7508,5 +7508,15 @@
     "close": 17.1599998474,
     "volume": 787491.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "MXL",
+    "open": 16.8899993896,
+    "high": 17.25,
+    "low": 16.7649993896,
+    "close": 17.0,
+    "volume": 670471.0,
+    "wedge_status": "drop"
   }
 ]

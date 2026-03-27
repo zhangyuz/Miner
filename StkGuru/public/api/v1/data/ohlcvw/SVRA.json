@@ -7508,5 +7508,15 @@
     "close": 5.25,
     "volume": 1249514.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "SVRA",
+    "open": 5.2199997902,
+    "high": 5.2899999619,
+    "low": 5.0999999046,
+    "close": 5.1399998665,
+    "volume": 1551145.0,
+    "wedge_status": "none"
   }
 ]

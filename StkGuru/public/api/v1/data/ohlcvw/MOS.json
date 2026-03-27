@@ -7508,5 +7508,15 @@
     "close": 25.0,
     "volume": 11831793.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "MOS",
+    "open": 25.0,
+    "high": 25.4500007629,
+    "low": 24.7600002289,
+    "close": 25.0,
+    "volume": 8288310.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 963.3900146484,
     "volume": 424155.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "EQIX",
+    "open": 963.3800048828,
+    "high": 968.1849975586,
+    "low": 958.2650146484,
+    "close": 963.0,
+    "volume": 397508.0,
+    "wedge_status": "none"
   }
 ]

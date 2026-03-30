@@ -7488,5 +7488,15 @@
     "close": 26.5400009155,
     "volume": 650241.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "HRMY",
+    "open": 26.5900001526,
+    "high": 27.125,
+    "low": 26.4500007629,
+    "close": 26.8999996185,
+    "volume": 613128.0,
+    "wedge_status": "none"
   }
 ]

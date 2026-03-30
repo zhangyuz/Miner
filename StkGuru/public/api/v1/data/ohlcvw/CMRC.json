@@ -7488,5 +7488,15 @@
     "close": 2.4700000286,
     "volume": 468958.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "CMRC",
+    "open": 2.5,
+    "high": 2.5899999142,
+    "low": 2.5,
+    "close": 2.5699999332,
+    "volume": 529284.0,
+    "wedge_status": "none"
   }
 ]

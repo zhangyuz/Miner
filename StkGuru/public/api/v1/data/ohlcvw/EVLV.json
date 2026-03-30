@@ -7488,5 +7488,15 @@
     "close": 5.75,
     "volume": 2477900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "EVLV",
+    "open": 5.7600002289,
+    "high": 5.7699999809,
+    "low": 5.5050001144,
+    "close": 5.6799998283,
+    "volume": 2598975.0,
+    "wedge_status": "none"
   }
 ]

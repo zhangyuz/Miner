@@ -7488,5 +7488,15 @@
     "close": 201.25,
     "volume": 3077594.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "ADP",
+    "open": 203.1900024414,
+    "high": 206.6600036621,
+    "low": 202.5,
+    "close": 205.4700012207,
+    "volume": 2827792.0,
+    "wedge_status": "none"
   }
 ]

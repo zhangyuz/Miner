@@ -7488,5 +7488,15 @@
     "close": 15.5600004196,
     "volume": 2551370.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "METC",
+    "open": 15.5100002289,
+    "high": 15.5399999619,
+    "low": 14.25,
+    "close": 14.4300003052,
+    "volume": 2037611.0,
+    "wedge_status": "none"
   }
 ]

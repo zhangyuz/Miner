@@ -7488,5 +7488,15 @@
     "close": 60.0900001526,
     "volume": 79905.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "HBCP",
+    "open": 60.875,
+    "high": 61.1949996948,
+    "low": 59.9249992371,
+    "close": 60.25,
+    "volume": 131189.0,
+    "wedge_status": "none"
   }
 ]

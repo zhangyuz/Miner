@@ -7488,5 +7488,15 @@
     "close": 44.4500007629,
     "volume": 3294578.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "AMKR",
+    "open": 45.3499984741,
+    "high": 45.5400009155,
+    "low": 40.6906013489,
+    "close": 41.25,
+    "volume": 2877069.0,
+    "wedge_status": "none"
   }
 ]

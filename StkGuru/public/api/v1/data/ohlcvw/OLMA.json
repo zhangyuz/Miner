@@ -7488,5 +7488,15 @@
     "close": 13.6700000763,
     "volume": 1194316.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "OLMA",
+    "open": 13.75,
+    "high": 13.8050003052,
+    "low": 13.2100000381,
+    "close": 13.4200000763,
+    "volume": 990718.0,
+    "wedge_status": "none"
   }
 ]

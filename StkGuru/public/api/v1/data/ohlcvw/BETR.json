@@ -7488,5 +7488,15 @@
     "close": 30.6599998474,
     "volume": 314976.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "BETR",
+    "open": 31.0,
+    "high": 33.9900016785,
+    "low": 30.2289009094,
+    "close": 33.3899993896,
+    "volume": 323462.0,
+    "wedge_status": "pop"
   }
 ]

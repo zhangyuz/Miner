@@ -7488,5 +7488,15 @@
     "close": 30.1200008392,
     "volume": 1400046.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "ALGM",
+    "open": 30.5,
+    "high": 30.606300354,
+    "low": 27.6499996185,
+    "close": 28.0400009155,
+    "volume": 2248889.0,
+    "wedge_status": "none"
   }
 ]

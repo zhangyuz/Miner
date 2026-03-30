@@ -7488,5 +7488,15 @@
     "close": 10.75,
     "volume": 148358.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "DSP",
+    "open": 10.8400001526,
+    "high": 11.2116003036,
+    "low": 10.5100002289,
+    "close": 10.8699998856,
+    "volume": 143476.0,
+    "wedge_status": "none"
   }
 ]

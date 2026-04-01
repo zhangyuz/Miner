@@ -7498,5 +7498,15 @@
     "close": 160.5,
     "volume": 504419.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "AXSM",
+    "open": 160.1999969482,
+    "high": 171.6000061035,
+    "low": 159.9199981689,
+    "close": 169.0200042725,
+    "volume": 669188.0,
+    "wedge_status": "none"
   }
 ]

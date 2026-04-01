@@ -7498,5 +7498,15 @@
     "close": 494.0,
     "volume": 2209113.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "MA",
+    "open": 500.0,
+    "high": 501.3800048828,
+    "low": 490.5799865723,
+    "close": 499.6600036621,
+    "volume": 4022580.0,
+    "wedge_status": "none"
   }
 ]

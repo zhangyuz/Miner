@@ -7498,5 +7498,15 @@
     "close": 11.0,
     "volume": 2033611.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "ATEC",
+    "open": 11.1599998474,
+    "high": 11.2150001526,
+    "low": 10.779999733,
+    "close": 10.8800001144,
+    "volume": 2871002.0,
+    "wedge_status": "none"
   }
 ]

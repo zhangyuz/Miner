@@ -7498,5 +7498,15 @@
     "close": 25.5400009155,
     "volume": 324936.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "HFWA",
+    "open": 25.9500007629,
+    "high": 26.2099990845,
+    "low": 25.5699996948,
+    "close": 26.0,
+    "volume": 346306.0,
+    "wedge_status": "pop"
   }
 ]

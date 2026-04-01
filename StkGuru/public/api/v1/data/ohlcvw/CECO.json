@@ -7498,5 +7498,15 @@
     "close": 57.0200004578,
     "volume": 560922.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "CECO",
+    "open": 57.5,
+    "high": 59.7599983215,
+    "low": 57.2799987793,
+    "close": 59.5800018311,
+    "volume": 682722.0,
+    "wedge_status": "none"
   }
 ]

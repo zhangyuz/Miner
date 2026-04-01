@@ -7498,5 +7498,15 @@
     "close": 8.9600000381,
     "volume": 408688.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "KELYA",
+    "open": 9.0699996948,
+    "high": 9.0799999237,
+    "low": 8.7600002289,
+    "close": 8.8500003815,
+    "volume": 327670.0,
+    "wedge_status": "none"
   }
 ]

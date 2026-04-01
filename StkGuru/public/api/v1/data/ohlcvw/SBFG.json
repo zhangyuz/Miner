@@ -7498,5 +7498,15 @@
     "close": 21.2199993134,
     "volume": 9774.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "SBFG",
+    "open": 21.3600006104,
+    "high": 21.3600006104,
+    "low": 20.9300003052,
+    "close": 21.0,
+    "volume": 12515.0,
+    "wedge_status": "none"
   }
 ]

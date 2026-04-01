@@ -7498,5 +7498,15 @@
     "close": 9.8100004196,
     "volume": 1080344.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "OMER",
+    "open": 10.0,
+    "high": 10.6199998856,
+    "low": 9.9899997711,
+    "close": 10.5600004196,
+    "volume": 1618654.0,
+    "wedge_status": "none"
   }
 ]

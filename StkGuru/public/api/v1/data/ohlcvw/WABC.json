@@ -7498,5 +7498,15 @@
     "close": 51.4199981689,
     "volume": 202306.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "WABC",
+    "open": 51.9599990845,
+    "high": 52.2249984741,
+    "low": 51.5,
+    "close": 52.1500015259,
+    "volume": 248429.0,
+    "wedge_status": "none"
   }
 ]

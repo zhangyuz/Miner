@@ -7498,5 +7498,15 @@
     "close": 9.25,
     "volume": 418430.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "TH",
+    "open": 9.3800001144,
+    "high": 9.4300003052,
+    "low": 9.1499996185,
+    "close": 9.279999733,
+    "volume": 478108.0,
+    "wedge_status": "none"
   }
 ]

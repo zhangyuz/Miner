@@ -7498,5 +7498,15 @@
     "close": 168.0,
     "volume": 206002.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "LOPE",
+    "open": 168.4799957275,
+    "high": 171.9600067139,
+    "low": 166.9600067139,
+    "close": 170.0299987793,
+    "volume": 209293.0,
+    "wedge_status": "none"
   }
 ]

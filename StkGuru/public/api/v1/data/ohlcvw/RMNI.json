@@ -7498,5 +7498,15 @@
     "close": 3.1199998856,
     "volume": 156286.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "RMNI",
+    "open": 3.1700000763,
+    "high": 3.2899999619,
+    "low": 3.1199998856,
+    "close": 3.2799999714,
+    "volume": 355946.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 189.75,
     "volume": 2536071.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "ODFL",
+    "open": 189.75,
+    "high": 195.8500061035,
+    "low": 189.2799987793,
+    "close": 195.3999938965,
+    "volume": 2653290.0,
+    "wedge_status": "none"
   }
 ]

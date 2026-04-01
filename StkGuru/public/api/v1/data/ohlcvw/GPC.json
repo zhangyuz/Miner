@@ -7508,5 +7508,15 @@
     "close": 105.75,
     "volume": 2240319.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "GPC",
+    "open": 105.75,
+    "high": 105.9449996948,
+    "low": 104.5599975586,
+    "close": 105.1800003052,
+    "volume": 2495073.0,
+    "wedge_status": "none"
   }
 ]

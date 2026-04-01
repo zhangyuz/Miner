@@ -7508,5 +7508,15 @@
     "close": 92.5,
     "volume": 6593001.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "KKR",
+    "open": 93.2200012207,
+    "high": 93.6600036621,
+    "low": 90.3899993896,
+    "close": 91.3600006104,
+    "volume": 5472992.0,
+    "wedge_status": "none"
   }
 ]

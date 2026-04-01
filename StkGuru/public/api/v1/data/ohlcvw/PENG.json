@@ -7508,5 +7508,15 @@
     "close": 17.6000003815,
     "volume": 958064.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "PENG",
+    "open": 18.0599994659,
+    "high": 18.3899993896,
+    "low": 17.9050006866,
+    "close": 18.25,
+    "volume": 2211821.0,
+    "wedge_status": "none"
   }
 ]

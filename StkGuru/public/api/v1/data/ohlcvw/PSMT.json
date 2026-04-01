@@ -7508,5 +7508,15 @@
     "close": 150.5,
     "volume": 261893.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "PSMT",
+    "open": 150.3899993896,
+    "high": 152.3699951172,
+    "low": 147.9949951172,
+    "close": 151.3600006104,
+    "volume": 220298.0,
+    "wedge_status": "none"
   }
 ]

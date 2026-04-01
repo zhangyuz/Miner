@@ -7508,5 +7508,15 @@
     "close": 3.0,
     "volume": 5396755.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "SLDP",
+    "open": 3.0799999237,
+    "high": 3.1150000095,
+    "low": 2.9300000668,
+    "close": 2.9400000572,
+    "volume": 3573804.0,
+    "wedge_status": "none"
   }
 ]

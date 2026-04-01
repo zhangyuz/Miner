@@ -7508,5 +7508,15 @@
     "close": 36.0800018311,
     "volume": 296825.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "ORRF",
+    "open": 35.9799995422,
+    "high": 36.75,
+    "low": 35.9249992371,
+    "close": 36.2900009155,
+    "volume": 160954.0,
+    "wedge_status": "none"
   }
 ]

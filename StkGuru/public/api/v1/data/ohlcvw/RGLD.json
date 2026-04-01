@@ -7508,5 +7508,15 @@
     "close": 254.4900054932,
     "volume": 1185751.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "RGLD",
+    "open": 260.0,
+    "high": 268.6599121094,
+    "low": 258.0,
+    "close": 264.3500061035,
+    "volume": 1477837.0,
+    "wedge_status": "none"
   }
 ]

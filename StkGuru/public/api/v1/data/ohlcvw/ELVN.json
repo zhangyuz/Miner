@@ -7508,5 +7508,15 @@
     "close": 39.2000007629,
     "volume": 2181831.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "ELVN",
+    "open": 39.6899986267,
+    "high": 40.0,
+    "low": 37.5600013733,
+    "close": 37.7900009155,
+    "volume": 830379.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 379.8999938965,
     "volume": 400273.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "HII",
+    "open": 379.5,
+    "high": 396.1700134277,
+    "low": 379.5,
+    "close": 393.3200073242,
+    "volume": 402736.0,
+    "wedge_status": "none"
   }
 ]

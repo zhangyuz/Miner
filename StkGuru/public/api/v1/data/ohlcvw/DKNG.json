@@ -7508,5 +7508,15 @@
     "close": 21.6200008392,
     "volume": 11931508.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "DKNG",
+    "open": 21.75,
+    "high": 22.5349998474,
+    "low": 21.8299999237,
+    "close": 22.1599998474,
+    "volume": 13279036.0,
+    "wedge_status": "none"
   }
 ]

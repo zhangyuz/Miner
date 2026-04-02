@@ -7508,5 +7508,15 @@
     "close": 39.9700012207,
     "volume": 861725.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "IAC",
+    "open": 39.75,
+    "high": 40.2999992371,
+    "low": 39.2000007629,
+    "close": 39.7999992371,
+    "volume": 759426.0,
+    "wedge_status": "none"
   }
 ]

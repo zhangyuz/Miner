@@ -7508,5 +7508,15 @@
     "close": 144.1499938965,
     "volume": 722942.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "ALLE",
+    "open": 142.4799957275,
+    "high": 144.3150024414,
+    "low": 139.3000030518,
+    "close": 141.0,
+    "volume": 663799.0,
+    "wedge_status": "none"
   }
 ]

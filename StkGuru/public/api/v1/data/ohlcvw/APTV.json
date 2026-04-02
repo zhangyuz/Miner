@@ -7508,5 +7508,15 @@
     "close": 62.1085014343,
     "volume": 3639573.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "APTV",
+    "open": 60.7999992371,
+    "high": 62.1699981689,
+    "low": 59.1599998474,
+    "close": 61.0,
+    "volume": 3405312.0,
+    "wedge_status": "none"
   }
 ]

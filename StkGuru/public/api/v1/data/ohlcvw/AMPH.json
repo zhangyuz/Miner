@@ -7508,5 +7508,15 @@
     "close": 20.2399997711,
     "volume": 666013.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "AMPH",
+    "open": 19.9500007629,
+    "high": 20.6550006866,
+    "low": 19.875,
+    "close": 20.4500007629,
+    "volume": 384951.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 0.3955000043,
     "volume": 1021564.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "NXXT",
+    "open": 0.3853000104,
+    "high": 0.4072000086,
+    "low": 0.3745000064,
+    "close": 0.3952000141,
+    "volume": 669744.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 74.75,
     "volume": 482651.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "MRCY",
+    "open": 72.8000030518,
+    "high": 75.8700027466,
+    "low": 71.4000015259,
+    "close": 74.2200012207,
+    "volume": 354161.0,
+    "wedge_status": "none"
   }
 ]

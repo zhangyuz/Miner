@@ -7508,5 +7508,15 @@
     "close": 193.3600006104,
     "volume": 2542223.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "PGR",
+    "open": 193.75,
+    "high": 195.6399993896,
+    "low": 192.2100067139,
+    "close": 195.25,
+    "volume": 1667819.0,
+    "wedge_status": "none"
   }
 ]

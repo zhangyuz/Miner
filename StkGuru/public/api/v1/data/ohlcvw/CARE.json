@@ -7508,5 +7508,15 @@
     "close": 23.3500003815,
     "volume": 129196.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "CARE",
+    "open": 23.1200008392,
+    "high": 23.4950008392,
+    "low": 23.0,
+    "close": 23.3999996185,
+    "volume": 417071.0,
+    "wedge_status": "none"
   }
 ]

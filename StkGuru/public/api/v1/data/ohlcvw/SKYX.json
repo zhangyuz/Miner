@@ -7508,5 +7508,15 @@
     "close": 1.1499999762,
     "volume": 826832.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "SKYX",
+    "open": 1.1000000238,
+    "high": 1.1799999475,
+    "low": 1.0499999523,
+    "close": 1.1499999762,
+    "volume": 573363.0,
+    "wedge_status": "none"
   }
 ]

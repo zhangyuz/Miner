@@ -3,7 +3,7 @@ from functools import wraps
 from typing import Callable, TypeVar
 
 import pymongo.errors
-from mongoengine import connect, get_connection
+from mongoengine import connect, disconnect, get_connection
 from mongoengine.connection import DEFAULT_CONNECTION_NAME
 
 from ._env import is_prod
@@ -22,11 +22,41 @@ MONGO_RETRY_MAX_DELAY = 10.0  # seconds
 T = TypeVar('T')
 
 
-def make_db_connection(db: str = DEF_MONGO_DB, host: str = DEF_MONGO_HOST, port=DEF_MONGO_PORT,
-                       alias: str = DEFAULT_CONNECTION_NAME):
+def close_db_connection(alias: str = DEFAULT_CONNECTION_NAME):
+    """
+    Close MongoDB connection for the given alias.
+    Useful for cleaning up stale connections after forking.
+    """
     try:
-        get_connection(alias=alias)
+        disconnect(alias=alias)
+        _logger.debug(f'Closed MongoDB connection for alias: {alias}')
+    except Exception as e:
+        _logger.debug(f'Error closing MongoDB connection for alias {alias}: {e}')
+
+
+def make_db_connection(db: str = DEF_MONGO_DB, host: str = DEF_MONGO_HOST, port=DEF_MONGO_PORT,
+                       alias: str = DEFAULT_CONNECTION_NAME, force_reconnect: bool = False):
+    """
+    Create or get MongoDB connection. If force_reconnect is True, close existing connection first.
+    
+    Args:
+        db: Database name
+        host: MongoDB host
+        port: MongoDB port
+        alias: Connection alias
+        force_reconnect: If True, close existing connection before creating new one
+    """
+    if force_reconnect:
+        close_db_connection(alias=alias)
+    
+    try:
+        conn = get_connection(alias=alias)
+        # get_connection() returns a pymongo.MongoClient directly — ping it to verify it's alive
+        conn.admin.command('ping')
+        return  # Connection is healthy, nothing to do
     except Exception:
+        # Connection doesn't exist or is stale — close any remnant before reconnecting
+        close_db_connection(alias=alias)
         prod = is_prod()
         _logger.info('Connecting to mongodb database prod: %s', prod)
         connect(
@@ -35,9 +65,9 @@ def make_db_connection(db: str = DEF_MONGO_DB, host: str = DEF_MONGO_HOST, port=
             port=port,
             alias=alias,
             uuidRepresentation='standard',
-            # Increased connection pool size
-            maxPoolSize=256,
-            minPoolSize=16,
+            # Connection pool size
+            maxPoolSize=16,
+            minPoolSize=8,
             # Connection timeout settings
             connectTimeoutMS=30000,  # 30 seconds to establish connection
             socketTimeoutMS=60000,  # 60 seconds for socket operations

@@ -1,5 +1,5 @@
 from datetime import date, datetime
-from typing import List
+from typing import List, Literal, Optional, Union
 
 import exchange_calendars as xcals
 import pandas as pd
@@ -44,7 +44,8 @@ class TradeCalendarShovel(SingletonParent):
         start_date, end_date = self._get_cal_range_to_update('us', 'XNYS')
         return self.update_trade_calendar(country='us', exchange='XNYS', start_date=start_date, end_date=end_date)
 
-    def update_trade_calendar(self, country: str = 'us', exchange: str = 'XNYS', start_date: str = '19800101', end_date: str = '20250712') -> bool:
+    def update_trade_calendar(self, country: str = 'us', exchange: str = 'XNYS', start_date: str = '19800101',
+                              end_date: str = '20250712') -> bool:
         try:
             start_date, end_date = self._get_cal_range_to_update(
                 country, exchange)
@@ -95,7 +96,8 @@ class TradeCalendarShovel(SingletonParent):
             self.update_trade_calendar(country=country, exchange=exchange)
             today_date = datetime.now(
                 self.EXCHANGE_TZ_MAP[exchange]).strftime('%Y%m%d')
-            return TradeCalendar.objects(country=country, exchange=exchange, cal_date=today_date).first().is_open == True
+            return TradeCalendar.objects(country=country, exchange=exchange,
+                                         cal_date=today_date).first().is_open == True
         except Exception as e:
             _logger.error(f'is_today_us_trade_day failed: {e}')
             raise
@@ -111,7 +113,8 @@ class TradeCalendarShovel(SingletonParent):
             self.update_trade_calendar(country=country, exchange=exchange)
             today_date = datetime.now(
                 self.EXCHANGE_TZ_MAP[exchange]).strftime('%Y%m%d')
-            return TradeCalendar.objects(country=country, exchange=exchange, cal_date__lt=today_date, is_open=True).order_by('-cal_date').first().cal_date
+            return TradeCalendar.objects(country=country, exchange=exchange, cal_date__lt=today_date,
+                                         is_open=True).order_by('-cal_date').first().cal_date
         except Exception as e:
             _logger.error(
                 f'last_trade_day_before_today failed:{e}', stack_info=True)
@@ -163,7 +166,9 @@ class TradeCalendarShovel(SingletonParent):
             today_date = datetime.now(self.EXCHANGE_TZ_MAP[exchange])
             this_cal_date: TradeCalendar = TradeCalendar.objects(country=country, exchange=exchange,
                                                                  cal_date=today_date.strftime('%Y%m%d')).first()
-            if this_cal_date and this_cal_date.is_open and today_date > utc_to_target_tz(this_cal_date.close, self.EXCHANGE_TZ_MAP[exchange]):
+            if this_cal_date and this_cal_date.is_open and today_date > utc_to_target_tz(this_cal_date.close,
+                                                                                         self.EXCHANGE_TZ_MAP[
+                                                                                             exchange]):
                 return this_cal_date.cal_date
             if not this_cal_date:
                 _logger.warning(
@@ -177,13 +182,16 @@ class TradeCalendarShovel(SingletonParent):
     def is_trade_day(self, date: str | datetime, country: str = 'us', exchange: str = 'XNYS') -> bool:
         if isinstance(date, str):
             date = datetime.strptime(date, '%Y%m%d')
-        return TradeCalendar.objects(cal_date=date.strftime('%Y%m%d'), is_open=True, country=country, exchange=exchange).first() is not None
+        return TradeCalendar.objects(cal_date=date.strftime('%Y%m%d'), is_open=True, country=country,
+                                     exchange=exchange).first() is not None
 
-    def get_last_closed_trade_date_before(self, day: str | datetime, country: str = 'us', exchange: str = 'XNYS') -> str:
+    def get_last_closed_trade_date_before(self, day: str | datetime, country: str = 'us',
+                                          exchange: str = 'XNYS') -> str:
         if isinstance(day, datetime):
             day = day.strftime('%Y%m%d')
         now = datetime.now(pytz.timezone('UTC'))
-        return TradeCalendar.objects(cal_date__lte=day, is_open=True, country=country, exchange=exchange, close__lte=now).order_by('-cal_date').first().cal_date
+        return TradeCalendar.objects(cal_date__lte=day, is_open=True, country=country, exchange=exchange,
+                                     close__lte=now).order_by('-cal_date').first().cal_date
 
     def is_mkt_open(self, dt: datetime | None = None, country: str = 'us', exchange: str = 'XNYS') -> bool:
         '''
@@ -197,4 +205,35 @@ class TradeCalendarShovel(SingletonParent):
         '''
         self.update_trade_calendar(country=country, exchange=exchange)
         dt = dt or datetime.now(pytz.timezone('UTC'))
-        return TradeCalendar.objects(open__lte=dt, close__gte=dt, is_open=True, country=country, exchange=exchange).count() > 0
+        return TradeCalendar.objects(open__lte=dt, close__gte=dt, is_open=True, country=country,
+                                     exchange=exchange).count() > 0
+
+    def get_trade_date_N_days_before(self, n: int,the_date:Union[str, datetime, None] = None, country: Literal['us', 'hk'] = 'us',
+                                  exchange: Literal['XNYS', 'XHKG'] = 'XNYS') -> Optional[str]:
+        """
+        Get the Nth trade date before the given date.
+        TODO: define Literalexchange/country/ the_date as enum
+        Args:
+            n: int, number of days before the given date
+            the_date: Union[str, datetime, None] = None, if str, it should be in format YYYYMMDD or YYYY-MM-DD
+            country: Literal['us', 'hk'] = 'us', country code
+            exchange: Literal['XNYS', 'XHKG'] = 'XNYS', exchange code
+        Returns:
+            Optional[str], the Nth trade date before the given date
+        """
+        if isinstance(the_date, datetime):
+            the_date = the_date.strftime('%Y%m%d')
+        last_closed_date = the_date or self.last_closed_trade_date(country=country, exchange=exchange)
+        trade_dates = list(TradeCalendar.objects(cal_date__lte=last_closed_date, is_open=True, country=country,
+                                                 exchange=exchange).order_by('-cal_date').limit(n))
+        if trade_dates and len(trade_dates) == n:
+            tc: TradeCalendar = trade_dates[-1]
+            return tc.cal_date
+        else:
+            return None
+
+    def get_us_trade_date_N_days_ago(self, n: int) -> Optional[str]:
+        return self.get_trade_date_N_days_ago(n, country='us', exchange='XNYS')
+
+    def get_hk_trade_date_N_days_ago(self, n: int) -> Optional[str]:
+        return self.get_trade_date_N_days_ago(n, country='hk', exchange='XHKG')

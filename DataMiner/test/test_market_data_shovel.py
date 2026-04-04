@@ -8,11 +8,14 @@ from mongoengine import disconnect_all
 from pandas import DataFrame
 from yfinance import Ticker as YTicker
 
+from mongoengine import connect
+
 
 class MarketDataShvelTestCase(unittest.TestCase):
 
     def setUp(self):
-        make_db_connection()
+        connect(db='mongogo')
+        # make_db_connection()
 
     def test_update_spx_tickers(self):
         md: MarketDataShovel = MarketDataShovel.get_instance()
@@ -151,6 +154,14 @@ class MarketDataShvelTestCase(unittest.TestCase):
             for t, d in ds.items():
                 print(t)
                 print(d)
+
+    def test_get_historical_bars(self):
+        md: MarketDataShovel = MarketDataShovel.get_instance()
+        bars: Dict[str, DataFrame] = md.get_historical_bars(
+            ['AAPL', 'NVDA'], interval='1d', start_date='2024-01-01', end_date='2024-01-31')
+        for t, d in bars.items():
+            print(t)
+            print(d)
 
     def tearDown(self):
         disconnect_all()

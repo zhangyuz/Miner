@@ -1,6 +1,6 @@
 from datetime import datetime
 from functools import reduce
-from typing import Dict, List, Literal
+from typing import Dict, List, Literal, Union
 
 import pandas as pd
 import pytz
@@ -474,6 +474,7 @@ class MarketDataShovel(SingletonParent):
                                                   interval=interval).order_by('trade_date'))
 
     def _convert_multi_level_to_single_level(self, df: DataFrame, interval: str) -> DataFrame:
+        _logger.warning('Converting multi-level to single-level for %s %s %s', df.columns, interval, df)
         ohlcv_columns = ['Open', 'High', 'Low', 'Close', 'Volume']
         df_ohlcv = df.loc[:, df.columns.get_level_values(
             'Price').isin(ohlcv_columns)]
@@ -493,6 +494,7 @@ class MarketDataShovel(SingletonParent):
             columns['Datetime'] = 'timestamp'
         else:
             columns['Date'] = 'timestamp'
+        _logger.warning('Renaming columns for %s %s', stacked.columns, columns)
         stacked = stacked.rename(columns=columns)
         # Reorder columns to match desired format and reset index to start from 0
         column_order = ['timestamp', 'ticker',
@@ -673,3 +675,47 @@ class MarketDataShovel(SingletonParent):
                         resampled_bars, f'{interval[:-1]}min')
                 resampled_bars['interval'] = interval
                 results[interval][ticker] = resampled_bars
+
+
+    def get_historical_bars(self, tickers: Union[str, List, None] = None, interval:Literal['1d']='1d',
+                            start_date:Union[str, datetime, None]=None,
+                            end_date:Union[str, datetime, None]=None) -> Dict[str, DataFrame]:
+        """
+        Get historical bars from local database.
+        At least one parameter must be provided.
+        Args:
+            tickers: str | List[str]
+            interval: Literal['1d'] = '1d', now only support '1d'
+            start_date: Union[str, datetime, None] = None, if str, it should be in format YYYYMMDD or YYYY-MM-DD
+            end_date: Union[str, datetime, None] = None, if str, it should be in format YYYYMMDD or YYYY-MM-DD
+
+        Returns:
+            Dict of ticker:DataFrame map,{"AAPL":DataFrame, "NVDA":DataFrame}
+        """
+        query = {}
+        if isinstance(tickers, str):
+            tickers = [tickers]
+        if tickers:
+            query['ticker__in'] = tickers
+        if interval:
+            query['interval'] = interval
+        if start_date:
+            if isinstance(start_date, str):
+                start_date = datetime_from_str(start_date)
+            query['trade_date__gte'] = start_date
+        if end_date:
+            if isinstance(end_date, str):
+                end_date = datetime_from_str(end_date)
+            query['trade_date__lte'] = end_date
+        if len(query.keys()) == 1:
+            _logger.warning('No query provided')
+            return {}
+        _logger.debug('Query: %s', query)
+        bars = mongo_2_df(TickerDailyInfo.objects(**query).order_by('trade_date'))
+        if bars.empty:
+            _logger.warning('No bars found for %s', query)
+            return {}
+        bars = bars[['trade_date', 'ticker', 'open', 'high', 'low', 'close', 'volume']]
+        bars.rename(columns={'trade_date': 'timestamp'}, inplace=True)
+        tickers = tickers or bars['ticker'].unique()
+        return {ticker: bars[bars.ticker == ticker].copy(deep=True) for ticker in tickers}

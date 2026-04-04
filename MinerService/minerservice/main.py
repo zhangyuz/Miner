@@ -32,15 +32,17 @@ async def lifespan(_: FastAPI):
     # Start background tasks
     monitoring_task = asyncio.create_task(monitor_running_status())
 
-    # Vegas Tunnel
+    # Vegas Tunnel (prod only)
+    vegas_tunnel_integration = None
     if is_prod():
         vegas_tunnel_integration = VegasTunnelIntegration()
         vegas_tunnel_integration.start()
 
     yield
 
-    if is_prod():
-        vegas_tunnel_integration.start()
+    # Shutdown: stop Vegas tunnel first so scheduler thread exits cleanly
+    if vegas_tunnel_integration is not None:
+        vegas_tunnel_integration.stop()
 
     if monitoring_task:
         monitoring_task.cancel()

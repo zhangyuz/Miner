@@ -22,9 +22,9 @@ until nc -z rabbitmq 5672; do
     sleep 5
 done
 echo "RabbitMQ is ready, starting worker..."
-celery --app=minerservice worker --loglevel INFO --detach --logfile ~/.miner-worker.log -Q minerservice --hostname=celery@miner-service
+celery --app=minerservice worker --loglevel INFO --detach --logfile ~/.miner-worker.log -Q minerservice --hostname=celery@miner-service --concurrency=2
 
-$MY_DIR/run_service_as_prod_uds.sh 2>&1 &
+$MY_DIR/run_service_as_prod_uds.sh &
 
 sleep 5
 

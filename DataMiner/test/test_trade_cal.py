@@ -12,6 +12,9 @@ class TradeCalTestCase(unittest.TestCase):
     def setUp(self):
         make_db_connection()
 
+    def tearDown(self):
+        disconnect_all()
+
     def test_is_today_us_trade_day(self):
         tcs = TradeCalendarShovel.get_instance()
         _logger.info(f'is_today_us_trade_day:{tcs.is_today_us_trade_day()}')
@@ -58,6 +61,14 @@ class TradeCalTestCase(unittest.TestCase):
     def test_is_mkt_open(self):
         tcs: TradeCalendarShovel = TradeCalendarShovel.get_instance()
         _logger.info(tcs.is_mkt_open())
+
+    def test_get_us_trade_date_N_days_ago(self):
+        tcs: TradeCalendarShovel = TradeCalendarShovel.get_instance()
+        _logger.debug(tcs.get_us_trade_date_N_days_ago(10))
+
+    def test_get_hk_trade_date_N_days_ago(self):
+        tcs: TradeCalendarShovel = TradeCalendarShovel.get_instance()
+        _logger.debug(tcs.get_hk_trade_date_N_days_ago(10))
 
     def tearDown(self):
         disconnect_all()

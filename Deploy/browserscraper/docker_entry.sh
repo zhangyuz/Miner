@@ -17,7 +17,7 @@ until nc -z rabbitmq 5672; do
     sleep 5
 done
 echo "RabbitMQ is ready, starting worker..."
-celery --app=browserscraper worker --loglevel INFO --detach --logfile ~/.miner-worker.log -Q browserscraper --hostname=celery@miner-browserscraper
+celery --app=browserscraper worker --loglevel INFO --detach --logfile ~/.miner-worker.log -Q browserscraper --hostname=celery@miner-browserscraper --concurrency=2
 # to avoid duplicate beat task registration,
 # beat task registration is done by minerservce,
 # so we don't need to start it here

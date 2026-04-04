@@ -17,7 +17,7 @@ until nc -z rabbitmq 5672; do
     sleep 5
 done
 echo "RabbitMQ is ready, starting worker..."
-celery --app=maintainer worker --loglevel INFO --detach --logfile ~/.miner-worker.log -Q maintainer
+celery --app=maintainer worker --loglevel INFO --detach --logfile ~/.miner-worker.log -Q maintainer --concurrency=2
 touch ~/.miner-beat.log
 celery --app=maintainer beat --loglevel INFO --detach --logfile ~/.miner-beat.log
 

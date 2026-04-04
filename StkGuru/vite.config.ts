@@ -34,6 +34,10 @@ export default defineConfig(({ mode }) => {
       apiBaseUrl: '', // will be set to window.location.origin in client
       proxyTarget: '', // no proxy needed for static files
     },
+    docker: {
+      apiBaseUrl: '',
+      proxyTarget: '',
+    },
   }
 
   const currentEnv = mode || 'development'

@@ -11,6 +11,7 @@ RELEASE_DIR=$MY_DIR/miner/release
 BROWSERSCRAPER_RELEASE_DIR=$MY_DIR/browserscraper/release
 MAINTAINER_RELEASE_DIR=$MY_DIR/maintainer/release
 TRADER_RELEASE_DIR=$MY_DIR/trader/release
+STKGURU_RELEASE_DIR=$MY_DIR/stkguru/release
 
 function cleanup() {
     # This function is called on exit to clean up temporary files.
@@ -19,6 +20,7 @@ function cleanup() {
     rm -rf "$BROWSERSCRAPER_RELEASE_DIR"
     rm -rf "$MAINTAINER_RELEASE_DIR"
     rm -rf "$TRADER_RELEASE_DIR"
+    rm -rf "$STKGURU_RELEASE_DIR"
     cd "$MY_PWD"
 }
 
@@ -128,6 +130,9 @@ mkdir -p $MAINTAINER_RELEASE_DIR
 rm -rf $TRADER_RELEASE_DIR
 mkdir -p $TRADER_RELEASE_DIR
 
+rm -rf $STKGURU_RELEASE_DIR
+mkdir -p $STKGURU_RELEASE_DIR
+
 cp -a $MY_DIR/../Detonator $RELEASE_DIR/
 cp -a $MY_DIR/../DataMiner $RELEASE_DIR/
 cp -a $MY_DIR/../MarketBreadth $RELEASE_DIR/
@@ -153,6 +158,11 @@ cp -a $MY_DIR/maintainer/docker_entry.sh $MAINTAINER_RELEASE_DIR/
 
 cp -a $MY_DIR/../MinerTrader $TRADER_RELEASE_DIR/
 cp -a $MY_DIR/trader/docker_entry.sh $TRADER_RELEASE_DIR/
+
+cp -a $MY_DIR/../StkGuru $STKGURU_RELEASE_DIR/
+rm -rf $STKGURU_RELEASE_DIR/StkGuru/public/api
+rm -rf $STKGURU_RELEASE_DIR/StkGuru/node_modules
+rm -rf $STKGURU_RELEASE_DIR/StkGuru/dist
 
 # Set base image folder
 BASE_DIR=$MY_DIR/base

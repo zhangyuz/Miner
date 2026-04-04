@@ -19,6 +19,7 @@
     "preview:test": "vite preview --mode test",
     "preview:staging": "vite preview --mode staging",
     "preview:production": "vite preview --mode production",
+    "build:docker": "tsc -b && vite build --mode docker",
     "preview:ghpages-dev": "vite preview --mode ghpages-dev",
     "lint": "eslint ."
   },

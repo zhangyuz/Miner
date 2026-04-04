@@ -28,12 +28,6 @@ $MY_DIR/run_service_as_prod_uds.sh &
 
 sleep 5
 
-tail -f ~/.miner-worker.log &
-tail -f ~/.miner-beat.log &
-tail -f /var/log/nginx/access.log &
-tail -f /var/log/nginx/error.log &
-
-
 catch_kill() {
   echo "Caught SIGKILL signal!"
   kill -KILL "$pid" 2>/dev/null

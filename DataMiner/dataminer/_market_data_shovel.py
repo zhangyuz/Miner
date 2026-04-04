@@ -614,29 +614,39 @@ class MarketDataShovel(SingletonParent):
         if isinstance(intervals, str):
             intervals = [intervals]
         tcs = TradeCalendarShovel.get_instance()
-        df: DataFrame = DataFrame()
+
+        # Fetch live bars once if market is open (already per-ticker internally)
+        live_df: DataFrame = DataFrame()
         if tcs.is_mkt_open():
-            df: DataFrame = self.fetch_bars(
+            live_df = self.fetch_bars(
                 tickers=tickers, period='1d', interval='5m')
         else:
             _logger.debug('Market not open now %s', tickers)
-        bars: DataFrame = mongo_2_df(Bar.objects(
-            ticker__in=tickers, interval='5m').order_by('timestamp'))
-        if not df.empty:
-            bars = pd.concat([bars, df])
-        bars = bars.sort_values('timestamp')
-        bars['timestamp'] = pd.to_datetime(bars['timestamp'], unit='s')
-        # bars = bars.set_index('timestamp')
-        results = {}
-        for interval in intervals:
-            results[interval] = {}
-            for ticker in tickers:
-                resampled_bars = bars[bars.ticker == ticker].copy(deep=True)
-                resampled_bars.set_index('timestamp', inplace=True)
-                resampled_bars = resample_ohlcv(
-                    resampled_bars, f'{interval[:-1]}min')
-                resampled_bars['interval'] = interval
-                results[interval][ticker] = resampled_bars
+
+        results: Dict[str, Dict[str, DataFrame]] = {
+            interval: {} for interval in intervals}
+
+        # Process one ticker at a time to avoid loading all tickers into memory
+        for ticker in tickers:
+            ticker_bars = mongo_2_df(Bar.objects(
+                ticker=ticker, interval='5m').order_by('timestamp'))
+            if not live_df.empty:
+                ticker_live = live_df[live_df.ticker == ticker] if 'ticker' in live_df.columns else live_df
+                if not ticker_live.empty:
+                    ticker_bars = pd.concat([ticker_bars, ticker_live])
+            if ticker_bars.empty:
+                continue
+            ticker_bars = ticker_bars.sort_values('timestamp')
+            ticker_bars['timestamp'] = pd.to_datetime(
+                ticker_bars['timestamp'], unit='s')
+            ticker_bars = ticker_bars.set_index('timestamp')
+
+            for interval in intervals:
+                resampled = resample_ohlcv(
+                    ticker_bars, f'{interval[:-1]}min')
+                resampled['interval'] = interval
+                results[interval][ticker] = resampled
+
         return results
 
     def get_bars(self, tickers: str | List[str], intervals: DailyInterval = '1d') -> Dict[str, Dict[str, DataFrame]]:
@@ -645,36 +655,49 @@ class MarketDataShovel(SingletonParent):
         if isinstance(intervals, str):
             intervals = [intervals]
 
-        df: DataFrame = DataFrame()
+        live_df: DataFrame = DataFrame()
         if self._tcs.is_mkt_open():
-            df = self.fetch_bars(tickers=tickers, interval='1d')
+            live_df = self.fetch_bars(tickers=tickers, interval='1d')
 
-        bars = mongo_2_df(TickerDailyInfo.objects(
-            ticker__in=tickers).order_by('trade_date'))
+        results: Dict[str, Dict[str, DataFrame]] = {
+            interval: {} for interval in intervals}
 
-        if df.empty and bars.empty:
-            _logger.debug('No bars found for %s', tickers)
-            return {}
-        if not df.empty:
-            bars = bars[['trade_date', 'ticker', 'open',
-                         'high', 'low', 'close', 'volume']]
-            bars['timestamp'] = pd.to_datetime(
-                bars['trade_date'], format='%Y%m%d')
-            bars.drop(columns=['trade_date'], inplace=True)
-        bars = pd.concat([bars, df])
-        bars = bars.sort_values('timestamp')
-        bars['timestamp'] = pd.to_datetime(bars['timestamp'], unit='s')
-        results = {}
-        for interval in intervals:
-            results[interval] = {}
-            for ticker in tickers:
-                resampled_bars = bars[bars.ticker == ticker].copy(deep=True)
-                resampled_bars.set_index('timestamp', inplace=True)
+        for ticker in tickers:
+            ticker_bars = mongo_2_df(TickerDailyInfo.objects(
+                ticker=ticker).order_by('trade_date'))
+
+            if live_df.empty and ticker_bars.empty:
+                continue
+
+            if not ticker_bars.empty:
+                ticker_bars = ticker_bars[['trade_date', 'ticker', 'open',
+                                           'high', 'low', 'close', 'volume']]
+                ticker_bars['timestamp'] = pd.to_datetime(
+                    ticker_bars['trade_date'], format='%Y%m%d')
+                ticker_bars = ticker_bars.drop(columns=['trade_date'])
+
+            if not live_df.empty:
+                ticker_live = live_df[live_df.ticker == ticker] if 'ticker' in live_df.columns else DataFrame()
+                if not ticker_live.empty:
+                    ticker_bars = pd.concat([ticker_bars, ticker_live])
+
+            if ticker_bars.empty:
+                continue
+
+            ticker_bars = ticker_bars.sort_values('timestamp')
+            ticker_bars['timestamp'] = pd.to_datetime(
+                ticker_bars['timestamp'], unit='s')
+            ticker_bars = ticker_bars.set_index('timestamp')
+
+            for interval in intervals:
+                resampled = ticker_bars
                 if interval != '1d':
-                    resampled_bars = resample_ohlcv(
-                        resampled_bars, f'{interval[:-1]}min')
-                resampled_bars['interval'] = interval
-                results[interval][ticker] = resampled_bars
+                    resampled = resample_ohlcv(
+                        ticker_bars, f'{interval[:-1]}min')
+                resampled['interval'] = interval
+                results[interval][ticker] = resampled
+
+        return results
 
 
     def get_historical_bars(self, tickers: Union[str, List, None] = None, interval:Literal['1d']='1d',
@@ -692,30 +715,52 @@ class MarketDataShovel(SingletonParent):
         Returns:
             Dict of ticker:DataFrame map,{"AAPL":DataFrame, "NVDA":DataFrame}
         """
-        query = {}
         if isinstance(tickers, str):
             tickers = [tickers]
-        if tickers:
-            query['ticker__in'] = tickers
+        if start_date and isinstance(start_date, str):
+            start_date = datetime_from_str(start_date)
+        if end_date and isinstance(end_date, str):
+            end_date = datetime_from_str(end_date)
+
+        # Build base query excluding ticker (we'll query per-ticker)
+        base_query = {}
         if interval:
-            query['interval'] = interval
+            base_query['interval'] = interval
         if start_date:
-            if isinstance(start_date, str):
-                start_date = datetime_from_str(start_date)
-            query['trade_date__gte'] = start_date
+            base_query['trade_date__gte'] = start_date
         if end_date:
-            if isinstance(end_date, str):
-                end_date = datetime_from_str(end_date)
-            query['trade_date__lte'] = end_date
-        if len(query.keys()) == 1:
+            base_query['trade_date__lte'] = end_date
+
+        if not tickers and not base_query:
             _logger.warning('No query provided')
             return {}
-        _logger.debug('Query: %s', query)
-        bars = mongo_2_df(TickerDailyInfo.objects(**query).order_by('trade_date'))
-        if bars.empty:
-            _logger.warning('No bars found for %s', query)
-            return {}
-        bars = bars[['trade_date', 'ticker', 'open', 'high', 'low', 'close', 'volume']]
-        bars.rename(columns={'trade_date': 'timestamp'}, inplace=True)
-        tickers = tickers or bars['ticker'].unique()
-        return {ticker: bars[bars.ticker == ticker].copy(deep=True) for ticker in tickers}
+
+        # If no tickers specified, fall back to a single query to discover them
+        if not tickers:
+            bars = mongo_2_df(TickerDailyInfo.objects(
+                **base_query).order_by('trade_date'))
+            if bars.empty:
+                _logger.warning('No bars found for %s', base_query)
+                return {}
+            bars = bars[['trade_date', 'ticker', 'open',
+                         'high', 'low', 'close', 'volume']]
+            bars = bars.rename(columns={'trade_date': 'timestamp'})
+            return {ticker: group.reset_index(drop=True)
+                    for ticker, group in bars.groupby('ticker')}
+
+        results = {}
+        for ticker in tickers:
+            query = {'ticker': ticker, **base_query}
+            ticker_bars = mongo_2_df(TickerDailyInfo.objects(
+                **query).order_by('trade_date'))
+            if ticker_bars.empty:
+                continue
+            ticker_bars = ticker_bars[['trade_date', 'ticker',
+                                       'open', 'high', 'low', 'close', 'volume']]
+            ticker_bars = ticker_bars.rename(
+                columns={'trade_date': 'timestamp'})
+            results[ticker] = ticker_bars
+
+        if not results:
+            _logger.warning('No bars found for tickers=%s', tickers)
+        return results

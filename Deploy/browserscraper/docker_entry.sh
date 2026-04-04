@@ -26,10 +26,6 @@ celery --app=browserscraper worker --loglevel INFO --detach --logfile ~/.miner-w
 
 sleep 5
 
-tail -f ~/.miner-worker.log &
-# tail -f ~/.miner-beat.log &
-
-
 catch_kill() {
   echo "Caught SIGKILL signal!"
   kill -KILL "$pid" 2>/dev/null

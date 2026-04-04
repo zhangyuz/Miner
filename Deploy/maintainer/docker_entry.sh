@@ -23,9 +23,6 @@ celery --app=maintainer beat --loglevel INFO --detach --logfile ~/.miner-beat.lo
 
 sleep 5
 
-tail -f ~/.miner-worker.log &
-tail -f ~/.miner-beat.log &
-
 catch_kill() {
   echo "Caught SIGKILL signal!"
   kill -KILL "$pid" 2>/dev/null

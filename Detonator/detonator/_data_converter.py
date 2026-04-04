@@ -50,7 +50,10 @@ def mongo_2_df(querySet: QuerySet) -> DataFrame:
     '''
     将数据库中查询到的数据转换为DataFrame,若无数据返回空的DataFrame
     '''
-    return DataFrame(list(querySet.as_pymongo()))
+    # no_cache() prevents MongoEngine from holding all documents in its
+    # internal queryset cache after iteration, which otherwise doubles
+    # peak memory usage for large result sets.
+    return DataFrame(list(querySet.no_cache().as_pymongo()))
 
 
 # TODO: refactory the resamping functions as one

@@ -9,6 +9,8 @@ from ._db import (ensure_db_connection, make_db_connection,
                   retry_mongo_operation)
 from ._env import is_in_daemon, is_in_docker, is_prod
 from ._exchanges import IDX_COUNTRY_EXCHANGE_MAP
+from ._gemini_cli import (GeminiCLIConfig, GeminiResult, check_gemini_cli_ready,
+                           run_gemini_on_file, run_gemini_prompt)
 from ._hash import md5_iterable, md5_str
 from ._log import get_logger
 from ._redis import get_redis_client
@@ -27,6 +29,8 @@ __all__ = [
     'ensure_db_connection', 'make_db_connection', 'retry_mongo_operation',
     'is_in_docker', 'is_in_daemon', 'is_prod',
     'IDX_COUNTRY_EXCHANGE_MAP',
+    'GeminiCLIConfig', 'GeminiResult',
+    'run_gemini_prompt', 'run_gemini_on_file', 'check_gemini_cli_ready',
     'md5_str', 'md5_iterable',
     'get_logger',
     'get_redis_client',

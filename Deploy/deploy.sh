@@ -65,6 +65,7 @@ echo "Mail sender: $MAIL_SENDER"
 echo "Mail sender pwd: $MAIL_SENDER_PWD"
 echo "Mail receivers: $MAIL_RECEIVERS"
 echo "Miner root: $MINER_ROOT"
+echo "Gemini API key: ${GEMINI_API_KEY:+SET}"
 echo ""
 # Validate required environment variables
 echo "🔍 Validating required environment variables..."

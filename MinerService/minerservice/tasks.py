@@ -1,10 +1,11 @@
-from typing import List
+from typing import List, Optional
 
 from browserscraper.tasks import update_hk_market_pe_task
 from celery import chain
 from dataminer import (Indicators, IsharesScraper, MarketDataShovel,
                        TradeCalendarShovel, WedgePop)
-from detonator import get_logger
+from detonator import (GeminiCLIConfig, GeminiResult, check_gemini_cli_ready,
+                        get_logger, run_gemini_on_file, run_gemini_prompt)
 from marketbreadth.tasks import update_spx_market_breadth_task
 from minerworkers import app
 
@@ -291,3 +292,93 @@ def run_hk_daily_updates_task() -> bool:
     )
     task_chain.apply_async()
     return True
+
+
+# --- Gemini CLI tasks ---
+
+@app.task(
+    bind=True,
+    autoretry_for=(TimeoutError,),
+    retry_kwargs={'max_retries': 2, 'countdown': 10},
+    retry_backoff=True,
+    time_limit=600,
+    soft_time_limit=540,
+)
+def gemini_prompt_task(
+    self,
+    prompt: str,
+    timeout_seconds: int = 300,
+    model: Optional[str] = None,
+    working_dir: Optional[str] = None,
+) -> dict:
+    """
+    Celery task to run a Gemini CLI prompt.
+
+    Returns a dict with keys: success, output, exit_code, error
+    """
+    _logger.info('[%s] Running gemini prompt (%d chars)', self.request.id, len(prompt))
+
+    config = GeminiCLIConfig(
+        timeout_seconds=timeout_seconds,
+        working_dir=working_dir,
+        model=model,
+    )
+
+    result: GeminiResult = run_gemini_prompt(prompt, config)
+
+    if not result.success:
+        _logger.error('[%s] Gemini prompt failed: %s', self.request.id, result.error)
+
+    return {
+        'success': result.success,
+        'output': result.output,
+        'exit_code': result.exit_code,
+        'error': result.error,
+    }
+
+
+@app.task(
+    bind=True,
+    autoretry_for=(TimeoutError,),
+    retry_kwargs={'max_retries': 2, 'countdown': 10},
+    retry_backoff=True,
+    time_limit=600,
+    soft_time_limit=540,
+)
+def gemini_file_task(
+    self,
+    filepath: str,
+    instruction: str,
+    timeout_seconds: int = 300,
+    model: Optional[str] = None,
+) -> dict:
+    """
+    Celery task to run Gemini CLI against a specific file.
+    Useful for code review, analysis, or generation tasks.
+    """
+    _logger.info('[%s] Running gemini on file: %s', self.request.id, filepath)
+
+    config = GeminiCLIConfig(
+        timeout_seconds=timeout_seconds,
+        model=model,
+    )
+
+    result: GeminiResult = run_gemini_on_file(filepath, instruction, config)
+
+    if not result.success:
+        _logger.error('[%s] Gemini file task failed: %s', self.request.id, result.error)
+
+    return {
+        'success': result.success,
+        'output': result.output,
+        'exit_code': result.exit_code,
+        'error': result.error,
+    }
+
+
+@app.task
+def gemini_health_check_task() -> dict:
+    """Check if Gemini CLI is properly configured and ready."""
+    status = check_gemini_cli_ready()
+    _logger.info('Gemini CLI health check: ready=%s', status['ready'])
+    return status

@@ -4,6 +4,32 @@ set -e
 
 MY_DIR=$(realpath $(dirname $0))
 
+# Source NVM so gemini CLI is on PATH for Celery workers
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+
+# Pre-configure Gemini CLI for headless/non-interactive mode
+mkdir -p "$HOME/.gemini"
+if [ -n "$GEMINI_API_KEY" ]; then
+    cat > "$HOME/.gemini/.env" <<EOF
+GEMINI_API_KEY=${GEMINI_API_KEY}
+EOF
+    echo "Gemini CLI configured with API key"
+else
+    echo "WARNING: GEMINI_API_KEY not set — Gemini CLI tasks will fail"
+fi
+cat > "$HOME/.gemini/settings.json" <<'SETTINGS'
+{
+  "general": {
+    "disableAutoUpdate": true,
+    "disableUpdateNag": true
+  },
+  "privacy": {
+    "usageStatisticsEnabled": false
+  }
+}
+SETTINGS
+
 # $MY_DIR/run_socks5_proxy.sh &
 
 echo 12qw | sudo -S nginx -g "daemon on; master_process off;"

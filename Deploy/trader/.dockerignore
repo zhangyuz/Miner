@@ -1,0 +1,32 @@
+# Python bytecode & caches
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.egg-info
+**/.pytest_cache
+**/.mypy_cache
+
+# Tests (not needed in production image)
+**/test
+**/tests
+
+# IDE & OS
+**/.idea
+**/.vscode
+**/.DS_Store
+
+# Git metadata
+**/.git
+**/.gitignore
+**/.gitattributes
+
+# Documentation & non-code files
+**/LICENSE
+**/README.md
+**/CHANGELOG.md
+**/*.ipynb
+
+# Build artifacts
+**/build
+**/dist
+**/.eggs

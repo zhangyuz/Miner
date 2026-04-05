@@ -1,0 +1,8 @@
+# Miniconda installer (downloaded at build time, not needed in context after Dockerfile changes)
+bin/Miniconda3.sh
+
+# Build artifacts
+.docker_base_hash
+
+# OS
+.DS_Store

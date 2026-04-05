@@ -1,69 +1,37 @@
-FROM --platform=linux/amd64 ubuntu:24.04
+FROM --platform=linux/amd64 python:3.12-slim-bookworm
 
 ENV AM_I_IN_DOCKER_CONTAINER=Yes
 ENV DEBIAN_FRONTEND=noninteractive
 
-# System dependencies
 RUN apt-get update && \
-    apt-get install -y wget curl ca-certificates gnupg locales sudo unzip git openssh-client jq libmagic-dev tzdata netcat-openbsd && \
+    apt-get install -y --no-install-recommends \
+    wget curl ca-certificates gnupg locales sudo git openssh-client \
+    jq libmagic1 tzdata netcat-openbsd procps && \
     rm -rf /var/lib/apt/lists/* && apt-get clean
 
-# Set up locale
-RUN locale-gen en_US.UTF-8
+RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && locale-gen
 ENV LANG=en_US.UTF-8
 ENV LANGUAGE=en_US:en
 ENV LC_ALL=en_US.UTF-8
 
-# Set timezone
 ENV TZ=America/Toronto
-RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone && dpkg-reconfigure -f noninteractive tzdata
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone && \
+    dpkg-reconfigure -f noninteractive tzdata
 
-# Add non-root user 'miner'
-RUN useradd miner -G sudo,www-data,plugdev -s /bin/bash -m && \
-    usermod -aG www-data miner && \
-    echo miner:12qw | chpasswd && \
-    locale-gen en_US.UTF-8
+RUN useradd miner -G sudo,www-data -s /bin/bash -m && \
+    echo miner:12qw | chpasswd
 
 USER miner
 ENV HOME=/home/miner
 WORKDIR $HOME
 
-# Install Rust (via rustup)
-RUN curl https://sh.rustup.rs -sSf | bash -s -- -y --profile minimal
-ENV PATH="${HOME}/.cargo/bin:${PATH}"
-RUN echo 'export PATH="${HOME}/.cargo/bin:$PATH"' >> ~/.bashrc
+RUN python3 -m venv $HOME/venv
+ENV VIRTUAL_ENV=$HOME/venv
+ENV PATH="$VIRTUAL_ENV/bin:$HOME/bin:$PATH"
 
-# Install Miniconda
-COPY --chown=miner:miner .condarc $HOME/
-COPY --chown=miner:miner ./bin/Miniconda3.sh $HOME/bin/
-COPY --chown=miner:miner ./requirements.txt $HOME/
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir uv
 
-ENV PATH=$HOME/bin:$PATH
-ENV CONDA_INS_DIR=$HOME/bin/conda
-RUN echo "export PATH=$CONDA_INS_DIR/bin:\$PATH" >>~/.bashrc
-ENV PATH=$CONDA_INS_DIR/bin:$PATH
-RUN . $HOME/.bashrc
-
-RUN bash $HOME/bin/Miniconda3.sh -b -p $CONDA_INS_DIR && \
-        conda init bash && \
-        . $HOME/.bashrc && \
-        . $CONDA_INS_DIR/etc/profile.d/conda.sh && \
-        conda activate base
-RUN rm -v $HOME/bin/Miniconda3.sh
-
-# (Optional) Install pip and uv globally
-RUN pip install --upgrade pip && pip install uv && uv pip install --system -r $HOME/requirements.txt && rm -rf $HOME/.cache/uv/ && rm -rf $HOME/.cache/pip/
-
-# Install Node.js (via nvm) and Gemini CLI
-ENV NVM_DIR=$HOME/.nvm
-RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash && \
-    . "$NVM_DIR/nvm.sh" && \
-    nvm install --lts && \
-    nvm alias default lts/* && \
-    npm install -g @anthropic-ai/claude-code 2>/dev/null || true && \
-    npm install -g @google/gemini-cli && \
-    npm cache clean --force && \
-    ln -s "$NVM_DIR/versions/node/$(nvm version default)" "$NVM_DIR/versions/node/default"
-ENV PATH="$NVM_DIR/versions/node/default/bin:${PATH}"
-RUN echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.bashrc && \
-    echo '[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"' >> ~/.bashrc
+RUN mkdir -p $HOME/bin && \
+    echo 'export PATH="$HOME/venv/bin:$HOME/bin:$PATH"' >> $HOME/.profile && \
+    echo 'export VIRTUAL_ENV="$HOME/venv"' >> $HOME/.profile

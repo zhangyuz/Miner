@@ -106,19 +106,6 @@ mkdir -p $MINER_ROOT/mongogo
 
 mkdir -p "$MY_DIR/base/bin/"
 
-# Detect platform and download appropriate Miniconda version
-ARCH=$(uname -m)
-if [ "$ARCH" = "arm64" ] || [ "$ARCH" = "aarch64" ]; then
-    MINICONDA_URL="https://repo.anaconda.com/miniconda/Miniconda3-py312_24.11.1-0-Linux-aarch64.sh"
-else
-    MINICONDA_URL="https://repo.anaconda.com/miniconda/Miniconda3-py312_24.11.1-0-Linux-x86_64.sh"
-fi
-
-# For use x86_86 
-MINICONDA_URL="https://repo.anaconda.com/miniconda/Miniconda3-py312_24.11.1-0-Linux-x86_64.sh"
-
-wget -nv -c "$MINICONDA_URL" -O $MY_DIR/base/bin/Miniconda3.sh
-
 rm -rf $RELEASE_DIR
 mkdir -p $RELEASE_DIR
 
@@ -172,8 +159,7 @@ BASE_IMAGE_TAG=miner-base:latest
 BASE_HASH_FILE=$BASE_DIR/.docker_base_hash
 
 if [ -f "$BASE_DOCKERFILE" ]; then
-    # Compute hash of Dockerfile.base and any files it depends on (e.g., .condarc, Miniconda3.sh)
-    BASE_HASH=$(cat "$BASE_DOCKERFILE" "$MY_DIR/base/bin/Miniconda3.sh" "$MY_DIR/base/requirements.txt" 2>/dev/null | sha256sum | awk '{print $1}')
+    BASE_HASH=$(sha256sum "$BASE_DOCKERFILE" 2>/dev/null | awk '{print $1}')
     PREV_HASH=""
     if [ -f "$BASE_HASH_FILE" ]; then
         PREV_HASH=$(cat "$BASE_HASH_FILE")

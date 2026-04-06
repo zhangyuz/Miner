@@ -1,0 +1,38 @@
+[project]
+name = "miner-workspace"
+version = "0.0.1"
+description = "Miner monorepo — workspace root (not distributed as a package)"
+requires-python = ">=3.12"
+readme = "README.md"
+dependencies = [
+    "detonator",
+    "dataminer",
+    "marketbreadth",
+    "minerworkers",
+    "browserscraper",
+    "minerservice",
+    "maintainer",
+    "minertrader",
+]
+
+[tool.uv.sources]
+detonator = { workspace = true }
+dataminer = { workspace = true }
+marketbreadth = { workspace = true }
+minerworkers = { workspace = true }
+browserscraper = { workspace = true }
+minerservice = { workspace = true }
+maintainer = { workspace = true }
+minertrader = { workspace = true }
+
+[tool.uv.workspace]
+members = [
+    "Detonator",
+    "DataMiner",
+    "MarketBreadth",
+    "MinerWorkers",
+    "BrowserScraper",
+    "MinerService",
+    "Maintainer",
+    "MinerTrader",
+]

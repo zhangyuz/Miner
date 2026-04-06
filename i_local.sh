@@ -3,10 +3,26 @@
 set -x
 set -e
 
-mydir=$(realpath $(dirname $0))
+if ! command -v uv >/dev/null 2>&1; then
+    echo "uv is required (https://docs.astral.sh/uv/getting-started/installation/)"
+    exit 1
+fi
 
-if [ -f "/.dockerenv" ];then
+# POSIX path to repo root (works on macOS and Linux; avoids relying on realpath)
+mydir=$(cd "$(dirname "$0")" && pwd)
+cd "$mydir" || exit 1
+
+if [ -f "/.dockerenv" ]; then
     echo "Running in docker"
+    . "$HOME/venv/bin/activate"
+    # Same six packages as before (minerservice stack — not MinerTrader/Maintainer)
+    uv pip install --reinstall \
+        "$mydir/Detonator" \
+        "$mydir/DataMiner" \
+        "$mydir/MarketBreadth" \
+        "$mydir/MinerWorkers" \
+        "$mydir/BrowserScraper" \
+        "$mydir/MinerService"
 else
     if [ -f "$HOME/venv/bin/activate" ]; then
         . "$HOME/venv/bin/activate"
@@ -19,15 +35,13 @@ else
     fi
     mkdir -pv $HOME/.miner
     cp $mydir/Deploy/miner/miner.json $HOME/.miner/
+
+    if [ -n "$VIRTUAL_ENV" ]; then
+        uv sync --active
+    else
+        uv sync
+    fi
 fi
-
-
-pip install -q -U $mydir/Detonator
-pip install -q -U $mydir/DataMiner
-pip install -q -U $mydir/MarketBreadth
-pip install -q -U $mydir/MinerWorkers
-pip install -q -U $mydir/BrowserScraper
-pip install -q -U $mydir/MinerService
 
 set +x
 set +e

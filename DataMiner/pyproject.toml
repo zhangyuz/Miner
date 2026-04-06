@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dataminer"
+dynamic = ["version"]
+description = "US Stock Data Miner"
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = [
+    "chardet",
+    "exchange-calendars",
+    "pycryptodome",
+    "pycryptodomex",
+    "mongoengine",
+    "pandas",
+    "pandas-datareader",
+    "pymongo",
+    "pysocks",
+    "requests",
+    "requests-html",
+    "scipy",
+    "yahoo-fin",
+    "yfinance",
+]
+
+[tool.setuptools.dynamic]
+version = { attr = "dataminer._version.version" }
+
+[tool.setuptools.packages.find]
+include = ["dataminer*"]

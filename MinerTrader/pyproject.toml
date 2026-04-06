@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minertrader"
+dynamic = ["version"]
+description = "MinerTrader for Miner"
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = [
+    "nautilus-trader[ib,docker]",
+    "redis",
+]
+
+[tool.setuptools.dynamic]
+version = { attr = "minertrader._version.__version__" }
+
+[tool.setuptools.packages.find]
+include = ["minertrader*"]

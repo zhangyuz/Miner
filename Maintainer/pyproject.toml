@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "maintainer"
+dynamic = ["version"]
+description = "Maintainer for Miner"
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = [
+    "gitpython",
+]
+
+[tool.setuptools.dynamic]
+version = { attr = "maintainer._version.__version__" }
+
+[tool.setuptools.packages.find]
+include = ["maintainer*"]

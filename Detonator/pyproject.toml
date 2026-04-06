@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "detonator"
+dynamic = ["version"]
+description = "General Utils"
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = [
+    "jsmin",
+    "mongoengine",
+    "pymongo",
+    "rich",
+]
+
+[tool.setuptools.dynamic]
+version = { attr = "detonator._version.version" }
+
+[tool.setuptools.packages.find]
+include = ["detonator*"]

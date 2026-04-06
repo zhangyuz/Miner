@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minerservice"
+dynamic = ["version"]
+description = "Russell 1000 Miner Service"
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "mplfinance",
+    "uvicorn",
+    "fastapi-cors",
+    "websockets",
+    "yfinance",
+    "pandas",
+    "pytz",
+    "redis",
+]
+
+[tool.setuptools.dynamic]
+version = { attr = "minerservice._version.version" }
+
+[tool.setuptools.packages.find]
+include = ["minerservice*"]

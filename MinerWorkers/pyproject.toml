@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minerworkers"
+dynamic = ["version"]
+description = "MinerWorkers"
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = [
+    "celery[redis]",
+    "flower",
+    "gevent",
+]
+
+[tool.setuptools.dynamic]
+version = { attr = "minerworkers._version.version" }
+
+[tool.setuptools.packages.find]
+include = ["minerworkers*"]

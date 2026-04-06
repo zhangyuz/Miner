@@ -125,7 +125,7 @@ Then visit `http://localhost:5173`
 
 ## Dependencies
 
-Each module has its own `requirements.txt`. Main dependencies include:
+Python dependencies are managed with [uv](https://docs.astral.sh/uv/) at the repo root (`pyproject.toml`, `uv.lock`). Each package is a workspace member with its own `[project]` metadata. Main dependencies include:
 - FastAPI, Uvicorn, Gradio, fastapi-cors (MinerService)
 - Celery, Flower, Gevent (MinerWorkers)
 - MongoEngine, Pymongo, jsmin, rich (Detonator, MarketBreadth, DataMiner)
@@ -134,7 +134,7 @@ Each module has its own `requirements.txt`. Main dependencies include:
 - nautilus_trader, ibapi (MinerTrader)
 - React, TypeScript, Highcharts (StkGuru)
 
-Dependencies are installed automatically during deployment using `uv` for speed.
+**Local development (macOS or Linux):** install [uv](https://docs.astral.sh/uv/getting-started/installation/) on your PATH, then from the repo root run `./i_local.sh`. It runs `uv sync` into an active venv (`$HOME/venv` or conda env `miner` if you use those) or creates a repo-local `.venv` when no virtualenv is active. Commit `uv.lock` after dependency changes so both machines resolve the same versions. **Inside the `minerservice` container,** `./i_local.sh` reinstalls only the six MinerService-stack packages (`uv pip install`, same as before). **Docker builds** install subsets with `uv pip install` during image build. **Deploy** (any host with Docker): `MINER_ENV=./Deploy/.env ./Deploy/deploy.sh` from the repository root.
 
 ## TODO
 

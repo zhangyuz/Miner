@@ -7488,5 +7488,15 @@
     "close": 59.9700012207,
     "volume": 1031303.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "BALL",
+    "open": 59.5800018311,
+    "high": 59.9399986267,
+    "low": 59.1899986267,
+    "close": 59.75,
+    "volume": 723268.0,
+    "wedge_status": "none"
   }
 ]

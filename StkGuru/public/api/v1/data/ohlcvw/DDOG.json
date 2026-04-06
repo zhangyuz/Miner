@@ -7488,5 +7488,15 @@
     "close": 120.3600006104,
     "volume": 3245924.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "DDOG",
+    "open": 117.25,
+    "high": 119.0999984741,
+    "low": 114.5699996948,
+    "close": 116.5,
+    "volume": 3334638.0,
+    "wedge_status": "none"
   }
 ]

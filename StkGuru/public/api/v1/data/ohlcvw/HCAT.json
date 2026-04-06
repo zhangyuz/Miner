@@ -7488,5 +7488,15 @@
     "close": 1.1699999571,
     "volume": 409650.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "HCAT",
+    "open": 1.1499999762,
+    "high": 1.2000000477,
+    "low": 1.1499999762,
+    "close": 1.1549999714,
+    "volume": 234395.0,
+    "wedge_status": "none"
   }
 ]

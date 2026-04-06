@@ -7488,5 +7488,15 @@
     "close": 46.5600013733,
     "volume": 73775.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "JOUT",
+    "open": 46.7799987793,
+    "high": 48.0,
+    "low": 46.1990013123,
+    "close": 47.7099990845,
+    "volume": 110258.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 3.9700000286,
     "volume": 2321011.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "MQ",
+    "open": 3.9400000572,
+    "high": 4.0500001907,
+    "low": 3.9300000668,
+    "close": 4.0,
+    "volume": 1886945.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 3.3399999142,
     "volume": 36699.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "ATLN",
+    "open": 3.2699999809,
+    "high": 3.2100000381,
+    "low": 2.9749999046,
+    "close": 3.0099999905,
+    "volume": 25181.0,
+    "wedge_status": "none"
   }
 ]

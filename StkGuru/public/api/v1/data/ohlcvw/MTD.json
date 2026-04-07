@@ -7498,5 +7498,15 @@
     "close": 1266.6300048828,
     "volume": 68370.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "MTD",
+    "open": 1263.0400390625,
+    "high": 1274.1800537109,
+    "low": 1253.0,
+    "close": 1270.0,
+    "volume": 119014.0,
+    "wedge_status": "none"
   }
 ]

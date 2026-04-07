@@ -7498,5 +7498,15 @@
     "close": 4.6700000763,
     "volume": 601704.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "MYGN",
+    "open": 4.6599998474,
+    "high": 4.75,
+    "low": 4.5700001717,
+    "close": 4.7399997711,
+    "volume": 1102697.0,
+    "wedge_status": "pop"
   }
 ]

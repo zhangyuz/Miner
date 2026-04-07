@@ -7498,5 +7498,15 @@
     "close": 352.6199951172,
     "volume": 2421988.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "AMAT",
+    "open": 348.1449890137,
+    "high": 356.0,
+    "low": 345.5,
+    "close": 354.3099975586,
+    "volume": 3670017.0,
+    "wedge_status": "none"
   }
 ]

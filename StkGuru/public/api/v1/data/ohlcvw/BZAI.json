@@ -7498,5 +7498,15 @@
     "close": 1.8700000048,
     "volume": 4594065.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "BZAI",
+    "open": 1.8400000334,
+    "high": 1.9299999475,
+    "low": 1.75,
+    "close": 1.9299999475,
+    "volume": 4523118.0,
+    "wedge_status": "none"
   }
 ]

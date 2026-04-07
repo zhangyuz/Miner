@@ -7498,5 +7498,15 @@
     "close": 9.3800001144,
     "volume": 3039282.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "DJT",
+    "open": 9.25,
+    "high": 9.3050003052,
+    "low": 9.0902996063,
+    "close": 9.1999998093,
+    "volume": 2172231.0,
+    "wedge_status": "none"
   }
 ]

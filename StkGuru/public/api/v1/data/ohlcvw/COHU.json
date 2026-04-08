@@ -7508,5 +7508,15 @@
     "close": 33.0,
     "volume": 459041.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "COHU",
+    "open": 35.0,
+    "high": 35.7099990845,
+    "low": 33.6650009155,
+    "close": 34.4000015259,
+    "volume": 1410833.0,
+    "wedge_status": "none"
   }
 ]

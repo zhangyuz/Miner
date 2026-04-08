@@ -7508,5 +7508,15 @@
     "close": 74.0299987793,
     "volume": 151052.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "CMPR",
+    "open": 76.1200027466,
+    "high": 78.9000015259,
+    "low": 76.1200027466,
+    "close": 78.0,
+    "volume": 203893.0,
+    "wedge_status": "none"
   }
 ]

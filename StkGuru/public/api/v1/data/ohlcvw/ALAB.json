@@ -4688,5 +4688,15 @@
     "close": 118.9899978638,
     "volume": 4273192.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "ALAB",
+    "open": 128.0,
+    "high": 130.0,
+    "low": 121.9700012207,
+    "close": 125.4599990845,
+    "volume": 3918418.0,
+    "wedge_status": "none"
   }
 ]

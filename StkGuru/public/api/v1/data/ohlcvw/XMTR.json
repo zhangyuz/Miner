@@ -7508,5 +7508,15 @@
     "close": 42.25,
     "volume": 756261.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "XMTR",
+    "open": 45.7299995422,
+    "high": 46.9099998474,
+    "low": 43.2700004578,
+    "close": 44.3699989319,
+    "volume": 768293.0,
+    "wedge_status": "none"
   }
 ]

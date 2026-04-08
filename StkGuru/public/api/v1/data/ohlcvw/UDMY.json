@@ -7508,5 +7508,15 @@
     "close": 4.8200001717,
     "volume": 465035.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "UDMY",
+    "open": 5.0100002289,
+    "high": 5.0599999428,
+    "low": 4.4600000381,
+    "close": 4.4600000381,
+    "volume": 1637692.0,
+    "wedge_status": "none"
   }
 ]

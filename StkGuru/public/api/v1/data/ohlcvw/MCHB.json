@@ -7508,5 +7508,15 @@
     "close": 14.8599996567,
     "volume": 343661.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "MCHB",
+    "open": 15.25,
+    "high": 15.3900003433,
+    "low": 15.1000003815,
+    "close": 15.2100000381,
+    "volume": 707709.0,
+    "wedge_status": "none"
   }
 ]

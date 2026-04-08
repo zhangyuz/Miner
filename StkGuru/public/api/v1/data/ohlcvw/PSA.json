@@ -7508,5 +7508,15 @@
     "close": 279.2399902344,
     "volume": 604028.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "PSA",
+    "open": 283.6000061035,
+    "high": 290.2099914551,
+    "low": 283.25,
+    "close": 290.0,
+    "volume": 892564.0,
+    "wedge_status": "none"
   }
 ]

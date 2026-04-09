@@ -7508,5 +7508,15 @@
     "close": 61.0,
     "volume": 5212636.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "CTSH",
+    "open": 60.0,
+    "high": 60.1599998474,
+    "low": 58.0800018311,
+    "close": 59.2000007629,
+    "volume": 5740986.0,
+    "wedge_status": "none"
   }
 ]

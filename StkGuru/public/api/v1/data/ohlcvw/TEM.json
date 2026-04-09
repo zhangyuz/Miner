@@ -4098,5 +4098,15 @@
     "close": 47.5,
     "volume": 4365180.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "TEM",
+    "open": 47.0099983215,
+    "high": 47.1999015808,
+    "low": 44.0,
+    "close": 44.1599998474,
+    "volume": 5624777.0,
+    "wedge_status": "none"
   }
 ]

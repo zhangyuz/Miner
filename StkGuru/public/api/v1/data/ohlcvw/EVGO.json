@@ -7508,5 +7508,15 @@
     "close": 1.9099999666,
     "volume": 5568691.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "EVGO",
+    "open": 1.8799999952,
+    "high": 2.0150001049,
+    "low": 1.8799999952,
+    "close": 2.0,
+    "volume": 4042537.0,
+    "wedge_status": "none"
   }
 ]

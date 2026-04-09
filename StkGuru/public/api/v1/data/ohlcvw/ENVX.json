@@ -7508,5 +7508,15 @@
     "close": 5.7300000191,
     "volume": 5103082.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "ENVX",
+    "open": 5.6799998283,
+    "high": 5.8350000381,
+    "low": 5.5,
+    "close": 5.5799999237,
+    "volume": 4482334.0,
+    "wedge_status": "none"
   }
 ]

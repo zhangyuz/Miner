@@ -7508,5 +7508,15 @@
     "close": 34.5,
     "volume": 895846.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "CLMT",
+    "open": 34.6800003052,
+    "high": 35.0699996948,
+    "low": 33.0442008972,
+    "close": 33.4500007629,
+    "volume": 850382.0,
+    "wedge_status": "none"
   }
 ]

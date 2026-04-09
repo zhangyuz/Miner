@@ -7508,5 +7508,15 @@
     "close": 244.0,
     "volume": 1469544.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "TRGP",
+    "open": 244.7299957275,
+    "high": 250.7200012207,
+    "low": 243.0119018555,
+    "close": 244.75,
+    "volume": 1014576.0,
+    "wedge_status": "none"
   }
 ]

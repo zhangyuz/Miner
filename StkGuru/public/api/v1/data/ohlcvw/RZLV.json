@@ -7508,5 +7508,15 @@
     "close": 2.8199999332,
     "volume": 19572747.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "RZLV",
+    "open": 2.75,
+    "high": 2.7699999809,
+    "low": 2.5399999619,
+    "close": 2.5399999619,
+    "volume": 17436919.0,
+    "wedge_status": "drop"
   }
 ]

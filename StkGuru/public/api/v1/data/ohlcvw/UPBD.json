@@ -7508,5 +7508,15 @@
     "close": 18.1200008392,
     "volume": 788673.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "UPBD",
+    "open": 18.1200008392,
+    "high": 18.7199993134,
+    "low": 17.9200000763,
+    "close": 18.5,
+    "volume": 627828.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 182.1600036621,
     "volume": 1253590.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "NUE",
+    "open": 181.75,
+    "high": 184.5200042725,
+    "low": 181.2649993896,
+    "close": 184.0,
+    "volume": 1099176.0,
+    "wedge_status": "none"
   }
 ]

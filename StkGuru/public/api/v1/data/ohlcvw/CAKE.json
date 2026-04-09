@@ -7508,5 +7508,15 @@
     "close": 57.5499992371,
     "volume": 871777.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "CAKE",
+    "open": 57.75,
+    "high": 59.1800003052,
+    "low": 57.4199981689,
+    "close": 58.7700004578,
+    "volume": 745855.0,
+    "wedge_status": "none"
   }
 ]

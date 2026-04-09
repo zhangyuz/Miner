@@ -7508,5 +7508,15 @@
     "close": 91.6200027466,
     "volume": 1067932.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "SNEX",
+    "open": 91.6200027466,
+    "high": 94.6159973145,
+    "low": 91.0,
+    "close": 93.2799987793,
+    "volume": 635696.0,
+    "wedge_status": "none"
   }
 ]

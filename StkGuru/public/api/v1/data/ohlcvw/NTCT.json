@@ -7508,5 +7508,15 @@
     "close": 32.75,
     "volume": 671422.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "NTCT",
+    "open": 32.75,
+    "high": 32.9449996948,
+    "low": 31.9400005341,
+    "close": 32.1599998474,
+    "volume": 678162.0,
+    "wedge_status": "none"
   }
 ]

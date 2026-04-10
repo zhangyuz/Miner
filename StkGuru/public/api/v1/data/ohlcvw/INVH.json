@@ -7508,5 +7508,15 @@
     "close": 26.0,
     "volume": 3570701.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "INVH",
+    "open": 25.8600006104,
+    "high": 26.2600002289,
+    "low": 25.8600006104,
+    "close": 26.0200004578,
+    "volume": 3391642.0,
+    "wedge_status": "none"
   }
 ]

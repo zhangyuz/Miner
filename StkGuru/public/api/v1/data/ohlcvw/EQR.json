@@ -7508,5 +7508,15 @@
     "close": 60.4599990845,
     "volume": 1057743.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "EQR",
+    "open": 60.5,
+    "high": 61.2750015259,
+    "low": 60.3699989319,
+    "close": 61.1399993896,
+    "volume": 1301886.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 60.0,
     "volume": 8516.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "CHMG",
+    "open": 59.6450004578,
+    "high": 59.6450004578,
+    "low": 57.7999992371,
+    "close": 58.6599998474,
+    "volume": 4571.0,
+    "wedge_status": "none"
   }
 ]

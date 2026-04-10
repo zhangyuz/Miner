@@ -7508,5 +7508,15 @@
     "close": 4.9800000191,
     "volume": 7628613.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "BULL",
+    "open": 5.0,
+    "high": 5.0500001907,
+    "low": 4.9149999619,
+    "close": 4.9299998283,
+    "volume": 5991682.0,
+    "wedge_status": "none"
   }
 ]

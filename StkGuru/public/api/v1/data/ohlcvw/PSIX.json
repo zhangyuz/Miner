@@ -7508,5 +7508,15 @@
     "close": 75.25,
     "volume": 670514.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "PSIX",
+    "open": 75.25,
+    "high": 79.4800033569,
+    "low": 75.0400009155,
+    "close": 77.6399993896,
+    "volume": 545041.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 4.8400001526,
     "volume": 256250.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "OPRT",
+    "open": 4.8299999237,
+    "high": 4.9450001717,
+    "low": 4.7849998474,
+    "close": 4.9099998474,
+    "volume": 460157.0,
+    "wedge_status": "none"
   }
 ]

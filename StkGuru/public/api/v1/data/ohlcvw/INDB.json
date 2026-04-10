@@ -7508,5 +7508,15 @@
     "close": 81.25,
     "volume": 336223.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "INDB",
+    "open": 81.1200027466,
+    "high": 81.1200027466,
+    "low": 79.5199966431,
+    "close": 79.6200027466,
+    "volume": 213513.0,
+    "wedge_status": "none"
   }
 ]

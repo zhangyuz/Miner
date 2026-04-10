@@ -7508,5 +7508,15 @@
     "close": 625.5,
     "volume": 234478.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "MLM",
+    "open": 625.5,
+    "high": 632.4199829102,
+    "low": 624.1599731445,
+    "close": 631.5300292969,
+    "volume": 249462.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 29.9400005341,
     "volume": 1033005.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "PPTA",
+    "open": 29.3099994659,
+    "high": 31.0,
+    "low": 29.3099994659,
+    "close": 30.7099990845,
+    "volume": 823500.0,
+    "wedge_status": "none"
   }
 ]

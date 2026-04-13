@@ -7488,5 +7488,15 @@
     "close": 113.1399993896,
     "volume": 67291.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "ESQ",
+    "open": 112.25,
+    "high": 113.5199966431,
+    "low": 111.75,
+    "close": 113.2200012207,
+    "volume": 53335.0,
+    "wedge_status": "none"
   }
 ]

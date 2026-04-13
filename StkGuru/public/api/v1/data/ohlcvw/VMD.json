@@ -7488,5 +7488,15 @@
     "close": 9.5100002289,
     "volume": 200980.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "VMD",
+    "open": 9.470000267,
+    "high": 9.7600002289,
+    "low": 9.470000267,
+    "close": 9.6899995804,
+    "volume": 246875.0,
+    "wedge_status": "none"
   }
 ]

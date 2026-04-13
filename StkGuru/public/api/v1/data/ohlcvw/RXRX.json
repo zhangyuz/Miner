@@ -7488,5 +7488,15 @@
     "close": 3.2799999714,
     "volume": 8566466.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "RXRX",
+    "open": 3.25,
+    "high": 3.4300000668,
+    "low": 3.2300000191,
+    "close": 3.4200000763,
+    "volume": 8671199.0,
+    "wedge_status": "none"
   }
 ]

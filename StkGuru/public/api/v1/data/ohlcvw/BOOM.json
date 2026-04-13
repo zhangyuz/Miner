@@ -7488,5 +7488,15 @@
     "close": 5.0900001526,
     "volume": 140665.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "BOOM",
+    "open": 5.0999999046,
+    "high": 5.2399997711,
+    "low": 5.0999999046,
+    "close": 5.1999998093,
+    "volume": 298677.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 87.2099990845,
     "volume": 6856171.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "MDT",
+    "open": 87.0,
+    "high": 88.1600036621,
+    "low": 86.4100036621,
+    "close": 88.0,
+    "volume": 6788738.0,
+    "wedge_status": "pop"
   }
 ]

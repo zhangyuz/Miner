@@ -7488,5 +7488,15 @@
     "close": 57.75,
     "volume": 61797.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "PFIS",
+    "open": 57.7299995422,
+    "high": 57.9650001526,
+    "low": 57.2200012207,
+    "close": 57.7000007629,
+    "volume": 24084.0,
+    "wedge_status": "none"
   }
 ]

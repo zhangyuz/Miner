@@ -7488,5 +7488,15 @@
     "close": 20.5,
     "volume": 2988050.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "ALHC",
+    "open": 20.2900009155,
+    "high": 21.0100002289,
+    "low": 20.260099411,
+    "close": 20.9799995422,
+    "volume": 1666649.0,
+    "wedge_status": "none"
   }
 ]

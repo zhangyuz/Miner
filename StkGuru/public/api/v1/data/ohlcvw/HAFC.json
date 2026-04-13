@@ -7488,5 +7488,15 @@
     "close": 28.0,
     "volume": 121957.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "HAFC",
+    "open": 27.8600006104,
+    "high": 27.9500007629,
+    "low": 27.6299991608,
+    "close": 27.9500007629,
+    "volume": 166650.0,
+    "wedge_status": "none"
   }
 ]

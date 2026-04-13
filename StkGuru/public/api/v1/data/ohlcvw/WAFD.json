@@ -7488,5 +7488,15 @@
     "close": 32.5400009155,
     "volume": 378052.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "WAFD",
+    "open": 32.5,
+    "high": 32.7750015259,
+    "low": 32.1800003052,
+    "close": 32.7299995422,
+    "volume": 342084.0,
+    "wedge_status": "none"
   }
 ]

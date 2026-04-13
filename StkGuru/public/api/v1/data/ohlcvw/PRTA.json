@@ -7488,5 +7488,15 @@
     "close": 10.5,
     "volume": 308225.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "PRTA",
+    "open": 10.4899997711,
+    "high": 10.5500001907,
+    "low": 10.1800003052,
+    "close": 10.3100004196,
+    "volume": 330547.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 444.1000061035,
     "volume": 100925.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "WINA",
+    "open": 444.2900085449,
+    "high": 444.6350097656,
+    "low": 411.0,
+    "close": 423.5100097656,
+    "volume": 139279.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 114.5,
     "volume": 70733.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "BANF",
+    "open": 114.1399993896,
+    "high": 115.0500030518,
+    "low": 112.070098877,
+    "close": 114.3300018311,
+    "volume": 104475.0,
+    "wedge_status": "none"
   }
 ]

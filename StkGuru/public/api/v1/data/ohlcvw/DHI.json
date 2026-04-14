@@ -7498,5 +7498,15 @@
     "close": 144.3300018311,
     "volume": 1310159.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "DHI",
+    "open": 145.0,
+    "high": 146.8399963379,
+    "low": 144.1950073242,
+    "close": 145.25,
+    "volume": 1450234.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 6.4600000381,
     "volume": 876860.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "LFST",
+    "open": 6.4800000191,
+    "high": 6.5760002136,
+    "low": 6.4800000191,
+    "close": 6.5100002289,
+    "volume": 1279528.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 24.9400005341,
     "volume": 662454.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "OSW",
+    "open": 24.9400005341,
+    "high": 25.25,
+    "low": 24.7299995422,
+    "close": 24.75,
+    "volume": 686520.0,
+    "wedge_status": "none"
   }
 ]

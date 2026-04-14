@@ -7498,5 +7498,15 @@
     "close": 6.5999999046,
     "volume": 78229.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "SEAT",
+    "open": 6.2899999619,
+    "high": 6.8699998856,
+    "low": 6.2899999619,
+    "close": 6.7899999619,
+    "volume": 53243.0,
+    "wedge_status": "none"
   }
 ]

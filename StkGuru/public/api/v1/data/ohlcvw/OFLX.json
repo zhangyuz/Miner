@@ -7498,5 +7498,15 @@
     "close": 33.5499992371,
     "volume": 47816.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "OFLX",
+    "open": 33.6599998474,
+    "high": 33.6599998474,
+    "low": 33.0,
+    "close": 33.0,
+    "volume": 18291.0,
+    "wedge_status": "none"
   }
 ]

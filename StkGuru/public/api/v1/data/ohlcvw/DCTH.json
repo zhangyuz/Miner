@@ -7498,5 +7498,15 @@
     "close": 10.4499998093,
     "volume": 350955.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "DCTH",
+    "open": 10.5,
+    "high": 10.9200000763,
+    "low": 10.5,
+    "close": 10.8800001144,
+    "volume": 290225.0,
+    "wedge_status": "none"
   }
 ]

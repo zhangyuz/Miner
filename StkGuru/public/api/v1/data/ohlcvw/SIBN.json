@@ -7498,5 +7498,15 @@
     "close": 14.0,
     "volume": 745444.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "SIBN",
+    "open": 13.8500003815,
+    "high": 14.5799999237,
+    "low": 13.8500003815,
+    "close": 14.4300003052,
+    "volume": 646856.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 41.2200012207,
     "volume": 39002.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "TSBK",
+    "open": 41.0800018311,
+    "high": 41.5400009155,
+    "low": 40.75,
+    "close": 41.3899993896,
+    "volume": 52525.0,
+    "wedge_status": "none"
   }
 ]

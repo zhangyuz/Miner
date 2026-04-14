@@ -7498,5 +7498,15 @@
     "close": 45.7999992371,
     "volume": 16065707.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "FAST",
+    "open": 45.25,
+    "high": 45.6999015808,
+    "low": 44.1199989319,
+    "close": 44.6199989319,
+    "volume": 10876087.0,
+    "wedge_status": "none"
   }
 ]

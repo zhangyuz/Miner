@@ -7498,5 +7498,15 @@
     "close": 6.5199999809,
     "volume": 708411.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "PDYN",
+    "open": 6.6700000763,
+    "high": 6.6999998093,
+    "low": 6.25,
+    "close": 6.3200001717,
+    "volume": 1191108.0,
+    "wedge_status": "none"
   }
 ]

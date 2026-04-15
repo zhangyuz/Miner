@@ -7508,5 +7508,15 @@
     "close": 50.75,
     "volume": 687616.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "ACMR",
+    "open": 50.1899986267,
+    "high": 50.4900016785,
+    "low": 47.6734008789,
+    "close": 49.7900009155,
+    "volume": 749030.0,
+    "wedge_status": "none"
   }
 ]

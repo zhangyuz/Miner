@@ -7508,5 +7508,15 @@
     "close": 41.7700004578,
     "volume": 103959.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "AMAL",
+    "open": 41.7799987793,
+    "high": 42.0999984741,
+    "low": 41.25,
+    "close": 42.0099983215,
+    "volume": 101586.0,
+    "wedge_status": "none"
   }
 ]

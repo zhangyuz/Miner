@@ -7508,5 +7508,15 @@
     "close": 59.7099990845,
     "volume": 6735138.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "TEAM",
+    "open": 61.3800010681,
+    "high": 66.1050033569,
+    "low": 60.25,
+    "close": 66.0,
+    "volume": 10703105.0,
+    "wedge_status": "none"
   }
 ]

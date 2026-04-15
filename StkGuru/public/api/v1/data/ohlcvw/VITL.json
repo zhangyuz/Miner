@@ -7508,5 +7508,15 @@
     "close": 12.75,
     "volume": 1707682.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "VITL",
+    "open": 12.8299999237,
+    "high": 13.25,
+    "low": 12.2299995422,
+    "close": 12.2600002289,
+    "volume": 2662452.0,
+    "wedge_status": "none"
   }
 ]

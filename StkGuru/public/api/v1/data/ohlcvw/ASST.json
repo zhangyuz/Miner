@@ -7508,5 +7508,15 @@
     "close": 12.4300003052,
     "volume": 4506686.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "ASST",
+    "open": 12.5,
+    "high": 13.6000003815,
+    "low": 12.3100004196,
+    "close": 13.529999733,
+    "volume": 3998725.0,
+    "wedge_status": "none"
   }
 ]

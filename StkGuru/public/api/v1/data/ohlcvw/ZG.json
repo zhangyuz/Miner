@@ -7508,5 +7508,15 @@
     "close": 41.0,
     "volume": 613165.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "ZG",
+    "open": 41.8600006104,
+    "high": 43.8149986267,
+    "low": 41.7489013672,
+    "close": 43.6199989319,
+    "volume": 509378.0,
+    "wedge_status": "none"
   }
 ]

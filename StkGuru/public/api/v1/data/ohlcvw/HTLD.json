@@ -7508,5 +7508,15 @@
     "close": 11.0,
     "volume": 275639.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "HTLD",
+    "open": 11.0,
+    "high": 11.0,
+    "low": 10.6999998093,
+    "close": 10.75,
+    "volume": 317525.0,
+    "wedge_status": "none"
   }
 ]

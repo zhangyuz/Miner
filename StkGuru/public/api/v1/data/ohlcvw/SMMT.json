@@ -7508,5 +7508,15 @@
     "close": 20.8500003815,
     "volume": 2321716.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "SMMT",
+    "open": 21.5,
+    "high": 22.1800003052,
+    "low": 21.0300006866,
+    "close": 21.1200008392,
+    "volume": 3504376.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 12.5900001526,
     "volume": 1475286.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "GRPN",
+    "open": 12.75,
+    "high": 13.9250001907,
+    "low": 12.6700000763,
+    "close": 12.9200000763,
+    "volume": 2002061.0,
+    "wedge_status": "none"
   }
 ]

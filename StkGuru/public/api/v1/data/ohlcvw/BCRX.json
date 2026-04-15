@@ -7508,5 +7508,15 @@
     "close": 9.6700000763,
     "volume": 2606933.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "BCRX",
+    "open": 9.75,
+    "high": 9.7700004578,
+    "low": 9.3850002289,
+    "close": 9.4399995804,
+    "volume": 4835681.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 24.3700008392,
     "volume": 183444.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "CSTL",
+    "open": 24.3700008392,
+    "high": 25.0,
+    "low": 24.3700008392,
+    "close": 24.6200008392,
+    "volume": 187450.0,
+    "wedge_status": "none"
   }
 ]

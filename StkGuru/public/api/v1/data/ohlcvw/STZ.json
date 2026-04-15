@@ -7508,5 +7508,15 @@
     "close": 164.5,
     "volume": 1474112.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "STZ",
+    "open": 164.75,
+    "high": 165.4900054932,
+    "low": 162.5,
+    "close": 163.9499969482,
+    "volume": 1602735.0,
+    "wedge_status": "none"
   }
 ]

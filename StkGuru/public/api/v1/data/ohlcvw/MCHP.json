@@ -7508,5 +7508,15 @@
     "close": 74.5,
     "volume": 6371830.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "MCHP",
+    "open": 74.1299972534,
+    "high": 74.8600006104,
+    "low": 72.9000015259,
+    "close": 74.4899978638,
+    "volume": 6164817.0,
+    "wedge_status": "none"
   }
 ]

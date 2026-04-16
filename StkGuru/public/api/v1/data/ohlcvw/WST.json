@@ -7508,5 +7508,15 @@
     "close": 266.5,
     "volume": 629500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "WST",
+    "open": 266.1000061035,
+    "high": 271.2250061035,
+    "low": 264.5,
+    "close": 269.8099975586,
+    "volume": 614957.0,
+    "wedge_status": "none"
   }
 ]

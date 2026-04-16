@@ -7508,5 +7508,15 @@
     "close": 38.8400001526,
     "volume": 9296622.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "DOW",
+    "open": 39.5,
+    "high": 40.0099983215,
+    "low": 39.1800003052,
+    "close": 39.9199981689,
+    "volume": 9603585.0,
+    "wedge_status": "none"
   }
 ]

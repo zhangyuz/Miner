@@ -7508,5 +7508,15 @@
     "close": 248.5,
     "volume": 40326061.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "AMZN",
+    "open": 248.9799957275,
+    "high": 250.0,
+    "low": 244.1999969482,
+    "close": 249.6999969482,
+    "volume": 39731916.0,
+    "wedge_status": "none"
   }
 ]

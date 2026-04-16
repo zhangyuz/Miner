@@ -7508,5 +7508,15 @@
     "close": 5.5700001717,
     "volume": 1539922.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "SPT",
+    "open": 5.6399998665,
+    "high": 5.75,
+    "low": 5.5700001717,
+    "close": 5.6399998665,
+    "volume": 1267578.0,
+    "wedge_status": "pop"
   }
 ]

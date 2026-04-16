@@ -7508,5 +7508,15 @@
     "close": 2.0199999809,
     "volume": 899468.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "CERS",
+    "open": 2.0399999619,
+    "high": 2.1400001049,
+    "low": 1.9750000238,
+    "close": 2.0,
+    "volume": 1224592.0,
+    "wedge_status": "none"
   }
 ]

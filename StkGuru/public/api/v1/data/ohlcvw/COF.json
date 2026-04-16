@@ -7508,5 +7508,15 @@
     "close": 202.9799957275,
     "volume": 3211921.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "COF",
+    "open": 203.5,
+    "high": 205.0,
+    "low": 200.6799926758,
+    "close": 200.7100067139,
+    "volume": 3112946.0,
+    "wedge_status": "none"
   }
 ]

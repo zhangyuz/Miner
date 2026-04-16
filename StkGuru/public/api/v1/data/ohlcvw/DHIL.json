@@ -7508,5 +7508,15 @@
     "close": 172.0500030518,
     "volume": 27349.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "DHIL",
+    "open": 172.25,
+    "high": 172.7599945068,
+    "low": 172.1349945068,
+    "close": 172.6900024414,
+    "volume": 28519.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 2.7699999809,
     "volume": 3117478.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "MNKD",
+    "open": 2.7699999809,
+    "high": 2.7704999447,
+    "low": 2.6800000668,
+    "close": 2.75,
+    "volume": 3000024.0,
+    "wedge_status": "none"
   }
 ]

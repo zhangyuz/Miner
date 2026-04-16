@@ -7508,5 +7508,15 @@
     "close": 7.4400000572,
     "volume": 1543744.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "PRCH",
+    "open": 7.5599999428,
+    "high": 7.8850002289,
+    "low": 7.5,
+    "close": 7.7100000381,
+    "volume": 1663600.0,
+    "wedge_status": "none"
   }
 ]

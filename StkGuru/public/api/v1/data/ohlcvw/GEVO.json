@@ -7508,5 +7508,15 @@
     "close": 2.0,
     "volume": 3236068.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "GEVO",
+    "open": 1.75,
+    "high": 1.8200000525,
+    "low": 1.6799999475,
+    "close": 1.7200000286,
+    "volume": 9655735.0,
+    "wedge_status": "none"
   }
 ]

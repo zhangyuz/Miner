@@ -7508,5 +7508,15 @@
     "close": 41.2000007629,
     "volume": 562383.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "GSHD",
+    "open": 41.4799995422,
+    "high": 43.7599983215,
+    "low": 41.4799995422,
+    "close": 43.25,
+    "volume": 441913.0,
+    "wedge_status": "pop"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 22.8899993896,
     "volume": 11630.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "RGCO",
+    "open": 22.6399993896,
+    "high": 22.8199996948,
+    "low": 21.9911994934,
+    "close": 22.5,
+    "volume": 8375.0,
+    "wedge_status": "none"
   }
 ]

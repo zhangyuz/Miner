@@ -7508,5 +7508,15 @@
     "close": 168.5,
     "volume": 2324486.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "NRG",
+    "open": 169.0,
+    "high": 171.3500061035,
+    "low": 166.2899932861,
+    "close": 167.7299957275,
+    "volume": 3371844.0,
+    "wedge_status": "none"
   }
 ]

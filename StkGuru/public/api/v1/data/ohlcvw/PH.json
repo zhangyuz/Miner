@@ -7508,5 +7508,15 @@
     "close": 957.0,
     "volume": 477812.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "PH",
+    "open": 1029.0,
+    "high": 1029.0,
+    "low": 978.0,
+    "close": 988.799987793,
+    "volume": 572415.0,
+    "wedge_status": "none"
   }
 ]

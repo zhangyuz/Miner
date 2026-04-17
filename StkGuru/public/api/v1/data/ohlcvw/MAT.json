@@ -7508,5 +7508,15 @@
     "close": 15.0,
     "volume": 4858084.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "MAT",
+    "open": 15.1400003433,
+    "high": 15.4799995422,
+    "low": 15.1300001144,
+    "close": 15.1899995804,
+    "volume": 3532143.0,
+    "wedge_status": "none"
   }
 ]

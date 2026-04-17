@@ -7508,5 +7508,15 @@
     "close": 35.3199996948,
     "volume": 7109596.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "GIS",
+    "open": 35.3600006104,
+    "high": 35.875,
+    "low": 35.2200012207,
+    "close": 35.5,
+    "volume": 6647379.0,
+    "wedge_status": "none"
   }
 ]

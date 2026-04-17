@@ -7508,5 +7508,15 @@
     "close": 43.1699981689,
     "volume": 88943.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "GABC",
+    "open": 43.6899986267,
+    "high": 44.75,
+    "low": 43.6600990295,
+    "close": 44.1399993896,
+    "volume": 131003.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 0.9399999976,
     "volume": 1356794.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "HRTX",
+    "open": 0.9649000168,
+    "high": 1.0299999714,
+    "low": 0.9530000091,
+    "close": 1.0,
+    "volume": 2625028.0,
+    "wedge_status": "none"
   }
 ]

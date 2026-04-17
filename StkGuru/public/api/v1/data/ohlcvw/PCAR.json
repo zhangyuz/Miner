@@ -7508,5 +7508,15 @@
     "close": 124.3700027466,
     "volume": 2648804.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "PCAR",
+    "open": 125.8499984741,
+    "high": 127.8850021362,
+    "low": 125.0,
+    "close": 126.25,
+    "volume": 2779511.0,
+    "wedge_status": "none"
   }
 ]

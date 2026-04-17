@@ -7508,5 +7508,15 @@
     "close": 225.0599975586,
     "volume": 1295099.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "FIVE",
+    "open": 226.5,
+    "high": 236.3200073242,
+    "low": 226.5,
+    "close": 236.2599945068,
+    "volume": 1562493.0,
+    "wedge_status": "none"
   }
 ]

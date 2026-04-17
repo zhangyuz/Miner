@@ -7508,5 +7508,15 @@
     "close": 34.6599998474,
     "volume": 2260.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "FNWD",
+    "open": 34.9799995422,
+    "high": 35.5900001526,
+    "low": 34.7799987793,
+    "close": 34.7799987793,
+    "volume": 5190.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 51.75,
     "volume": 275876.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "ROOT",
+    "open": 52.9599990845,
+    "high": 55.8600006104,
+    "low": 52.9300003052,
+    "close": 54.7000007629,
+    "volume": 420374.0,
+    "wedge_status": "none"
   }
 ]

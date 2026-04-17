@@ -7508,5 +7508,15 @@
     "close": 8.4899997711,
     "volume": 9012.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "CPSS",
+    "open": 8.529999733,
+    "high": 8.6499996185,
+    "low": 8.5200004578,
+    "close": 8.6499996185,
+    "volume": 23733.0,
+    "wedge_status": "none"
   }
 ]

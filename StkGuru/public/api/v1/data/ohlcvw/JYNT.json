@@ -7508,5 +7508,15 @@
     "close": 9.1400003433,
     "volume": 47946.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "JYNT",
+    "open": 9.2100000381,
+    "high": 9.3900003433,
+    "low": 9.1800003052,
+    "close": 9.220000267,
+    "volume": 30023.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 84.5,
     "volume": 13735271.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "CSCO",
+    "open": 85.1900024414,
+    "high": 86.375,
+    "low": 84.5999984741,
+    "close": 86.25,
+    "volume": 18776642.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 39.0,
     "volume": 6403340.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "CNC",
+    "open": 39.1100006104,
+    "high": 39.4599990845,
+    "low": 37.9199981689,
+    "close": 38.1699981689,
+    "volume": 5244112.0,
+    "wedge_status": "none"
   }
 ]

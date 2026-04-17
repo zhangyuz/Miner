@@ -7508,5 +7508,15 @@
     "close": 26.5499992371,
     "volume": 3675353.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "BEN",
+    "open": 26.9300003052,
+    "high": 27.5,
+    "low": 26.7999992371,
+    "close": 27.2649993896,
+    "volume": 4984842.0,
+    "wedge_status": "none"
   }
 ]

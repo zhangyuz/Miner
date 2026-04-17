@@ -7508,5 +7508,15 @@
     "close": 163.3600006104,
     "volume": 531710.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "CINF",
+    "open": 163.3899993896,
+    "high": 167.625,
+    "low": 163.25,
+    "close": 166.8200073242,
+    "volume": 2244113.0,
+    "wedge_status": "none"
   }
 ]

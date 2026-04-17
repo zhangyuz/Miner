@@ -5,6 +5,7 @@ from ._market_valuation import MarketPe
 from ._ticker import Ticker
 from ._ticker_daily_info import TickerDailyInfo, regulate_ticker_daily_info
 from ._trade_cal import TradeCalendar
+from ._wedge_pop_ai_analysis import WedgePopAiAnalysis
 
 __all__ = [
     'Bar',
@@ -13,5 +14,6 @@ __all__ = [
     'Balancesheet', 'CashflowTable', 'Financials',
     'MarketPe',
     'TickerDailyInfo', 'regulate_ticker_daily_info',
-    'TradeCalendar'
+    'TradeCalendar',
+    'WedgePopAiAnalysis',
 ]

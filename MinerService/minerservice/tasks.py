@@ -3,7 +3,7 @@ from typing import List, Optional
 from browserscraper.tasks import update_hk_market_pe_task
 from celery import chain
 from dataminer import (Indicators, IsharesScraper, MarketDataShovel,
-                       TradeCalendarShovel, WedgePop)
+                       TradeCalendarShovel, WedgePop, WedgePopAnalyzer)
 from detonator import (GeminiCLIConfig, GeminiResult, check_gemini_cli_ready,
                         get_logger, run_gemini_on_file, run_gemini_prompt)
 from marketbreadth.tasks import update_spx_market_breadth_task
@@ -193,6 +193,38 @@ def update_wedge_pop_for_index_task() -> bool:
                 wedge_pop.update_wedge_pop_for_index('iwm')])
 
 
+@app.task(
+    bind=True,
+    autoretry_for=(Exception,),
+    retry_kwargs={'max_retries': 2, 'countdown': 30},
+    retry_backoff=True,
+    time_limit=900,
+    soft_time_limit=840,
+)
+def analyze_wedge_pop_task(self) -> dict:
+    _logger.info('[%s] analyze_wedge_pop_task started', self.request.id)
+    try:
+        analyzer = WedgePopAnalyzer.get_instance()
+        result = analyzer.analyze_today()
+        _logger.info(
+            '[%s] analyze_wedge_pop_task completed success=%s tickers=%d',
+            self.request.id,
+            result.get('success'),
+            len(result.get('tickers', [])),
+        )
+        return result
+    except Exception as e:
+        # Keep chain resilient. We return a structured failure payload instead of raising.
+        _logger.error('[%s] analyze_wedge_pop_task failed: %s', self.request.id, e, exc_info=True)
+        return {
+            'success': False,
+            'error': str(e),
+            'analysis': [],
+            'tickers': [],
+            'methodology': 'oliver_kell',
+        }
+
+
 @app.task
 def update_ndx_intraday_bars_task() -> bool:
     _logger.debug('update_ndx_intraday_bars_task')
@@ -256,6 +288,8 @@ def run_us_daily_updates_task() -> bool:
 
         # update wedge pop/drop for all tickers
         update_wedge_pop_for_index_task.si(),
+        # run AI analysis for today's wedge pop tickers
+        analyze_wedge_pop_task.si(),
 
         # the bellow tasks were not time insensitive
         # Then update idxs daily info

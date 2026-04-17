@@ -4,13 +4,13 @@ from datetime import datetime, timedelta
 from typing import Any, Dict, List, Optional
 
 import pytz
-from dataminer import MarketDataShovel, WedgePop
+from dataminer import MarketDataShovel, WedgePop, WedgePopAnalyzer
 from dataminer.models import MarketPe
 from detonator import make_db_connection, mongo_2_df
 from fastapi import APIRouter
 from marketbreadth import MarketBreadth
 
-router = APIRouter(prefix="/data", tags=["data"])
+router = APIRouter(prefix='/data', tags=['data'])
 
 
 @router.get('/mbs/{market_index}.json')
@@ -133,6 +133,19 @@ async def get_wedge_pop_tickers() -> Dict[str, Any] | List[Any]:
 async def get_wedge_pop_stats(start_date: Optional[str] = None, end_date: Optional[str] = None) -> Dict[str, Any] | List[Any]:
     wedge_pop: WedgePop = WedgePop.get_instance()
     return wedge_pop.get_wedge_stats(start_date=start_date, end_date=end_date)
+
+
+@router.get('/wedge_pop/analysis.json', description='Get AI analysis of wedge pop tickers')
+async def get_wedge_pop_analysis(date: Optional[str] = None) -> Dict[str, Any]:
+    analyzer: WedgePopAnalyzer = WedgePopAnalyzer.get_instance()
+    return analyzer.get_analysis(date=date) or {
+        'success': False,
+        'error': 'analysis_not_found',
+        'trade_day': date,
+        'analysis': [],
+        'tickers': [],
+        'methodology': 'oliver_kell',
+    }
 
 
 @router.get('/ohlcvw/{ticker}.json', description='Get OHLCVW data for a ticker, default to 3 years ago')

@@ -8,6 +8,7 @@ from fastapi import APIRouter
 from marketbreadth.tasks import update_spx_market_breadth_task
 
 from ...tasks import (run_hk_daily_updates_task, run_us_daily_updates_task,
+                      analyze_wedge_pop_task,
                       update_indicators_for_tickers_task,
                       update_iw_daily_ma_task,
                       update_iwd_tickers_daily_info_task,
@@ -24,7 +25,7 @@ from ...tasks import (run_hk_daily_updates_task, run_us_daily_updates_task,
                       update_us_trade_calendar_task,
                       update_wedge_pop_for_index_task)
 
-router = APIRouter(prefix="/tasks", tags=["tasks"])
+router = APIRouter(prefix='/tasks', tags=['tasks'])
 
 
 @router.get('/update_us_trade_calendar')
@@ -117,6 +118,12 @@ async def update_wedge_pop_for_index() -> str:
     return 'GOOD'
 
 
+@router.get('/analyze_wedge_pop')
+async def analyze_wedge_pop() -> str:
+    analyze_wedge_pop_task.delay()
+    return 'GOOD'
+
+
 @router.get('/update_ndx_intraday_bars')
 async def update_ndx_intraday_bars() -> str:
     update_ndx_intraday_bars_task.delay()
@@ -124,7 +131,7 @@ async def update_ndx_intraday_bars() -> str:
 
 
 @router.get('/update_spx_intraday_bars')
-async def update_ndx_intraday_bars() -> str:
+async def update_spx_intraday_bars() -> str:
     update_spx_intraday_bars_task.delay()
     return 'GOOD'
 

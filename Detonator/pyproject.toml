@@ -12,6 +12,7 @@ dependencies = [
     "jsmin",
     "mongoengine",
     "pymongo",
+    "requests",
     "rich",
 ]
 

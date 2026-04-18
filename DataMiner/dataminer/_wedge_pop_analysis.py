@@ -297,4 +297,11 @@ Use Oliver Kell-inspired growth breakout methodology:
             }
 
         self._persist_analysis_records(day_key, output)
-        return self._get_result_from_mongo(day_key) or output
+        final = self._get_result_from_mongo(day_key) or output
+        if final.get('success') and final.get('analysis'):
+            try:
+                from ._oliver_kell_discord_format import notify_oliver_kell_analysis_if_configured
+                notify_oliver_kell_analysis_if_configured(final)
+            except Exception as e:
+                _logger.error('Oliver Kell Discord notification failed: %s', e, exc_info=True)
+        return final

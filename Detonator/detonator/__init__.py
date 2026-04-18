@@ -4,6 +4,8 @@ from ._collection import common_in_list, list_minus, subdict
 from ._config import Config, parser_config
 from ._data_converter import (df_2_mongo, dict_to_mongo, mongo_2_df,
                               resample_ohlcv)
+from ._discord_notify import (DEFAULT_DISCORD_API_BASE, DiscordSendResult,
+                              chunk_discord_content, send_discord_bot_messages)
 from ._datetime import datetime_from_str, tomorrow_of, utc_to_target_tz
 from ._db import (ensure_db_connection, make_db_connection,
                   retry_mongo_operation)
@@ -37,4 +39,6 @@ __all__ = [
     'sleep', 'run_parallel', 'IntradayTaskScheduler',
     'SingletonParent', 'SingletonMeta',
     'version',
+    'DEFAULT_DISCORD_API_BASE', 'DiscordSendResult',
+    'chunk_discord_content', 'send_discord_bot_messages',
 ]

@@ -7488,5 +7488,15 @@
     "close": 342.5,
     "volume": 425221.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "PRAX",
+    "open": 342.6799926758,
+    "high": 349.4899902344,
+    "low": 339.9899902344,
+    "close": 342.5700073242,
+    "volume": 327127.0,
+    "wedge_status": "none"
   }
 ]

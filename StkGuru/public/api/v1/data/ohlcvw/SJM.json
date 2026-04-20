@@ -7488,5 +7488,15 @@
     "close": 95.5,
     "volume": 2760294.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "SJM",
+    "open": 95.1500015259,
+    "high": 96.2099990845,
+    "low": 94.2746963501,
+    "close": 96.1399993896,
+    "volume": 1594225.0,
+    "wedge_status": "none"
   }
 ]

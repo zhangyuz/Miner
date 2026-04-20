@@ -7488,5 +7488,15 @@
     "close": 23.25,
     "volume": 323561.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "TBRG",
+    "open": 23.25,
+    "high": 23.3150005341,
+    "low": 22.5499992371,
+    "close": 23.1800003052,
+    "volume": 187523.0,
+    "wedge_status": "none"
   }
 ]

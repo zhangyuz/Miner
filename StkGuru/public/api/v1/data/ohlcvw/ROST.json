@@ -7488,5 +7488,15 @@
     "close": 227.8200073242,
     "volume": 2425577.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "ROST",
+    "open": 228.0,
+    "high": 230.4299926758,
+    "low": 227.5,
+    "close": 228.25,
+    "volume": 1756470.0,
+    "wedge_status": "none"
   }
 ]

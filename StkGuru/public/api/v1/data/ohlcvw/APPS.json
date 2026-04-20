@@ -7488,5 +7488,15 @@
     "close": 3.75,
     "volume": 4085570.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "APPS",
+    "open": 3.6600000858,
+    "high": 3.8499999046,
+    "low": 3.6500000954,
+    "close": 3.8099999428,
+    "volume": 1645681.0,
+    "wedge_status": "none"
   }
 ]

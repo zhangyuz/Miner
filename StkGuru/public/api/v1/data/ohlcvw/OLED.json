@@ -7488,5 +7488,15 @@
     "close": 99.5500030518,
     "volume": 367375.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "OLED",
+    "open": 99.5,
+    "high": 99.7199020386,
+    "low": 97.3499984741,
+    "close": 99.6100006104,
+    "volume": 500325.0,
+    "wedge_status": "none"
   }
 ]

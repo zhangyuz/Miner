@@ -7488,5 +7488,15 @@
     "close": 77.9499969482,
     "volume": 969912.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "INDB",
+    "open": 77.5,
+    "high": 79.4199981689,
+    "low": 77.0400009155,
+    "close": 79.2300033569,
+    "volume": 534863.0,
+    "wedge_status": "none"
   }
 ]

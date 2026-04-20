@@ -7488,5 +7488,15 @@
     "close": 75.4700012207,
     "volume": 73958.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "RBCAA",
+    "open": 75.5999984741,
+    "high": 75.9599990845,
+    "low": 75.1900024414,
+    "close": 75.1900024414,
+    "volume": 65429.0,
+    "wedge_status": "none"
   }
 ]

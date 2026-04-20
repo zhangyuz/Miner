@@ -7488,5 +7488,15 @@
     "close": 37.2000007629,
     "volume": 87564.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "BSRR",
+    "open": 36.9700012207,
+    "high": 37.5,
+    "low": 36.9099998474,
+    "close": 36.9199981689,
+    "volume": 49911.0,
+    "wedge_status": "none"
   }
 ]

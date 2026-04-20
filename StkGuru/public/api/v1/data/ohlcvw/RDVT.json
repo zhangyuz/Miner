@@ -7488,5 +7488,15 @@
     "close": 39.4199981689,
     "volume": 79763.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "RDVT",
+    "open": 39.4099998474,
+    "high": 41.6749992371,
+    "low": 39.2249984741,
+    "close": 41.5,
+    "volume": 128591.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 21.5599994659,
     "volume": 1051473.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "PWP",
+    "open": 21.4699993134,
+    "high": 21.7299995422,
+    "low": 21.2399997711,
+    "close": 21.5,
+    "volume": 474521.0,
+    "wedge_status": "none"
   }
 ]

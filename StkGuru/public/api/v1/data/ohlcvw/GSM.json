@@ -7498,5 +7498,15 @@
     "close": 4.4600000381,
     "volume": 526401.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "GSM",
+    "open": 4.4499998093,
+    "high": 4.625,
+    "low": 4.4200000763,
+    "close": 4.5799999237,
+    "volume": 797960.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 21.4200000763,
     "volume": 2765606.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "SRPT",
+    "open": 21.5,
+    "high": 21.5599994659,
+    "low": 20.5149993896,
+    "close": 20.6800003052,
+    "volume": 2975451.0,
+    "wedge_status": "drop"
   }
 ]

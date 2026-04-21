@@ -7498,5 +7498,15 @@
     "close": 1.9199999571,
     "volume": 2338018.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "MVST",
+    "open": 1.9400000572,
+    "high": 2.0,
+    "low": 1.8700000048,
+    "close": 1.8700000048,
+    "volume": 2918965.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 61.0400009155,
     "volume": 351156.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "KRUS",
+    "open": 61.2400016785,
+    "high": 64.2149963379,
+    "low": 59.75,
+    "close": 59.9599990845,
+    "volume": 297845.0,
+    "wedge_status": "none"
   }
 ]

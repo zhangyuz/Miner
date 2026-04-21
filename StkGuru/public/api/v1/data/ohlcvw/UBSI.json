@@ -7498,5 +7498,15 @@
     "close": 44.5,
     "volume": 544885.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "UBSI",
+    "open": 44.4300003052,
+    "high": 44.6300010681,
+    "low": 43.5299987793,
+    "close": 43.6100006104,
+    "volume": 626855.0,
+    "wedge_status": "none"
   }
 ]

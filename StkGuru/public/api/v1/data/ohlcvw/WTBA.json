@@ -7498,5 +7498,15 @@
     "close": 24.2999992371,
     "volume": 60252.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "WTBA",
+    "open": 24.2450008392,
+    "high": 24.2450008392,
+    "low": 23.5,
+    "close": 23.6399993896,
+    "volume": 44774.0,
+    "wedge_status": "drop"
   }
 ]

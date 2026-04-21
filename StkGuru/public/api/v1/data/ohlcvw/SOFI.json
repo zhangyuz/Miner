@@ -7498,5 +7498,15 @@
     "close": 19.5,
     "volume": 50129797.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "SOFI",
+    "open": 19.5100002289,
+    "high": 19.7700004578,
+    "low": 18.6903991699,
+    "close": 18.8299999237,
+    "volume": 63563970.0,
+    "wedge_status": "none"
   }
 ]

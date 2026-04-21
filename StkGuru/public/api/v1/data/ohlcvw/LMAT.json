@@ -7498,5 +7498,15 @@
     "close": 115.0,
     "volume": 156409.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "LMAT",
+    "open": 115.4400024414,
+    "high": 115.4400024414,
+    "low": 111.7900009155,
+    "close": 111.9000015259,
+    "volume": 147721.0,
+    "wedge_status": "none"
   }
 ]

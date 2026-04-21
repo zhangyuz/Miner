@@ -7498,5 +7498,15 @@
     "close": 41.0099983215,
     "volume": 96772.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "FSBC",
+    "open": 41.2999992371,
+    "high": 41.3300018311,
+    "low": 40.0400009155,
+    "close": 40.25,
+    "volume": 120089.0,
+    "wedge_status": "none"
   }
 ]

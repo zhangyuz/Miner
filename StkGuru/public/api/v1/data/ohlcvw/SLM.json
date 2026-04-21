@@ -7498,5 +7498,15 @@
     "close": 23.1100006104,
     "volume": 2105853.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "SLM",
+    "open": 23.1399993896,
+    "high": 23.5,
+    "low": 22.7250003815,
+    "close": 22.7900009155,
+    "volume": 2335349.0,
+    "wedge_status": "none"
   }
 ]

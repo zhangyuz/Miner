@@ -7498,5 +7498,15 @@
     "close": 12.9399995804,
     "volume": 5838.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "NODK",
+    "open": 12.8199996948,
+    "high": 12.9499998093,
+    "low": 12.8199996948,
+    "close": 12.8699998856,
+    "volume": 7695.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 28.5400009155,
     "volume": 306329.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "GDEN",
+    "open": 28.5400009155,
+    "high": 28.7099990845,
+    "low": 28.2299995422,
+    "close": 28.25,
+    "volume": 542796.0,
+    "wedge_status": "none"
   }
 ]

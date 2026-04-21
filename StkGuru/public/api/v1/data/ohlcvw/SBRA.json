@@ -7498,5 +7498,15 @@
     "close": 20.5,
     "volume": 1771148.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "SBRA",
+    "open": 20.5,
+    "high": 20.5422000885,
+    "low": 20.0100002289,
+    "close": 20.0900001526,
+    "volume": 2270919.0,
+    "wedge_status": "none"
   }
 ]

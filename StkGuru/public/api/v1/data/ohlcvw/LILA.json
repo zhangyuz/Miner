@@ -7498,5 +7498,15 @@
     "close": 8.6300001144,
     "volume": 222900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "LILA",
+    "open": 8.6599998474,
+    "high": 8.6599998474,
+    "low": 8.4300003052,
+    "close": 8.4600000381,
+    "volume": 109000.0,
+    "wedge_status": "none"
   }
 ]

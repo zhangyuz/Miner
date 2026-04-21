@@ -2638,5 +2638,15 @@
     "close": 28.5599994659,
     "volume": 2089883.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "SFD",
+    "open": 28.6000003815,
+    "high": 29.2591991425,
+    "low": 28.3010997772,
+    "close": 29.0,
+    "volume": 982951.0,
+    "wedge_status": "none"
   }
 ]

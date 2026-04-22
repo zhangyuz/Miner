@@ -1668,5 +1668,15 @@
     "close": 20.8299999237,
     "volume": 2029716.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "CAI",
+    "open": 21.1499996185,
+    "high": 21.4400005341,
+    "low": 20.4400005341,
+    "close": 20.5,
+    "volume": 1298399.0,
+    "wedge_status": "none"
   }
 ]

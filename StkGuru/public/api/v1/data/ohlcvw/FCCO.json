@@ -7508,5 +7508,15 @@
     "close": 30.2199993134,
     "volume": 44870.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "FCCO",
+    "open": 30.5,
+    "high": 31.2950000763,
+    "low": 30.2099990845,
+    "close": 30.6900005341,
+    "volume": 79960.0,
+    "wedge_status": "none"
   }
 ]

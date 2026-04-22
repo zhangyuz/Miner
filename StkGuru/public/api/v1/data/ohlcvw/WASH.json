@@ -7508,5 +7508,15 @@
     "close": 30.0,
     "volume": 846150.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "WASH",
+    "open": 30.1800003052,
+    "high": 30.8999996185,
+    "low": 29.9349994659,
+    "close": 30.1949996948,
+    "volume": 418527.0,
+    "wedge_status": "none"
   }
 ]

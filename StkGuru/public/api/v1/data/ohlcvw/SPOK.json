@@ -7508,5 +7508,15 @@
     "close": 11.2399997711,
     "volume": 150511.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "SPOK",
+    "open": 11.25,
+    "high": 11.5,
+    "low": 11.1800003052,
+    "close": 11.3199996948,
+    "volume": 135609.0,
+    "wedge_status": "none"
   }
 ]

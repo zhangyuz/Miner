@@ -7508,5 +7508,15 @@
     "close": 2.3900001049,
     "volume": 11789070.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "CLOV",
+    "open": 2.4100000858,
+    "high": 2.5,
+    "low": 2.4093000889,
+    "close": 2.5,
+    "volume": 7691747.0,
+    "wedge_status": "none"
   }
 ]

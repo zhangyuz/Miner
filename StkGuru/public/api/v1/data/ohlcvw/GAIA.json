@@ -7508,5 +7508,15 @@
     "close": 2.9300000668,
     "volume": 59110.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "GAIA",
+    "open": 2.9200000763,
+    "high": 3.0099999905,
+    "low": 2.9200000763,
+    "close": 3.0,
+    "volume": 61694.0,
+    "wedge_status": "none"
   }
 ]

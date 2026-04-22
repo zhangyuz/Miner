@@ -7508,5 +7508,15 @@
     "close": 44.1399993896,
     "volume": 343925.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "ATEX",
+    "open": 44.7900009155,
+    "high": 46.3899993896,
+    "low": 44.2999992371,
+    "close": 44.75,
+    "volume": 439568.0,
+    "wedge_status": "none"
   }
 ]

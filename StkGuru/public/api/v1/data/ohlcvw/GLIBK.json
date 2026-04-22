@@ -1518,5 +1518,15 @@
     "close": 36.25,
     "volume": 354558.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "GLIBK",
+    "open": 36.4599990845,
+    "high": 36.6699981689,
+    "low": 35.0999984741,
+    "close": 35.5099983215,
+    "volume": 503848.0,
+    "wedge_status": "none"
   }
 ]

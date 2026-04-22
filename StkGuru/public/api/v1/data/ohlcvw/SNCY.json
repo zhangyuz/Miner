@@ -7508,5 +7508,15 @@
     "close": 17.4300003052,
     "volume": 378353.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "SNCY",
+    "open": 17.5,
+    "high": 17.5949993134,
+    "low": 16.5200004578,
+    "close": 16.6399993896,
+    "volume": 548486.0,
+    "wedge_status": "drop"
   }
 ]

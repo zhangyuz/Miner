@@ -7508,5 +7508,15 @@
     "close": 90.5999984741,
     "volume": 6738295.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "NEE",
+    "open": 91.3600006104,
+    "high": 92.1800003052,
+    "low": 89.9000015259,
+    "close": 90.0,
+    "volume": 7461832.0,
+    "wedge_status": "none"
   }
 ]

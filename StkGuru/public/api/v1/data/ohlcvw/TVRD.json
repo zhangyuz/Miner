@@ -7508,5 +7508,15 @@
     "close": 3.1600000858,
     "volume": 23178.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "TVRD",
+    "open": 3.3347001076,
+    "high": 3.3347001076,
+    "low": 3.1649999619,
+    "close": 3.2300000191,
+    "volume": 25479.0,
+    "wedge_status": "none"
   }
 ]

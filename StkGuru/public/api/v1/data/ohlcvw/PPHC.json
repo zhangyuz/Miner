@@ -138,5 +138,15 @@
     "close": 13.3900003433,
     "volume": 30132.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "PPHC",
+    "open": 13.1999998093,
+    "high": 13.6899995804,
+    "low": 13.1999998093,
+    "close": 13.6599998474,
+    "volume": 47951.0,
+    "wedge_status": "none"
   }
 ]

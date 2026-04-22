@@ -298,5 +298,15 @@
     "close": 179.0,
     "volume": 1968968.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "MRSH",
+    "open": 178.3099975586,
+    "high": 178.8300018311,
+    "low": 174.1999969482,
+    "close": 175.5,
+    "volume": 2380380.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 7.0100002289,
     "volume": 77741.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "INSE",
+    "open": 7.0599999428,
+    "high": 7.0900001526,
+    "low": 6.9349999428,
+    "close": 6.9499998093,
+    "volume": 120306.0,
+    "wedge_status": "none"
   }
 ]

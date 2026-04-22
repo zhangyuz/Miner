@@ -7508,5 +7508,15 @@
     "close": 40.1599998474,
     "volume": 512447.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "LINC",
+    "open": 40.3400001526,
+    "high": 40.7900009155,
+    "low": 39.75,
+    "close": 40.7700004578,
+    "volume": 183832.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 63.9700012207,
     "volume": 429040.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "COLM",
+    "open": 64.2099990845,
+    "high": 64.2900009155,
+    "low": 62.375,
+    "close": 62.6300010681,
+    "volume": 359101.0,
+    "wedge_status": "none"
   }
 ]

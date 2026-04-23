@@ -7508,5 +7508,15 @@
     "close": 5.0799999237,
     "volume": 33359497.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "JBLU",
+    "open": 5.0700001717,
+    "high": 5.3499999046,
+    "low": 5.0,
+    "close": 5.25,
+    "volume": 22324981.0,
+    "wedge_status": "none"
   }
 ]

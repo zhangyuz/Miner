@@ -7508,5 +7508,15 @@
     "close": 19.0400009155,
     "volume": 321577.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "SCVL",
+    "open": 18.9200000763,
+    "high": 19.1399993896,
+    "low": 18.5499992371,
+    "close": 18.75,
+    "volume": 305476.0,
+    "wedge_status": "none"
   }
 ]

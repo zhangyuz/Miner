@@ -7508,5 +7508,15 @@
     "close": 67.5,
     "volume": 3697887.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "WRB",
+    "open": 68.1800003052,
+    "high": 68.7200012207,
+    "low": 67.25,
+    "close": 68.4499969482,
+    "volume": 1750092.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 190.0,
     "volume": 1012300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "WING",
+    "open": 189.0,
+    "high": 190.8999938965,
+    "low": 179.8200073242,
+    "close": 186.7400054932,
+    "volume": 942123.0,
+    "wedge_status": "none"
   }
 ]

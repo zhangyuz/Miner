@@ -7508,5 +7508,15 @@
     "close": 47.7700004578,
     "volume": 382784.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "GCT",
+    "open": 47.4300003052,
+    "high": 48.5099983215,
+    "low": 46.4000015259,
+    "close": 47.5,
+    "volume": 331321.0,
+    "wedge_status": "none"
   }
 ]

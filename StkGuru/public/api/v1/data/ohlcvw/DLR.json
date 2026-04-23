@@ -7508,5 +7508,15 @@
     "close": 200.8600006104,
     "volume": 1572355.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "DLR",
+    "open": 202.0,
+    "high": 203.2299957275,
+    "low": 198.0500946045,
+    "close": 200.0,
+    "volume": 2716597.0,
+    "wedge_status": "none"
   }
 ]

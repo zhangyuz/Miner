@@ -778,5 +778,15 @@
     "close": 139.25,
     "volume": 1177540.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "Q",
+    "open": 138.6000061035,
+    "high": 146.0,
+    "low": 138.3999938965,
+    "close": 140.1300048828,
+    "volume": 2231586.0,
+    "wedge_status": "none"
   }
 ]

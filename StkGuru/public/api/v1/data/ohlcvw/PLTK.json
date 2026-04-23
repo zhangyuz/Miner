@@ -7508,5 +7508,15 @@
     "close": 3.5299999714,
     "volume": 624199.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "PLTK",
+    "open": 3.5,
+    "high": 3.5099999905,
+    "low": 3.2349998951,
+    "close": 3.2699999809,
+    "volume": 723154.0,
+    "wedge_status": "drop"
   }
 ]

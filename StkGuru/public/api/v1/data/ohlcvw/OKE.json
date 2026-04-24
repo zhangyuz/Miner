@@ -7508,5 +7508,15 @@
     "close": 87.2099990845,
     "volume": 2839336.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "OKE",
+    "open": 87.1999969482,
+    "high": 87.8000030518,
+    "low": 86.5,
+    "close": 87.5,
+    "volume": 2863043.0,
+    "wedge_status": "none"
   }
 ]

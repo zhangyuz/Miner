@@ -7508,5 +7508,15 @@
     "close": 4.0100002289,
     "volume": 403708.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "IHRT",
+    "open": 3.9900000095,
+    "high": 5.4200000763,
+    "low": 3.8900001049,
+    "close": 5.4200000763,
+    "volume": 532496.0,
+    "wedge_status": "none"
   }
 ]

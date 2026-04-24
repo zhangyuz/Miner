@@ -7508,5 +7508,15 @@
     "close": 234.1699981689,
     "volume": 61001.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "PNRG",
+    "open": 232.6399993896,
+    "high": 237.6000061035,
+    "low": 223.0200042725,
+    "close": 230.0,
+    "volume": 88822.0,
+    "wedge_status": "none"
   }
 ]

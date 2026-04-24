@@ -7508,5 +7508,15 @@
     "close": 0.7917000055,
     "volume": 835707.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "ATYR",
+    "open": 0.7832999825,
+    "high": 0.815500021,
+    "low": 0.7799000144,
+    "close": 0.7850999832,
+    "volume": 902905.0,
+    "wedge_status": "none"
   }
 ]

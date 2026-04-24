@@ -7508,5 +7508,15 @@
     "close": 16.75,
     "volume": 344877.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "LOVE",
+    "open": 16.6000003815,
+    "high": 16.6000003815,
+    "low": 16.0400009155,
+    "close": 16.0699996948,
+    "volume": 137877.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 35.25,
     "volume": 5354332.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "PEGA",
+    "open": 35.4500007629,
+    "high": 37.3800010681,
+    "low": 35.4474983215,
+    "close": 37.3300018311,
+    "volume": 2634169.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 37.5099983215,
     "volume": 286714.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "UVSP",
+    "open": 37.3600006104,
+    "high": 38.125,
+    "low": 37.3300018311,
+    "close": 37.5699996948,
+    "volume": 249308.0,
+    "wedge_status": "none"
   }
 ]

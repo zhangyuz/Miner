@@ -7508,5 +7508,15 @@
     "close": 2.4600000381,
     "volume": 827463.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "SNBR",
+    "open": 2.4658999443,
+    "high": 2.4800000191,
+    "low": 2.25,
+    "close": 2.3599998951,
+    "volume": 776418.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 1.5,
     "volume": 8503334.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "GERN",
+    "open": 1.5199999809,
+    "high": 1.5399999619,
+    "low": 1.4900000095,
+    "close": 1.5,
+    "volume": 12596948.0,
+    "wedge_status": "none"
   }
 ]

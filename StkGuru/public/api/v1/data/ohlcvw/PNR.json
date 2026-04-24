@@ -7508,5 +7508,15 @@
     "close": 90.4800033569,
     "volume": 1109710.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "PNR",
+    "open": 89.75,
+    "high": 92.5500030518,
+    "low": 90.2500991821,
+    "close": 91.75,
+    "volume": 1891684.0,
+    "wedge_status": "none"
   }
 ]

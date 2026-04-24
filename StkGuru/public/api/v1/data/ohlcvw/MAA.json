@@ -7508,5 +7508,15 @@
     "close": 126.0,
     "volume": 408775.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "MAA",
+    "open": 126.0,
+    "high": 126.7699966431,
+    "low": 125.0999984741,
+    "close": 125.6600036621,
+    "volume": 356292.0,
+    "wedge_status": "drop"
   }
 ]

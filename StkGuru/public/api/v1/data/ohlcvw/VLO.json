@@ -7488,5 +7488,15 @@
     "close": 235.8500061035,
     "volume": 1293304.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "VLO",
+    "open": 236.25,
+    "high": 241.2949981689,
+    "low": 236.0899963379,
+    "close": 238.25,
+    "volume": 1545472.0,
+    "wedge_status": "none"
   }
 ]

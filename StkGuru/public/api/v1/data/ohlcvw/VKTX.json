@@ -7488,5 +7488,15 @@
     "close": 32.75,
     "volume": 1912079.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "VKTX",
+    "open": 32.7999992371,
+    "high": 33.5900001526,
+    "low": 32.5999984741,
+    "close": 32.9850006104,
+    "volume": 1518444.0,
+    "wedge_status": "none"
   }
 ]

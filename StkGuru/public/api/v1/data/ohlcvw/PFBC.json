@@ -7488,5 +7488,15 @@
     "close": 93.5,
     "volume": 100115.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "PFBC",
+    "open": 93.8000030518,
+    "high": 95.9000015259,
+    "low": 93.8000030518,
+    "close": 95.0699996948,
+    "volume": 82413.0,
+    "wedge_status": "none"
   }
 ]

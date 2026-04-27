@@ -7488,5 +7488,15 @@
     "close": 27.1100006104,
     "volume": 4584237.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "BEAM",
+    "open": 27.4300003052,
+    "high": 31.5,
+    "low": 27.3400001526,
+    "close": 29.1650009155,
+    "volume": 3149178.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 260.0,
     "volume": 283659.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "LECO",
+    "open": 260.0,
+    "high": 263.6000061035,
+    "low": 256.0650939941,
+    "close": 261.200012207,
+    "volume": 314508.0,
+    "wedge_status": "none"
   }
 ]

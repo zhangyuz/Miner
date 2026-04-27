@@ -7488,5 +7488,15 @@
     "close": 3.1800000668,
     "volume": 74106.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "TKNO",
+    "open": 3.1800000668,
+    "high": 3.3900001049,
+    "low": 3.0799999237,
+    "close": 3.1400001049,
+    "volume": 111811.0,
+    "wedge_status": "none"
   }
 ]

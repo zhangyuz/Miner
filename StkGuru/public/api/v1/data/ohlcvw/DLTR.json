@@ -7488,5 +7488,15 @@
     "close": 103.75,
     "volume": 2438382.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "DLTR",
+    "open": 104.1699981689,
+    "high": 104.5999984741,
+    "low": 96.5699996948,
+    "close": 98.0,
+    "volume": 5128828.0,
+    "wedge_status": "drop"
   }
 ]

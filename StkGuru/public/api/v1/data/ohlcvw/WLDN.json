@@ -7488,5 +7488,15 @@
     "close": 77.9499969482,
     "volume": 185665.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "WLDN",
+    "open": 72.5800018311,
+    "high": 73.0,
+    "low": 66.6399993896,
+    "close": 66.9100036621,
+    "volume": 1144881.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 219.0,
     "volume": 495384.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "FCFS",
+    "open": 219.3099975586,
+    "high": 220.0099945068,
+    "low": 213.0,
+    "close": 217.3500061035,
+    "volume": 470791.0,
+    "wedge_status": "none"
   }
 ]

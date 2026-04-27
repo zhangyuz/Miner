@@ -7488,5 +7488,15 @@
     "close": 30.5499992371,
     "volume": 1620629.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "SSRM",
+    "open": 30.4500007629,
+    "high": 30.9500007629,
+    "low": 29.9599990845,
+    "close": 30.75,
+    "volume": 1822562.0,
+    "wedge_status": "none"
   }
 ]

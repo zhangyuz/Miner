@@ -7488,5 +7488,15 @@
     "close": 204.0,
     "volume": 6288410.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "CAR",
+    "open": 190.5399932861,
+    "high": 204.1098937988,
+    "low": 182.0,
+    "close": 187.0700073242,
+    "volume": 3646159.0,
+    "wedge_status": "none"
   }
 ]

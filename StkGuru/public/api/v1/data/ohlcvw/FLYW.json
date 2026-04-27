@@ -7488,5 +7488,15 @@
     "close": 13.5500001907,
     "volume": 1043122.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "FLYW",
+    "open": 13.4799995422,
+    "high": 13.8950004578,
+    "low": 13.4399995804,
+    "close": 13.75,
+    "volume": 871646.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 88.5,
     "volume": 11623677.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "SCHW",
+    "open": 88.2600021362,
+    "high": 91.111000061,
+    "low": 88.1699981689,
+    "close": 90.7600021362,
+    "volume": 6831559.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 4.7199997902,
     "volume": 2273146.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "CDZI",
+    "open": 4.7199997902,
+    "high": 4.7899999619,
+    "low": 4.4699997902,
+    "close": 4.5,
+    "volume": 855434.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 23.3600006104,
     "volume": 541170.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "INVA",
+    "open": 23.5,
+    "high": 23.8799991608,
+    "low": 23.4549999237,
+    "close": 23.6900005341,
+    "volume": 501486.0,
+    "wedge_status": "none"
   }
 ]

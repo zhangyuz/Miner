@@ -7498,5 +7498,15 @@
     "close": 46.5,
     "volume": 138453.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "XPEL",
+    "open": 46.6399993896,
+    "high": 47.1150016785,
+    "low": 45.5950012207,
+    "close": 46.0299987793,
+    "volume": 100996.0,
+    "wedge_status": "none"
   }
 ]

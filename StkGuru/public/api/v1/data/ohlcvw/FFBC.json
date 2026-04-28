@@ -7498,5 +7498,15 @@
     "close": 30.75,
     "volume": 779271.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "FFBC",
+    "open": 31.0100002289,
+    "high": 31.2199993134,
+    "low": 30.6499996185,
+    "close": 30.8199996948,
+    "volume": 682340.0,
+    "wedge_status": "none"
   }
 ]

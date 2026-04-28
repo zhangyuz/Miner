@@ -7498,5 +7498,15 @@
     "close": 1.8099999428,
     "volume": 771523.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "EGHT",
+    "open": 1.8400000334,
+    "high": 1.9198999405,
+    "low": 1.8200000525,
+    "close": 1.8600000143,
+    "volume": 1103507.0,
+    "wedge_status": "none"
   }
 ]

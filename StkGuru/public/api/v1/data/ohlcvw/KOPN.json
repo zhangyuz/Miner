@@ -7498,5 +7498,15 @@
     "close": 3.7100000381,
     "volume": 5670620.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "KOPN",
+    "open": 3.7899999619,
+    "high": 4.6300001144,
+    "low": 3.4061999321,
+    "close": 4.0,
+    "volume": 40661985.0,
+    "wedge_status": "none"
   }
 ]

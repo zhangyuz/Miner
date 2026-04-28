@@ -7498,5 +7498,15 @@
     "close": 98.25,
     "volume": 6059788.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "KMB",
+    "open": 99.3700027466,
+    "high": 100.3600006104,
+    "low": 97.5,
+    "close": 98.4400024414,
+    "volume": 6580860.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 566.9899902344,
     "volume": 206836.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "UTHR",
+    "open": 571.6400146484,
+    "high": 579.0,
+    "low": 564.6400146484,
+    "close": 569.1099853516,
+    "volume": 337333.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 168.0099945068,
     "volume": 11501954.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "GLW",
+    "open": 151.0899963379,
+    "high": 162.0,
+    "low": 149.75,
+    "close": 153.0500030518,
+    "volume": 19356172.0,
+    "wedge_status": "drop"
   }
 ]

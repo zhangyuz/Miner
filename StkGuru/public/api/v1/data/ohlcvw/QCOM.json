@@ -7498,5 +7498,15 @@
     "close": 150.3099975586,
     "volume": 40910340.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "QCOM",
+    "open": 145.2877960205,
+    "high": 151.5,
+    "low": 144.0001068115,
+    "close": 150.0,
+    "volume": 21720890.0,
+    "wedge_status": "none"
   }
 ]

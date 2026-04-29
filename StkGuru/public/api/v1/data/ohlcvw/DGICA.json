@@ -7508,5 +7508,15 @@
     "close": 18.0,
     "volume": 112888.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "DGICA",
+    "open": 17.8700008392,
+    "high": 17.8700008392,
+    "low": 17.5699996948,
+    "close": 17.6299991608,
+    "volume": 77776.0,
+    "wedge_status": "none"
   }
 ]

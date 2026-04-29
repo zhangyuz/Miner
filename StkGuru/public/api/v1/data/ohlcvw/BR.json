@@ -7508,5 +7508,15 @@
     "close": 158.8300018311,
     "volume": 755551.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "BR",
+    "open": 160.0,
+    "high": 161.3200073242,
+    "low": 158.5200042725,
+    "close": 160.75,
+    "volume": 985515.0,
+    "wedge_status": "none"
   }
 ]

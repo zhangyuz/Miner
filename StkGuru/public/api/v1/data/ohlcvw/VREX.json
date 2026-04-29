@@ -7508,5 +7508,15 @@
     "close": 12.0699996948,
     "volume": 211335.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "VREX",
+    "open": 12.0100002289,
+    "high": 12.0900001526,
+    "low": 10.875,
+    "close": 11.029999733,
+    "volume": 426466.0,
+    "wedge_status": "drop"
   }
 ]

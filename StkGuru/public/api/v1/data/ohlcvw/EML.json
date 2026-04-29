@@ -7508,5 +7508,15 @@
     "close": 22.0499992371,
     "volume": 10021.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "EML",
+    "open": 22.2199993134,
+    "high": 22.2900009155,
+    "low": 21.9599990845,
+    "close": 22.25,
+    "volume": 21535.0,
+    "wedge_status": "none"
   }
 ]

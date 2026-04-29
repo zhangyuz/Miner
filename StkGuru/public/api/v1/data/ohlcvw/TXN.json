@@ -7508,5 +7508,15 @@
     "close": 265.0,
     "volume": 7168096.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "TXN",
+    "open": 269.625,
+    "high": 272.4200134277,
+    "low": 267.5700073242,
+    "close": 269.2200012207,
+    "volume": 6937223.0,
+    "wedge_status": "none"
   }
 ]

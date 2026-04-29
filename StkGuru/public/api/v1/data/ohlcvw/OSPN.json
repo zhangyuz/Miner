@@ -7508,5 +7508,15 @@
     "close": 11.5100002289,
     "volume": 297268.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "OSPN",
+    "open": 11.5,
+    "high": 11.5399999619,
+    "low": 11.2899999619,
+    "close": 11.4899997711,
+    "volume": 337046.0,
+    "wedge_status": "none"
   }
 ]

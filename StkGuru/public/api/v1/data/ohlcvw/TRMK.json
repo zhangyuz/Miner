@@ -7508,5 +7508,15 @@
     "close": 45.5,
     "volume": 379410.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "TRMK",
+    "open": 45.2200012207,
+    "high": 45.9099998474,
+    "low": 44.2200012207,
+    "close": 44.2799987793,
+    "volume": 730081.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 48.2999992371,
     "volume": 1039285.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "OZK",
+    "open": 48.0699996948,
+    "high": 48.5499992371,
+    "low": 47.4700012207,
+    "close": 47.5,
+    "volume": 873605.0,
+    "wedge_status": "drop"
   }
 ]

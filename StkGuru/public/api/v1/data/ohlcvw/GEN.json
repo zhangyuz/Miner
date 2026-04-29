@@ -7508,5 +7508,15 @@
     "close": 19.25,
     "volume": 6104802.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "GEN",
+    "open": 19.0699996948,
+    "high": 19.2569999695,
+    "low": 19.0,
+    "close": 19.1399993896,
+    "volume": 6099175.0,
+    "wedge_status": "none"
   }
 ]

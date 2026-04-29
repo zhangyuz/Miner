@@ -7508,5 +7508,15 @@
     "close": 1.7699999809,
     "volume": 623927.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "CHRS",
+    "open": 1.75,
+    "high": 1.7549999952,
+    "low": 1.7009999752,
+    "close": 1.7400000095,
+    "volume": 660300.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 466.6400146484,
     "volume": 1633550.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "ISRG",
+    "open": 463.5,
+    "high": 463.5,
+    "low": 449.6130981445,
+    "close": 453.8299865723,
+    "volume": 1913998.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 5.1199998856,
     "volume": 157673.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "LFCR",
+    "open": 5.1300001144,
+    "high": 5.1399998665,
+    "low": 4.9149999619,
+    "close": 4.9400000572,
+    "volume": 186501.0,
+    "wedge_status": "drop"
   }
 ]

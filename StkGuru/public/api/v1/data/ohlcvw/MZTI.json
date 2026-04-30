@@ -7508,5 +7508,15 @@
     "close": 128.5,
     "volume": 269250.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "MZTI",
+    "open": 127.8899993896,
+    "high": 130.4450073242,
+    "low": 126.7843017578,
+    "close": 130.2799987793,
+    "volume": 206983.0,
+    "wedge_status": "none"
   }
 ]

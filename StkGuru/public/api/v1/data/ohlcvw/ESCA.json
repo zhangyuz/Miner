@@ -7508,5 +7508,15 @@
     "close": 17.5400009155,
     "volume": 24538.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "ESCA",
+    "open": 18.0,
+    "high": 18.7000007629,
+    "low": 17.3099994659,
+    "close": 18.7000007629,
+    "volume": 53149.0,
+    "wedge_status": "none"
   }
 ]

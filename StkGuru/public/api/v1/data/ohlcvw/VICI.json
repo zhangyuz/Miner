@@ -7508,5 +7508,15 @@
     "close": 28.6000003815,
     "volume": 12003763.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "VICI",
+    "open": 28.9500007629,
+    "high": 29.5,
+    "low": 28.6149997711,
+    "close": 29.2000007629,
+    "volume": 16587814.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 5.8899998665,
     "volume": 2265465.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "ANNX",
+    "open": 5.9299998283,
+    "high": 6.0,
+    "low": 5.8299999237,
+    "close": 5.8699998856,
+    "volume": 2153024.0,
+    "wedge_status": "none"
   }
 ]

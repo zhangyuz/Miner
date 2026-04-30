@@ -7508,5 +7508,15 @@
     "close": 52.5299987793,
     "volume": 55728.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "BWFG",
+    "open": 52.0,
+    "high": 52.9199981689,
+    "low": 51.7000007629,
+    "close": 51.7200012207,
+    "volume": 19110.0,
+    "wedge_status": "none"
   }
 ]

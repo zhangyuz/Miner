@@ -7508,5 +7508,15 @@
     "close": 306.1799926758,
     "volume": 4444338.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "VRT",
+    "open": 313.75,
+    "high": 330.0,
+    "low": 312.3514099121,
+    "close": 328.4899902344,
+    "volume": 5282027.0,
+    "wedge_status": "none"
   }
 ]

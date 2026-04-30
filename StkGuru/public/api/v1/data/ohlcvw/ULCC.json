@@ -7508,5 +7508,15 @@
     "close": 3.75,
     "volume": 4217646.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "ULCC",
+    "open": 3.7699999809,
+    "high": 3.8399999142,
+    "low": 3.6050000191,
+    "close": 3.6300001144,
+    "volume": 3947693.0,
+    "wedge_status": "none"
   }
 ]

@@ -508,5 +508,15 @@
     "close": 9.3699998856,
     "volume": 348923.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "LMRI",
+    "open": 9.4600000381,
+    "high": 9.6000003815,
+    "low": 9.1999998093,
+    "close": 9.5699996948,
+    "volume": 482495.0,
+    "wedge_status": "none"
   }
 ]

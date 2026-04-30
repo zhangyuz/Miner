@@ -7508,5 +7508,15 @@
     "close": 55.75,
     "volume": 1696457.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "XENE",
+    "open": 55.7000007629,
+    "high": 56.8600006104,
+    "low": 55.2400016785,
+    "close": 56.0400009155,
+    "volume": 1066225.0,
+    "wedge_status": "none"
   }
 ]

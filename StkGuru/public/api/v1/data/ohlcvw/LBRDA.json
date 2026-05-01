@@ -7508,5 +7508,15 @@
     "close": 38.4300003052,
     "volume": 209601.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "LBRDA",
+    "open": 38.4300003052,
+    "high": 40.5,
+    "low": 38.4300003052,
+    "close": 39.9900016785,
+    "volume": 184355.0,
+    "wedge_status": "none"
   }
 ]

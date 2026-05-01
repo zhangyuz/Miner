@@ -7508,5 +7508,15 @@
     "close": 12.3000001907,
     "volume": 1838109.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "QDEL",
+    "open": 12.5,
+    "high": 12.6499996185,
+    "low": 12.2100000381,
+    "close": 12.6400003433,
+    "volume": 1366156.0,
+    "wedge_status": "none"
   }
 ]

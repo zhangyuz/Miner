@@ -7508,5 +7508,15 @@
     "close": 361.6900024414,
     "volume": 1720210.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "MAR",
+    "open": 357.5,
+    "high": 363.75,
+    "low": 354.6700134277,
+    "close": 354.9700012207,
+    "volume": 969721.0,
+    "wedge_status": "none"
   }
 ]

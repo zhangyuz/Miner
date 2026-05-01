@@ -7508,5 +7508,15 @@
     "close": 19.2299995422,
     "volume": 280713.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "CLBK",
+    "open": 19.2299995422,
+    "high": 19.7399997711,
+    "low": 19.1700000763,
+    "close": 19.25,
+    "volume": 509115.0,
+    "wedge_status": "none"
   }
 ]

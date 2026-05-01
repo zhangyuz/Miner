@@ -7508,5 +7508,15 @@
     "close": 51.5,
     "volume": 7599696.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "TFC",
+    "open": 51.1699981689,
+    "high": 51.375,
+    "low": 50.75,
+    "close": 50.9300003052,
+    "volume": 4836812.0,
+    "wedge_status": "none"
   }
 ]

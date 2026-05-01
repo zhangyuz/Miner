@@ -7508,5 +7508,15 @@
     "close": 16.6700000763,
     "volume": 92754.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "KINS",
+    "open": 16.6299991608,
+    "high": 16.7133998871,
+    "low": 15.6300001144,
+    "close": 16.25,
+    "volume": 141648.0,
+    "wedge_status": "none"
   }
 ]

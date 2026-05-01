@@ -7508,5 +7508,15 @@
     "close": 80.4100036621,
     "volume": 302930.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "CSGS",
+    "open": 80.5,
+    "high": 80.5199966431,
+    "low": 80.3550033569,
+    "close": 80.4000015259,
+    "volume": 180583.0,
+    "wedge_status": "none"
   }
 ]

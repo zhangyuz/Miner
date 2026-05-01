@@ -7508,5 +7508,15 @@
     "close": 2.1600000858,
     "volume": 112711.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "OPAL",
+    "open": 2.1800000668,
+    "high": 2.2599999905,
+    "low": 2.1700000763,
+    "close": 2.2000000477,
+    "volume": 113901.0,
+    "wedge_status": "none"
   }
 ]

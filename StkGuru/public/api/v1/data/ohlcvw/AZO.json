@@ -7508,5 +7508,15 @@
     "close": 3704.830078125,
     "volume": 316601.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "AZO",
+    "open": 3720.0,
+    "high": 3729.8100585938,
+    "low": 3559.3696289062,
+    "close": 3597.0,
+    "volume": 230818.0,
+    "wedge_status": "none"
   }
 ]

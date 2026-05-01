@@ -7508,5 +7508,15 @@
     "close": 86.8399963379,
     "volume": 158439.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "CASH",
+    "open": 86.8399963379,
+    "high": 88.0550003052,
+    "low": 85.6544036865,
+    "close": 86.5,
+    "volume": 171281.0,
+    "wedge_status": "none"
   }
 ]

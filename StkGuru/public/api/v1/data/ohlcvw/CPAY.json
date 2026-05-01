@@ -7508,5 +7508,15 @@
     "close": 306.4700012207,
     "volume": 335973.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "CPAY",
+    "open": 309.5,
+    "high": 309.5,
+    "low": 305.0599975586,
+    "close": 307.2200012207,
+    "volume": 200022.0,
+    "wedge_status": "none"
   }
 ]

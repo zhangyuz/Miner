@@ -7508,5 +7508,15 @@
     "close": 128.4299926758,
     "volume": 2376887.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "AWK",
+    "open": 129.4799957275,
+    "high": 129.4049987793,
+    "low": 127.0,
+    "close": 127.375,
+    "volume": 1224948.0,
+    "wedge_status": "none"
   }
 ]

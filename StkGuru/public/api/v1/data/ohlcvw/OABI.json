@@ -7508,5 +7508,15 @@
     "close": 1.3899999857,
     "volume": 700357.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "OABI",
+    "open": 1.3899999857,
+    "high": 1.4199999571,
+    "low": 1.3550000191,
+    "close": 1.3999999762,
+    "volume": 510163.0,
+    "wedge_status": "none"
   }
 ]

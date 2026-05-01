@@ -7508,5 +7508,15 @@
     "close": 34.75,
     "volume": 1390645.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "TYRA",
+    "open": 34.7700004578,
+    "high": 35.6800003052,
+    "low": 33.7750015259,
+    "close": 34.0400009155,
+    "volume": 735975.0,
+    "wedge_status": "none"
   }
 ]

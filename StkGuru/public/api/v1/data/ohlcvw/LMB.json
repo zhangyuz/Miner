@@ -7508,5 +7508,15 @@
     "close": 99.7699966431,
     "volume": 194554.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "LMB",
+    "open": 100.2699966431,
+    "high": 101.75,
+    "low": 96.2399978638,
+    "close": 99.1699981689,
+    "volume": 98307.0,
+    "wedge_status": "none"
   }
 ]

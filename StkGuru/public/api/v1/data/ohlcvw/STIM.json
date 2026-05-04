@@ -7488,5 +7488,15 @@
     "close": 2.0199999809,
     "volume": 3845665.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "STIM",
+    "open": 2.0199999809,
+    "high": 2.0999999046,
+    "low": 2.0,
+    "close": 2.0199999809,
+    "volume": 2117249.0,
+    "wedge_status": "none"
   }
 ]

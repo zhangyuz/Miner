@@ -378,5 +378,15 @@
     "close": 11.9300003052,
     "volume": 13798173.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "VISN",
+    "open": 11.9079999924,
+    "high": 12.4200000763,
+    "low": 11.875,
+    "close": 12.3599996567,
+    "volume": 11341470.0,
+    "wedge_status": "none"
   }
 ]

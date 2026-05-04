@@ -7488,5 +7488,15 @@
     "close": 1.3500000238,
     "volume": 1078129.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "LUNG",
+    "open": 1.3400000334,
+    "high": 1.4299999475,
+    "low": 1.3200000525,
+    "close": 1.3300000429,
+    "volume": 694024.0,
+    "wedge_status": "none"
   }
 ]

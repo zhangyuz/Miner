@@ -7488,5 +7488,15 @@
     "close": 28.5100002289,
     "volume": 4354540.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "LKQ",
+    "open": 28.5,
+    "high": 28.5149993896,
+    "low": 27.2299995422,
+    "close": 27.75,
+    "volume": 4088410.0,
+    "wedge_status": "none"
   }
 ]

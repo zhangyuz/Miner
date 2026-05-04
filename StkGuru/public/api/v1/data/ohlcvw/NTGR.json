@@ -7488,5 +7488,15 @@
     "close": 25.25,
     "volume": 477844.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "NTGR",
+    "open": 25.0,
+    "high": 25.0550003052,
+    "low": 24.4500007629,
+    "close": 24.7099990845,
+    "volume": 372673.0,
+    "wedge_status": "drop"
   }
 ]

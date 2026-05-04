@@ -7488,5 +7488,15 @@
     "close": 256.3399963379,
     "volume": 1536765.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "WTW",
+    "open": 253.6699981689,
+    "high": 260.25,
+    "low": 252.75,
+    "close": 260.0199890137,
+    "volume": 1112038.0,
+    "wedge_status": "none"
   }
 ]

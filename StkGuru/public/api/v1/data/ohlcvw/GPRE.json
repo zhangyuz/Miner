@@ -7488,5 +7488,15 @@
     "close": 17.7600002289,
     "volume": 1235123.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "GPRE",
+    "open": 17.5,
+    "high": 18.0900001526,
+    "low": 17.3500003815,
+    "close": 18.0699996948,
+    "volume": 1149198.0,
+    "wedge_status": "none"
   }
 ]

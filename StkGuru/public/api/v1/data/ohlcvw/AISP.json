@@ -7488,5 +7488,15 @@
     "close": 2.4400000572,
     "volume": 480232.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "AISP",
+    "open": 2.4200000763,
+    "high": 2.5850000381,
+    "low": 2.4121999741,
+    "close": 2.5,
+    "volume": 390125.0,
+    "wedge_status": "none"
   }
 ]

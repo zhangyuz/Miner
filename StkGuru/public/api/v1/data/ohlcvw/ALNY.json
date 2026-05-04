@@ -7488,5 +7488,15 @@
     "close": 296.1099853516,
     "volume": 947080.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "ALNY",
+    "open": 298.0,
+    "high": 300.4899902344,
+    "low": 288.0549926758,
+    "close": 297.924987793,
+    "volume": 1572486.0,
+    "wedge_status": "none"
   }
 ]

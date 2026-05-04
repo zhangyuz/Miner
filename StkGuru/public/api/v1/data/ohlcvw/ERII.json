@@ -7488,5 +7488,15 @@
     "close": 11.0399999619,
     "volume": 785516.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "ERII",
+    "open": 11.0200004578,
+    "high": 11.1899995804,
+    "low": 10.9689998627,
+    "close": 11.0,
+    "volume": 589490.0,
+    "wedge_status": "none"
   }
 ]

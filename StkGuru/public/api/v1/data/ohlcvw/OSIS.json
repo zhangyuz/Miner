@@ -7488,5 +7488,15 @@
     "close": 282.5,
     "volume": 185185.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "OSIS",
+    "open": 280.4200134277,
+    "high": 286.4899902344,
+    "low": 274.3200073242,
+    "close": 282.8699951172,
+    "volume": 237246.0,
+    "wedge_status": "none"
   }
 ]

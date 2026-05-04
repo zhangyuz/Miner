@@ -7488,5 +7488,15 @@
     "close": 127.1900024414,
     "volume": 1597636.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "IRM",
+    "open": 126.8199996948,
+    "high": 128.25,
+    "low": 126.5,
+    "close": 128.2200012207,
+    "volume": 1091111.0,
+    "wedge_status": "none"
   }
 ]

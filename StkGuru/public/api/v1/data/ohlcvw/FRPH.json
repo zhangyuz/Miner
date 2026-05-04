@@ -7488,5 +7488,15 @@
     "close": 21.0200004578,
     "volume": 31010.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "FRPH",
+    "open": 21.0,
+    "high": 21.2099990845,
+    "low": 20.6168994904,
+    "close": 20.8999996185,
+    "volume": 105614.0,
+    "wedge_status": "none"
   }
 ]

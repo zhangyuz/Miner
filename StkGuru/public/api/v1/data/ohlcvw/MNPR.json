@@ -7488,5 +7488,15 @@
     "close": 53.25,
     "volume": 78461.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "MNPR",
+    "open": 53.6699981689,
+    "high": 54.8199996948,
+    "low": 53.2599983215,
+    "close": 54.6399993896,
+    "volume": 68512.0,
+    "wedge_status": "pop"
   }
 ]

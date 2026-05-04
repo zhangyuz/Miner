@@ -7488,5 +7488,15 @@
     "close": 23.5599994659,
     "volume": 14483.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "HNVR",
+    "open": 23.5499992371,
+    "high": 23.5499992371,
+    "low": 23.1550006866,
+    "close": 23.25,
+    "volume": 12689.0,
+    "wedge_status": "none"
   }
 ]

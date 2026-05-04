@@ -7488,5 +7488,15 @@
     "close": 46.5,
     "volume": 6787188.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "EXC",
+    "open": 46.0299987793,
+    "high": 46.7449989319,
+    "low": 45.9850006104,
+    "close": 46.6100006104,
+    "volume": 6466110.0,
+    "wedge_status": "none"
   }
 ]

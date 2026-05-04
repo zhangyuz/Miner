@@ -7488,5 +7488,15 @@
     "close": 29.0200004578,
     "volume": 955413.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "ATRC",
+    "open": 28.7099990845,
+    "high": 29.375,
+    "low": 28.5,
+    "close": 28.7800006866,
+    "volume": 1299219.0,
+    "wedge_status": "none"
   }
 ]

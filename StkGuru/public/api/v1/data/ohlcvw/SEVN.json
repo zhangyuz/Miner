@@ -7488,5 +7488,15 @@
     "close": 8.3299999237,
     "volume": 119786.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "SEVN",
+    "open": 8.3299999237,
+    "high": 8.4399995804,
+    "low": 8.2150001526,
+    "close": 8.25,
+    "volume": 74810.0,
+    "wedge_status": "none"
   }
 ]

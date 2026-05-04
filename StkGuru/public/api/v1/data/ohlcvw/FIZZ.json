@@ -7488,5 +7488,15 @@
     "close": 34.1100006104,
     "volume": 156536.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "FIZZ",
+    "open": 33.8300018311,
+    "high": 34.75,
+    "low": 33.7799987793,
+    "close": 34.7299995422,
+    "volume": 194487.0,
+    "wedge_status": "none"
   }
 ]

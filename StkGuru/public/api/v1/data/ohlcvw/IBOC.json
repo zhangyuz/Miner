@@ -7488,5 +7488,15 @@
     "close": 71.6600036621,
     "volume": 273909.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "IBOC",
+    "open": 71.25,
+    "high": 71.6999969482,
+    "low": 70.6650009155,
+    "close": 71.1200027466,
+    "volume": 244423.0,
+    "wedge_status": "none"
   }
 ]

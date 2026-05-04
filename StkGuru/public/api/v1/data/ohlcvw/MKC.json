@@ -7488,5 +7488,15 @@
     "close": 50.2400016785,
     "volume": 1919682.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "MKC",
+    "open": 50.0299987793,
+    "high": 50.0699996948,
+    "low": 48.0,
+    "close": 48.0200004578,
+    "volume": 2730236.0,
+    "wedge_status": "none"
   }
 ]

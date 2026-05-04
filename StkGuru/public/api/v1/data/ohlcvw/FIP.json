@@ -7488,5 +7488,15 @@
     "close": 5.7199997902,
     "volume": 1595220.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "FIP",
+    "open": 5.75,
+    "high": 5.7699999809,
+    "low": 5.3000001907,
+    "close": 5.3000001907,
+    "volume": 1142454.0,
+    "wedge_status": "drop"
   }
 ]

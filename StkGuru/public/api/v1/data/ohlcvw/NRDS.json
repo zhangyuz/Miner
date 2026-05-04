@@ -7488,5 +7488,15 @@
     "close": 11.0100002289,
     "volume": 569813.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "NRDS",
+    "open": 10.9799995422,
+    "high": 11.25,
+    "low": 10.8299999237,
+    "close": 10.8999996185,
+    "volume": 580900.0,
+    "wedge_status": "none"
   }
 ]

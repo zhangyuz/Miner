@@ -7488,5 +7488,15 @@
     "close": 67.6200027466,
     "volume": 6140970.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "CARR",
+    "open": 67.1699981689,
+    "high": 67.6200027466,
+    "low": 65.125,
+    "close": 65.8899993896,
+    "volume": 4062201.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 1.9400000572,
     "volume": 13459126.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "CMPX",
+    "open": 1.9400000572,
+    "high": 2.0,
+    "low": 1.8415999413,
+    "close": 1.9500000477,
+    "volume": 7556915.0,
+    "wedge_status": "none"
   }
 ]

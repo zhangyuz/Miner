@@ -7498,5 +7498,15 @@
     "close": 47.3199996948,
     "volume": 1238642.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "GLPI",
+    "open": 47.3499984741,
+    "high": 47.9650001526,
+    "low": 47.3301010132,
+    "close": 47.75,
+    "volume": 964953.0,
+    "wedge_status": "none"
   }
 ]

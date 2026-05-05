@@ -7498,5 +7498,15 @@
     "close": 141.7799987793,
     "volume": 100077.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "SENEA",
+    "open": 142.0,
+    "high": 147.7599945068,
+    "low": 140.4900054932,
+    "close": 146.6000061035,
+    "volume": 182539.0,
+    "wedge_status": "none"
   }
 ]

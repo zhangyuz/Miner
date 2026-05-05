@@ -7498,5 +7498,15 @@
     "close": 357.799987793,
     "volume": 5012666.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "FDX",
+    "open": 357.0,
+    "high": 365.549987793,
+    "low": 357.0,
+    "close": 362.75,
+    "volume": 1836468.0,
+    "wedge_status": "none"
   }
 ]

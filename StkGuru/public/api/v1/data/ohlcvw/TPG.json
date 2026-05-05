@@ -7498,5 +7498,15 @@
     "close": 45.0299987793,
     "volume": 3266479.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "TPG",
+    "open": 45.0,
+    "high": 46.8899993896,
+    "low": 44.4199981689,
+    "close": 45.6100006104,
+    "volume": 3489721.0,
+    "wedge_status": "none"
   }
 ]

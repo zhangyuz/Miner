@@ -908,5 +908,15 @@
     "close": 81.0699996948,
     "volume": 1212340.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "SOLS",
+    "open": 83.0,
+    "high": 84.9899978638,
+    "low": 82.6149978638,
+    "close": 83.5599975586,
+    "volume": 2814016.0,
+    "wedge_status": "none"
   }
 ]

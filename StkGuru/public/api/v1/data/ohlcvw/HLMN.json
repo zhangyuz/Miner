@@ -7498,5 +7498,15 @@
     "close": 7.5,
     "volume": 1140884.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "HLMN",
+    "open": 7.5700001717,
+    "high": 7.7950000763,
+    "low": 7.5315999985,
+    "close": 7.75,
+    "volume": 970580.0,
+    "wedge_status": "none"
   }
 ]

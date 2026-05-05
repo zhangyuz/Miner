@@ -7498,5 +7498,15 @@
     "close": 138.7599945068,
     "volume": 1530978.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "PLD",
+    "open": 139.0,
+    "high": 140.4550018311,
+    "low": 138.0,
+    "close": 140.2700042725,
+    "volume": 1253374.0,
+    "wedge_status": "none"
   }
 ]

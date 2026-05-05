@@ -7498,5 +7498,15 @@
     "close": 100.1200027466,
     "volume": 370561.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "ADUS",
+    "open": 94.5,
+    "high": 98.6600036621,
+    "low": 90.9000015259,
+    "close": 98.4400024414,
+    "volume": 621751.0,
+    "wedge_status": "none"
   }
 ]

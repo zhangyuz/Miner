@@ -7498,5 +7498,15 @@
     "close": 13.0,
     "volume": 336465.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "LOCO",
+    "open": 13.0,
+    "high": 13.1999998093,
+    "low": 12.9525003433,
+    "close": 13.0900001526,
+    "volume": 163503.0,
+    "wedge_status": "none"
   }
 ]

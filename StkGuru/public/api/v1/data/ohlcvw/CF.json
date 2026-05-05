@@ -7498,5 +7498,15 @@
     "close": 125.8899993896,
     "volume": 2644525.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "CF",
+    "open": 126.0,
+    "high": 129.0,
+    "low": 125.5413970947,
+    "close": 128.0399932861,
+    "volume": 2394589.0,
+    "wedge_status": "none"
   }
 ]

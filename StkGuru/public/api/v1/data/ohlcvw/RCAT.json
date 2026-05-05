@@ -7498,5 +7498,15 @@
     "close": 11.0,
     "volume": 6315786.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "RCAT",
+    "open": 11.0200004578,
+    "high": 11.029999733,
+    "low": 10.0799999237,
+    "close": 10.4300003052,
+    "volume": 11680497.0,
+    "wedge_status": "none"
   }
 ]

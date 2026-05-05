@@ -7498,5 +7498,15 @@
     "close": 16.9300003052,
     "volume": 3022451.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "NVCR",
+    "open": 16.5625,
+    "high": 16.7600002289,
+    "low": 15.7849998474,
+    "close": 15.8800001144,
+    "volume": 1933128.0,
+    "wedge_status": "none"
   }
 ]

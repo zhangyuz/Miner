@@ -1048,5 +1048,15 @@
     "close": 4.9400000572,
     "volume": 12520352.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "FRMI",
+    "open": 5.0,
+    "high": 5.7600002289,
+    "low": 5.0,
+    "close": 5.5599999428,
+    "volume": 17226890.0,
+    "wedge_status": "none"
   }
 ]

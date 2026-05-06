@@ -7508,5 +7508,15 @@
     "close": 342.75,
     "volume": 2111392.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "WAT",
+    "open": 344.0,
+    "high": 353.5299987793,
+    "low": 341.1849975586,
+    "close": 349.5299987793,
+    "volume": 1550188.0,
+    "wedge_status": "none"
   }
 ]

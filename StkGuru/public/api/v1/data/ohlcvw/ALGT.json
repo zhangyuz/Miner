@@ -7508,5 +7508,15 @@
     "close": 75.75,
     "volume": 458404.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "ALGT",
+    "open": 80.3600006104,
+    "high": 82.6200027466,
+    "low": 79.0,
+    "close": 80.0800018311,
+    "volume": 477328.0,
+    "wedge_status": "none"
   }
 ]

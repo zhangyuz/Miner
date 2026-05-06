@@ -7508,5 +7508,15 @@
     "close": 82.1500015259,
     "volume": 452668.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "SIGI",
+    "open": 82.3899993896,
+    "high": 83.6299972534,
+    "low": 82.3500976562,
+    "close": 83.0,
+    "volume": 381549.0,
+    "wedge_status": "none"
   }
 ]

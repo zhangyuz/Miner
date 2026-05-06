@@ -7508,5 +7508,15 @@
     "close": 51.0699996948,
     "volume": 19963.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "PLBC",
+    "open": 51.5400009155,
+    "high": 52.0,
+    "low": 51.3600006104,
+    "close": 51.6749992371,
+    "volume": 18845.0,
+    "wedge_status": "pop"
   }
 ]

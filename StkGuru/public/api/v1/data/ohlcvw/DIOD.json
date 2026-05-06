@@ -7508,5 +7508,15 @@
     "close": 112.5,
     "volume": 659582.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "DIOD",
+    "open": 114.3499984741,
+    "high": 116.4899978638,
+    "low": 112.4499969482,
+    "close": 116.0500030518,
+    "volume": 752036.0,
+    "wedge_status": "none"
   }
 ]

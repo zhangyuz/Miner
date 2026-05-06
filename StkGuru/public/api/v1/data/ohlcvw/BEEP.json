@@ -6298,5 +6298,15 @@
     "close": 1.8799999952,
     "volume": 19814.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "BEEP",
+    "open": 1.8300000429,
+    "high": 1.9665999413,
+    "low": 1.8099999428,
+    "close": 1.8200000525,
+    "volume": 15053.0,
+    "wedge_status": "none"
   }
 ]

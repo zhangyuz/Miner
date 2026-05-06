@@ -4638,5 +4638,15 @@
     "close": 53.2200012207,
     "volume": 902137.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "MRX",
+    "open": 52.5,
+    "high": 53.9999008179,
+    "low": 47.8100013733,
+    "close": 50.0800018311,
+    "volume": 2559915.0,
+    "wedge_status": "drop"
   }
 ]

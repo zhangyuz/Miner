@@ -7508,5 +7508,15 @@
     "close": 25.4400005341,
     "volume": 4866194.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "NWSA",
+    "open": 25.75,
+    "high": 26.5550003052,
+    "low": 25.7000007629,
+    "close": 26.2000007629,
+    "volume": 5739708.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 315.9899902344,
     "volume": 2037905.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "AXP",
+    "open": 320.0,
+    "high": 324.7799987793,
+    "low": 320.0,
+    "close": 321.9599914551,
+    "volume": 1891165.0,
+    "wedge_status": "none"
   }
 ]

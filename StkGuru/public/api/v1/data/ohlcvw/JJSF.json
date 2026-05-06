@@ -7508,5 +7508,15 @@
     "close": 84.5899963379,
     "volume": 150600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "JJSF",
+    "open": 81.3899993896,
+    "high": 81.3899993896,
+    "low": 75.0,
+    "close": 78.6600036621,
+    "volume": 446213.0,
+    "wedge_status": "drop"
   }
 ]

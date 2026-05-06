@@ -7508,5 +7508,15 @@
     "close": 63.0200004578,
     "volume": 157230.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "BHRB",
+    "open": 63.6100006104,
+    "high": 64.5,
+    "low": 63.25,
+    "close": 63.3499984741,
+    "volume": 94674.0,
+    "wedge_status": "none"
   }
 ]

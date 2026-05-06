@@ -7508,5 +7508,15 @@
     "close": 8.6099996567,
     "volume": 539397.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "ADAM",
+    "open": 8.5500001907,
+    "high": 8.8500003815,
+    "low": 8.5450000763,
+    "close": 8.8299999237,
+    "volume": 637940.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 170.25,
     "volume": 8984064.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "ANET",
+    "open": 153.0,
+    "high": 154.8300018311,
+    "low": 140.5800018311,
+    "close": 147.0110015869,
+    "volume": 34924829.0,
+    "wedge_status": "drop"
   }
 ]

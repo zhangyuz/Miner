@@ -7508,5 +7508,15 @@
     "close": 181.5099945068,
     "volume": 177108.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "DXPE",
+    "open": 162.9499969482,
+    "high": 170.0,
+    "low": 144.4600067139,
+    "close": 150.0200042725,
+    "volume": 361675.0,
+    "wedge_status": "drop"
   }
 ]

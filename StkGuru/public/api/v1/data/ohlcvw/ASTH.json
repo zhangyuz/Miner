@@ -7508,5 +7508,15 @@
     "close": 35.25,
     "volume": 313640.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "ASTH",
+    "open": 35.2599983215,
+    "high": 36.2000007629,
+    "low": 35.1300010681,
+    "close": 36.0800018311,
+    "volume": 604597.0,
+    "wedge_status": "none"
   }
 ]

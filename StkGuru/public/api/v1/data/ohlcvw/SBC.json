@@ -7508,5 +7508,15 @@
     "close": 3.2200000286,
     "volume": 107657.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "SBC",
+    "open": 3.25,
+    "high": 3.25,
+    "low": 3.1800000668,
+    "close": 3.2100000381,
+    "volume": 65210.0,
+    "wedge_status": "none"
   }
 ]

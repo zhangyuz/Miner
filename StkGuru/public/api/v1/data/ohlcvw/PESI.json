@@ -7508,5 +7508,15 @@
     "close": 11.779999733,
     "volume": 483266.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "PESI",
+    "open": 11.5399999619,
+    "high": 11.6899995804,
+    "low": 11.0,
+    "close": 11.1700000763,
+    "volume": 271707.0,
+    "wedge_status": "none"
   }
 ]

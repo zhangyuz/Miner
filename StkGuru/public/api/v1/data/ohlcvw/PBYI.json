@@ -7508,5 +7508,15 @@
     "close": 7.4499998093,
     "volume": 482133.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "PBYI",
+    "open": 7.5199999809,
+    "high": 7.5199999809,
+    "low": 7.0199999809,
+    "close": 7.2600002289,
+    "volume": 342213.0,
+    "wedge_status": "drop"
   }
 ]

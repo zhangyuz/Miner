@@ -7508,5 +7508,15 @@
     "close": 73.4800033569,
     "volume": 6286130.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "LYB",
+    "open": 71.4400024414,
+    "high": 72.5,
+    "low": 70.2300033569,
+    "close": 71.5100021362,
+    "volume": 6210925.0,
+    "wedge_status": "drop"
   }
 ]

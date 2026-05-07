@@ -7508,5 +7508,15 @@
     "close": 26.75,
     "volume": 24008.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "CFBK",
+    "open": 26.7800006866,
+    "high": 27.5,
+    "low": 26.7800006866,
+    "close": 27.3600006104,
+    "volume": 24938.0,
+    "wedge_status": "none"
   }
 ]

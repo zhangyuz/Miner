@@ -7508,5 +7508,15 @@
     "close": 12.9200000763,
     "volume": 3439416.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "RLAY",
+    "open": 12.9200000763,
+    "high": 12.9200000763,
+    "low": 12.25,
+    "close": 12.5100002289,
+    "volume": 3204717.0,
+    "wedge_status": "none"
   }
 ]

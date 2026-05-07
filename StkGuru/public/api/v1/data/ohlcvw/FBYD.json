@@ -6028,5 +6028,15 @@
     "close": 12.0,
     "volume": 66296.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "FBYD",
+    "open": 11.5200004578,
+    "high": 13.3400001526,
+    "low": 11.5200004578,
+    "close": 12.4799995422,
+    "volume": 65560.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 4.3000001907,
     "volume": 184027.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "SGHT",
+    "open": 4.3600001335,
+    "high": 5.4000000954,
+    "low": 4.3600001335,
+    "close": 5.2899999619,
+    "volume": 428813.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 90.2399978638,
     "volume": 1942277.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "CCI",
+    "open": 90.0,
+    "high": 91.3499984741,
+    "low": 89.8850021362,
+    "close": 91.0699996948,
+    "volume": 2332021.0,
+    "wedge_status": "none"
   }
 ]

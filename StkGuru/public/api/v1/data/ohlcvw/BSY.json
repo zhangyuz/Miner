@@ -7508,5 +7508,15 @@
     "close": 32.0699996948,
     "volume": 2896406.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "BSY",
+    "open": 32.5,
+    "high": 34.6100006104,
+    "low": 32.0200004578,
+    "close": 33.6199989319,
+    "volume": 2704065.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 40.7099990845,
     "volume": 266576.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "FRME",
+    "open": 40.75,
+    "high": 41.0800018311,
+    "low": 40.4000015259,
+    "close": 40.5099983215,
+    "volume": 252299.0,
+    "wedge_status": "none"
   }
 ]

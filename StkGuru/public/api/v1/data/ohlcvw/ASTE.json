@@ -7508,5 +7508,15 @@
     "close": 53.0,
     "volume": 319372.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "ASTE",
+    "open": 53.0099983215,
+    "high": 54.0,
+    "low": 51.1399993896,
+    "close": 53.3400001526,
+    "volume": 305647.0,
+    "wedge_status": "none"
   }
 ]

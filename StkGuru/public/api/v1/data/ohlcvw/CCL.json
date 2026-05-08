@@ -7508,5 +7508,15 @@
     "close": 27.0,
     "volume": 21291580.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "CCL",
+    "open": 27.2000007629,
+    "high": 27.2900009155,
+    "low": 26.25,
+    "close": 26.3799991608,
+    "volume": 19736495.0,
+    "wedge_status": "none"
   }
 ]

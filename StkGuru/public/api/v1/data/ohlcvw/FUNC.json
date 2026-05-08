@@ -7508,5 +7508,15 @@
     "close": 38.1800003052,
     "volume": 9010.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "FUNC",
+    "open": 38.0050010681,
+    "high": 38.2999992371,
+    "low": 37.7000007629,
+    "close": 38.2999992371,
+    "volume": 5437.0,
+    "wedge_status": "none"
   }
 ]

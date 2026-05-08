@@ -7508,5 +7508,15 @@
     "close": 19.2900009155,
     "volume": 369580.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "NPCE",
+    "open": 19.5,
+    "high": 19.6000003815,
+    "low": 18.3199996948,
+    "close": 18.3500003815,
+    "volume": 327669.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 295.0,
     "volume": 826164.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "APD",
+    "open": 295.7699890137,
+    "high": 299.5,
+    "low": 295.25,
+    "close": 295.3599853516,
+    "volume": 456179.0,
+    "wedge_status": "none"
   }
 ]

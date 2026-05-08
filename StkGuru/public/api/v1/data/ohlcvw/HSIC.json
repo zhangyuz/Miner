@@ -7508,5 +7508,15 @@
     "close": 70.5,
     "volume": 2373246.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "HSIC",
+    "open": 70.6699981689,
+    "high": 71.3499984741,
+    "low": 69.3399963379,
+    "close": 70.8199996948,
+    "volume": 1399131.0,
+    "wedge_status": "none"
   }
 ]

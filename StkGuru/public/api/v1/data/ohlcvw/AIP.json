@@ -7508,5 +7508,15 @@
     "close": 29.75,
     "volume": 847001.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "AIP",
+    "open": 30.2299995422,
+    "high": 32.0699996948,
+    "low": 29.2900009155,
+    "close": 31.8600006104,
+    "volume": 1121669.0,
+    "wedge_status": "none"
   }
 ]

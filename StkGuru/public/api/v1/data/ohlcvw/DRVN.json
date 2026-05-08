@@ -7508,5 +7508,15 @@
     "close": 13.75,
     "volume": 1097174.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "DRVN",
+    "open": 13.75,
+    "high": 13.7600002289,
+    "low": 13.0699996948,
+    "close": 13.4099998474,
+    "volume": 1403824.0,
+    "wedge_status": "none"
   }
 ]

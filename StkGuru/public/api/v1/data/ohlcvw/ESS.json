@@ -7508,5 +7508,15 @@
     "close": 267.3699951172,
     "volume": 209792.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "ESS",
+    "open": 267.25,
+    "high": 267.3900146484,
+    "low": 263.5,
+    "close": 263.549987793,
+    "volume": 215269.0,
+    "wedge_status": "none"
   }
 ]

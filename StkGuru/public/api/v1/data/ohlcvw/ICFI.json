@@ -7508,5 +7508,15 @@
     "close": 74.5,
     "volume": 513003.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "ICFI",
+    "open": 74.5,
+    "high": 75.2949981689,
+    "low": 66.8099975586,
+    "close": 69.6100006104,
+    "volume": 838931.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 57.5699996948,
     "volume": 17146.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "FRAF",
+    "open": 57.3800010681,
+    "high": 58.7900009155,
+    "low": 57.3199996948,
+    "close": 58.5,
+    "volume": 44035.0,
+    "wedge_status": "none"
   }
 ]

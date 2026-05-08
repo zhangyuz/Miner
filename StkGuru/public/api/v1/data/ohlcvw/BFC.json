@@ -7508,5 +7508,15 @@
     "close": 145.0,
     "volume": 60357.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "BFC",
+    "open": 145.0,
+    "high": 146.7599945068,
+    "low": 144.5299987793,
+    "close": 146.6199951172,
+    "volume": 52281.0,
+    "wedge_status": "none"
   }
 ]

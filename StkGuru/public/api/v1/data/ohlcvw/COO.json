@@ -7508,5 +7508,15 @@
     "close": 61.1100006104,
     "volume": 1954925.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "COO",
+    "open": 61.2099990845,
+    "high": 61.4700012207,
+    "low": 59.6800003052,
+    "close": 60.0,
+    "volume": 2127486.0,
+    "wedge_status": "none"
   }
 ]

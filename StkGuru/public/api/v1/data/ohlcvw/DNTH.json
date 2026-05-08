@@ -7508,5 +7508,15 @@
     "close": 85.4700012207,
     "volume": 987348.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "DNTH",
+    "open": 85.4700012207,
+    "high": 88.7399978638,
+    "low": 85.0,
+    "close": 86.7099990845,
+    "volume": 434448.0,
+    "wedge_status": "none"
   }
 ]

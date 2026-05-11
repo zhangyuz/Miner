@@ -7488,5 +7488,15 @@
     "close": 40.0400009155,
     "volume": 906929.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "CLFD",
+    "open": 40.5,
+    "high": 46.7400016785,
+    "low": 40.5,
+    "close": 46.7299995422,
+    "volume": 877290.0,
+    "wedge_status": "none"
   }
 ]

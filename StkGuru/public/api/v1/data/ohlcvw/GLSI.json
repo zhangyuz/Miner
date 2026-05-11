@@ -7488,5 +7488,15 @@
     "close": 22.8600006104,
     "volume": 74561.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "GLSI",
+    "open": 23.2000007629,
+    "high": 26.0,
+    "low": 23.2000007629,
+    "close": 24.1299991608,
+    "volume": 260489.0,
+    "wedge_status": "none"
   }
 ]

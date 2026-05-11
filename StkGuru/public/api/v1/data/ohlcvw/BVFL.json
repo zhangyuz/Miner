@@ -7488,5 +7488,15 @@
     "close": 20.0,
     "volume": 18656.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 19.8299999237,
+    "high": 20.1145000458,
+    "low": 19.5799999237,
+    "close": 19.8400001526,
+    "volume": 11837.0,
+    "wedge_status": "none"
   }
 ]

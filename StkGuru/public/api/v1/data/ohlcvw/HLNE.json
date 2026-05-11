@@ -7488,5 +7488,15 @@
     "close": 89.0,
     "volume": 762232.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "HLNE",
+    "open": 88.8600006104,
+    "high": 89.9950027466,
+    "low": 87.6399993896,
+    "close": 88.5599975586,
+    "volume": 698137.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 51.8899993896,
     "volume": 884587.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "CBSH",
+    "open": 51.9799995422,
+    "high": 52.0900001526,
+    "low": 50.75,
+    "close": 50.9799995422,
+    "volume": 1071154.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 9.4200000763,
     "volume": 888922.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "KURA",
+    "open": 9.5100002289,
+    "high": 9.9399995804,
+    "low": 9.5100002289,
+    "close": 9.5100002289,
+    "volume": 1173017.0,
+    "wedge_status": "none"
   }
 ]

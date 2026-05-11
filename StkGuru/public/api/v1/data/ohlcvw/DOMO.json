@@ -7488,5 +7488,15 @@
     "close": 3.8399999142,
     "volume": 494747.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "DOMO",
+    "open": 3.7516000271,
+    "high": 3.8845999241,
+    "low": 3.5950000286,
+    "close": 3.6700000763,
+    "volume": 518463.0,
+    "wedge_status": "drop"
   }
 ]

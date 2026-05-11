@@ -7488,5 +7488,15 @@
     "close": 7.3000001907,
     "volume": 22210946.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "WEN",
+    "open": 7.0100002289,
+    "high": 7.1599998474,
+    "low": 6.75,
+    "close": 6.7600002289,
+    "volume": 10702569.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 6.2899999619,
     "volume": 136274.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "CD",
+    "open": 6.5,
+    "high": 6.5,
+    "low": 5.8099999428,
+    "close": 6.0199999809,
+    "volume": 75339.0,
+    "wedge_status": "none"
   }
 ]

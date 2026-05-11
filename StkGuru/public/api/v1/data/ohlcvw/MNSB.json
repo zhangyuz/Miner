@@ -7488,5 +7488,15 @@
     "close": 23.5,
     "volume": 22494.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "MNSB",
+    "open": 23.5900001526,
+    "high": 23.7299995422,
+    "low": 22.8500003815,
+    "close": 22.8500003815,
+    "volume": 34721.0,
+    "wedge_status": "drop"
   }
 ]

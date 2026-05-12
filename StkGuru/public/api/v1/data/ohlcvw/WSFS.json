@@ -7498,5 +7498,15 @@
     "close": 70.9599990845,
     "volume": 525023.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "WSFS",
+    "open": 71.0,
+    "high": 71.0,
+    "low": 68.9749984741,
+    "close": 70.4199981689,
+    "volume": 388644.0,
+    "wedge_status": "drop"
   }
 ]

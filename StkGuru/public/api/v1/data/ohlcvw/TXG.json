@@ -7498,5 +7498,15 @@
     "close": 20.5,
     "volume": 2878686.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "TXG",
+    "open": 20.5,
+    "high": 21.2024993896,
+    "low": 20.2700004578,
+    "close": 20.9200000763,
+    "volume": 2547655.0,
+    "wedge_status": "none"
   }
 ]

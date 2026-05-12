@@ -7498,5 +7498,15 @@
     "close": 19.5300006866,
     "volume": 209335.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "RMR",
+    "open": 19.4099998474,
+    "high": 19.4099998474,
+    "low": 18.9099998474,
+    "close": 19.25,
+    "volume": 139385.0,
+    "wedge_status": "none"
   }
 ]

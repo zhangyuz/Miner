@@ -7498,5 +7498,15 @@
     "close": 11.0,
     "volume": 142726.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "EVCM",
+    "open": 11.0,
+    "high": 11.0,
+    "low": 10.0900001526,
+    "close": 10.1099996567,
+    "volume": 118502.0,
+    "wedge_status": "none"
   }
 ]

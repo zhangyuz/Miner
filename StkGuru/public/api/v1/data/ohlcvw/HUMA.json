@@ -7498,5 +7498,15 @@
     "close": 1.0,
     "volume": 7865769.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "HUMA",
+    "open": 0.9700000286,
+    "high": 0.9847000241,
+    "low": 0.9100000262,
+    "close": 0.9100000262,
+    "volume": 4637660.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 4.25,
     "volume": 1403449.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "TLS",
+    "open": 4.1999998093,
+    "high": 4.4699997902,
+    "low": 4.0999999046,
+    "close": 4.3699998856,
+    "volume": 838407.0,
+    "wedge_status": "none"
   }
 ]

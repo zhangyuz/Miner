@@ -7498,5 +7498,15 @@
     "close": 28.7000007629,
     "volume": 780662.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "TILE",
+    "open": 28.75,
+    "high": 28.7999992371,
+    "low": 27.6299991608,
+    "close": 28.1299991608,
+    "volume": 555305.0,
+    "wedge_status": "none"
   }
 ]

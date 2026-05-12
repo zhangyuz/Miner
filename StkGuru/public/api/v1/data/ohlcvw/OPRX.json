@@ -7498,5 +7498,15 @@
     "close": 6.2100000381,
     "volume": 298224.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "OPRX",
+    "open": 6.1199998856,
+    "high": 6.4800000191,
+    "low": 6.0999999046,
+    "close": 6.3400001526,
+    "volume": 601340.0,
+    "wedge_status": "none"
   }
 ]

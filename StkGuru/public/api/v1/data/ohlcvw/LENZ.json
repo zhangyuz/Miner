@@ -7498,5 +7498,15 @@
     "close": 9.9899997711,
     "volume": 701307.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "LENZ",
+    "open": 7.5700001717,
+    "high": 8.3199996948,
+    "low": 6.8299999237,
+    "close": 7.9099998474,
+    "volume": 2332429.0,
+    "wedge_status": "drop"
   }
 ]

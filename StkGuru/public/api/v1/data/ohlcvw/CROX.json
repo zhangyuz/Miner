@@ -7498,5 +7498,15 @@
     "close": 100.4199981689,
     "volume": 1005733.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "CROX",
+    "open": 100.0,
+    "high": 100.1900024414,
+    "low": 98.5500030518,
+    "close": 99.3199996948,
+    "volume": 1074703.0,
+    "wedge_status": "none"
   }
 ]

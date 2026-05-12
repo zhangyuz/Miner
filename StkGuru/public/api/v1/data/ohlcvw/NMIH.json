@@ -7498,5 +7498,15 @@
     "close": 37.4799995422,
     "volume": 358933.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "NMIH",
+    "open": 37.6599998474,
+    "high": 37.6899986267,
+    "low": 36.75,
+    "close": 37.3899993896,
+    "volume": 427955.0,
+    "wedge_status": "none"
   }
 ]

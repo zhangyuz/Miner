@@ -7498,5 +7498,15 @@
     "close": 512.25,
     "volume": 1038077.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "LMT",
+    "open": 512.5,
+    "high": 522.5100097656,
+    "low": 512.5399780273,
+    "close": 521.0,
+    "volume": 976448.0,
+    "wedge_status": "none"
   }
 ]

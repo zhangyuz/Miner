@@ -7498,5 +7498,15 @@
     "close": 68.9899978638,
     "volume": 104499.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "GSBC",
+    "open": 68.9899978638,
+    "high": 69.3324966431,
+    "low": 67.2900009155,
+    "close": 68.5,
+    "volume": 96145.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 35.6800003052,
     "volume": 16324400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "LUNR",
+    "open": 32.2000007629,
+    "high": 37.25,
+    "low": 32.0579986572,
+    "close": 36.5200004578,
+    "volume": 19066851.0,
+    "wedge_status": "none"
   }
 ]

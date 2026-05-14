@@ -7508,5 +7508,15 @@
     "close": 15.779999733,
     "volume": 51800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "PMTS",
+    "open": 15.5500001907,
+    "high": 16.4099998474,
+    "low": 15.0,
+    "close": 16.1299991608,
+    "volume": 46174.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 12.75,
     "volume": 30689500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "MARA",
+    "open": 12.7100000381,
+    "high": 13.6999998093,
+    "low": 12.4499998093,
+    "close": 13.2899999619,
+    "volume": 51030376.0,
+    "wedge_status": "none"
   }
 ]

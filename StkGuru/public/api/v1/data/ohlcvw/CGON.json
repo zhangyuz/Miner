@@ -5328,5 +5328,15 @@
     "close": 74.0,
     "volume": 729300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "CGON",
+    "open": 74.2300033569,
+    "high": 75.5,
+    "low": 68.0699996948,
+    "close": 69.5350036621,
+    "volume": 1180400.0,
+    "wedge_status": "none"
   }
 ]

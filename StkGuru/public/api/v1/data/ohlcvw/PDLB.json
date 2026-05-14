@@ -7508,5 +7508,15 @@
     "close": 17.5599994659,
     "volume": 39600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "PDLB",
+    "open": 17.852399826,
+    "high": 17.852399826,
+    "low": 17.6100006104,
+    "close": 17.6499996185,
+    "volume": 12995.0,
+    "wedge_status": "none"
   }
 ]

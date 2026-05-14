@@ -7508,5 +7508,15 @@
     "close": 6.2600002289,
     "volume": 145400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "DMAC",
+    "open": 6.2800002098,
+    "high": 6.3649997711,
+    "low": 6.0100998878,
+    "close": 6.3600001335,
+    "volume": 94636.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 19.9099998474,
     "volume": 3635300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "HRL",
+    "open": 20.0100002289,
+    "high": 20.3500003815,
+    "low": 19.9400005341,
+    "close": 20.0,
+    "volume": 3241687.0,
+    "wedge_status": "none"
   }
 ]

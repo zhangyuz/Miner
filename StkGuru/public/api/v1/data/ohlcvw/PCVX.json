@@ -7508,5 +7508,15 @@
     "close": 54.25,
     "volume": 1423800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "PCVX",
+    "open": 54.2599983215,
+    "high": 54.625,
+    "low": 52.9900016785,
+    "close": 53.5299987793,
+    "volume": 1308237.0,
+    "wedge_status": "none"
   }
 ]

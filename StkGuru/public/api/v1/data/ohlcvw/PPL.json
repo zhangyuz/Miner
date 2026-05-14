@@ -7508,5 +7508,15 @@
     "close": 35.75,
     "volume": 8681000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "PPL",
+    "open": 35.75,
+    "high": 35.9900016785,
+    "low": 35.6800003052,
+    "close": 35.7799987793,
+    "volume": 3424575.0,
+    "wedge_status": "none"
   }
 ]

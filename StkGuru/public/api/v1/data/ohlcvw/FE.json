@@ -7508,5 +7508,15 @@
     "close": 44.1199989319,
     "volume": 3858400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "FE",
+    "open": 44.1100006104,
+    "high": 44.625,
+    "low": 44.1100006104,
+    "close": 44.5,
+    "volume": 2196377.0,
+    "wedge_status": "none"
   }
 ]

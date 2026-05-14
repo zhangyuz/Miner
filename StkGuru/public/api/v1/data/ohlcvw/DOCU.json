@@ -7508,5 +7508,15 @@
     "close": 45.0699996948,
     "volume": 3848600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "DOCU",
+    "open": 45.2099990845,
+    "high": 46.2599983215,
+    "low": 44.5999984741,
+    "close": 45.5,
+    "volume": 2872163.0,
+    "wedge_status": "none"
   }
 ]

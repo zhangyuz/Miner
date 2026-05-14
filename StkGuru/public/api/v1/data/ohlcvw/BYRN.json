@@ -7508,5 +7508,15 @@
     "close": 5.0,
     "volume": 341300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "BYRN",
+    "open": 5.0100002289,
+    "high": 5.3099999428,
+    "low": 4.9200000763,
+    "close": 5.1799998283,
+    "volume": 447629.0,
+    "wedge_status": "none"
   }
 ]

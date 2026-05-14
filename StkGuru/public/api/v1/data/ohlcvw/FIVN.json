@@ -7508,5 +7508,15 @@
     "close": 21.1200008392,
     "volume": 7032700.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "FIVN",
+    "open": 21.2150001526,
+    "high": 21.7299003601,
+    "low": 20.6516990662,
+    "close": 20.75,
+    "volume": 3285724.0,
+    "wedge_status": "none"
   }
 ]

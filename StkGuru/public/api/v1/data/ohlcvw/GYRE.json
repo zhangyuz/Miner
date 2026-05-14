@@ -7508,5 +7508,15 @@
     "close": 7.2800002098,
     "volume": 35200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "GYRE",
+    "open": 7.2399997711,
+    "high": 7.3099999428,
+    "low": 6.7399997711,
+    "close": 7.0,
+    "volume": 213019.0,
+    "wedge_status": "none"
   }
 ]

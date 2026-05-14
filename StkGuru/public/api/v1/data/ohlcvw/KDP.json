@@ -7508,5 +7508,15 @@
     "close": 29.3099994659,
     "volume": 8357000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "KDP",
+    "open": 29.4500007629,
+    "high": 29.5,
+    "low": 28.9050006866,
+    "close": 29.1000003815,
+    "volume": 7430619.0,
+    "wedge_status": "none"
   }
 ]

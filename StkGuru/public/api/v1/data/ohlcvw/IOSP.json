@@ -7508,5 +7508,15 @@
     "close": 79.6900024414,
     "volume": 366800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "IOSP",
+    "open": 79.6800003052,
+    "high": 80.8949966431,
+    "low": 79.6800003052,
+    "close": 80.0,
+    "volume": 227881.0,
+    "wedge_status": "none"
   }
 ]

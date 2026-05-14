@@ -4798,5 +4798,15 @@
     "close": 10.8500003815,
     "volume": 42800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "MRDN",
+    "open": 11.1499996185,
+    "high": 11.4399003983,
+    "low": 10.0500001907,
+    "close": 10.5,
+    "volume": 61659.0,
+    "wedge_status": "none"
   }
 ]

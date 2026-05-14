@@ -7508,5 +7508,15 @@
     "close": 12.3400001526,
     "volume": 70100.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "ULH",
+    "open": 12.5799999237,
+    "high": 13.75,
+    "low": 12.3800001144,
+    "close": 13.4399995804,
+    "volume": 70569.0,
+    "wedge_status": "none"
   }
 ]

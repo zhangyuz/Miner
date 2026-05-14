@@ -7508,5 +7508,15 @@
     "close": 42.3400001526,
     "volume": 519400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "ALRM",
+    "open": 42.6300010681,
+    "high": 43.5,
+    "low": 42.2350006104,
+    "close": 42.3499984741,
+    "volume": 480395.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 51.8600006104,
     "volume": 693200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "PLAB",
+    "open": 51.9000015259,
+    "high": 53.0699996948,
+    "low": 51.0,
+    "close": 52.0099983215,
+    "volume": 539469.0,
+    "wedge_status": "none"
   }
 ]

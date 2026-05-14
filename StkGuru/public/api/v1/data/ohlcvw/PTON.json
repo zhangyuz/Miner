@@ -7508,5 +7508,15 @@
     "close": 5.2600002289,
     "volume": 9042900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "PTON",
+    "open": 5.25,
+    "high": 5.3200001717,
+    "low": 5.1500000954,
+    "close": 5.1799998283,
+    "volume": 8194315.0,
+    "wedge_status": "drop"
   }
 ]

@@ -3418,5 +3418,15 @@
     "close": 24.8400001526,
     "volume": 400115.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "SEPN",
+    "open": 24.5,
+    "high": 25.482000351,
+    "low": 24.2299995422,
+    "close": 24.75,
+    "volume": 315700.0,
+    "wedge_status": "none"
   }
 ]

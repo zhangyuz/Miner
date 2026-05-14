@@ -7498,5 +7498,15 @@
     "close": 18.0699996948,
     "volume": 234039.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "HBNC",
+    "open": 17.9500007629,
+    "high": 18.1399993896,
+    "low": 17.7399997711,
+    "close": 17.75,
+    "volume": 368600.0,
+    "wedge_status": "none"
   }
 ]

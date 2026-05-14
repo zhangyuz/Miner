@@ -7498,5 +7498,15 @@
     "close": 42.8699989319,
     "volume": 994403.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "DRS",
+    "open": 42.5,
+    "high": 42.6800003052,
+    "low": 40.8499984741,
+    "close": 42.5,
+    "volume": 816700.0,
+    "wedge_status": "none"
   }
 ]

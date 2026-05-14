@@ -7498,5 +7498,15 @@
     "close": 94.0,
     "volume": 393021.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "SAIC",
+    "open": 93.2399978638,
+    "high": 93.6600036621,
+    "low": 87.1200027466,
+    "close": 90.4100036621,
+    "volume": 552300.0,
+    "wedge_status": "none"
   }
 ]

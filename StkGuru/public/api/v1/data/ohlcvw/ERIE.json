@@ -7498,5 +7498,15 @@
     "close": 218.5,
     "volume": 163640.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "ERIE",
+    "open": 216.3899993896,
+    "high": 219.9199981689,
+    "low": 211.4799957275,
+    "close": 212.6600036621,
+    "volume": 168300.0,
+    "wedge_status": "none"
   }
 ]

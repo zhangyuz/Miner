@@ -7498,5 +7498,15 @@
     "close": 87.0699996948,
     "volume": 533930.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "VCTR",
+    "open": 87.0699996948,
+    "high": 87.25,
+    "low": 85.9199981689,
+    "close": 87.0,
+    "volume": 484000.0,
+    "wedge_status": "none"
   }
 ]

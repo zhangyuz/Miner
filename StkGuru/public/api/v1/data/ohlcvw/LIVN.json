@@ -7498,5 +7498,15 @@
     "close": 71.75,
     "volume": 998808.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "LIVN",
+    "open": 71.6999969482,
+    "high": 72.6900024414,
+    "low": 71.2399978638,
+    "close": 72.4400024414,
+    "volume": 774200.0,
+    "wedge_status": "none"
   }
 ]

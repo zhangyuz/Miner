@@ -7498,5 +7498,15 @@
     "close": 304.8800048828,
     "volume": 7141354.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "JPM",
+    "open": 302.2699890137,
+    "high": 303.0,
+    "low": 300.0700073242,
+    "close": 300.25,
+    "volume": 7704600.0,
+    "wedge_status": "none"
   }
 ]

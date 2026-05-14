@@ -7498,5 +7498,15 @@
     "close": 26.0200004578,
     "volume": 2214714.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "ACHC",
+    "open": 26.0300006866,
+    "high": 27.75,
+    "low": 26.0,
+    "close": 27.1499996185,
+    "volume": 3269300.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 136.0,
     "volume": 36510403.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "PLTR",
+    "open": 134.0059967041,
+    "high": 136.9900054932,
+    "low": 128.75,
+    "close": 130.0500030518,
+    "volume": 54924700.0,
+    "wedge_status": "none"
   }
 ]

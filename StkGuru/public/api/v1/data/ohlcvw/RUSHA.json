@@ -7498,5 +7498,15 @@
     "close": 72.0,
     "volume": 375424.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "RUSHA",
+    "open": 71.75,
+    "high": 71.9300003052,
+    "low": 69.5500030518,
+    "close": 70.0800018311,
+    "volume": 458300.0,
+    "wedge_status": "drop"
   }
 ]

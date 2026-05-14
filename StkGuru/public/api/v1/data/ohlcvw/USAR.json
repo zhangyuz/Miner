@@ -6648,5 +6648,15 @@
     "close": 25.5499992371,
     "volume": 14357869.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "USAR",
+    "open": 25.3299999237,
+    "high": 26.25,
+    "low": 24.4500007629,
+    "close": 25.4200000763,
+    "volume": 15609100.0,
+    "wedge_status": "none"
   }
 ]

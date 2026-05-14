@@ -7498,5 +7498,15 @@
     "close": 294.799987793,
     "volume": 39158311.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "AAPL",
+    "open": 293.5,
+    "high": 300.9200134277,
+    "low": 293.5,
+    "close": 298.8699951172,
+    "volume": 52610300.0,
+    "wedge_status": "none"
   }
 ]

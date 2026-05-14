@@ -1088,5 +1088,15 @@
     "close": 28.5400009155,
     "volume": 35243.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "CBK",
+    "open": 28.3700008392,
+    "high": 28.5599994659,
+    "low": 28.25,
+    "close": 28.3299999237,
+    "volume": 23200.0,
+    "wedge_status": "none"
   }
 ]

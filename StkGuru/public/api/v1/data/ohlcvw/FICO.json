@@ -7498,5 +7498,15 @@
     "close": 1086.0,
     "volume": 260444.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "FICO",
+    "open": 1078.0,
+    "high": 1078.5999755859,
+    "low": 1046.2199707031,
+    "close": 1064.6400146484,
+    "volume": 376200.0,
+    "wedge_status": "drop"
   }
 ]

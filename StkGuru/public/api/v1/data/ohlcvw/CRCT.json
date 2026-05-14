@@ -7498,5 +7498,15 @@
     "close": 4.2600002289,
     "volume": 389822.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "CRCT",
+    "open": 4.2300000191,
+    "high": 4.25,
+    "low": 3.9249999523,
+    "close": 3.9400000572,
+    "volume": 583400.0,
+    "wedge_status": "none"
   }
 ]

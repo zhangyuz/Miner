@@ -7508,5 +7508,15 @@
     "close": 235.7400054932,
     "volume": 172083835.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "NVDA",
+    "open": 229.75,
+    "high": 231.5,
+    "low": 224.25,
+    "close": 225.3200073242,
+    "volume": 165897210.0,
+    "wedge_status": "none"
   }
 ]

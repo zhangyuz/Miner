@@ -7508,5 +7508,15 @@
     "close": 58.9599990845,
     "volume": 1235170.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "BXP",
+    "open": 58.0600013733,
+    "high": 58.9850006104,
+    "low": 57.2350006104,
+    "close": 58.5,
+    "volume": 992755.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 40.7900009155,
     "volume": 1542118.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "TGTX",
+    "open": 40.25,
+    "high": 40.5250015259,
+    "low": 39.4199981689,
+    "close": 39.5,
+    "volume": 1717192.0,
+    "wedge_status": "none"
   }
 ]

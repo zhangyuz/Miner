@@ -7508,5 +7508,15 @@
     "close": 148.0,
     "volume": 3697938.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "CHTR",
+    "open": 148.0,
+    "high": 148.75,
+    "low": 136.6300048828,
+    "close": 140.3300018311,
+    "volume": 4938599.0,
+    "wedge_status": "none"
   }
 ]

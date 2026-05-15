@@ -7508,5 +7508,15 @@
     "close": 34.25,
     "volume": 84589.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "FISI",
+    "open": 34.1699981689,
+    "high": 34.1699981689,
+    "low": 33.6500015259,
+    "close": 33.8199996948,
+    "volume": 91104.0,
+    "wedge_status": "none"
   }
 ]

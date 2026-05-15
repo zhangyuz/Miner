@@ -7508,5 +7508,15 @@
     "close": 25.75,
     "volume": 19664781.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "PFE",
+    "open": 25.75,
+    "high": 25.8299999237,
+    "low": 25.2399997711,
+    "close": 25.3299999237,
+    "volume": 32065174.0,
+    "wedge_status": "none"
   }
 ]

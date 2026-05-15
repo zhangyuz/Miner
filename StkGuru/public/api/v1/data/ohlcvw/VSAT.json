@@ -7508,5 +7508,15 @@
     "close": 74.3000030518,
     "volume": 1546028.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "VSAT",
+    "open": 71.5100021362,
+    "high": 71.9300003052,
+    "low": 69.2399978638,
+    "close": 69.5,
+    "volume": 1617276.0,
+    "wedge_status": "none"
   }
 ]

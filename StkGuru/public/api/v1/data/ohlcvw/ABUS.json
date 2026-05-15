@@ -7508,5 +7508,15 @@
     "close": 4.3499999046,
     "volume": 900915.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "ABUS",
+    "open": 4.3000001907,
+    "high": 4.3350000381,
+    "low": 4.1900000572,
+    "close": 4.2399997711,
+    "volume": 1403493.0,
+    "wedge_status": "drop"
   }
 ]

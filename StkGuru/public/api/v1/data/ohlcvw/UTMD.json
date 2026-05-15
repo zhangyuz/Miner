@@ -7508,5 +7508,15 @@
     "close": 63.7000007629,
     "volume": 4670.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "UTMD",
+    "open": 63.2400016785,
+    "high": 63.3400001526,
+    "low": 63.2400016785,
+    "close": 63.3400001526,
+    "volume": 5138.0,
+    "wedge_status": "none"
   }
 ]

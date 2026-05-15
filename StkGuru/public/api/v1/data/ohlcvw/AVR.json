@@ -3098,5 +3098,15 @@
     "close": 7.25,
     "volume": 1522799.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "AVR",
+    "open": 7.1399998665,
+    "high": 7.3550000191,
+    "low": 6.9400000572,
+    "close": 7.2399997711,
+    "volume": 1027827.0,
+    "wedge_status": "none"
   }
 ]

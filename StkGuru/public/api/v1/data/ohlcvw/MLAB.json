@@ -7508,5 +7508,15 @@
     "close": 100.5,
     "volume": 134075.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "MLAB",
+    "open": 99.6600036621,
+    "high": 100.4199981689,
+    "low": 95.3301010132,
+    "close": 96.4700012207,
+    "volume": 139289.0,
+    "wedge_status": "none"
   }
 ]

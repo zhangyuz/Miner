@@ -7508,5 +7508,15 @@
     "close": 64.1999969482,
     "volume": 79541.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "CNXN",
+    "open": 64.1999969482,
+    "high": 64.9400024414,
+    "low": 63.5988006592,
+    "close": 64.25,
+    "volume": 166638.0,
+    "wedge_status": "none"
   }
 ]

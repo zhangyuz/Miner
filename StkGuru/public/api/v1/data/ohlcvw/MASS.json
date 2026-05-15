@@ -7508,5 +7508,15 @@
     "close": 7.3000001907,
     "volume": 149102.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "MASS",
+    "open": 7.0799999237,
+    "high": 7.1700000763,
+    "low": 6.8699998856,
+    "close": 6.9000000954,
+    "volume": 258985.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 26.8400001526,
     "volume": 1955456.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "BL",
+    "open": 27.25,
+    "high": 28.0699996948,
+    "low": 26.5349998474,
+    "close": 27.25,
+    "volume": 1126123.0,
+    "wedge_status": "none"
   }
 ]

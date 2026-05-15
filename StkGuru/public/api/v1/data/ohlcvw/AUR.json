@@ -7508,5 +7508,15 @@
     "close": 8.1800003052,
     "volume": 49563252.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "AUR",
+    "open": 7.9600000381,
+    "high": 8.0,
+    "low": 7.6399998665,
+    "close": 7.7100000381,
+    "volume": 41920429.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 5.8800001144,
     "volume": 2769830.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "LZ",
+    "open": 5.8899998665,
+    "high": 6.0650000572,
+    "low": 5.8600001335,
+    "close": 6.0,
+    "volume": 3001066.0,
+    "wedge_status": "none"
   }
 ]

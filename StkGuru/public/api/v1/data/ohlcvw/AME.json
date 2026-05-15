@@ -7508,5 +7508,15 @@
     "close": 232.1000061035,
     "volume": 733902.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "AME",
+    "open": 229.5,
+    "high": 230.4400024414,
+    "low": 226.8901062012,
+    "close": 227.75,
+    "volume": 681046.0,
+    "wedge_status": "drop"
   }
 ]

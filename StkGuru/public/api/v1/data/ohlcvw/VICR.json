@@ -7488,5 +7488,15 @@
     "close": 273.6700134277,
     "volume": 1095285.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "VICR",
+    "open": 275.75,
+    "high": 275.75,
+    "low": 242.1900024414,
+    "close": 249.0200042725,
+    "volume": 1051058.0,
+    "wedge_status": "drop"
   }
 ]

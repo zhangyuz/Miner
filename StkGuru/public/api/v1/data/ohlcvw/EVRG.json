@@ -7488,5 +7488,15 @@
     "close": 80.5,
     "volume": 2125389.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "EVRG",
+    "open": 81.2600021362,
+    "high": 82.0500030518,
+    "low": 80.9499969482,
+    "close": 81.9599990845,
+    "volume": 2053237.0,
+    "wedge_status": "none"
   }
 ]

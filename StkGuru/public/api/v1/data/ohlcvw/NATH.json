@@ -7488,5 +7488,15 @@
     "close": 101.2099990845,
     "volume": 15560.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "NATH",
+    "open": 101.1500015259,
+    "high": 101.5899963379,
+    "low": 100.25,
+    "close": 100.4300003052,
+    "volume": 34114.0,
+    "wedge_status": "drop"
   }
 ]

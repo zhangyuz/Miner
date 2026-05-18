@@ -1758,5 +1758,15 @@
     "close": 6.4549999237,
     "volume": 124211.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "CV",
+    "open": 6.5,
+    "high": 6.8000001907,
+    "low": 6.1999998093,
+    "close": 6.3600001335,
+    "volume": 107358.0,
+    "wedge_status": "none"
   }
 ]

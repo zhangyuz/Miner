@@ -7488,5 +7488,15 @@
     "close": 540.6900024414,
     "volume": 627244.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "NOC",
+    "open": 540.0,
+    "high": 552.75,
+    "low": 539.0,
+    "close": 550.0,
+    "volume": 956924.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 83.0999984741,
     "volume": 172496.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "PLUS",
+    "open": 83.0999984741,
+    "high": 85.2600021362,
+    "low": 82.0,
+    "close": 82.4499969482,
+    "volume": 128155.0,
+    "wedge_status": "none"
   }
 ]

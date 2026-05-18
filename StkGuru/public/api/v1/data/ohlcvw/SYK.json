@@ -7488,5 +7488,15 @@
     "close": 306.7600097656,
     "volume": 2976509.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "SYK",
+    "open": 307.0,
+    "high": 314.8200073242,
+    "low": 305.0,
+    "close": 313.2200012207,
+    "volume": 3036798.0,
+    "wedge_status": "pop"
   }
 ]

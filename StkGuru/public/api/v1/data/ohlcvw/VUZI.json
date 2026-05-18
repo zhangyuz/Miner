@@ -7488,5 +7488,15 @@
     "close": 3.0,
     "volume": 3389467.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "VUZI",
+    "open": 3.1600000858,
+    "high": 3.8150000572,
+    "low": 3.1500000954,
+    "close": 3.6500000954,
+    "volume": 6739772.0,
+    "wedge_status": "none"
   }
 ]

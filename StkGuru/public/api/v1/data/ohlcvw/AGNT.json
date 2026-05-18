@@ -7488,5 +7488,15 @@
     "close": 4.75,
     "volume": 1745789.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "AGNT",
+    "open": 4.75,
+    "high": 5.0500001907,
+    "low": 4.7199997902,
+    "close": 4.7300000191,
+    "volume": 1233807.0,
+    "wedge_status": "none"
   }
 ]

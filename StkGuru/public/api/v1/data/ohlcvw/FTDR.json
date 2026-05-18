@@ -7488,5 +7488,15 @@
     "close": 61.5,
     "volume": 434328.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "FTDR",
+    "open": 61.7200012207,
+    "high": 64.7200012207,
+    "low": 61.7200012207,
+    "close": 63.4399986267,
+    "volume": 469737.0,
+    "wedge_status": "none"
   }
 ]

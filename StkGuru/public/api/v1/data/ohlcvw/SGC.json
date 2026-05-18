@@ -7488,5 +7488,15 @@
     "close": 11.3299999237,
     "volume": 42040.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "SGC",
+    "open": 11.3500003815,
+    "high": 11.75,
+    "low": 11.3500003815,
+    "close": 11.6700000763,
+    "volume": 54589.0,
+    "wedge_status": "none"
   }
 ]

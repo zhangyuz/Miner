@@ -7488,5 +7488,15 @@
     "close": 1.9700000286,
     "volume": 410486.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "BTMD",
+    "open": 1.9700000286,
+    "high": 2.0,
+    "low": 1.8500000238,
+    "close": 1.9099999666,
+    "volume": 405859.0,
+    "wedge_status": "none"
   }
 ]

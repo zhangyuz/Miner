@@ -7488,5 +7488,15 @@
     "close": 10.1800003052,
     "volume": 110058.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "KRRO",
+    "open": 10.279999733,
+    "high": 10.6999998093,
+    "low": 9.6999998093,
+    "close": 9.970000267,
+    "volume": 137965.0,
+    "wedge_status": "none"
   }
 ]

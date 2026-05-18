@@ -7488,5 +7488,15 @@
     "close": 57.0,
     "volume": 10733246.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "BMY",
+    "open": 57.4500007629,
+    "high": 58.5,
+    "low": 57.0800018311,
+    "close": 57.3100013733,
+    "volume": 10408757.0,
+    "wedge_status": "none"
   }
 ]

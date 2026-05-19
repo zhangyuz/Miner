@@ -7498,5 +7498,15 @@
     "close": 2.0399999619,
     "volume": 1190933.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "CLNE",
+    "open": 2.0399999619,
+    "high": 2.0499999523,
+    "low": 1.9900000095,
+    "close": 2.0,
+    "volume": 984714.0,
+    "wedge_status": "none"
   }
 ]

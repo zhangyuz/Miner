@@ -7498,5 +7498,15 @@
     "close": 5.9499998093,
     "volume": 205854.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "PRTH",
+    "open": 5.9099998474,
+    "high": 5.9398999214,
+    "low": 5.75,
+    "close": 5.75,
+    "volume": 139518.0,
+    "wedge_status": "none"
   }
 ]

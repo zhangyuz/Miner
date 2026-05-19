@@ -7498,5 +7498,15 @@
     "close": 20.4300003052,
     "volume": 25780.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "FRD",
+    "open": 20.8999996185,
+    "high": 20.9699993134,
+    "low": 20.5,
+    "close": 20.7299995422,
+    "volume": 14779.0,
+    "wedge_status": "none"
   }
 ]

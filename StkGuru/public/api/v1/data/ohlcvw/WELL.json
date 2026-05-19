@@ -7498,5 +7498,15 @@
     "close": 212.6100006104,
     "volume": 1183705.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "WELL",
+    "open": 212.0249938965,
+    "high": 218.0,
+    "low": 212.4600067139,
+    "close": 218.0,
+    "volume": 3600809.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 42.7799987793,
     "volume": 9190007.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "HAL",
+    "open": 43.0,
+    "high": 43.3699989319,
+    "low": 42.5800018311,
+    "close": 42.9799995422,
+    "volume": 6354809.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 5.4600000381,
     "volume": 21723.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "RVSB",
+    "open": 5.4400000572,
+    "high": 5.5599999428,
+    "low": 5.4400000572,
+    "close": 5.4499998093,
+    "volume": 25663.0,
+    "wedge_status": "none"
   }
 ]

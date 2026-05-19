@@ -7498,5 +7498,15 @@
     "close": 28.0,
     "volume": 59908.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "ISTR",
+    "open": 28.0,
+    "high": 28.1403007507,
+    "low": 27.8199996948,
+    "close": 27.9799995422,
+    "volume": 131359.0,
+    "wedge_status": "pop"
   }
 ]

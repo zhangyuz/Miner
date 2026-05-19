@@ -7498,5 +7498,15 @@
     "close": 49.75,
     "volume": 4989621.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "VIAV",
+    "open": 48.2599983215,
+    "high": 50.5600013733,
+    "low": 46.5800018311,
+    "close": 49.2799987793,
+    "volume": 4851044.0,
+    "wedge_status": "drop"
   }
 ]

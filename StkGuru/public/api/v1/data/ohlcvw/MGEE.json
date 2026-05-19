@@ -7498,5 +7498,15 @@
     "close": 75.0,
     "volume": 291300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "MGEE",
+    "open": 74.8300018311,
+    "high": 76.0100021362,
+    "low": 74.5,
+    "close": 75.5999984741,
+    "volume": 459021.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 21.5200004578,
     "volume": 1037284.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "REYN",
+    "open": 21.5,
+    "high": 21.5550003052,
+    "low": 21.25,
+    "close": 21.2999992371,
+    "volume": 927262.0,
+    "wedge_status": "drop"
   }
 ]

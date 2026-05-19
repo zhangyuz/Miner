@@ -7498,5 +7498,15 @@
     "close": 65.3199996948,
     "volume": 3311244.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "BBIO",
+    "open": 64.5599975586,
+    "high": 66.9899978638,
+    "low": 64.5599975586,
+    "close": 66.0,
+    "volume": 2358282.0,
+    "wedge_status": "none"
   }
 ]

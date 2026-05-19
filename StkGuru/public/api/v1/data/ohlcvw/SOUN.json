@@ -7498,5 +7498,15 @@
     "close": 8.3500003815,
     "volume": 18117449.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "SOUN",
+    "open": 8.25,
+    "high": 8.5349998474,
+    "low": 8.1149997711,
+    "close": 8.4499998093,
+    "volume": 19911792.0,
+    "wedge_status": "none"
   }
 ]

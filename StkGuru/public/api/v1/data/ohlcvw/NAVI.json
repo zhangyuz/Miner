@@ -7498,5 +7498,15 @@
     "close": 8.3500003815,
     "volume": 873284.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "NAVI",
+    "open": 8.3800001144,
+    "high": 8.3800001144,
+    "low": 8.1800003052,
+    "close": 8.25,
+    "volume": 678657.0,
+    "wedge_status": "none"
   }
 ]

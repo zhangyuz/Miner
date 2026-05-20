@@ -7508,5 +7508,15 @@
     "close": 90.0199966431,
     "volume": 4495331.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "SFM",
+    "open": 88.75,
+    "high": 89.75,
+    "low": 87.2099990845,
+    "close": 88.4599990845,
+    "volume": 2198851.0,
+    "wedge_status": "none"
   }
 ]

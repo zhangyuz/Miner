@@ -7508,5 +7508,15 @@
     "close": 73.0,
     "volume": 2717562.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "LNT",
+    "open": 73.2300033569,
+    "high": 73.5699996948,
+    "low": 72.4300003052,
+    "close": 72.5,
+    "volume": 2718522.0,
+    "wedge_status": "none"
   }
 ]

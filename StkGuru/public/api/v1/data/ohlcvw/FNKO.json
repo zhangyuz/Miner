@@ -7508,5 +7508,15 @@
     "close": 4.6900000572,
     "volume": 720761.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "FNKO",
+    "open": 4.6399998665,
+    "high": 4.9549999237,
+    "low": 4.5100002289,
+    "close": 4.9099998474,
+    "volume": 659851.0,
+    "wedge_status": "none"
   }
 ]

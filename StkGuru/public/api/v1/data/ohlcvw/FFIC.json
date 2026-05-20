@@ -7508,5 +7508,15 @@
     "close": 15.6700000763,
     "volume": 184763.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "FFIC",
+    "open": 15.6700000763,
+    "high": 16.0,
+    "low": 15.5749998093,
+    "close": 15.970000267,
+    "volume": 260583.0,
+    "wedge_status": "none"
   }
 ]

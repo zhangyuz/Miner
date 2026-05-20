@@ -7508,5 +7508,15 @@
     "close": 82.3600006104,
     "volume": 150745.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "NVEC",
+    "open": 82.7200012207,
+    "high": 84.3320999146,
+    "low": 81.9599990845,
+    "close": 84.0,
+    "volume": 116086.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 20.2099990845,
     "volume": 6836051.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "CPB",
+    "open": 20.1299991608,
+    "high": 20.2098999023,
+    "low": 19.7000007629,
+    "close": 20.0,
+    "volume": 8441965.0,
+    "wedge_status": "none"
   }
 ]

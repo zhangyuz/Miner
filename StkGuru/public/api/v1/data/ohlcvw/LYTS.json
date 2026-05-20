@@ -7508,5 +7508,15 @@
     "close": 22.7099990845,
     "volume": 703388.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "LYTS",
+    "open": 22.75,
+    "high": 23.0499992371,
+    "low": 22.3999996185,
+    "close": 22.75,
+    "volume": 378191.0,
+    "wedge_status": "none"
   }
 ]

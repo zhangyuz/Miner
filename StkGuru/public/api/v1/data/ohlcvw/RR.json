@@ -5818,5 +5818,15 @@
     "close": 2.375,
     "volume": 8296501.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "RR",
+    "open": 2.4200000763,
+    "high": 2.5201001167,
+    "low": 2.3800001144,
+    "close": 2.4600000381,
+    "volume": 8311252.0,
+    "wedge_status": "none"
   }
 ]

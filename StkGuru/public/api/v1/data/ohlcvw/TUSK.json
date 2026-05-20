@@ -7508,5 +7508,15 @@
     "close": 3.1900000572,
     "volume": 585911.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "TUSK",
+    "open": 3.2300000191,
+    "high": 3.3250000477,
+    "low": 3.0899999142,
+    "close": 3.1500000954,
+    "volume": 364240.0,
+    "wedge_status": "none"
   }
 ]

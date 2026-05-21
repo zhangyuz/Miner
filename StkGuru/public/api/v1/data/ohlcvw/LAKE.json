@@ -7508,5 +7508,15 @@
     "close": 10.1800003052,
     "volume": 65078.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "LAKE",
+    "open": 10.0100002289,
+    "high": 10.0999002457,
+    "low": 9.5699996948,
+    "close": 9.8900003433,
+    "volume": 76835.0,
+    "wedge_status": "drop"
   }
 ]

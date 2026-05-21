@@ -7508,5 +7508,15 @@
     "close": 4.0700001717,
     "volume": 949393.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "GOGO",
+    "open": 3.9512000084,
+    "high": 4.0634999275,
+    "low": 3.8050000668,
+    "close": 4.0,
+    "volume": 1406447.0,
+    "wedge_status": "none"
   }
 ]

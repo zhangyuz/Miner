@@ -7508,5 +7508,15 @@
     "close": 6.0399999619,
     "volume": 436884.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "TRDA",
+    "open": 6.0399999619,
+    "high": 6.3499999046,
+    "low": 5.9299998283,
+    "close": 6.3099999428,
+    "volume": 369330.0,
+    "wedge_status": "none"
   }
 ]

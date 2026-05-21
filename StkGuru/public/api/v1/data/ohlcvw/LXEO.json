@@ -5928,5 +5928,15 @@
     "close": 5.1199998856,
     "volume": 1834961.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 5.0,
+    "high": 5.3000001907,
+    "low": 4.9600000381,
+    "close": 5.2300000191,
+    "volume": 655987.0,
+    "wedge_status": "none"
   }
 ]

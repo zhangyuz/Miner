@@ -7508,5 +7508,15 @@
     "close": 4.4400000572,
     "volume": 313978.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "RGP",
+    "open": 4.3200001717,
+    "high": 4.5749998093,
+    "low": 4.2800002098,
+    "close": 4.5,
+    "volume": 435885.0,
+    "wedge_status": "none"
   }
 ]

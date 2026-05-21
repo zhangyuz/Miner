@@ -7508,5 +7508,15 @@
     "close": 25.0799999237,
     "volume": 17876.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "GCBC",
+    "open": 25.0,
+    "high": 25.0349998474,
+    "low": 24.7999992371,
+    "close": 25.0,
+    "volume": 8956.0,
+    "wedge_status": "none"
   }
 ]

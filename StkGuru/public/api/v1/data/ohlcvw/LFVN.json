@@ -7508,5 +7508,15 @@
     "close": 5.25,
     "volume": 82932.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "LFVN",
+    "open": 5.1799998283,
+    "high": 5.4200000763,
+    "low": 5.1599998474,
+    "close": 5.3699998856,
+    "volume": 66753.0,
+    "wedge_status": "none"
   }
 ]

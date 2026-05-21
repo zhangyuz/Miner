@@ -7508,5 +7508,15 @@
     "close": 2.4600000381,
     "volume": 876127.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "GAMB",
+    "open": 2.4500000477,
+    "high": 2.4900000095,
+    "low": 2.375,
+    "close": 2.4700000286,
+    "volume": 694392.0,
+    "wedge_status": "none"
   }
 ]

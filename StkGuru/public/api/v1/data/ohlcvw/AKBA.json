@@ -7508,5 +7508,15 @@
     "close": 1.0099999905,
     "volume": 18693580.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "AKBA",
+    "open": 1.0,
+    "high": 1.0700000525,
+    "low": 0.9900000095,
+    "close": 1.0199999809,
+    "volume": 5526174.0,
+    "wedge_status": "none"
   }
 ]

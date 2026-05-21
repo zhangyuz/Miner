@@ -7508,5 +7508,15 @@
     "close": 62.25,
     "volume": 260905.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "DGII",
+    "open": 61.8899993896,
+    "high": 64.3000030518,
+    "low": 61.5,
+    "close": 64.0500030518,
+    "volume": 296392.0,
+    "wedge_status": "none"
   }
 ]

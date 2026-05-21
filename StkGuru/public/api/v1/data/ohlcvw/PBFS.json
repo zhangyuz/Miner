@@ -7508,5 +7508,15 @@
     "close": 14.9600000381,
     "volume": 17323.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "PBFS",
+    "open": 14.8000001907,
+    "high": 14.970000267,
+    "low": 14.7700004578,
+    "close": 14.970000267,
+    "volume": 8819.0,
+    "wedge_status": "none"
   }
 ]

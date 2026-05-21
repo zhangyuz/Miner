@@ -7508,5 +7508,15 @@
     "close": 106.5,
     "volume": 6347574.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "SBUX",
+    "open": 106.0,
+    "high": 106.1600036621,
+    "low": 103.6200027466,
+    "close": 104.1299972534,
+    "volume": 8215014.0,
+    "wedge_status": "drop"
   }
 ]

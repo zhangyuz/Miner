@@ -7508,5 +7508,15 @@
     "close": 30.8999996185,
     "volume": 721293.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "CLDX",
+    "open": 30.75,
+    "high": 31.0799999237,
+    "low": 30.1200008392,
+    "close": 30.5799999237,
+    "volume": 857715.0,
+    "wedge_status": "none"
   }
 ]

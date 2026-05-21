@@ -7508,5 +7508,15 @@
     "close": 66.5199966431,
     "volume": 1455953.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "TSN",
+    "open": 66.5,
+    "high": 67.0,
+    "low": 65.7699966431,
+    "close": 66.4700012207,
+    "volume": 2048952.0,
+    "wedge_status": "none"
   }
 ]

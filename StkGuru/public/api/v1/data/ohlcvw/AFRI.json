@@ -7508,5 +7508,15 @@
     "close": 10.0399999619,
     "volume": 6873.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "AFRI",
+    "open": 10.0,
+    "high": 10.0,
+    "low": 9.8350000381,
+    "close": 9.8699998856,
+    "volume": 14393.0,
+    "wedge_status": "drop"
   }
 ]

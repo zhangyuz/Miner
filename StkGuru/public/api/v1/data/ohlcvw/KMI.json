@@ -7508,5 +7508,15 @@
     "close": 33.5,
     "volume": 8878151.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "KMI",
+    "open": 33.5200004578,
+    "high": 33.8899993896,
+    "low": 33.3499984741,
+    "close": 33.7900009155,
+    "volume": 6671612.0,
+    "wedge_status": "none"
   }
 ]

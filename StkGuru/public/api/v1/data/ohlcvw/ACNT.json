@@ -7508,5 +7508,15 @@
     "close": 14.2899999619,
     "volume": 51042.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "ACNT",
+    "open": 14.3000001907,
+    "high": 14.9399995804,
+    "low": 14.25,
+    "close": 14.4499998093,
+    "volume": 59999.0,
+    "wedge_status": "none"
   }
 ]

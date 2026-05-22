@@ -7508,5 +7508,15 @@
     "close": 32.1899986267,
     "volume": 628533.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "FFIN",
+    "open": 32.25,
+    "high": 32.6800003052,
+    "low": 32.0,
+    "close": 32.2400016785,
+    "volume": 497437.0,
+    "wedge_status": "none"
   }
 ]

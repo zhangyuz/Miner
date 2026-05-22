@@ -7508,5 +7508,15 @@
     "close": 26.2399997711,
     "volume": 85834.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "BMRC",
+    "open": 26.4899997711,
+    "high": 26.5550003052,
+    "low": 26.0,
+    "close": 26.0400009155,
+    "volume": 75717.0,
+    "wedge_status": "none"
   }
 ]

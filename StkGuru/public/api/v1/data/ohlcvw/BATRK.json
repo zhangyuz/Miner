@@ -7508,5 +7508,15 @@
     "close": 50.0099983215,
     "volume": 231261.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "BATRK",
+    "open": 50.0099983215,
+    "high": 50.2999992371,
+    "low": 49.3699989319,
+    "close": 49.5,
+    "volume": 326044.0,
+    "wedge_status": "drop"
   }
 ]

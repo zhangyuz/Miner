@@ -7508,5 +7508,15 @@
     "close": 155.5,
     "volume": 936556.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "NBIX",
+    "open": 156.9499969482,
+    "high": 158.6300048828,
+    "low": 155.4400024414,
+    "close": 156.6999969482,
+    "volume": 727288.0,
+    "wedge_status": "none"
   }
 ]

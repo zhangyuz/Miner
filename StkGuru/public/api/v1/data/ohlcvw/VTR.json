@@ -7508,5 +7508,15 @@
     "close": 88.0,
     "volume": 3532861.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "VTR",
+    "open": 88.6500015259,
+    "high": 89.2699966431,
+    "low": 87.9011993408,
+    "close": 88.1800003052,
+    "volume": 2096305.0,
+    "wedge_status": "none"
   }
 ]

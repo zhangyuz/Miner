@@ -7508,5 +7508,15 @@
     "close": 17.5300006866,
     "volume": 1288377.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "NRIX",
+    "open": 17.5400009155,
+    "high": 17.8500003815,
+    "low": 17.3199996948,
+    "close": 17.5,
+    "volume": 1053485.0,
+    "wedge_status": "none"
   }
 ]

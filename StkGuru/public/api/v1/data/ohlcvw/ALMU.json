@@ -7508,5 +7508,15 @@
     "close": 23.3099994659,
     "volume": 1692398.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "ALMU",
+    "open": 23.5,
+    "high": 23.7999992371,
+    "low": 22.2900009155,
+    "close": 22.6399993896,
+    "volume": 947066.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 67.0,
     "volume": 89589.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "CTBI",
+    "open": 67.1999969482,
+    "high": 67.5650024414,
+    "low": 66.5999984741,
+    "close": 66.6999969482,
+    "volume": 76781.0,
+    "wedge_status": "none"
   }
 ]

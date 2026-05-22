@@ -678,5 +678,15 @@
     "close": 50.0299987793,
     "volume": 633674.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "CDNL",
+    "open": 50.2999992371,
+    "high": 50.625,
+    "low": 48.6300010681,
+    "close": 48.8499984741,
+    "volume": 405694.0,
+    "wedge_status": "none"
   }
 ]

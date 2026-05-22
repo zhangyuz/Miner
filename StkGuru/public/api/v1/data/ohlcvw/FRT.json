@@ -7508,5 +7508,15 @@
     "close": 118.6100006104,
     "volume": 789728.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "FRT",
+    "open": 119.2799987793,
+    "high": 120.1999969482,
+    "low": 119.0,
+    "close": 119.75,
+    "volume": 1122298.0,
+    "wedge_status": "none"
   }
 ]

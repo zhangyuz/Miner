@@ -7508,5 +7508,15 @@
     "close": 27.1299991608,
     "volume": 70095.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "DSGR",
+    "open": 27.0300006866,
+    "high": 27.1700000763,
+    "low": 26.8199996948,
+    "close": 27.0,
+    "volume": 56948.0,
+    "wedge_status": "none"
   }
 ]

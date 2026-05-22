@@ -7508,5 +7508,15 @@
     "close": 123.0,
     "volume": 490264.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "EWBC",
+    "open": 123.0,
+    "high": 124.0599975586,
+    "low": 122.5899963379,
+    "close": 123.1200027466,
+    "volume": 720428.0,
+    "wedge_status": "none"
   }
 ]

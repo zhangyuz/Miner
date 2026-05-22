@@ -7508,5 +7508,15 @@
     "close": 67.0699996948,
     "volume": 6853176.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "KR",
+    "open": 67.0,
+    "high": 67.4000015259,
+    "low": 66.3700027466,
+    "close": 67.25,
+    "volume": 4239050.0,
+    "wedge_status": "none"
   }
 ]

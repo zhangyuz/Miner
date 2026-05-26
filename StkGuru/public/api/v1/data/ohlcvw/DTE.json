@@ -7488,5 +7488,15 @@
     "close": 145.3000030518,
     "volume": 777511.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "DTE",
+    "open": 146.0,
+    "high": 146.0,
+    "low": 144.1549987793,
+    "close": 144.6199951172,
+    "volume": 1001070.0,
+    "wedge_status": "none"
   }
 ]

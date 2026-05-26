@@ -7488,5 +7488,15 @@
     "close": 160.25,
     "volume": 5011132.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "DASH",
+    "open": 160.25,
+    "high": 161.0,
+    "low": 153.3500061035,
+    "close": 154.0,
+    "volume": 3729136.0,
+    "wedge_status": "none"
   }
 ]

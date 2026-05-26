@@ -7488,5 +7488,15 @@
     "close": 1213.5100097656,
     "volume": 348419.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "TDG",
+    "open": 1226.2900390625,
+    "high": 1234.0,
+    "low": 1211.2850341797,
+    "close": 1226.0,
+    "volume": 275805.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 144.1499938965,
     "volume": 130936.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "FRHC",
+    "open": 144.3000030518,
+    "high": 146.5050048828,
+    "low": 138.3099975586,
+    "close": 139.5,
+    "volume": 150456.0,
+    "wedge_status": "none"
   }
 ]

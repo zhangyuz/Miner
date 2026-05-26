@@ -7488,5 +7488,15 @@
     "close": 5.9400000572,
     "volume": 408222.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "VOXR",
+    "open": 6.0300002098,
+    "high": 6.2399997711,
+    "low": 5.9896998405,
+    "close": 6.2399997711,
+    "volume": 502090.0,
+    "wedge_status": "none"
   }
 ]

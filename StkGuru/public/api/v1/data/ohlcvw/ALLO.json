@@ -7488,5 +7488,15 @@
     "close": 2.0,
     "volume": 4026932.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "ALLO",
+    "open": 2.0299999714,
+    "high": 2.1349999905,
+    "low": 2.0199999809,
+    "close": 2.1199998856,
+    "volume": 4738003.0,
+    "wedge_status": "none"
   }
 ]

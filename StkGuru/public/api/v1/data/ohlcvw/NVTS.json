@@ -7488,5 +7488,15 @@
     "close": 29.25,
     "volume": 49877107.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "NVTS",
+    "open": 31.3600006104,
+    "high": 33.8199996948,
+    "low": 30.6000003815,
+    "close": 31.7900009155,
+    "volume": 49538107.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 10.2100000381,
     "volume": 11423343.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "AGNC",
+    "open": 10.2980003357,
+    "high": 10.4499998093,
+    "low": 10.25,
+    "close": 10.4300003052,
+    "volume": 15526464.0,
+    "wedge_status": "none"
   }
 ]

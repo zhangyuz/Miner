@@ -7488,5 +7488,15 @@
     "close": 310.0,
     "volume": 597944.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "VRSN",
+    "open": 310.1199951172,
+    "high": 311.4100036621,
+    "low": 306.0199890137,
+    "close": 306.8599853516,
+    "volume": 757054.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 1065.0,
     "volume": 2749877.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "LLY",
+    "open": 1075.0,
+    "high": 1082.0,
+    "low": 1060.3599853516,
+    "close": 1064.7399902344,
+    "volume": 2547881.0,
+    "wedge_status": "none"
   }
 ]

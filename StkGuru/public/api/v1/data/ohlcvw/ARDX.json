@@ -7488,5 +7488,15 @@
     "close": 6.1100001335,
     "volume": 2316974.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "ARDX",
+    "open": 6.1500000954,
+    "high": 6.2950000763,
+    "low": 6.0799999237,
+    "close": 6.25,
+    "volume": 2184433.0,
+    "wedge_status": "none"
   }
 ]

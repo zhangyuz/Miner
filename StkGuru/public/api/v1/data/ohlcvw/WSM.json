@@ -7488,5 +7488,15 @@
     "close": 192.5,
     "volume": 778375.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "WSM",
+    "open": 196.0,
+    "high": 199.5399932861,
+    "low": 194.9199981689,
+    "close": 198.3800048828,
+    "volume": 756971.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 16.0300006866,
     "volume": 1647819.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "MITK",
+    "open": 16.0,
+    "high": 16.8050003052,
+    "low": 15.6899995804,
+    "close": 16.6800003052,
+    "volume": 1398836.0,
+    "wedge_status": "none"
   }
 ]

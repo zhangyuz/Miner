@@ -7488,5 +7488,15 @@
     "close": 7.0300002098,
     "volume": 266400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "ARCT",
+    "open": 7.1300001144,
+    "high": 7.4200000763,
+    "low": 7.0900001526,
+    "close": 7.2100000381,
+    "volume": 331212.0,
+    "wedge_status": "none"
   }
 ]

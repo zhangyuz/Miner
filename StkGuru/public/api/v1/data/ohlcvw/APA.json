@@ -7488,5 +7488,15 @@
     "close": 38.7999992371,
     "volume": 3709812.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "APA",
+    "open": 38.5200004578,
+    "high": 39.1399002075,
+    "low": 37.4449996948,
+    "close": 37.5,
+    "volume": 3386942.0,
+    "wedge_status": "drop"
   }
 ]

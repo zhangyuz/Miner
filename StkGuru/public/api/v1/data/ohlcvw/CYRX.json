@@ -7488,5 +7488,15 @@
     "close": 14.0,
     "volume": 442460.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "CYRX",
+    "open": 14.0799999237,
+    "high": 14.2899999619,
+    "low": 13.8999996185,
+    "close": 13.9600000381,
+    "volume": 448292.0,
+    "wedge_status": "none"
   }
 ]

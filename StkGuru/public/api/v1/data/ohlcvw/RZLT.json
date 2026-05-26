@@ -7488,5 +7488,15 @@
     "close": 3.25,
     "volume": 804035.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "RZLT",
+    "open": 3.2599999905,
+    "high": 3.3399999142,
+    "low": 3.1833000183,
+    "close": 3.2999999523,
+    "volume": 894845.0,
+    "wedge_status": "pop"
   }
 ]

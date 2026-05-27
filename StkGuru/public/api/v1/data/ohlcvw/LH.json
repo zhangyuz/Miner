@@ -7498,5 +7498,15 @@
     "close": 258.450012207,
     "volume": 465484.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "LH",
+    "open": 260.0,
+    "high": 263.9450073242,
+    "low": 257.0400085449,
+    "close": 258.25,
+    "volume": 409581.0,
+    "wedge_status": "none"
   }
 ]

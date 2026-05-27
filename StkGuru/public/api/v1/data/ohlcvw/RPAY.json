@@ -7498,5 +7498,15 @@
     "close": 3.75,
     "volume": 540727.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "RPAY",
+    "open": 3.7899999619,
+    "high": 3.8599998951,
+    "low": 3.7349998951,
+    "close": 3.75,
+    "volume": 382243.0,
+    "wedge_status": "none"
   }
 ]

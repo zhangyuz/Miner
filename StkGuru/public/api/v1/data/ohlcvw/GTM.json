@@ -7498,5 +7498,15 @@
     "close": 3.5,
     "volume": 9309060.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "GTM",
+    "open": 3.4600000381,
+    "high": 3.5199999809,
+    "low": 3.2400000095,
+    "close": 3.25,
+    "volume": 11537872.0,
+    "wedge_status": "none"
   }
 ]

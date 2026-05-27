@@ -7498,5 +7498,15 @@
     "close": 1.6200000048,
     "volume": 6774947.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "SABR",
+    "open": 1.625,
+    "high": 1.7150000334,
+    "low": 1.6050000191,
+    "close": 1.6599999666,
+    "volume": 8653988.0,
+    "wedge_status": "none"
   }
 ]

@@ -668,5 +668,15 @@
     "close": 12.0100002289,
     "volume": 818489.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "WLTH",
+    "open": 12.0,
+    "high": 12.1300001144,
+    "low": 11.6400003433,
+    "close": 11.9799995422,
+    "volume": 791796.0,
+    "wedge_status": "none"
   }
 ]

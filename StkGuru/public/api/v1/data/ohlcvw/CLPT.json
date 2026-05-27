@@ -7498,5 +7498,15 @@
     "close": 11.8199996948,
     "volume": 506425.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "CLPT",
+    "open": 11.6800003052,
+    "high": 11.6999998093,
+    "low": 11.3000001907,
+    "close": 11.5,
+    "volume": 465061.0,
+    "wedge_status": "drop"
   }
 ]

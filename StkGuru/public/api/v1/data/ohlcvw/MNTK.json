@@ -7498,5 +7498,15 @@
     "close": 1.6200000048,
     "volume": 142859.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "MNTK",
+    "open": 1.6399999857,
+    "high": 1.7999000549,
+    "low": 1.6399999857,
+    "close": 1.75,
+    "volume": 281700.0,
+    "wedge_status": "none"
   }
 ]

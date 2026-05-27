@@ -7498,5 +7498,15 @@
     "close": 28.7600002289,
     "volume": 106559.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "STRS",
+    "open": 28.8700008392,
+    "high": 29.0699996948,
+    "low": 28.8700008392,
+    "close": 29.0,
+    "volume": 9350.0,
+    "wedge_status": "none"
   }
 ]

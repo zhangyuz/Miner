@@ -7498,5 +7498,15 @@
     "close": 70.1500015259,
     "volume": 10037224.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "CVNA",
+    "open": 70.25,
+    "high": 73.9550018311,
+    "low": 70.0849990845,
+    "close": 73.0,
+    "volume": 10960627.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 53.5299987793,
     "volume": 1838727.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "CRSP",
+    "open": 53.0,
+    "high": 57.2400016785,
+    "low": 52.3800010681,
+    "close": 56.3800010681,
+    "volume": 2660671.0,
+    "wedge_status": "none"
   }
 ]

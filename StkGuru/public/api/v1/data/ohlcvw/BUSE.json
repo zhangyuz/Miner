@@ -7508,5 +7508,15 @@
     "close": 27.1599998474,
     "volume": 646118.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "BUSE",
+    "open": 27.1599998474,
+    "high": 27.2800006866,
+    "low": 26.9200000763,
+    "close": 27.25,
+    "volume": 612274.0,
+    "wedge_status": "none"
   }
 ]

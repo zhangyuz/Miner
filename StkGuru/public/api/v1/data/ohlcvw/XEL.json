@@ -7508,5 +7508,15 @@
     "close": 81.0,
     "volume": 4530271.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "XEL",
+    "open": 80.7699966431,
+    "high": 80.9000015259,
+    "low": 79.1600036621,
+    "close": 79.2600021362,
+    "volume": 4609897.0,
+    "wedge_status": "drop"
   }
 ]

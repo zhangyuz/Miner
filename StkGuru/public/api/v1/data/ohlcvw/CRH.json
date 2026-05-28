@@ -7508,5 +7508,15 @@
     "close": 106.25,
     "volume": 5251075.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "CRH",
+    "open": 106.0,
+    "high": 107.0400009155,
+    "low": 104.9447021484,
+    "close": 106.7600021362,
+    "volume": 3556198.0,
+    "wedge_status": "none"
   }
 ]

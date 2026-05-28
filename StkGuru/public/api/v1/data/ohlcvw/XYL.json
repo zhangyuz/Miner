@@ -7508,5 +7508,15 @@
     "close": 110.0999984741,
     "volume": 1180269.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "XYL",
+    "open": 109.4000015259,
+    "high": 110.2750015259,
+    "low": 108.5,
+    "close": 109.25,
+    "volume": 1617996.0,
+    "wedge_status": "none"
   }
 ]

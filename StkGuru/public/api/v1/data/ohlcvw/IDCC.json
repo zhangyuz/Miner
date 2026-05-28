@@ -7508,5 +7508,15 @@
     "close": 252.4499969482,
     "volume": 355429.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "IDCC",
+    "open": 252.5,
+    "high": 256.3499145508,
+    "low": 250.2400054932,
+    "close": 250.75,
+    "volume": 324763.0,
+    "wedge_status": "none"
   }
 ]

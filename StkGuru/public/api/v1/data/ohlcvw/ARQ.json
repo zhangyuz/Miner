@@ -7508,5 +7508,15 @@
     "close": 2.6800000668,
     "volume": 234445.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "ARQ",
+    "open": 2.7300000191,
+    "high": 2.7950000763,
+    "low": 2.6500000954,
+    "close": 2.75,
+    "volume": 314434.0,
+    "wedge_status": "none"
   }
 ]

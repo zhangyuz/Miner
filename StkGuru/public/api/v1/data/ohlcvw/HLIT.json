@@ -7508,5 +7508,15 @@
     "close": 17.1100006104,
     "volume": 8060778.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "HLIT",
+    "open": 17.0988998413,
+    "high": 17.6800003052,
+    "low": 16.4200000763,
+    "close": 17.0,
+    "volume": 6152490.0,
+    "wedge_status": "none"
   }
 ]

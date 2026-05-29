@@ -7508,5 +7508,15 @@
     "close": 65.5299987793,
     "volume": 257084.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "BANR",
+    "open": 65.5299987793,
+    "high": 65.7300033569,
+    "low": 64.8899993896,
+    "close": 65.0,
+    "volume": 199624.0,
+    "wedge_status": "none"
   }
 ]

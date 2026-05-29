@@ -7498,5 +7498,15 @@
     "close": 3.2699999809,
     "volume": 216224.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "TLSI",
+    "open": 3.25,
+    "high": 3.4300000668,
+    "low": 3.1530001163,
+    "close": 3.4100000858,
+    "volume": 331476.0,
+    "wedge_status": "none"
   }
 ]

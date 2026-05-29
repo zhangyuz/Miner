@@ -7508,5 +7508,15 @@
     "close": 25.25,
     "volume": 513624.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "BLFS",
+    "open": 25.1599998474,
+    "high": 25.4300003052,
+    "low": 24.6900005341,
+    "close": 24.9200000763,
+    "volume": 726172.0,
+    "wedge_status": "none"
   }
 ]

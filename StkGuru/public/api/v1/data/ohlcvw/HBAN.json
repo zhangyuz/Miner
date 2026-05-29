@@ -7508,5 +7508,15 @@
     "close": 16.1200008392,
     "volume": 25857823.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "HBAN",
+    "open": 16.0599994659,
+    "high": 16.3600006104,
+    "low": 16.0,
+    "close": 16.3600006104,
+    "volume": 24655070.0,
+    "wedge_status": "none"
   }
 ]

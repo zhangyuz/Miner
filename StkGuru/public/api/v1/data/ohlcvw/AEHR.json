@@ -7508,5 +7508,15 @@
     "close": 99.9899978638,
     "volume": 1569034.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "AEHR",
+    "open": 101.0,
+    "high": 101.5,
+    "low": 90.7900009155,
+    "close": 92.3300018311,
+    "volume": 1783909.0,
+    "wedge_status": "none"
   }
 ]

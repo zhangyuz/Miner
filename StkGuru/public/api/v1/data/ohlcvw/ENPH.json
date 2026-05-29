@@ -7508,5 +7508,15 @@
     "close": 69.5,
     "volume": 6603213.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "ENPH",
+    "open": 72.5,
+    "high": 73.7399978638,
+    "low": 67.2699966431,
+    "close": 68.3600006104,
+    "volume": 7197929.0,
+    "wedge_status": "none"
   }
 ]

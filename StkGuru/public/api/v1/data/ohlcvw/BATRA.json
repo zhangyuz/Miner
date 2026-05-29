@@ -7508,5 +7508,15 @@
     "close": 53.8800010681,
     "volume": 37255.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "BATRA",
+    "open": 53.5,
+    "high": 54.2599983215,
+    "low": 53.5,
+    "close": 53.5999984741,
+    "volume": 41415.0,
+    "wedge_status": "none"
   }
 ]

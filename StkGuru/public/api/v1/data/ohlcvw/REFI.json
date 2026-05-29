@@ -7508,5 +7508,15 @@
     "close": 11.4799995422,
     "volume": 142336.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "REFI",
+    "open": 11.5,
+    "high": 11.5399999619,
+    "low": 11.3400001526,
+    "close": 11.3699998856,
+    "volume": 130876.0,
+    "wedge_status": "none"
   }
 ]

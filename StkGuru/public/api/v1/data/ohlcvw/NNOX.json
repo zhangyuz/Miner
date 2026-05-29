@@ -7508,5 +7508,15 @@
     "close": 1.9600000381,
     "volume": 771521.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "NNOX",
+    "open": 1.9400000572,
+    "high": 1.9694000483,
+    "low": 1.9149999619,
+    "close": 1.9199999571,
+    "volume": 1220146.0,
+    "wedge_status": "none"
   }
 ]

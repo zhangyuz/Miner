@@ -7508,5 +7508,15 @@
     "close": 134.5,
     "volume": 3821429.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "ABNB",
+    "open": 134.5,
+    "high": 135.75,
+    "low": 132.7700042725,
+    "close": 133.3099975586,
+    "volume": 3725144.0,
+    "wedge_status": "none"
   }
 ]

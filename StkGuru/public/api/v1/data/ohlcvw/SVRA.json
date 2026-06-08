@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "SVRA",
-    "open": 2.9000000954,
-    "high": 2.9660000801,
-    "low": 2.8099999428,
-    "close": 2.8599998951,
-    "volume": 329100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "SVRA",
-    "open": 2.8800001144,
-    "high": 3.0299999714,
-    "low": 2.875,
-    "close": 2.9400000572,
-    "volume": 448900.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "SVRA",
-    "open": 2.9700000286,
-    "high": 3.0,
-    "low": 2.8599998951,
-    "close": 3.0,
-    "volume": 388700.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "SVRA",
-    "open": 3.0,
-    "high": 3.0299999714,
-    "low": 2.9100000858,
-    "close": 2.9500000477,
-    "volume": 324600.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "SVRA",
     "open": 2.9300000668,

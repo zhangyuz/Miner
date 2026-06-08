@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "PROP",
-    "open": 2.9411759377,
-    "high": 3.3823530674,
-    "low": 2.9411759377,
-    "close": 2.9411759377,
-    "volume": 976.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "PROP",
-    "open": 2.4705879688,
-    "high": 3.1470589638,
-    "low": 2.4705879688,
-    "close": 2.4705879688,
-    "volume": 122.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "PROP",
-    "open": 2.4705879688,
-    "high": 2.6470589638,
-    "low": 2.4705879688,
-    "close": 2.6470589638,
-    "volume": 639.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "PROP",
-    "open": 2.5,
-    "high": 2.5,
-    "low": 2.5,
-    "close": 2.5,
-    "volume": 34.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "PROP",
     "open": 2.5,

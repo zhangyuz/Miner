@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "POWW",
-    "open": 1.8999999762,
-    "high": 1.9500000477,
-    "low": 1.8799999952,
-    "close": 1.8999999762,
-    "volume": 331800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "POWW",
-    "open": 1.8799999952,
-    "high": 2.0,
-    "low": 1.8799999952,
-    "close": 2.0,
-    "volume": 447500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "POWW",
-    "open": 2.0,
-    "high": 2.0499999523,
-    "low": 1.9600000381,
-    "close": 2.0399999619,
-    "volume": 467900.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "POWW",
-    "open": 2.0599999428,
-    "high": 2.0599999428,
-    "low": 2.0,
-    "close": 2.0199999809,
-    "volume": 338100.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "POWW",
     "open": 2.0099999905,

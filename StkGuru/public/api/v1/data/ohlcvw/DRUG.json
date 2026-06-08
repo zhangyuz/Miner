@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "DRUG",
-    "open": 3.0499999523,
-    "high": 3.0499999523,
-    "low": 2.5499999523,
-    "close": 2.7950000763,
-    "volume": 18900.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "DRUG",
-    "open": 2.8499999046,
-    "high": 2.875,
-    "low": 2.75,
-    "close": 2.75,
-    "volume": 12900.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "DRUG",
-    "open": 2.6500000954,
-    "high": 2.8949999809,
-    "low": 2.6500000954,
-    "close": 2.7249999046,
-    "volume": 5800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "DRUG",
-    "open": 2.75,
-    "high": 3.0499999523,
-    "low": 2.75,
-    "close": 2.9100000858,
-    "volume": 45040.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "DRUG",
     "open": 2.9100000858,

@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "PNRG",
-    "open": 97.0,
-    "high": 100.0,
-    "low": 96.0,
-    "close": 96.0,
-    "volume": 12300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "PNRG",
-    "open": 98.0,
-    "high": 98.0,
-    "low": 98.0,
-    "close": 98.0,
-    "volume": 1900.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "PNRG",
-    "open": 100.0,
-    "high": 100.0,
-    "low": 96.5999984741,
-    "close": 96.5999984741,
-    "volume": 3200.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "PNRG",
-    "open": 97.6999969482,
-    "high": 97.6999969482,
-    "low": 92.0899963379,
-    "close": 93.1200027466,
-    "volume": 8200.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "PNRG",
     "open": 95.4400024414,

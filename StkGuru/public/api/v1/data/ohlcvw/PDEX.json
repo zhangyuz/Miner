@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "PDEX",
-    "open": 19.4400005341,
-    "high": 19.6800003052,
-    "low": 18.75,
-    "close": 19.0,
-    "volume": 9800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "PDEX",
-    "open": 19.0,
-    "high": 19.0,
-    "low": 18.3600006104,
-    "close": 18.6200008392,
-    "volume": 1200.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "PDEX",
-    "open": 18.7399997711,
-    "high": 18.7399997711,
-    "low": 18.7399997711,
-    "close": 18.7399997711,
-    "volume": 1100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "PDEX",
-    "open": 19.0,
-    "high": 19.0,
-    "low": 18.6299991608,
-    "close": 18.9699993134,
-    "volume": 2400.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "PDEX",
     "open": 18.6299991608,

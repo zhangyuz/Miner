@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "SMTI",
-    "open": 39.2799987793,
-    "high": 39.2799987793,
-    "low": 37.0900001526,
-    "close": 38.5,
-    "volume": 10000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "SMTI",
-    "open": 38.5,
-    "high": 39.8699989319,
-    "low": 38.5,
-    "close": 38.5400009155,
-    "volume": 11300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "SMTI",
-    "open": 38.9700012207,
-    "high": 39.75,
-    "low": 38.5200004578,
-    "close": 39.2299995422,
-    "volume": 10300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "SMTI",
-    "open": 39.3300018311,
-    "high": 40.75,
-    "low": 39.3300018311,
-    "close": 39.8699989319,
-    "volume": 4800.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "SMTI",
     "open": 40.1899986267,

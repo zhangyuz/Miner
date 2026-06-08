@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 6208.0,
-    "high": 6368.0,
-    "low": 6016.0,
-    "close": 6336.0,
-    "volume": 129.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 6336.0,
-    "high": 6720.0,
-    "low": 6048.0,
-    "close": 6240.0,
-    "volume": 166.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 6240.0,
-    "high": 6368.0,
-    "low": 5984.0,
-    "close": 6112.0,
-    "volume": 57.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 6016.0,
-    "high": 6176.0,
-    "low": 5920.0,
-    "close": 6048.0,
-    "volume": 71.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "TNXP",
     "open": 5920.0,

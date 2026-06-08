@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "LUNR",
-    "open": 7.4000000954,
-    "high": 7.6999998093,
-    "low": 7.3000001907,
-    "close": 7.5,
-    "volume": 258000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "LUNR",
-    "open": 7.5,
-    "high": 7.9699997902,
-    "low": 7.4000000954,
-    "close": 7.9499998093,
-    "volume": 175300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "LUNR",
-    "open": 8.0799999237,
-    "high": 8.25,
-    "low": 7.7189998627,
-    "close": 7.8000001907,
-    "volume": 159800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "LUNR",
-    "open": 7.75,
-    "high": 8.3599996567,
-    "low": 7.6999998093,
-    "close": 8.1999998093,
-    "volume": 244400.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "LUNR",
     "open": 8.4799995422,

@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "INDV",
-    "open": 19.5599994659,
-    "high": 19.75,
-    "low": 19.2900009155,
-    "close": 19.75,
-    "volume": 1200.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "INDV",
-    "open": 20.0,
-    "high": 20.5,
-    "low": 20.0,
-    "close": 20.5,
-    "volume": 1600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "INDV",
-    "open": 21.6000003815,
-    "high": 21.6000003815,
-    "low": 21.6000003815,
-    "close": 21.6000003815,
-    "volume": 500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "INDV",
-    "open": 21.6000003815,
-    "high": 21.6000003815,
-    "low": 21.6000003815,
-    "close": 21.6000003815,
-    "volume": 100.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "INDV",
     "open": 20.9699993134,

@@ -1,45 +1,5 @@
 [
   {
-    "trade_date": "2023,06,05,00,00,00,000000",
-    "ticker": "DJCO",
-    "open": 291.75,
-    "high": 294.0,
-    "low": 291.75,
-    "close": 294.0,
-    "volume": 1500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,06,00,00,00,000000",
-    "ticker": "DJCO",
-    "open": 290.5100097656,
-    "high": 291.950012207,
-    "low": 289.9899902344,
-    "close": 289.9899902344,
-    "volume": 5000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,07,00,00,00,000000",
-    "ticker": "DJCO",
-    "open": 290.25,
-    "high": 291.0100097656,
-    "low": 288.0,
-    "close": 288.0,
-    "volume": 6700.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,08,00,00,00,000000",
-    "ticker": "DJCO",
-    "open": 285.0,
-    "high": 290.0,
-    "low": 285.0,
-    "close": 289.299987793,
-    "volume": 2000.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,09,00,00,00,000000",
     "ticker": "DJCO",
     "open": 286.25,

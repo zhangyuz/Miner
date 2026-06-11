@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,09,00,00,00,000000",
-    "ticker": "LFVN",
-    "open": 4.393022153,
-    "high": 4.6401296218,
-    "low": 4.3655655736,
-    "close": 4.4936952591,
-    "volume": 24500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,12,00,00,00,000000",
-    "ticker": "LFVN",
-    "open": 4.5760653159,
-    "high": 4.7499558503,
-    "low": 4.5577610721,
-    "close": 4.7041950226,
-    "volume": 40300.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,13,00,00,00,000000",
     "ticker": "LFVN",
     "open": 4.8048680304,
@@ -7447,6 +7427,86 @@
     "low": 7.1999998093,
     "close": 7.8699998856,
     "volume": 440055.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "LFVN",
+    "open": 8.3350000381,
+    "high": 9.5,
+    "low": 7.7620000839,
+    "close": 9.4300003052,
+    "volume": 1234100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "LFVN",
+    "open": 11.7100000381,
+    "high": 11.7100000381,
+    "low": 7.5,
+    "close": 8.6199998856,
+    "volume": 2557600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "LFVN",
+    "open": 9.1599998474,
+    "high": 9.1599998474,
+    "low": 8.0,
+    "close": 8.3199996948,
+    "volume": 893500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "LFVN",
+    "open": 8.3900003433,
+    "high": 11.0,
+    "low": 8.3900003433,
+    "close": 9.3100004196,
+    "volume": 2306500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "LFVN",
+    "open": 9.0600004196,
+    "high": 10.0500001907,
+    "low": 8.8000001907,
+    "close": 9.970000267,
+    "volume": 963700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "LFVN",
+    "open": 11.0,
+    "high": 11.0799999237,
+    "low": 9.5563001633,
+    "close": 10.6999998093,
+    "volume": 1435595.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "LFVN",
+    "open": 10.5500001907,
+    "high": 11.3649997711,
+    "low": 9.3299999237,
+    "close": 9.5,
+    "volume": 919864.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "LFVN",
+    "open": 9.3599996567,
+    "high": 9.75,
+    "low": 6.75,
+    "close": 9.4799995422,
+    "volume": 1000342.0,
     "wedge_status": "none"
   }
 ]

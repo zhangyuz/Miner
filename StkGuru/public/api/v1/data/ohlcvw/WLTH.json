@@ -698,5 +698,85 @@
     "close": 12.220000267,
     "volume": 1572561.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "WLTH",
+    "open": 12.2700004578,
+    "high": 12.3400001526,
+    "low": 12.0500001907,
+    "close": 12.1899995804,
+    "volume": 1123600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "WLTH",
+    "open": 12.0900001526,
+    "high": 12.4200000763,
+    "low": 12.0,
+    "close": 12.3100004196,
+    "volume": 892600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "WLTH",
+    "open": 12.0249996185,
+    "high": 12.0799999237,
+    "low": 11.4499998093,
+    "close": 11.7600002289,
+    "volume": 1291600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "WLTH",
+    "open": 11.9399995804,
+    "high": 12.3199996948,
+    "low": 11.4119997025,
+    "close": 11.5,
+    "volume": 1784200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "WLTH",
+    "open": 9.9300003052,
+    "high": 10.5,
+    "low": 9.4829998016,
+    "close": 9.8500003815,
+    "volume": 3616100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "WLTH",
+    "open": 9.8599996567,
+    "high": 9.8599996567,
+    "low": 8.0649995804,
+    "close": 8.4099998474,
+    "volume": 7667813.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "WLTH",
+    "open": 8.2650003433,
+    "high": 9.0,
+    "low": 8.1999998093,
+    "close": 8.9899997711,
+    "volume": 4411129.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "WLTH",
+    "open": 8.8599996567,
+    "high": 9.0,
+    "low": 8.779999733,
+    "close": 8.9499998093,
+    "volume": 2650794.0,
+    "wedge_status": "none"
   }
 ]

@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,09,00,00,00,000000",
-    "ticker": "AVBH",
-    "open": 14.8999996185,
-    "high": 15.5,
-    "low": 14.8999996185,
-    "close": 15.5,
-    "volume": 21300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,12,00,00,00,000000",
-    "ticker": "AVBH",
-    "open": 15.5,
-    "high": 15.5,
-    "low": 15.5,
-    "close": 15.5,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,13,00,00,00,000000",
     "ticker": "AVBH",
     "open": 15.0500001907,
@@ -7447,6 +7427,86 @@
     "low": 30.6200008392,
     "close": 30.7800006866,
     "volume": 95730.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "AVBH",
+    "open": 30.6200008392,
+    "high": 31.0,
+    "low": 30.4099998474,
+    "close": 30.6599998474,
+    "volume": 52200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "AVBH",
+    "open": 30.7000007629,
+    "high": 31.1200008392,
+    "low": 30.6499996185,
+    "close": 31.0300006866,
+    "volume": 76200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "AVBH",
+    "open": 30.9300003052,
+    "high": 31.1800003052,
+    "low": 30.5,
+    "close": 30.5,
+    "volume": 66900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "AVBH",
+    "open": 30.9400005341,
+    "high": 31.4899997711,
+    "low": 30.8600006104,
+    "close": 30.8799991608,
+    "volume": 81300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "AVBH",
+    "open": 30.8799991608,
+    "high": 31.4500007629,
+    "low": 30.8500003815,
+    "close": 31.1700000763,
+    "volume": 171900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "AVBH",
+    "open": 31.2000007629,
+    "high": 31.6900005341,
+    "low": 31.2000007629,
+    "close": 31.3600006104,
+    "volume": 95719.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "AVBH",
+    "open": 31.3999996185,
+    "high": 32.5,
+    "low": 31.3999996185,
+    "close": 31.8099994659,
+    "volume": 122401.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "AVBH",
+    "open": 31.8099994659,
+    "high": 32.3400001526,
+    "low": 31.8099994659,
+    "close": 31.8899993896,
+    "volume": 96213.0,
     "wedge_status": "none"
   }
 ]

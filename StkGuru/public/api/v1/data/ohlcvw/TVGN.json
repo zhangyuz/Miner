@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,09,00,00,00,000000",
-    "ticker": "TVGN",
-    "open": 10.5,
-    "high": 10.5,
-    "low": 10.5,
-    "close": 10.5,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,12,00,00,00,000000",
-    "ticker": "TVGN",
-    "open": 10.5,
-    "high": 10.5,
-    "low": 10.5,
-    "close": 10.5,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,13,00,00,00,000000",
     "ticker": "TVGN",
     "open": 10.5,
@@ -7447,6 +7427,86 @@
     "low": 7.5,
     "close": 7.9099998474,
     "volume": 25574.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "TVGN",
+    "open": 8.0100002289,
+    "high": 8.2899999619,
+    "low": 7.7300000191,
+    "close": 8.0500001907,
+    "volume": 17700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "TVGN",
+    "open": 8.0,
+    "high": 8.8500003815,
+    "low": 7.6300001144,
+    "close": 8.470000267,
+    "volume": 19100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "TVGN",
+    "open": 8.1800003052,
+    "high": 9.9200000763,
+    "low": 8.1800003052,
+    "close": 9.0600004196,
+    "volume": 15200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "TVGN",
+    "open": 8.8900003433,
+    "high": 9.9799995422,
+    "low": 8.7650003433,
+    "close": 9.8599996567,
+    "volume": 16400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "TVGN",
+    "open": 9.9499998093,
+    "high": 10.9499998093,
+    "low": 9.5799999237,
+    "close": 10.470000267,
+    "volume": 100600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "TVGN",
+    "open": 10.3500003815,
+    "high": 11.6400003433,
+    "low": 9.7600002289,
+    "close": 11.6400003433,
+    "volume": 23611.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "TVGN",
+    "open": 11.8800001144,
+    "high": 11.8800001144,
+    "low": 9.8001003265,
+    "close": 10.75,
+    "volume": 26866.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "TVGN",
+    "open": 10.7600002289,
+    "high": 11.5200004578,
+    "low": 10.3999996185,
+    "close": 10.6000003815,
+    "volume": 44593.0,
     "wedge_status": "none"
   }
 ]

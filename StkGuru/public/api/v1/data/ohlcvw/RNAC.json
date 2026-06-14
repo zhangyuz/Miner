@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,13,00,00,00,000000",
-    "ticker": "RNAC",
-    "open": 40.7999992371,
-    "high": 42.0,
-    "low": 40.5,
-    "close": 41.0999984741,
-    "volume": 28423.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,14,00,00,00,000000",
-    "ticker": "RNAC",
-    "open": 41.0999984741,
-    "high": 41.4000015259,
-    "low": 37.5,
-    "close": 37.5,
-    "volume": 25423.0,
-    "wedge_status": "drop"
-  },
-  {
     "trade_date": "2023,06,15,00,00,00,000000",
     "ticker": "RNAC",
     "open": 36.9000015259,
@@ -7507,6 +7487,26 @@
     "low": 6.6652998924,
     "close": 7.4299998283,
     "volume": 543277.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "RNAC",
+    "open": 7.3800001144,
+    "high": 8.3500003815,
+    "low": 7.1950001717,
+    "close": 8.0600004196,
+    "volume": 506934.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "RNAC",
+    "open": 8.0799999237,
+    "high": 9.75,
+    "low": 7.9000000954,
+    "close": 9.5100002289,
+    "volume": 877329.0,
     "wedge_status": "none"
   }
 ]

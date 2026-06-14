@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,13,00,00,00,000000",
-    "ticker": "FSUN",
-    "open": 25.0,
-    "high": 26.0,
-    "low": 24.7999992371,
-    "close": 26.0,
-    "volume": 300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,14,00,00,00,000000",
-    "ticker": "FSUN",
-    "open": 25.25,
-    "high": 25.25,
-    "low": 25.25,
-    "close": 25.25,
-    "volume": 400.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,15,00,00,00,000000",
     "ticker": "FSUN",
     "open": 25.2999992371,
@@ -7507,6 +7487,26 @@
     "low": 36.0699996948,
     "close": 36.3800010681,
     "volume": 188932.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "FSUN",
+    "open": 36.5299987793,
+    "high": 37.0,
+    "low": 36.0800018311,
+    "close": 36.7900009155,
+    "volume": 100250.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "FSUN",
+    "open": 36.9300003052,
+    "high": 37.1199989319,
+    "low": 36.4900016785,
+    "close": 36.9099998474,
+    "volume": 145207.0,
     "wedge_status": "none"
   }
 ]

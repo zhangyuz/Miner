@@ -4388,5 +4388,25 @@
     "close": 8.4099998474,
     "volume": 39237.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "SUNS",
+    "open": 8.4099998474,
+    "high": 8.769900322,
+    "low": 8.3000001907,
+    "close": 8.5100002289,
+    "volume": 58379.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "SUNS",
+    "open": 8.5,
+    "high": 8.6990995407,
+    "low": 8.3999996185,
+    "close": 8.5399999619,
+    "volume": 72675.0,
+    "wedge_status": "none"
   }
 ]

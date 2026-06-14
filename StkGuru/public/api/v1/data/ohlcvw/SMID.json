@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,13,00,00,00,000000",
-    "ticker": "SMID",
-    "open": 19.25,
-    "high": 19.75,
-    "low": 18.6800003052,
-    "close": 19.1000003815,
-    "volume": 9000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,14,00,00,00,000000",
-    "ticker": "SMID",
-    "open": 19.25,
-    "high": 19.25,
-    "low": 18.7000007629,
-    "close": 18.7900009155,
-    "volume": 4000.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,15,00,00,00,000000",
     "ticker": "SMID",
     "open": 19.0,
@@ -7508,5 +7488,25 @@
     "close": 29.5,
     "volume": 17908.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "SMID",
+    "open": 30.0,
+    "high": 30.0550003052,
+    "low": 28.75,
+    "close": 29.7150001526,
+    "volume": 15112.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "SMID",
+    "open": 30.1499996185,
+    "high": 32.0098991394,
+    "low": 29.1800994873,
+    "close": 31.3500003815,
+    "volume": 13216.0,
+    "wedge_status": "pop"
   }
 ]

@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,13,00,00,00,000000",
-    "ticker": "KALV",
-    "open": 9.6300001144,
-    "high": 9.8850002289,
-    "low": 9.6199998856,
-    "close": 9.75,
-    "volume": 101700.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,14,00,00,00,000000",
-    "ticker": "KALV",
-    "open": 9.75,
-    "high": 9.8000001907,
-    "low": 9.5100002289,
-    "close": 9.6000003815,
-    "volume": 117200.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,15,00,00,00,000000",
     "ticker": "KALV",
     "open": 9.5799999237,
@@ -7507,6 +7487,16 @@
     "low": 26.9799995422,
     "close": 27.0,
     "volume": 4262878.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "KALV",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 0.0,
     "wedge_status": "none"
   }
 ]

@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,13,00,00,00,000000",
-    "ticker": "AISP",
-    "open": 11.0,
-    "high": 11.0,
-    "low": 11.0,
-    "close": 11.0,
-    "volume": 100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,14,00,00,00,000000",
-    "ticker": "AISP",
-    "open": 10.9499998093,
-    "high": 10.9499998093,
-    "low": 10.9499998093,
-    "close": 10.9499998093,
-    "volume": 600.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,15,00,00,00,000000",
     "ticker": "AISP",
     "open": 11.0,
@@ -7507,6 +7487,26 @@
     "low": 2.7899999619,
     "close": 2.9000000954,
     "volume": 830280.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "AISP",
+    "open": 2.9107000828,
+    "high": 3.0850000381,
+    "low": 2.8650000095,
+    "close": 3.0699999332,
+    "volume": 626390.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "AISP",
+    "open": 3.0799999237,
+    "high": 3.1050000191,
+    "low": 2.9800000191,
+    "close": 3.0099999905,
+    "volume": 378516.0,
     "wedge_status": "none"
   }
 ]

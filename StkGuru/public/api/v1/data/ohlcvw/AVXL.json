@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,13,00,00,00,000000",
-    "ticker": "AVXL",
-    "open": 8.75,
-    "high": 8.9899997711,
-    "low": 8.5100002289,
-    "close": 8.8299999237,
-    "volume": 884500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,14,00,00,00,000000",
-    "ticker": "AVXL",
-    "open": 8.8500003815,
-    "high": 8.9350004196,
-    "low": 8.5900001526,
-    "close": 8.75,
-    "volume": 796100.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,15,00,00,00,000000",
     "ticker": "AVXL",
     "open": 8.7600002289,
@@ -7507,6 +7487,26 @@
     "low": 2.4600000381,
     "close": 2.4600000381,
     "volume": 910519.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "AVXL",
+    "open": 2.4400000572,
+    "high": 2.5350000858,
+    "low": 2.4100000858,
+    "close": 2.5,
+    "volume": 956967.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "AVXL",
+    "open": 2.5,
+    "high": 2.5750000477,
+    "low": 2.4500000477,
+    "close": 2.5,
+    "volume": 1199950.0,
     "wedge_status": "none"
   }
 ]

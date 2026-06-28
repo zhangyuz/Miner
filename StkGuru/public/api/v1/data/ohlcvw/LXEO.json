@@ -6088,5 +6088,95 @@
     "close": 4.3699998856,
     "volume": 616329.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.5300002098,
+    "high": 5.0399999619,
+    "low": 4.5100002289,
+    "close": 4.6500000954,
+    "volume": 2447369.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.7150001526,
+    "high": 4.8099999428,
+    "low": 4.5100002289,
+    "close": 4.75,
+    "volume": 714527.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.8400001526,
+    "high": 5.2699999809,
+    "low": 4.8000001907,
+    "close": 4.9800000191,
+    "volume": 1400083.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.9899997711,
+    "high": 5.3400001526,
+    "low": 4.9200000763,
+    "close": 4.9299998283,
+    "volume": 1078775.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 5.0,
+    "high": 5.1387000084,
+    "low": 4.8600001335,
+    "close": 5.0399999619,
+    "volume": 1261195.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.9800000191,
+    "high": 5.25,
+    "low": 4.9050002098,
+    "close": 4.9200000763,
+    "volume": 758023.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.9800000191,
+    "high": 5.0900001526,
+    "low": 4.8499999046,
+    "close": 4.8899998665,
+    "volume": 790512.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.8499999046,
+    "high": 4.9499998093,
+    "low": 4.6700000763,
+    "close": 4.6999998093,
+    "volume": 846238.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.6900000572,
+    "high": 4.9200000763,
+    "low": 4.6649999619,
+    "close": 4.75,
+    "volume": 2103641.0,
+    "wedge_status": "none"
   }
 ]

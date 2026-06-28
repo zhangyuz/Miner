@@ -1,105 +1,5 @@
 [
   {
-    "trade_date": "2023,06,15,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 7.875,
-    "high": 8.0,
-    "low": 7.875,
-    "close": 8.0,
-    "volume": 1000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,16,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 7.75,
-    "high": 8.25,
-    "low": 7.625,
-    "close": 8.25,
-    "volume": 6200.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,20,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 8.25,
-    "high": 8.25,
-    "low": 8.125,
-    "close": 8.25,
-    "volume": 2400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,21,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 8.25,
-    "high": 8.25,
-    "low": 8.2349996567,
-    "close": 8.2349996567,
-    "volume": 400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,22,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 8.5,
-    "high": 8.6000003815,
-    "low": 8.5,
-    "close": 8.595000267,
-    "volume": 2200.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,23,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 8.5799999237,
-    "high": 8.5799999237,
-    "low": 8.5799999237,
-    "close": 8.5799999237,
-    "volume": 400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,26,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 8.5799999237,
-    "high": 8.5799999237,
-    "low": 8.5799999237,
-    "close": 8.5799999237,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,27,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 8.5,
-    "high": 8.5,
-    "low": 8.5,
-    "close": 8.5,
-    "volume": 1000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,28,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 8.5,
-    "high": 8.5,
-    "low": 8.5,
-    "close": 8.5,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,29,00,00,00,000000",
-    "ticker": "FTLF",
-    "open": 8.5,
-    "high": 8.5,
-    "low": 8.5,
-    "close": 8.5,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,30,00,00,00,000000",
     "ticker": "FTLF",
     "open": 8.5,
@@ -7507,6 +7407,96 @@
     "low": 10.7045001984,
     "close": 11.0100002289,
     "volume": 20986.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 11.0100002289,
+    "high": 11.3000001907,
+    "low": 10.3000001907,
+    "close": 10.3500003815,
+    "volume": 21817.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 10.6499996185,
+    "high": 11.0500001907,
+    "low": 10.3649997711,
+    "close": 11.0500001907,
+    "volume": 9919.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 11.0500001907,
+    "high": 11.3000001907,
+    "low": 10.279999733,
+    "close": 10.6099996567,
+    "volume": 20523.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 10.6700000763,
+    "high": 11.3900003433,
+    "low": 10.6700000763,
+    "close": 11.2700004578,
+    "volume": 31398.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 11.279999733,
+    "high": 11.279999733,
+    "low": 10.5,
+    "close": 10.8299999237,
+    "volume": 29747.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 11.1099996567,
+    "high": 12.1599998474,
+    "low": 11.1099996567,
+    "close": 11.8500003815,
+    "volume": 22384.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 12.0,
+    "high": 12.7658004761,
+    "low": 11.6700000763,
+    "close": 11.9099998474,
+    "volume": 30209.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 12.0100002289,
+    "high": 12.0100002289,
+    "low": 11.4499998093,
+    "close": 11.9300003052,
+    "volume": 32021.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 11.3050003052,
+    "high": 12.0074996948,
+    "low": 10.779999733,
+    "close": 11.0799999237,
+    "volume": 291244.0,
     "wedge_status": "none"
   }
 ]

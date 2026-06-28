@@ -1,105 +1,5 @@
 [
   {
-    "trade_date": "2023,06,15,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 20.7999992371,
-    "high": 20.7999992371,
-    "low": 20.6000003815,
-    "close": 20.6000003815,
-    "volume": 900.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,16,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 20.7000007629,
-    "high": 20.7000007629,
-    "low": 20.5,
-    "close": 20.5,
-    "volume": 1700.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,20,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 20.6000003815,
-    "high": 20.6000003815,
-    "low": 20.3999996185,
-    "close": 20.3999996185,
-    "volume": 2500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,21,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 20.3999996185,
-    "high": 20.5,
-    "low": 20.3999996185,
-    "close": 20.5,
-    "volume": 1000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,22,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 20.5,
-    "high": 20.5,
-    "low": 20.3999996185,
-    "close": 20.3999996185,
-    "volume": 3400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,23,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 20.2999992371,
-    "high": 20.2999992371,
-    "low": 18.75,
-    "close": 18.75,
-    "volume": 2800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,26,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 18.6000003815,
-    "high": 18.6000003815,
-    "low": 18.1000003815,
-    "close": 18.1000003815,
-    "volume": 200.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,27,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 18.1000003815,
-    "high": 18.1000003815,
-    "low": 18.0,
-    "close": 18.0,
-    "volume": 600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,28,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 18.0,
-    "high": 18.0,
-    "low": 18.0,
-    "close": 18.0,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,06,29,00,00,00,000000",
-    "ticker": "BVFL",
-    "open": 18.0,
-    "high": 18.0,
-    "low": 18.0,
-    "close": 18.0,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,06,30,00,00,00,000000",
     "ticker": "BVFL",
     "open": 18.0,
@@ -7507,6 +7407,96 @@
     "low": 18.8950004578,
     "close": 20.0,
     "volume": 19309.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 19.8250007629,
+    "high": 20.75,
+    "low": 19.8250007629,
+    "close": 20.3500003815,
+    "volume": 18001.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 20.3899993896,
+    "high": 20.5100002289,
+    "low": 19.5701007843,
+    "close": 20.1100006104,
+    "volume": 25364.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 20.2299995422,
+    "high": 20.2299995422,
+    "low": 19.6000995636,
+    "close": 19.8799991608,
+    "volume": 9375.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 20.0,
+    "high": 20.4400005341,
+    "low": 19.6301994324,
+    "close": 20.3400001526,
+    "volume": 108085.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 20.0049991608,
+    "high": 20.5,
+    "low": 20.0049991608,
+    "close": 20.4799995422,
+    "volume": 25537.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 20.6299991608,
+    "high": 21.1100006104,
+    "low": 19.9372005463,
+    "close": 21.1100006104,
+    "volume": 22247.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 21.2099990845,
+    "high": 21.4799995422,
+    "low": 21.1599006653,
+    "close": 21.3199996948,
+    "volume": 31821.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 21.2900009155,
+    "high": 21.7900009155,
+    "low": 21.0100002289,
+    "close": 21.6200008392,
+    "volume": 32684.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "BVFL",
+    "open": 21.7600002289,
+    "high": 22.1700000763,
+    "low": 21.5,
+    "close": 21.8299999237,
+    "volume": 95073.0,
     "wedge_status": "none"
   }
 ]

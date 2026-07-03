@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,30,00,00,00,000000",
-    "ticker": "TERN",
-    "open": 8.5,
-    "high": 9.1499996185,
-    "low": 8.3599996567,
-    "close": 8.75,
-    "volume": 2076500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,03,00,00,00,000000",
-    "ticker": "TERN",
-    "open": 8.75,
-    "high": 8.75,
-    "low": 8.25,
-    "close": 8.2700004578,
-    "volume": 606600.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,05,00,00,00,000000",
     "ticker": "TERN",
     "open": 8.25,

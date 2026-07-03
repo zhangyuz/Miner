@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,30,00,00,00,000000",
-    "ticker": "JYNT",
-    "open": 13.8999996185,
-    "high": 14.1000003815,
-    "low": 13.4499998093,
-    "close": 13.5,
-    "volume": 53600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,03,00,00,00,000000",
-    "ticker": "JYNT",
-    "open": 13.5,
-    "high": 13.6400003433,
-    "low": 13.154999733,
-    "close": 13.4799995422,
-    "volume": 36000.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,05,00,00,00,000000",
     "ticker": "JYNT",
     "open": 13.3199996948,
@@ -7498,5 +7478,45 @@
     "close": 8.5200004578,
     "volume": 1197491.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "JYNT",
+    "open": 8.5500001907,
+    "high": 8.6599998474,
+    "low": 8.2829999924,
+    "close": 8.3299999237,
+    "volume": 153135.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "JYNT",
+    "open": 8.3599996567,
+    "high": 8.8800001144,
+    "low": 8.3500003815,
+    "close": 8.779999733,
+    "volume": 103770.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "JYNT",
+    "open": 8.8500003815,
+    "high": 9.029999733,
+    "low": 8.4638996124,
+    "close": 8.9799995422,
+    "volume": 95959.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "JYNT",
+    "open": 9.0,
+    "high": 9.3298997879,
+    "low": 8.5,
+    "close": 8.970000267,
+    "volume": 398087.0,
+    "wedge_status": "none"
   }
 ]

@@ -918,5 +918,45 @@
     "close": 92.0,
     "volume": 1548656.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "CDNL",
+    "open": 91.8600006104,
+    "high": 95.1716995239,
+    "low": 89.5800018311,
+    "close": 94.3099975586,
+    "volume": 1011763.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "CDNL",
+    "open": 92.8600006104,
+    "high": 95.2600021362,
+    "low": 89.4499969482,
+    "close": 94.1999969482,
+    "volume": 993845.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "CDNL",
+    "open": 94.0,
+    "high": 96.4000015259,
+    "low": 85.25,
+    "close": 86.0,
+    "volume": 1148893.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "CDNL",
+    "open": 86.0,
+    "high": 86.4899978638,
+    "low": 72.9499969482,
+    "close": 74.25,
+    "volume": 1435631.0,
+    "wedge_status": "drop"
   }
 ]

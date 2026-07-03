@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,30,00,00,00,000000",
-    "ticker": "NEON",
-    "open": 8.1999998093,
-    "high": 8.1999998093,
-    "low": 7.8000001907,
-    "close": 8.0799999237,
-    "volume": 43100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,03,00,00,00,000000",
-    "ticker": "NEON",
-    "open": 8.0,
-    "high": 8.220000267,
-    "low": 8.0,
-    "close": 8.0600004196,
-    "volume": 22600.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,05,00,00,00,000000",
     "ticker": "NEON",
     "open": 8.1300001144,
@@ -7497,6 +7477,46 @@
     "low": 0.8199999928,
     "close": 0.8199999928,
     "volume": 1318327.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "NEON",
+    "open": 0.8525999784,
+    "high": 0.8896999955,
+    "low": 0.7207000256,
+    "close": 0.8349999785,
+    "volume": 542959.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "NEON",
+    "open": 0.8349999785,
+    "high": 1.0499999523,
+    "low": 0.8349999785,
+    "close": 0.9409999847,
+    "volume": 747357.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "NEON",
+    "open": 0.9300000072,
+    "high": 1.0,
+    "low": 0.861800015,
+    "close": 0.9756000042,
+    "volume": 256964.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "NEON",
+    "open": 1.0,
+    "high": 1.0,
+    "low": 0.8988999724,
+    "close": 0.9268000126,
+    "volume": 119970.0,
     "wedge_status": "none"
   }
 ]

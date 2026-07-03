@@ -5628,5 +5628,45 @@
     "close": 71.9599990845,
     "volume": 4215543.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "CGON",
+    "open": 70.6800003052,
+    "high": 73.8799972534,
+    "low": 70.1949996948,
+    "close": 73.7300033569,
+    "volume": 878247.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "CGON",
+    "open": 75.0699996948,
+    "high": 76.5999984741,
+    "low": 70.5449981689,
+    "close": 71.0500030518,
+    "volume": 1343481.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "CGON",
+    "open": 70.3300018311,
+    "high": 71.5,
+    "low": 69.75,
+    "close": 70.8899993896,
+    "volume": 1000813.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "CGON",
+    "open": 71.1299972534,
+    "high": 71.875,
+    "low": 68.75,
+    "close": 70.3600006104,
+    "volume": 792305.0,
+    "wedge_status": "none"
   }
 ]

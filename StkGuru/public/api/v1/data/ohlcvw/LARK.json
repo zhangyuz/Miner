@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,06,30,00,00,00,000000",
-    "ticker": "LARK",
-    "open": 18.5647919499,
-    "high": 18.5732584128,
-    "low": 18.4462757111,
-    "close": 18.4462757111,
-    "volume": 882.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,03,00,00,00,000000",
-    "ticker": "LARK",
-    "open": 18.6240539551,
-    "high": 18.6240539551,
-    "low": 18.6240539551,
-    "close": 18.6240539551,
-    "volume": 441.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,05,00,00,00,000000",
     "ticker": "LARK",
     "open": 18.5393999978,
@@ -7497,6 +7477,46 @@
     "low": 30.0,
     "close": 32.0,
     "volume": 148101.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "LARK",
+    "open": 31.0,
+    "high": 31.8700008392,
+    "low": 31.0,
+    "close": 31.75,
+    "volume": 21232.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "LARK",
+    "open": 31.6399993896,
+    "high": 31.6599998474,
+    "low": 30.7099990845,
+    "close": 30.7099990845,
+    "volume": 7423.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "LARK",
+    "open": 30.1399993896,
+    "high": 31.5149993896,
+    "low": 30.1399993896,
+    "close": 31.4799995422,
+    "volume": 10866.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "LARK",
+    "open": 31.5,
+    "high": 31.5,
+    "low": 30.9699993134,
+    "close": 31.1399993896,
+    "volume": 9251.0,
     "wedge_status": "none"
   }
 ]

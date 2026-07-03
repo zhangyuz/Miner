@@ -5328,5 +5328,45 @@
     "close": 6.0100002289,
     "volume": 4789487.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "SERV",
+    "open": 6.0500001907,
+    "high": 6.4099998474,
+    "low": 5.9200000763,
+    "close": 6.3499999046,
+    "volume": 4308567.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "SERV",
+    "open": 6.2699999809,
+    "high": 6.7399997711,
+    "low": 6.25,
+    "close": 6.5799999237,
+    "volume": 4372162.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "SERV",
+    "open": 6.5500001907,
+    "high": 6.8183999062,
+    "low": 6.5,
+    "close": 6.5300002098,
+    "volume": 2729993.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "SERV",
+    "open": 6.5599999428,
+    "high": 6.7498998642,
+    "low": 6.2300000191,
+    "close": 6.3099999428,
+    "volume": 2957445.0,
+    "wedge_status": "none"
   }
 ]

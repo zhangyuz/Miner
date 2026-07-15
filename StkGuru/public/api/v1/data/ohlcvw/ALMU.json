@@ -1,85 +1,5 @@
 [
   {
-    "trade_date": "2023,07,05,00,00,00,000000",
-    "ticker": "ALMU",
-    "open": 2.9000000954,
-    "high": 2.9000000954,
-    "low": 2.9000000954,
-    "close": 2.9000000954,
-    "volume": 2000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,06,00,00,00,000000",
-    "ticker": "ALMU",
-    "open": 2.9000000954,
-    "high": 2.9000000954,
-    "low": 2.9000000954,
-    "close": 2.9000000954,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,07,00,00,00,000000",
-    "ticker": "ALMU",
-    "open": 2.8800001144,
-    "high": 2.8800001144,
-    "low": 2.8800001144,
-    "close": 2.8800001144,
-    "volume": 100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,10,00,00,00,000000",
-    "ticker": "ALMU",
-    "open": 2.8800001144,
-    "high": 2.8800001144,
-    "low": 2.8800001144,
-    "close": 2.8800001144,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,11,00,00,00,000000",
-    "ticker": "ALMU",
-    "open": 2.7999999523,
-    "high": 3.125,
-    "low": 2.7980000973,
-    "close": 3.0,
-    "volume": 13400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,12,00,00,00,000000",
-    "ticker": "ALMU",
-    "open": 3.0,
-    "high": 3.0,
-    "low": 3.0,
-    "close": 3.0,
-    "volume": 200.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,13,00,00,00,000000",
-    "ticker": "ALMU",
-    "open": 3.0,
-    "high": 3.0,
-    "low": 3.0,
-    "close": 3.0,
-    "volume": 600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,14,00,00,00,000000",
-    "ticker": "ALMU",
-    "open": 3.0,
-    "high": 3.0,
-    "low": 3.0,
-    "close": 3.0,
-    "volume": 700.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,17,00,00,00,000000",
     "ticker": "ALMU",
     "open": 3.1400001049,
@@ -7517,6 +7437,76 @@
     "low": 18.3099994659,
     "close": 18.8500003815,
     "volume": 663897.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "ALMU",
+    "open": 19.2800006866,
+    "high": 19.8199996948,
+    "low": 18.7700004578,
+    "close": 18.9099998474,
+    "volume": 325026.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "ALMU",
+    "open": 18.25,
+    "high": 18.5699996948,
+    "low": 17.2000007629,
+    "close": 17.4899997711,
+    "volume": 655569.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "ALMU",
+    "open": 17.0,
+    "high": 17.9827003479,
+    "low": 16.9500999451,
+    "close": 17.7399997711,
+    "volume": 442448.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "ALMU",
+    "open": 18.8500003815,
+    "high": 18.8500003815,
+    "low": 18.2000007629,
+    "close": 18.25,
+    "volume": 354688.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "ALMU",
+    "open": 17.9500007629,
+    "high": 18.1800003052,
+    "low": 17.0599994659,
+    "close": 17.6000003815,
+    "volume": 344316.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "ALMU",
+    "open": 16.9699993134,
+    "high": 17.2000007629,
+    "low": 15.7150001526,
+    "close": 16.2199993134,
+    "volume": 723755.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "ALMU",
+    "open": 16.7299995422,
+    "high": 17.4099998474,
+    "low": 16.5,
+    "close": 17.0400009155,
+    "volume": 469563.0,
     "wedge_status": "none"
   }
 ]

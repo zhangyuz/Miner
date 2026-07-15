@@ -6588,5 +6588,75 @@
     "close": 183.2400054932,
     "volume": 796960.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "SEZL",
+    "open": 183.1300048828,
+    "high": 185.0,
+    "low": 173.9199981689,
+    "close": 179.0500030518,
+    "volume": 646438.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "SEZL",
+    "open": 179.1499938965,
+    "high": 183.0,
+    "low": 172.0,
+    "close": 177.6300048828,
+    "volume": 393649.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "SEZL",
+    "open": 173.0,
+    "high": 175.25,
+    "low": 165.0,
+    "close": 167.3200073242,
+    "volume": 791852.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "SEZL",
+    "open": 168.1300048828,
+    "high": 179.7100067139,
+    "low": 166.0,
+    "close": 177.0800018311,
+    "volume": 485984.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "SEZL",
+    "open": 179.7400054932,
+    "high": 182.5599975586,
+    "low": 176.4600067139,
+    "close": 179.3800048828,
+    "volume": 309591.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "SEZL",
+    "open": 171.5417938232,
+    "high": 175.0699005127,
+    "low": 157.0,
+    "close": 160.25,
+    "volume": 858053.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "SEZL",
+    "open": 161.5099945068,
+    "high": 183.7100067139,
+    "low": 157.3901062012,
+    "close": 182.3899993896,
+    "volume": 742179.0,
+    "wedge_status": "none"
   }
 ]

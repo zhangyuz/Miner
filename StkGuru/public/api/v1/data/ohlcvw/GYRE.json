@@ -1,85 +1,5 @@
 [
   {
-    "trade_date": "2023,07,05,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 5.25,
-    "high": 5.4000000954,
-    "low": 4.9499998093,
-    "close": 5.0999999046,
-    "volume": 23720.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,06,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 5.0999999046,
-    "high": 5.25,
-    "low": 4.8000001907,
-    "close": 5.0999999046,
-    "volume": 15353.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,07,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 5.25,
-    "high": 5.4000000954,
-    "low": 5.0999999046,
-    "close": 5.25,
-    "volume": 13353.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,10,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 5.4000000954,
-    "high": 5.5500001907,
-    "low": 5.25,
-    "close": 5.4000000954,
-    "volume": 14193.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,11,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 5.0999999046,
-    "high": 5.4000000954,
-    "low": 5.0999999046,
-    "close": 5.25,
-    "volume": 12107.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,12,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 5.0999999046,
-    "high": 5.25,
-    "low": 5.0999999046,
-    "close": 5.0999999046,
-    "volume": 11260.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,13,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 5.25,
-    "high": 5.4000000954,
-    "low": 5.25,
-    "close": 5.25,
-    "volume": 8893.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,14,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 5.25,
-    "high": 5.8499999046,
-    "low": 5.25,
-    "close": 5.6999998093,
-    "volume": 23860.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,17,00,00,00,000000",
     "ticker": "GYRE",
     "open": 5.8499999046,
@@ -7517,6 +7437,76 @@
     "low": 6.5454001427,
     "close": 7.3400001526,
     "volume": 100679.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "GYRE",
+    "open": 7.3400001526,
+    "high": 7.4699997902,
+    "low": 7.0599999428,
+    "close": 7.2600002289,
+    "volume": 132237.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "GYRE",
+    "open": 7.3200001717,
+    "high": 7.3200001717,
+    "low": 6.9099998474,
+    "close": 7.0100002289,
+    "volume": 106079.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "GYRE",
+    "open": 6.8267002106,
+    "high": 6.9800000191,
+    "low": 6.6799998283,
+    "close": 6.8600001335,
+    "volume": 112611.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "GYRE",
+    "open": 6.8000001907,
+    "high": 6.9400000572,
+    "low": 6.6900000572,
+    "close": 6.8600001335,
+    "volume": 60814.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "GYRE",
+    "open": 6.7100000381,
+    "high": 6.8850002289,
+    "low": 6.5,
+    "close": 6.5199999809,
+    "volume": 66879.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "GYRE",
+    "open": 6.4099998474,
+    "high": 6.4899997711,
+    "low": 6.3099999428,
+    "close": 6.3400001526,
+    "volume": 64819.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "GYRE",
+    "open": 6.3299999237,
+    "high": 6.5097999573,
+    "low": 6.1999998093,
+    "close": 6.3400001526,
+    "volume": 80233.0,
     "wedge_status": "none"
   }
 ]

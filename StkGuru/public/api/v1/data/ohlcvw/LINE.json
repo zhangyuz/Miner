@@ -4418,5 +4418,75 @@
     "close": 44.0,
     "volume": 1090322.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "LINE",
+    "open": 43.6500015259,
+    "high": 43.9598999023,
+    "low": 43.1500015259,
+    "close": 43.4900016785,
+    "volume": 890969.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "LINE",
+    "open": 44.2999992371,
+    "high": 45.75,
+    "low": 43.9749984741,
+    "close": 44.0,
+    "volume": 1390650.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "LINE",
+    "open": 44.0,
+    "high": 44.0,
+    "low": 43.1199989319,
+    "close": 43.2900009155,
+    "volume": 1020344.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "LINE",
+    "open": 43.5,
+    "high": 44.2299995422,
+    "low": 43.3499984741,
+    "close": 43.9799995422,
+    "volume": 624865.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "LINE",
+    "open": 44.0,
+    "high": 44.1049995422,
+    "low": 43.0,
+    "close": 43.1199989319,
+    "volume": 707076.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "LINE",
+    "open": 43.4550018311,
+    "high": 43.9199981689,
+    "low": 43.1699981689,
+    "close": 43.8499984741,
+    "volume": 813993.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "LINE",
+    "open": 44.25,
+    "high": 44.4900016785,
+    "low": 43.5699996948,
+    "close": 44.0,
+    "volume": 475707.0,
+    "wedge_status": "none"
   }
 ]

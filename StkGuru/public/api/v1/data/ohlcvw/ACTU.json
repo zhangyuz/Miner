@@ -4288,5 +4288,75 @@
     "close": 1.5199999809,
     "volume": 179211.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "ACTU",
+    "open": 1.5199999809,
+    "high": 1.5700000525,
+    "low": 1.3999999762,
+    "close": 1.3999999762,
+    "volume": 68894.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "ACTU",
+    "open": 1.3700000048,
+    "high": 1.5399999619,
+    "low": 1.3700000048,
+    "close": 1.5199999809,
+    "volume": 104337.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "ACTU",
+    "open": 1.4800000191,
+    "high": 1.4800000191,
+    "low": 1.1950000525,
+    "close": 1.3300000429,
+    "volume": 212057.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "ACTU",
+    "open": 1.25,
+    "high": 1.5,
+    "low": 1.1599999666,
+    "close": 1.2300000191,
+    "volume": 662093.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "ACTU",
+    "open": 1.2400000095,
+    "high": 1.3999999762,
+    "low": 1.2100000381,
+    "close": 1.2100000381,
+    "volume": 254799.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "ACTU",
+    "open": 1.25,
+    "high": 1.6000000238,
+    "low": 1.25,
+    "close": 1.5,
+    "volume": 2660667.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "ACTU",
+    "open": 1.4900000095,
+    "high": 1.9499000311,
+    "low": 1.4500000477,
+    "close": 1.7300000191,
+    "volume": 2687910.0,
+    "wedge_status": "none"
   }
 ]

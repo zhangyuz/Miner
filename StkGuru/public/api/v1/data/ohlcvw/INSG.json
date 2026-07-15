@@ -1,85 +1,5 @@
 [
   {
-    "trade_date": "2023,07,05,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 7.1999998093,
-    "high": 7.3000001907,
-    "low": 6.8000001907,
-    "close": 6.9000000954,
-    "volume": 64660.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,06,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 6.6999998093,
-    "high": 6.8000001907,
-    "low": 6.4000000954,
-    "close": 6.5,
-    "volume": 53030.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,07,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 6.5999999046,
-    "high": 6.9000000954,
-    "low": 6.4000000954,
-    "close": 6.4000000954,
-    "volume": 58670.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,10,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 6.3000001907,
-    "high": 7.0,
-    "low": 6.0999999046,
-    "close": 6.9000000954,
-    "volume": 100060.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,11,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 6.8000001907,
-    "high": 7.3000001907,
-    "low": 6.8000001907,
-    "close": 7.0999999046,
-    "volume": 38810.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,12,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 7.1999998093,
-    "high": 8.0,
-    "low": 7.0999999046,
-    "close": 7.6999998093,
-    "volume": 87250.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,13,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 7.8000001907,
-    "high": 8.5,
-    "low": 7.5,
-    "close": 8.1000003815,
-    "volume": 62460.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,14,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 8.0,
-    "high": 8.1999998093,
-    "low": 7.5999999046,
-    "close": 7.6999998093,
-    "volume": 48820.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,17,00,00,00,000000",
     "ticker": "INSG",
     "open": 7.5999999046,
@@ -7517,6 +7437,76 @@
     "low": 8.6800003052,
     "close": 8.8699998856,
     "volume": 429163.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 8.9399995804,
+    "high": 8.9399995804,
+    "low": 8.3500003815,
+    "close": 8.5699996948,
+    "volume": 297517.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 8.4499998093,
+    "high": 8.4972000122,
+    "low": 7.9899997711,
+    "close": 8.1800003052,
+    "volume": 302887.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 8.0399999619,
+    "high": 8.3599004745,
+    "low": 8.0,
+    "close": 8.2600002289,
+    "volume": 231265.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 8.3199996948,
+    "high": 8.6099996567,
+    "low": 8.3199996948,
+    "close": 8.6000003815,
+    "volume": 143677.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 8.5,
+    "high": 8.8999996185,
+    "low": 8.279999733,
+    "close": 8.7600002289,
+    "volume": 229418.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 8.6999998093,
+    "high": 8.7700004578,
+    "low": 8.3000001907,
+    "close": 8.3199996948,
+    "volume": 216767.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 8.4200000763,
+    "high": 8.4200000763,
+    "low": 7.9299998283,
+    "close": 8.0100002289,
+    "volume": 196254.0,
     "wedge_status": "none"
   }
 ]

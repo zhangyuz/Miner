@@ -638,5 +638,75 @@
     "close": 7.7300000191,
     "volume": 123813.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "PPHC",
+    "open": 8.0,
+    "high": 8.3299999237,
+    "low": 7.8600001335,
+    "close": 8.279999733,
+    "volume": 217857.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "PPHC",
+    "open": 8.2700004578,
+    "high": 8.2700004578,
+    "low": 7.8499999046,
+    "close": 7.8699998856,
+    "volume": 103714.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "PPHC",
+    "open": 7.8600001335,
+    "high": 8.3100004196,
+    "low": 7.8499999046,
+    "close": 8.1400003433,
+    "volume": 297841.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "PPHC",
+    "open": 8.1499996185,
+    "high": 8.6300001144,
+    "low": 8.0399999619,
+    "close": 8.4499998093,
+    "volume": 201688.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "PPHC",
+    "open": 8.4099998474,
+    "high": 8.4250001907,
+    "low": 8.0883998871,
+    "close": 8.3400001526,
+    "volume": 63982.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "PPHC",
+    "open": 8.4200000763,
+    "high": 8.7100000381,
+    "low": 7.9190998077,
+    "close": 8.3999996185,
+    "volume": 380802.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "PPHC",
+    "open": 8.5,
+    "high": 8.8240003586,
+    "low": 8.1599998474,
+    "close": 8.2100000381,
+    "volume": 161814.0,
+    "wedge_status": "none"
   }
 ]

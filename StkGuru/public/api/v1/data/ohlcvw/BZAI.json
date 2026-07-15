@@ -1,85 +1,5 @@
 [
   {
-    "trade_date": "2023,07,05,00,00,00,000000",
-    "ticker": "BZAI",
-    "open": 10.470000267,
-    "high": 10.470000267,
-    "low": 10.470000267,
-    "close": 10.470000267,
-    "volume": 600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,06,00,00,00,000000",
-    "ticker": "BZAI",
-    "open": 10.470000267,
-    "high": 10.470000267,
-    "low": 10.470000267,
-    "close": 10.470000267,
-    "volume": 300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,07,00,00,00,000000",
-    "ticker": "BZAI",
-    "open": 10.4799995422,
-    "high": 10.5699996948,
-    "low": 10.4799995422,
-    "close": 10.5100002289,
-    "volume": 4900.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,10,00,00,00,000000",
-    "ticker": "BZAI",
-    "open": 10.470000267,
-    "high": 10.5900001526,
-    "low": 10.470000267,
-    "close": 10.5900001526,
-    "volume": 1600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,11,00,00,00,000000",
-    "ticker": "BZAI",
-    "open": 10.529999733,
-    "high": 10.529999733,
-    "low": 10.5,
-    "close": 10.5,
-    "volume": 10500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,12,00,00,00,000000",
-    "ticker": "BZAI",
-    "open": 10.5,
-    "high": 10.5,
-    "low": 10.5,
-    "close": 10.5,
-    "volume": 0.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,13,00,00,00,000000",
-    "ticker": "BZAI",
-    "open": 10.4799995422,
-    "high": 10.5,
-    "low": 10.470000267,
-    "close": 10.470000267,
-    "volume": 1500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,14,00,00,00,000000",
-    "ticker": "BZAI",
-    "open": 10.470000267,
-    "high": 10.470000267,
-    "low": 10.470000267,
-    "close": 10.470000267,
-    "volume": 100.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,17,00,00,00,000000",
     "ticker": "BZAI",
     "open": 10.470000267,
@@ -7517,6 +7437,76 @@
     "low": 1.3300000429,
     "close": 1.3400000334,
     "volume": 3154165.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "BZAI",
+    "open": 1.3400000334,
+    "high": 1.4299999475,
+    "low": 1.3300000429,
+    "close": 1.3700000048,
+    "volume": 2031756.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "BZAI",
+    "open": 1.3700000048,
+    "high": 1.3600000143,
+    "low": 1.2301000357,
+    "close": 1.2849999666,
+    "volume": 3134757.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "BZAI",
+    "open": 1.25,
+    "high": 1.2649999857,
+    "low": 1.2050000429,
+    "close": 1.2300000191,
+    "volume": 2070116.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "BZAI",
+    "open": 1.25,
+    "high": 1.2699999809,
+    "low": 1.2000000477,
+    "close": 1.2100000381,
+    "volume": 2675427.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "BZAI",
+    "open": 1.2000000477,
+    "high": 1.25,
+    "low": 1.1900000572,
+    "close": 1.2300000191,
+    "volume": 1890076.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "BZAI",
+    "open": 1.2200000286,
+    "high": 1.2200000286,
+    "low": 1.1050000191,
+    "close": 1.1150000095,
+    "volume": 3407082.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "BZAI",
+    "open": 1.1499999762,
+    "high": 1.2000000477,
+    "low": 1.1200000048,
+    "close": 1.1499999762,
+    "volume": 2249276.0,
     "wedge_status": "none"
   }
 ]

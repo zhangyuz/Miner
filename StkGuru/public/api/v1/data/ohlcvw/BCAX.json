@@ -4068,5 +4068,75 @@
     "close": 29.0,
     "volume": 915937.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "BCAX",
+    "open": 29.0,
+    "high": 29.8449993134,
+    "low": 28.6200008392,
+    "close": 29.2199993134,
+    "volume": 523453.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "BCAX",
+    "open": 29.4500007629,
+    "high": 30.9899997711,
+    "low": 29.0589008331,
+    "close": 30.3999996185,
+    "volume": 1840080.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "BCAX",
+    "open": 30.25,
+    "high": 30.5,
+    "low": 28.0499992371,
+    "close": 28.9899997711,
+    "volume": 857540.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "BCAX",
+    "open": 29.0,
+    "high": 30.1599998474,
+    "low": 29.0,
+    "close": 29.6800003052,
+    "volume": 428268.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "BCAX",
+    "open": 29.6800003052,
+    "high": 29.8199996948,
+    "low": 27.7849998474,
+    "close": 28.9099998474,
+    "volume": 568239.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "BCAX",
+    "open": 28.5349998474,
+    "high": 28.5349998474,
+    "low": 27.5662002563,
+    "close": 28.1499996185,
+    "volume": 416540.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "BCAX",
+    "open": 28.2999992371,
+    "high": 28.5200004578,
+    "low": 27.7000007629,
+    "close": 28.1000003815,
+    "volume": 322902.0,
+    "wedge_status": "none"
   }
 ]

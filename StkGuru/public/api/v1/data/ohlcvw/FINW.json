@@ -1,85 +1,5 @@
 [
   {
-    "trade_date": "2023,07,05,00,00,00,000000",
-    "ticker": "FINW",
-    "open": 8.8000001907,
-    "high": 8.8000001907,
-    "low": 8.5,
-    "close": 8.5600004196,
-    "volume": 14900.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,07,06,00,00,00,000000",
-    "ticker": "FINW",
-    "open": 8.6199998856,
-    "high": 8.6909999847,
-    "low": 8.5,
-    "close": 8.5,
-    "volume": 13300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,07,00,00,00,000000",
-    "ticker": "FINW",
-    "open": 8.5,
-    "high": 8.6199998856,
-    "low": 8.5,
-    "close": 8.6199998856,
-    "volume": 6100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,10,00,00,00,000000",
-    "ticker": "FINW",
-    "open": 8.5579996109,
-    "high": 8.5579996109,
-    "low": 8.5,
-    "close": 8.5,
-    "volume": 2700.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,11,00,00,00,000000",
-    "ticker": "FINW",
-    "open": 8.5900001526,
-    "high": 8.7299995422,
-    "low": 8.5900001526,
-    "close": 8.6499996185,
-    "volume": 2600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,12,00,00,00,000000",
-    "ticker": "FINW",
-    "open": 8.6499996185,
-    "high": 9.0200004578,
-    "low": 8.5860004425,
-    "close": 8.75,
-    "volume": 18900.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,13,00,00,00,000000",
-    "ticker": "FINW",
-    "open": 8.7550001144,
-    "high": 8.9399995804,
-    "low": 8.6999998093,
-    "close": 8.9399995804,
-    "volume": 1500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,14,00,00,00,000000",
-    "ticker": "FINW",
-    "open": 8.6820001602,
-    "high": 8.970000267,
-    "low": 8.6820001602,
-    "close": 8.8900003433,
-    "volume": 3400.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,17,00,00,00,000000",
     "ticker": "FINW",
     "open": 8.970000267,
@@ -7517,6 +7437,76 @@
     "low": 14.3699998856,
     "close": 14.5600004196,
     "volume": 14094.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "FINW",
+    "open": 14.7150001526,
+    "high": 14.75,
+    "low": 14.3000001907,
+    "close": 14.3100004196,
+    "volume": 42579.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "FINW",
+    "open": 14.4899997711,
+    "high": 14.4899997711,
+    "low": 13.8400001526,
+    "close": 14.0,
+    "volume": 55128.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "FINW",
+    "open": 14.1700000763,
+    "high": 14.4650001526,
+    "low": 13.8299999237,
+    "close": 13.9399995804,
+    "volume": 45263.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "FINW",
+    "open": 14.4650001526,
+    "high": 14.4650001526,
+    "low": 13.9600000381,
+    "close": 14.0600004196,
+    "volume": 23095.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "FINW",
+    "open": 14.220000267,
+    "high": 14.3999996185,
+    "low": 13.8800001144,
+    "close": 13.8800001144,
+    "volume": 32171.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "FINW",
+    "open": 14.0,
+    "high": 14.4549999237,
+    "low": 13.9099998474,
+    "close": 13.970000267,
+    "volume": 24580.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "FINW",
+    "open": 14.4099998474,
+    "high": 14.5,
+    "low": 13.9790000916,
+    "close": 13.9899997711,
+    "volume": 15683.0,
     "wedge_status": "none"
   }
 ]

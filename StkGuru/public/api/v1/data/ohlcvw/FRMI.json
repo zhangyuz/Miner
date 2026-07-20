@@ -1518,5 +1518,35 @@
     "close": 6.7399997711,
     "volume": 18953576.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "FRMI",
+    "open": 6.7899999619,
+    "high": 7.0,
+    "low": 6.1700000763,
+    "close": 6.25,
+    "volume": 15441063.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "FRMI",
+    "open": 6.1100001335,
+    "high": 6.1300001144,
+    "low": 5.75,
+    "close": 5.9299998283,
+    "volume": 14590496.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "FRMI",
+    "open": 5.75,
+    "high": 6.3099999428,
+    "low": 5.6999998093,
+    "close": 6.0500001907,
+    "volume": 18948024.0,
+    "wedge_status": "none"
   }
 ]

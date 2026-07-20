@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "CPSS",
-    "open": 13.0200004578,
-    "high": 13.3500003815,
-    "low": 12.5500001907,
-    "close": 12.6899995804,
-    "volume": 18000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "CPSS",
-    "open": 12.75,
-    "high": 13.0,
-    "low": 12.4300003052,
-    "close": 12.7899999619,
-    "volume": 24600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "CPSS",
-    "open": 12.7600002289,
-    "high": 12.9899997711,
-    "low": 12.5,
-    "close": 12.7600002289,
-    "volume": 11800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "CPSS",
-    "open": 12.6300001144,
-    "high": 13.0,
-    "low": 12.4300003052,
-    "close": 12.9899997711,
-    "volume": 22400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "CPSS",
-    "open": 13.0,
-    "high": 13.0,
-    "low": 12.529999733,
-    "close": 12.75,
-    "volume": 19700.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "CPSS",
     "open": 12.9300003052,
@@ -7507,6 +7457,36 @@
     "low": 9.2025003433,
     "close": 9.5,
     "volume": 19854.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "CPSS",
+    "open": 9.4799995422,
+    "high": 9.7100000381,
+    "low": 9.4799995422,
+    "close": 9.6300001144,
+    "volume": 41413.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "CPSS",
+    "open": 9.5799999237,
+    "high": 9.6925001144,
+    "low": 9.279999733,
+    "close": 9.279999733,
+    "volume": 26629.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "CPSS",
+    "open": 9.1800003052,
+    "high": 9.595000267,
+    "low": 9.029999733,
+    "close": 9.0900001526,
+    "volume": 15065.0,
     "wedge_status": "none"
   }
 ]

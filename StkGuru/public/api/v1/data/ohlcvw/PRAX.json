@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "PRAX",
-    "open": 18.0,
-    "high": 18.0,
-    "low": 17.25,
-    "close": 17.25,
-    "volume": 17660.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "PRAX",
-    "open": 17.3999996185,
-    "high": 17.5499992371,
-    "low": 15.75,
-    "close": 16.0499992371,
-    "volume": 69480.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "PRAX",
-    "open": 15.75,
-    "high": 18.0,
-    "low": 15.75,
-    "close": 17.25,
-    "volume": 46233.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "PRAX",
-    "open": 17.25,
-    "high": 17.25,
-    "low": 16.2000007629,
-    "close": 16.3500003815,
-    "volume": 18527.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "PRAX",
-    "open": 16.2000007629,
-    "high": 16.5149993896,
-    "low": 15.6000003815,
-    "close": 16.2000007629,
-    "volume": 35540.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "PRAX",
     "open": 15.8999996185,
@@ -7507,6 +7457,36 @@
     "low": 313.5799865723,
     "close": 327.6799926758,
     "volume": 374560.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "PRAX",
+    "open": 321.5899963379,
+    "high": 325.4099121094,
+    "low": 313.1700134277,
+    "close": 318.4200134277,
+    "volume": 231281.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "PRAX",
+    "open": 314.5299987793,
+    "high": 318.7699890137,
+    "low": 303.2799987793,
+    "close": 308.200012207,
+    "volume": 362631.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "PRAX",
+    "open": 299.1600036621,
+    "high": 322.262512207,
+    "low": 299.1600036621,
+    "close": 314.4100036621,
+    "volume": 282209.0,
     "wedge_status": "none"
   }
 ]

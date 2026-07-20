@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "ETON",
-    "open": 2.9200000763,
-    "high": 3.0399999619,
-    "low": 2.9200000763,
-    "close": 2.9900000095,
-    "volume": 27200.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "ETON",
-    "open": 3.0199999809,
-    "high": 3.0199999809,
-    "low": 2.9400000572,
-    "close": 3.0099999905,
-    "volume": 53000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "ETON",
-    "open": 3.0,
-    "high": 3.0499999523,
-    "low": 2.9300000668,
-    "close": 3.0099999905,
-    "volume": 63600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "ETON",
-    "open": 3.0,
-    "high": 3.0,
-    "low": 2.9600000381,
-    "close": 3.0,
-    "volume": 5400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "ETON",
-    "open": 3.0,
-    "high": 3.0199999809,
-    "low": 2.9600000381,
-    "close": 2.9700000286,
-    "volume": 27600.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "ETON",
     "open": 2.9600000381,
@@ -7507,6 +7457,36 @@
     "low": 36.7873001099,
     "close": 37.5099983215,
     "volume": 282429.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "ETON",
+    "open": 37.5099983215,
+    "high": 38.6699981689,
+    "low": 36.8100013733,
+    "close": 38.5,
+    "volume": 598607.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "ETON",
+    "open": 38.4799995422,
+    "high": 39.4799003601,
+    "low": 36.8650016785,
+    "close": 37.1899986267,
+    "volume": 441110.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "ETON",
+    "open": 37.2200012207,
+    "high": 42.6500015259,
+    "low": 37.0,
+    "close": 42.3199996948,
+    "volume": 1276335.0,
     "wedge_status": "none"
   }
 ]

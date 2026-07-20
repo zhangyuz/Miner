@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "MAPS",
-    "open": 0.9900000095,
-    "high": 1.0,
-    "low": 0.9670000076,
-    "close": 1.0,
-    "volume": 350800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "MAPS",
-    "open": 1.0,
-    "high": 1.0499999523,
-    "low": 0.9710000157,
-    "close": 1.0399999619,
-    "volume": 206000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "MAPS",
-    "open": 1.0499999523,
-    "high": 1.0499999523,
-    "low": 0.9769999981,
-    "close": 1.0,
-    "volume": 265300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "MAPS",
-    "open": 1.0,
-    "high": 1.0199999809,
-    "low": 0.9750000238,
-    "close": 1.0,
-    "volume": 228800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "MAPS",
-    "open": 1.0199999809,
-    "high": 1.0199999809,
-    "low": 0.9800000191,
-    "close": 1.0099999905,
-    "volume": 344000.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "MAPS",
     "open": 0.9900000095,

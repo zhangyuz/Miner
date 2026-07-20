@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "NGNE",
-    "open": 17.7000007629,
-    "high": 18.7999992371,
-    "low": 17.2000007629,
-    "close": 18.5,
-    "volume": 8440.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "NGNE",
-    "open": 17.5,
-    "high": 17.5,
-    "low": 13.8000001907,
-    "close": 14.779999733,
-    "volume": 188545.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "NGNE",
-    "open": 14.6000003815,
-    "high": 15.0,
-    "low": 13.0,
-    "close": 13.1999998093,
-    "volume": 64420.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "NGNE",
-    "open": 13.3999996185,
-    "high": 13.779999733,
-    "low": 13.0,
-    "close": 13.3999996185,
-    "volume": 59315.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "NGNE",
-    "open": 14.3999996185,
-    "high": 14.779999733,
-    "low": 13.8000001907,
-    "close": 13.8999996185,
-    "volume": 51040.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "NGNE",
     "open": 14.0,
@@ -7507,6 +7457,36 @@
     "low": 37.0200004578,
     "close": 39.0800018311,
     "volume": 245803.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "NGNE",
+    "open": 38.8899993896,
+    "high": 40.0,
+    "low": 38.6599998474,
+    "close": 39.4500007629,
+    "volume": 181593.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "NGNE",
+    "open": 39.2200012207,
+    "high": 39.5750007629,
+    "low": 36.1650009155,
+    "close": 36.5,
+    "volume": 163515.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "NGNE",
+    "open": 35.4900016785,
+    "high": 38.1899986267,
+    "low": 35.0499992371,
+    "close": 37.3100013733,
+    "volume": 472365.0,
     "wedge_status": "none"
   }
 ]

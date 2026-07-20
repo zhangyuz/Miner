@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 5696.0,
-    "high": 5824.0,
-    "low": 5632.0,
-    "close": 5696.0,
-    "volume": 20.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 5792.0,
-    "high": 5888.0,
-    "low": 5568.0,
-    "close": 5632.0,
-    "volume": 25.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 5696.0,
-    "high": 5888.0,
-    "low": 5504.0,
-    "close": 5696.0,
-    "volume": 40.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 5696.0,
-    "high": 5696.0,
-    "low": 5248.0,
-    "close": 5408.0,
-    "volume": 38.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 5344.0,
-    "high": 5440.0,
-    "low": 5184.0,
-    "close": 5312.0,
-    "volume": 21.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "TNXP",
     "open": 5440.0,
@@ -7507,6 +7457,36 @@
     "low": 10.8900003433,
     "close": 11.0600004196,
     "volume": 615744.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "TNXP",
+    "open": 11.1700000763,
+    "high": 11.8400001526,
+    "low": 11.116900444,
+    "close": 11.6099996567,
+    "volume": 359951.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "TNXP",
+    "open": 11.4899997711,
+    "high": 11.8900003433,
+    "low": 11.2100000381,
+    "close": 11.8500003815,
+    "volume": 416772.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "TNXP",
+    "open": 11.6400003433,
+    "high": 12.7550001144,
+    "low": 11.4949998856,
+    "close": 12.4300003052,
+    "volume": 688309.0,
     "wedge_status": "none"
   }
 ]

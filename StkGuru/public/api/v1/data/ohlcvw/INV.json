@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "INV",
-    "open": 10.5,
-    "high": 10.5,
-    "low": 10.5,
-    "close": 10.5,
-    "volume": 700.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "INV",
-    "open": 10.5,
-    "high": 10.5,
-    "low": 10.5,
-    "close": 10.5,
-    "volume": 0.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "INV",
-    "open": 10.5,
-    "high": 10.5,
-    "low": 10.5,
-    "close": 10.5,
-    "volume": 0.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "INV",
-    "open": 10.5100002289,
-    "high": 10.5100002289,
-    "low": 10.5100002289,
-    "close": 10.5100002289,
-    "volume": 600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "INV",
-    "open": 10.5100002289,
-    "high": 10.5100002289,
-    "low": 10.5100002289,
-    "close": 10.5100002289,
-    "volume": 82400.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "INV",
     "open": 10.5200004578,
@@ -7507,6 +7457,36 @@
     "low": 4.5149998665,
     "close": 4.5450000763,
     "volume": 963067.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "INV",
+    "open": 4.5500001907,
+    "high": 4.7600002289,
+    "low": 4.3499999046,
+    "close": 4.4600000381,
+    "volume": 1308641.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "INV",
+    "open": 4.3899998665,
+    "high": 4.4099998474,
+    "low": 3.4590001106,
+    "close": 3.8199999332,
+    "volume": 4155497.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "INV",
+    "open": 3.6400001049,
+    "high": 3.7899999619,
+    "low": 3.3450000286,
+    "close": 3.3699998856,
+    "volume": 3007952.0,
     "wedge_status": "none"
   }
 ]

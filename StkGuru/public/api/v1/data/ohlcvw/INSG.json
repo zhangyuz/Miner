@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 7.5999999046,
-    "high": 8.0,
-    "low": 7.4000000954,
-    "close": 7.5999999046,
-    "volume": 28630.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 7.5,
-    "high": 8.1000003815,
-    "low": 7.4000000954,
-    "close": 7.9000000954,
-    "volume": 34730.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 7.8000001907,
-    "high": 8.5,
-    "low": 7.5999999046,
-    "close": 8.1999998093,
-    "volume": 81710.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 7.8000001907,
-    "high": 8.5,
-    "low": 7.8000001907,
-    "close": 8.3999996185,
-    "volume": 49100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "INSG",
-    "open": 8.3999996185,
-    "high": 8.5,
-    "low": 7.9000000954,
-    "close": 8.1000003815,
-    "volume": 26890.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "INSG",
     "open": 7.8000001907,
@@ -7507,6 +7457,36 @@
     "low": 7.9299998283,
     "close": 8.0100002289,
     "volume": 196254.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 8.0200004578,
+    "high": 8.220000267,
+    "low": 7.6500000954,
+    "close": 7.8600001335,
+    "volume": 291904.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 7.7399997711,
+    "high": 7.8285999298,
+    "low": 7.4250001907,
+    "close": 7.5799999237,
+    "volume": 264207.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 7.3499999046,
+    "high": 7.8099999428,
+    "low": 7.3150000572,
+    "close": 7.4899997711,
+    "volume": 200233.0,
     "wedge_status": "none"
   }
 ]

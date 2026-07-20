@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "EXFY",
-    "open": 7.75,
-    "high": 7.9450001717,
-    "low": 7.6849999428,
-    "close": 7.7399997711,
-    "volume": 496000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "EXFY",
-    "open": 7.6900000572,
-    "high": 7.8400001526,
-    "low": 7.640999794,
-    "close": 7.7899999619,
-    "volume": 387800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "EXFY",
-    "open": 7.8000001907,
-    "high": 7.9299998283,
-    "low": 7.6500000954,
-    "close": 7.7600002289,
-    "volume": 338300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "EXFY",
-    "open": 7.75,
-    "high": 7.8550000191,
-    "low": 7.6500000954,
-    "close": 7.7100000381,
-    "volume": 336800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "EXFY",
-    "open": 7.8000001907,
-    "high": 7.8499999046,
-    "low": 7.6799998283,
-    "close": 7.75,
-    "volume": 278100.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "EXFY",
     "open": 7.75,
@@ -7507,6 +7457,36 @@
     "low": 1.7599999905,
     "close": 1.8099999428,
     "volume": 958146.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "EXFY",
+    "open": 1.8099999428,
+    "high": 1.875,
+    "low": 1.7599999905,
+    "close": 1.7599999905,
+    "volume": 596276.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "EXFY",
+    "open": 1.7400000095,
+    "high": 1.8250000477,
+    "low": 1.7100000381,
+    "close": 1.8099999428,
+    "volume": 651368.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "EXFY",
+    "open": 1.7799999714,
+    "high": 1.8350000381,
+    "low": 1.75,
+    "close": 1.8300000429,
+    "volume": 616333.0,
     "wedge_status": "none"
   }
 ]

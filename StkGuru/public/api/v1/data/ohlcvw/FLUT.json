@@ -1,55 +1,5 @@
 [
   {
-    "trade_date": "2023,07,17,00,00,00,000000",
-    "ticker": "FLUT",
-    "open": 200.0,
-    "high": 206.2630004883,
-    "low": 200.0,
-    "close": 203.0,
-    "volume": 100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,18,00,00,00,000000",
-    "ticker": "FLUT",
-    "open": 203.6199951172,
-    "high": 207.1679992676,
-    "low": 200.0800018311,
-    "close": 203.3480072021,
-    "volume": 800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,19,00,00,00,000000",
-    "ticker": "FLUT",
-    "open": 205.7400054932,
-    "high": 205.7400054932,
-    "low": 203.25,
-    "close": 203.875,
-    "volume": 1900.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,20,00,00,00,000000",
-    "ticker": "FLUT",
-    "open": 200.0,
-    "high": 200.6100006104,
-    "low": 196.6000061035,
-    "close": 196.6999969482,
-    "volume": 400.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,07,21,00,00,00,000000",
-    "ticker": "FLUT",
-    "open": 192.1100006104,
-    "high": 197.375,
-    "low": 192.1100006104,
-    "close": 197.375,
-    "volume": 100.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,24,00,00,00,000000",
     "ticker": "FLUT",
     "open": 188.5,

@@ -4638,5 +4638,55 @@
     "close": 30.7399997711,
     "volume": 47664.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "GBFH",
+    "open": 30.6499996185,
+    "high": 31.0100002289,
+    "low": 30.0,
+    "close": 30.8899993896,
+    "volume": 52815.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "GBFH",
+    "open": 31.1700000763,
+    "high": 32.0299987793,
+    "low": 30.5599994659,
+    "close": 31.7299995422,
+    "volume": 67546.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "GBFH",
+    "open": 31.8299999237,
+    "high": 31.8299999237,
+    "low": 30.25,
+    "close": 30.4400005341,
+    "volume": 77847.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "GBFH",
+    "open": 29.9200000763,
+    "high": 30.375,
+    "low": 29.2999992371,
+    "close": 30.2600002289,
+    "volume": 51163.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "GBFH",
+    "open": 30.4899997711,
+    "high": 31.3449993134,
+    "low": 30.4899997711,
+    "close": 31.0,
+    "volume": 54390.0,
+    "wedge_status": "none"
   }
 ]

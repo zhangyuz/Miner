@@ -4868,5 +4868,55 @@
     "close": 87.3899993896,
     "volume": 271691.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "INBX",
+    "open": 87.5299987793,
+    "high": 87.9300003052,
+    "low": 83.2750015259,
+    "close": 84.0899963379,
+    "volume": 352154.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "INBX",
+    "open": 85.0,
+    "high": 90.0,
+    "low": 83.4250030518,
+    "close": 87.6100006104,
+    "volume": 136692.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "INBX",
+    "open": 85.9199981689,
+    "high": 87.5,
+    "low": 85.2799987793,
+    "close": 85.9199981689,
+    "volume": 149437.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "INBX",
+    "open": 83.9800033569,
+    "high": 87.3000030518,
+    "low": 83.5000991821,
+    "close": 85.0,
+    "volume": 165532.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "INBX",
+    "open": 86.0,
+    "high": 86.0,
+    "low": 81.5400009155,
+    "close": 81.5500030518,
+    "volume": 164051.0,
+    "wedge_status": "none"
   }
 ]

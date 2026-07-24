@@ -2268,5 +2268,55 @@
     "close": 20.5,
     "volume": 848265.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "SLDE",
+    "open": 20.5100002289,
+    "high": 21.3050003052,
+    "low": 20.5,
+    "close": 21.0400009155,
+    "volume": 717210.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "SLDE",
+    "open": 20.8700008392,
+    "high": 21.4398994446,
+    "low": 20.1000003815,
+    "close": 20.5599994659,
+    "volume": 1190159.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "SLDE",
+    "open": 20.3600006104,
+    "high": 20.6100006104,
+    "low": 19.7900009155,
+    "close": 19.8150005341,
+    "volume": 939493.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "SLDE",
+    "open": 19.75,
+    "high": 19.7600002289,
+    "low": 19.2099990845,
+    "close": 19.7099990845,
+    "volume": 817388.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "SLDE",
+    "open": 19.8500003815,
+    "high": 20.375,
+    "low": 19.75,
+    "close": 20.2600002289,
+    "volume": 591890.0,
+    "wedge_status": "none"
   }
 ]

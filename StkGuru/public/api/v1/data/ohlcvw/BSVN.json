@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,07,24,00,00,00,000000",
-    "ticker": "BSVN",
-    "open": 23.0636775728,
-    "high": 24.624090836,
-    "low": 23.0636775728,
-    "close": 24.3196201324,
-    "volume": 74500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,25,00,00,00,000000",
-    "ticker": "BSVN",
-    "open": 24.3101041991,
-    "high": 25.594591515,
-    "low": 24.3101041991,
-    "close": 25.3091506958,
-    "volume": 30800.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,07,26,00,00,00,000000",
     "ticker": "BSVN",
     "open": 25.1283695794,
@@ -7488,5 +7468,55 @@
     "close": 50.9599990845,
     "volume": 53059.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "BSVN",
+    "open": 49.9099998474,
+    "high": 50.2200012207,
+    "low": 49.5,
+    "close": 49.7099990845,
+    "volume": 31135.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "BSVN",
+    "open": 49.5,
+    "high": 50.4500007629,
+    "low": 49.2000007629,
+    "close": 49.5200004578,
+    "volume": 55339.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "BSVN",
+    "open": 49.2000007629,
+    "high": 48.75,
+    "low": 47.7700004578,
+    "close": 48.25,
+    "volume": 46838.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "BSVN",
+    "open": 47.75,
+    "high": 50.4700012207,
+    "low": 47.5,
+    "close": 50.4000015259,
+    "volume": 39944.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "BSVN",
+    "open": 49.9500007629,
+    "high": 50.25,
+    "low": 48.7799987793,
+    "close": 49.4399986267,
+    "volume": 42360.0,
+    "wedge_status": "drop"
   }
 ]

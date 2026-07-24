@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,07,24,00,00,00,000000",
-    "ticker": "CCRN",
-    "open": 27.4500007629,
-    "high": 27.8400001526,
-    "low": 27.2700004578,
-    "close": 27.8400001526,
-    "volume": 482400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,25,00,00,00,000000",
-    "ticker": "CCRN",
-    "open": 27.8400001526,
-    "high": 28.0400009155,
-    "low": 26.25,
-    "close": 26.5499992371,
-    "volume": 996000.0,
-    "wedge_status": "drop"
-  },
-  {
     "trade_date": "2023,07,26,00,00,00,000000",
     "ticker": "CCRN",
     "open": 26.4500007629,
@@ -7487,6 +7467,36 @@
     "low": 13.2239999771,
     "close": 13.2399997711,
     "volume": 2811545.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "CCRN",
+    "open": 13.25,
+    "high": 13.2600002289,
+    "low": 13.2399997711,
+    "close": 13.25,
+    "volume": 1793843.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "CCRN",
+    "open": 13.25,
+    "high": 13.25,
+    "low": 13.25,
+    "close": 13.25,
+    "volume": 0.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "CCRN",
+    "open": 13.25,
+    "high": 13.25,
+    "low": 13.25,
+    "close": 13.25,
+    "volume": 0.0,
     "wedge_status": "none"
   }
 ]

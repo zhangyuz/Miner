@@ -1,85 +1,5 @@
 [
   {
-    "trade_date": "2023,07,26,00,00,00,000000",
-    "ticker": "ABAT",
-    "open": 9.8999996185,
-    "high": 10.0200004578,
-    "low": 9.7049999237,
-    "close": 9.9600000381,
-    "volume": 66367.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,27,00,00,00,000000",
-    "ticker": "ABAT",
-    "open": 10.1999998093,
-    "high": 10.1999998093,
-    "low": 9.8999996185,
-    "close": 9.9149999619,
-    "volume": 75520.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,28,00,00,00,000000",
-    "ticker": "ABAT",
-    "open": 9.9149999619,
-    "high": 9.9750003815,
-    "low": 9.6000003815,
-    "close": 9.6750001907,
-    "volume": 66773.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,31,00,00,00,000000",
-    "ticker": "ABAT",
-    "open": 9.720000267,
-    "high": 9.8999996185,
-    "low": 9.6000003815,
-    "close": 9.6899995804,
-    "volume": 69327.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,01,00,00,00,000000",
-    "ticker": "ABAT",
-    "open": 9.7650003433,
-    "high": 11.25,
-    "low": 9.6750001907,
-    "close": 10.3500003815,
-    "volume": 132973.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,02,00,00,00,000000",
-    "ticker": "ABAT",
-    "open": 10.3950004578,
-    "high": 10.5,
-    "low": 9.75,
-    "close": 9.75,
-    "volume": 84487.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,03,00,00,00,000000",
-    "ticker": "ABAT",
-    "open": 9.8999996185,
-    "high": 10.0500001907,
-    "low": 9.75,
-    "close": 10.0500001907,
-    "volume": 67560.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,04,00,00,00,000000",
-    "ticker": "ABAT",
-    "open": 10.1999998093,
-    "high": 10.4250001907,
-    "low": 9.7650003433,
-    "close": 9.7950000763,
-    "volume": 81980.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,08,07,00,00,00,000000",
     "ticker": "ABAT",
     "open": 9.8699998856,
@@ -7517,6 +7437,56 @@
     "low": 2.1900000572,
     "close": 2.2100000381,
     "volume": 2018270.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "ABAT",
+    "open": 2.2899999619,
+    "high": 2.3699998856,
+    "low": 2.2100000381,
+    "close": 2.2699999809,
+    "volume": 2793486.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "ABAT",
+    "open": 2.25,
+    "high": 2.25,
+    "low": 2.0699999332,
+    "close": 2.1800000668,
+    "volume": 3267509.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "ABAT",
+    "open": 2.2100000381,
+    "high": 2.25,
+    "low": 2.0499999523,
+    "close": 2.0499999523,
+    "volume": 4268615.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "ABAT",
+    "open": 2.1300001144,
+    "high": 2.1600000858,
+    "low": 2.0399999619,
+    "close": 2.0399999619,
+    "volume": 3711473.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "ABAT",
+    "open": 2.0499999523,
+    "high": 2.1199998856,
+    "low": 2.0,
+    "close": 2.0899999142,
+    "volume": 5534402.0,
     "wedge_status": "none"
   }
 ]

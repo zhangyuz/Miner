@@ -1,85 +1,5 @@
 [
   {
-    "trade_date": "2023,07,26,00,00,00,000000",
-    "ticker": "NUTX",
-    "open": 59.8499984741,
-    "high": 61.9500007629,
-    "low": 58.7999992371,
-    "close": 59.5499992371,
-    "volume": 4129.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,27,00,00,00,000000",
-    "ticker": "NUTX",
-    "open": 60.0,
-    "high": 60.0,
-    "low": 57.0,
-    "close": 58.0499992371,
-    "volume": 7709.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,28,00,00,00,000000",
-    "ticker": "NUTX",
-    "open": 57.75,
-    "high": 59.0999984741,
-    "low": 57.75,
-    "close": 58.5,
-    "volume": 4461.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,31,00,00,00,000000",
-    "ticker": "NUTX",
-    "open": 60.0,
-    "high": 63.0,
-    "low": 58.3499984741,
-    "close": 62.7000007629,
-    "volume": 7385.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,01,00,00,00,000000",
-    "ticker": "NUTX",
-    "open": 61.7999992371,
-    "high": 62.25,
-    "low": 59.25,
-    "close": 60.0,
-    "volume": 2917.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,02,00,00,00,000000",
-    "ticker": "NUTX",
-    "open": 60.1500015259,
-    "high": 61.5,
-    "low": 59.7000007629,
-    "close": 61.0499992371,
-    "volume": 2599.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,03,00,00,00,000000",
-    "ticker": "NUTX",
-    "open": 60.75,
-    "high": 63.0,
-    "low": 58.5,
-    "close": 59.25,
-    "volume": 6503.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,04,00,00,00,000000",
-    "ticker": "NUTX",
-    "open": 59.0999984741,
-    "high": 60.0,
-    "low": 57.0,
-    "close": 57.0,
-    "volume": 5537.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,08,07,00,00,00,000000",
     "ticker": "NUTX",
     "open": 59.4000015259,
@@ -7517,6 +7437,56 @@
     "low": 145.3699951172,
     "close": 145.8699951172,
     "volume": 132676.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "NUTX",
+    "open": 148.1300048828,
+    "high": 152.3899993896,
+    "low": 147.4199981689,
+    "close": 148.6999969482,
+    "volume": 104633.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "NUTX",
+    "open": 147.1699981689,
+    "high": 149.9900054932,
+    "low": 143.1399993896,
+    "close": 149.0299987793,
+    "volume": 118898.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "NUTX",
+    "open": 149.0,
+    "high": 149.75,
+    "low": 140.25,
+    "close": 140.4900054932,
+    "volume": 92896.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "NUTX",
+    "open": 142.6000061035,
+    "high": 150.0200042725,
+    "low": 142.6000061035,
+    "close": 148.7100067139,
+    "volume": 167799.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "NUTX",
+    "open": 148.7100067139,
+    "high": 151.25,
+    "low": 144.1699981689,
+    "close": 147.4299926758,
+    "volume": 155036.0,
     "wedge_status": "none"
   }
 ]

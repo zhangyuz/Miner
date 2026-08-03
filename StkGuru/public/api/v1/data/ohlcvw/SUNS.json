@@ -4688,5 +4688,55 @@
     "close": 7.9800000191,
     "volume": 59841.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "SUNS",
+    "open": 8.1000003815,
+    "high": 8.1000003815,
+    "low": 7.8299999237,
+    "close": 8.0200004578,
+    "volume": 48697.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "SUNS",
+    "open": 8.0200004578,
+    "high": 8.0699996948,
+    "low": 7.8949999809,
+    "close": 8.0,
+    "volume": 44217.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "SUNS",
+    "open": 8.029999733,
+    "high": 8.029999733,
+    "low": 7.858300209,
+    "close": 7.8600001335,
+    "volume": 53430.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "SUNS",
+    "open": 7.9000000954,
+    "high": 8.0399999619,
+    "low": 7.8600001335,
+    "close": 8.0100002289,
+    "volume": 61913.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "SUNS",
+    "open": 8.0600004196,
+    "high": 8.0649995804,
+    "low": 7.7899999619,
+    "close": 7.8400001526,
+    "volume": 38002.0,
+    "wedge_status": "none"
   }
 ]

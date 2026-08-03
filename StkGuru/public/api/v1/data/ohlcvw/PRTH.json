@@ -1,85 +1,5 @@
 [
   {
-    "trade_date": "2023,07,26,00,00,00,000000",
-    "ticker": "PRTH",
-    "open": 4.0599999428,
-    "high": 4.25,
-    "low": 4.0199999809,
-    "close": 4.25,
-    "volume": 12500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,27,00,00,00,000000",
-    "ticker": "PRTH",
-    "open": 4.1999998093,
-    "high": 4.2230000496,
-    "low": 4.0999999046,
-    "close": 4.1199998856,
-    "volume": 13700.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,28,00,00,00,000000",
-    "ticker": "PRTH",
-    "open": 4.2199997902,
-    "high": 4.2199997902,
-    "low": 4.1900000572,
-    "close": 4.2199997902,
-    "volume": 10300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,31,00,00,00,000000",
-    "ticker": "PRTH",
-    "open": 4.1700000763,
-    "high": 4.5999999046,
-    "low": 4.1700000763,
-    "close": 4.5,
-    "volume": 46600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,01,00,00,00,000000",
-    "ticker": "PRTH",
-    "open": 4.3699998856,
-    "high": 4.4899997711,
-    "low": 4.3400001526,
-    "close": 4.3600001335,
-    "volume": 7300.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,02,00,00,00,000000",
-    "ticker": "PRTH",
-    "open": 4.3499999046,
-    "high": 4.4000000954,
-    "low": 4.2550001144,
-    "close": 4.3350000381,
-    "volume": 6800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,03,00,00,00,000000",
-    "ticker": "PRTH",
-    "open": 4.4000000954,
-    "high": 4.5199999809,
-    "low": 4.1649999619,
-    "close": 4.2100000381,
-    "volume": 9800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,04,00,00,00,000000",
-    "ticker": "PRTH",
-    "open": 4.1999998093,
-    "high": 4.3499999046,
-    "low": 4.1999998093,
-    "close": 4.3299999237,
-    "volume": 7600.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,08,07,00,00,00,000000",
     "ticker": "PRTH",
     "open": 4.3600001335,
@@ -7517,6 +7437,56 @@
     "low": 6.190100193,
     "close": 6.2899999619,
     "volume": 227869.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "PRTH",
+    "open": 6.3699998856,
+    "high": 6.5500001907,
+    "low": 6.2505998611,
+    "close": 6.5300002098,
+    "volume": 197389.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "PRTH",
+    "open": 6.5,
+    "high": 6.9000000954,
+    "low": 6.5,
+    "close": 6.8899998665,
+    "volume": 208762.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "PRTH",
+    "open": 6.8800001144,
+    "high": 7.0500001907,
+    "low": 6.625,
+    "close": 6.7300000191,
+    "volume": 425173.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "PRTH",
+    "open": 6.75,
+    "high": 6.7600002289,
+    "low": 6.5650000572,
+    "close": 6.6100001335,
+    "volume": 206258.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "PRTH",
+    "open": 6.6100001335,
+    "high": 6.6100001335,
+    "low": 6.4000000954,
+    "close": 6.5,
+    "volume": 162906.0,
     "wedge_status": "none"
   }
 ]

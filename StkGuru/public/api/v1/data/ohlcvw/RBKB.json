@@ -1,85 +1,5 @@
 [
   {
-    "trade_date": "2023,07,26,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 6.7550001144,
-    "high": 6.7550001144,
-    "low": 6.7550001144,
-    "close": 6.7550001144,
-    "volume": 200.0,
-    "wedge_status": "drop"
-  },
-  {
-    "trade_date": "2023,07,27,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 6.7699999809,
-    "high": 7.0,
-    "low": 6.7600002289,
-    "close": 6.875,
-    "volume": 6400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,28,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 7.0,
-    "high": 7.0,
-    "low": 7.0,
-    "close": 7.0,
-    "volume": 700.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,07,31,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 7.0,
-    "high": 7.0,
-    "low": 6.8099999428,
-    "close": 7.0,
-    "volume": 3500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,01,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 7.1399998665,
-    "high": 7.1399998665,
-    "low": 7.0,
-    "close": 7.0,
-    "volume": 7000.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,02,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 7.0149998665,
-    "high": 7.1399998665,
-    "low": 6.9749999046,
-    "close": 7.1399998665,
-    "volume": 2500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,03,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 7.1399998665,
-    "high": 7.1399998665,
-    "low": 6.9800000191,
-    "close": 6.9899997711,
-    "volume": 13900.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,04,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 7.0,
-    "high": 7.0,
-    "low": 6.8499999046,
-    "close": 7.0,
-    "volume": 1400.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,08,07,00,00,00,000000",
     "ticker": "RBKB",
     "open": 6.7800002098,
@@ -7517,6 +7437,56 @@
     "low": 12.3350000381,
     "close": 12.4300003052,
     "volume": 371330.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "RBKB",
+    "open": 12.5,
+    "high": 12.6198997498,
+    "low": 12.1450004578,
+    "close": 12.3000001907,
+    "volume": 246944.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "RBKB",
+    "open": 12.2550001144,
+    "high": 12.5150003433,
+    "low": 12.25,
+    "close": 12.4099998474,
+    "volume": 113716.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "RBKB",
+    "open": 12.4200000763,
+    "high": 12.5225000381,
+    "low": 12.3000001907,
+    "close": 12.3199996948,
+    "volume": 191937.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "RBKB",
+    "open": 12.3500003815,
+    "high": 12.5,
+    "low": 12.3000001907,
+    "close": 12.4799995422,
+    "volume": 160744.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "RBKB",
+    "open": 12.4499998093,
+    "high": 12.4499998093,
+    "low": 11.9499998093,
+    "close": 12.0,
+    "volume": 320757.0,
     "wedge_status": "none"
   }
 ]

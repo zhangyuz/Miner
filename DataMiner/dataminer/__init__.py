@@ -1,4 +1,7 @@
 from ._bars_manager import BarsManager
+from ._episodic_pivot import (EpisodicPivotAnalyzer, EpisodicPivotCatalyst,
+                              EpisodicPivotConfig, EpisodicPivotSignal,
+                              OpeningRangeTradePlan)
 from ._financial_shovel import FinancialShovel
 from ._indicators import Indicators
 from ._ishares_scraper import IsharesScraper
@@ -26,4 +29,9 @@ __all__ = [
     'TradeCalendarShovel',
     'WedgePop',
     'WedgePopAnalyzer',
+    'EpisodicPivotAnalyzer',
+    'EpisodicPivotCatalyst',
+    'EpisodicPivotConfig',
+    'EpisodicPivotSignal',
+    'OpeningRangeTradePlan',
 ]

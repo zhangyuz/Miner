@@ -62,8 +62,6 @@ services:
       - "127.0.0.1:8002:8002"
     environment:
       - RUNTIME_ENV=${RUNTIME_ENV}
-    volumes:
-      - miner-dev:/minerdev
 
   maintainer:
     build:
@@ -87,8 +85,6 @@ services:
     environment:
       - RUNTIME_ENV=${RUNTIME_ENV}
       - GEMINI_API_KEY=${GEMINI_API_KEY}
-    volumes:
-      - miner-dev:/minerdev
 
   ib-gateway:
     build:
@@ -145,8 +141,6 @@ services:
     hostname: miner-trader
   #  depends_on:
   #    - ib
-    volumes:
-      - miner-dev:/minerdev
 
   miner:
     build:
@@ -183,14 +177,13 @@ services:
       - MAIL_SENDER_PWD=${MAIL_SENDER_PWD}
       - MAIL_RECEIVERS=${MAIL_RECEIVERS}
       - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GEMINI_CLI_TRUST_WORKSPACE=true
       - DISCORD_BOT_TOKEN=${DISCORD_BOT_TOKEN:-}
       - DISCORD_API_BASE=${DISCORD_API_BASE:-}
       - DISCORD_OLIVER_KELL_ENABLED=${DISCORD_OLIVER_KELL_ENABLED:-}
       - DISCORD_OLIVER_KELL_CHANNEL_IDS=${DISCORD_OLIVER_KELL_CHANNEL_IDS:-}
       - DISCORD_OLIVER_KELL_USER_IDS=${DISCORD_OLIVER_KELL_USER_IDS:-}
     privileged: true
-    volumes:
-      - miner-dev:/minerdev
 
   stkguru:
     build:

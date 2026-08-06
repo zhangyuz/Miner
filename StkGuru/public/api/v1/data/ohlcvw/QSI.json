@@ -7508,5 +7508,15 @@
     "close": 0.7565000057,
     "volume": 2466558.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "QSI",
+    "open": 0.7522000074,
+    "high": 0.7789000273,
+    "low": 0.75,
+    "close": 0.7549999952,
+    "volume": 1444268.0,
+    "wedge_status": "none"
   }
 ]

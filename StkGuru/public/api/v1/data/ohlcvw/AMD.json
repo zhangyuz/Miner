@@ -7508,5 +7508,15 @@
     "close": 482.049987793,
     "volume": 47435209.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "AMD",
+    "open": 471.75,
+    "high": 496.719909668,
+    "low": 469.5,
+    "close": 489.2799987793,
+    "volume": 23887374.0,
+    "wedge_status": "none"
   }
 ]

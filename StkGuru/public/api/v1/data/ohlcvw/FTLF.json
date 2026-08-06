@@ -7508,5 +7508,15 @@
     "close": 10.2100000381,
     "volume": 4031.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "FTLF",
+    "open": 10.0500001907,
+    "high": 10.2899999619,
+    "low": 9.8699998856,
+    "close": 10.2100000381,
+    "volume": 10108.0,
+    "wedge_status": "none"
   }
 ]

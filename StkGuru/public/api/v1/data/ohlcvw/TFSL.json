@@ -7508,5 +7508,15 @@
     "close": 18.3199996948,
     "volume": 1063070.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "TFSL",
+    "open": 18.5,
+    "high": 18.5249996185,
+    "low": 17.8400001526,
+    "close": 17.8600006104,
+    "volume": 901092.0,
+    "wedge_status": "drop"
   }
 ]

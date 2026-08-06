@@ -6418,5 +6418,35 @@
     "close": 4.1300001144,
     "volume": 709341.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.1500000954,
+    "high": 4.2049999237,
+    "low": 3.9900000095,
+    "close": 4.1999998093,
+    "volume": 656910.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.2199997902,
+    "high": 4.4899997711,
+    "low": 4.2199997902,
+    "close": 4.4099998474,
+    "volume": 909821.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "LXEO",
+    "open": 4.5,
+    "high": 4.6799998283,
+    "low": 4.3600001335,
+    "close": 4.4499998093,
+    "volume": 910531.0,
+    "wedge_status": "none"
   }
 ]

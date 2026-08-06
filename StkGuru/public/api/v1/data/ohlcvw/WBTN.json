@@ -4808,5 +4808,35 @@
     "close": 9.1199998856,
     "volume": 318681.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "WBTN",
+    "open": 9.1999998093,
+    "high": 9.6400003433,
+    "low": 9.1999998093,
+    "close": 9.4799995422,
+    "volume": 288757.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "WBTN",
+    "open": 9.6000003815,
+    "high": 9.7700004578,
+    "low": 9.4250001907,
+    "close": 9.5,
+    "volume": 535252.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "WBTN",
+    "open": 9.5,
+    "high": 9.5399999619,
+    "low": 9.2700004578,
+    "close": 9.2899999619,
+    "volume": 217232.0,
+    "wedge_status": "none"
   }
 ]

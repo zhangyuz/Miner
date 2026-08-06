@@ -1128,5 +1128,35 @@
     "close": 35.9900016785,
     "volume": 1474315.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "VSNT",
+    "open": 36.25,
+    "high": 36.9449996948,
+    "low": 36.1899986267,
+    "close": 36.8199996948,
+    "volume": 1343864.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "VSNT",
+    "open": 36.2099990845,
+    "high": 36.9099998474,
+    "low": 35.875,
+    "close": 36.3800010681,
+    "volume": 1817746.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "VSNT",
+    "open": 36.7700004578,
+    "high": 36.7700004578,
+    "low": 35.5,
+    "close": 35.7900009155,
+    "volume": 1840087.0,
+    "wedge_status": "none"
   }
 ]

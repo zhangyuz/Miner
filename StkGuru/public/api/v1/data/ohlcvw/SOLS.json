@@ -1518,5 +1518,35 @@
     "close": 60.1699981689,
     "volume": 3921054.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "SOLS",
+    "open": 60.2099990845,
+    "high": 62.75,
+    "low": 59.5099983215,
+    "close": 62.2299995422,
+    "volume": 2829433.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "SOLS",
+    "open": 63.2000007629,
+    "high": 64.7399978638,
+    "low": 62.1150016785,
+    "close": 63.5200004578,
+    "volume": 2558032.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "SOLS",
+    "open": 63.5,
+    "high": 63.5,
+    "low": 61.0573005676,
+    "close": 62.5,
+    "volume": 3063785.0,
+    "wedge_status": "none"
   }
 ]

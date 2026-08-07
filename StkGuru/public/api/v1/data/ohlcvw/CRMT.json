@@ -7508,5 +7508,15 @@
     "close": 3.2999999523,
     "volume": 77140.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "CRMT",
+    "open": 3.3099999428,
+    "high": 3.429500103,
+    "low": 3.1800000668,
+    "close": 3.2300000191,
+    "volume": 179848.0,
+    "wedge_status": "none"
   }
 ]

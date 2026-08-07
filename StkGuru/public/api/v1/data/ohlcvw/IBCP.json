@@ -7508,5 +7508,15 @@
     "close": 38.5,
     "volume": 212926.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "IBCP",
+    "open": 38.3300018311,
+    "high": 38.3600006104,
+    "low": 38.0099983215,
+    "close": 38.0299987793,
+    "volume": 165863.0,
+    "wedge_status": "none"
   }
 ]

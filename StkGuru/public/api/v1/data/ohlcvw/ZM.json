@@ -7508,5 +7508,15 @@
     "close": 101.3000030518,
     "volume": 2015415.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "ZM",
+    "open": 102.25,
+    "high": 105.5199966431,
+    "low": 102.8000030518,
+    "close": 104.5,
+    "volume": 3304172.0,
+    "wedge_status": "none"
   }
 ]

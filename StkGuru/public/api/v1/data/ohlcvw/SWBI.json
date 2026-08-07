@@ -7508,5 +7508,15 @@
     "close": 14.5500001907,
     "volume": 334412.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "SWBI",
+    "open": 14.5850000381,
+    "high": 14.5850000381,
+    "low": 14.2100000381,
+    "close": 14.25,
+    "volume": 330772.0,
+    "wedge_status": "none"
   }
 ]

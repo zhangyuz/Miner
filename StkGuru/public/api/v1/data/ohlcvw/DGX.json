@@ -7508,5 +7508,15 @@
     "close": 238.5,
     "volume": 634300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "DGX",
+    "open": 236.3399963379,
+    "high": 239.375,
+    "low": 237.2299957275,
+    "close": 238.3500061035,
+    "volume": 393035.0,
+    "wedge_status": "none"
   }
 ]

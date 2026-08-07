@@ -7508,5 +7508,15 @@
     "close": 50.3600006104,
     "volume": 4897963.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "GFS",
+    "open": 51.1800003052,
+    "high": 54.0,
+    "low": 50.3600006104,
+    "close": 53.9300003052,
+    "volume": 5443410.0,
+    "wedge_status": "none"
   }
 ]

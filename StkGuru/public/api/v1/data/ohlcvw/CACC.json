@@ -7508,5 +7508,15 @@
     "close": 581.299987793,
     "volume": 92790.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "CACC",
+    "open": 583.75,
+    "high": 585.5800170898,
+    "low": 575.0,
+    "close": 585.5800170898,
+    "volume": 100027.0,
+    "wedge_status": "none"
   }
 ]

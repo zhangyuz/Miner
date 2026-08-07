@@ -7508,5 +7508,15 @@
     "close": 473.1300048828,
     "volume": 619345.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "MCO",
+    "open": 473.0,
+    "high": 480.7099914551,
+    "low": 473.1700134277,
+    "close": 477.75,
+    "volume": 434894.0,
+    "wedge_status": "none"
   }
 ]

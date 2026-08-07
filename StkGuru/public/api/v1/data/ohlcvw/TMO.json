@@ -7508,5 +7508,15 @@
     "close": 580.0200195312,
     "volume": 1716186.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "TMO",
+    "open": 578.0,
+    "high": 594.2600097656,
+    "low": 574.7678833008,
+    "close": 594.0,
+    "volume": 1325315.0,
+    "wedge_status": "none"
   }
 ]

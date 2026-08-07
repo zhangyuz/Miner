@@ -7508,5 +7508,15 @@
     "close": 26.3999996185,
     "volume": 155155.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "KE",
+    "open": 26.75,
+    "high": 26.75,
+    "low": 25.7800006866,
+    "close": 26.1299991608,
+    "volume": 160133.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 12.8599996567,
     "volume": 6785848.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "REPL",
+    "open": 13.0,
+    "high": 13.3999996185,
+    "low": 11.4200000763,
+    "close": 12.0600004196,
+    "volume": 8845558.0,
+    "wedge_status": "none"
   }
 ]

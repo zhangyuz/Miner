@@ -7508,5 +7508,15 @@
     "close": 50.7799987793,
     "volume": 332844.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "APEI",
+    "open": 50.9900016785,
+    "high": 53.5,
+    "low": 50.9900016785,
+    "close": 51.2400016785,
+    "volume": 271295.0,
+    "wedge_status": "none"
   }
 ]

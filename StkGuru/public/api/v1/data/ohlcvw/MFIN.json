@@ -7508,5 +7508,15 @@
     "close": 10.8400001526,
     "volume": 62427.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "MFIN",
+    "open": 10.8400001526,
+    "high": 10.9600000381,
+    "low": 10.75,
+    "close": 10.8999996185,
+    "volume": 56460.0,
+    "wedge_status": "none"
   }
 ]

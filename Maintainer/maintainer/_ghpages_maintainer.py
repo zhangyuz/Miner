@@ -182,10 +182,12 @@ class GhPagesMaintainer(SingletonParent):
             # 1. Clone the repo to a temp directory
             with tempfile.TemporaryDirectory() as tmpdir:
                 repo = Repo.clone_from(
-                    url=self.repo_url, to_path=tmpdir, branch=self.branch)
+                    url=self.repo_url, to_path=tmpdir, branch=self.branch,
+                    depth=1, single_branch=True)
                 # 2. Pull the latest code (should be up-to-date after clone)
-                repo.git.checkout(self.branch)
-                repo.remotes.origin.pull()
+                # Skip, since we are depth=1 and single_branch
+                # repo.git.checkout(self.branch)
+                # repo.remotes.origin.pull()
                 _logger.debug(f'{os.listdir(tmpdir)}')
 
                 # 3. Run static export to the checked-out repo

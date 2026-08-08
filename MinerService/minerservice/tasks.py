@@ -288,8 +288,6 @@ def run_us_daily_updates_task() -> bool:
 
         # update wedge pop/drop for all tickers
         update_wedge_pop_for_index_task.si(),
-        # run AI analysis for today's wedge pop tickers
-        analyze_wedge_pop_task.si(),
 
         # the bellow tasks were not time insensitive
         # Then update idxs daily info

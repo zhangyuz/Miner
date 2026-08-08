@@ -181,6 +181,7 @@ else
     exit 1
 fi
 
+COMPOSE_BAKE=true docker compose --project-name miner build ib-gateway trader
 COMPOSE_BAKE=true docker compose --project-name miner up --build -d
 
 #set +x

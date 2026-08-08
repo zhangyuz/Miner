@@ -87,6 +87,7 @@ services:
       - GEMINI_API_KEY=${GEMINI_API_KEY}
 
   ib-gateway:
+    profiles: [trading]
     build:
       context: ./ib
       args:
@@ -132,11 +133,12 @@ services:
       - "127.0.0.1:5900:5900"
 
   trader:
+    profiles: [trading]
     build:
       context: ./trader
       args:
         BASE_IMAGE: miner-base:latest
-    restart: always
+    restart: unless-stopped
     container_name: miner-trader
     hostname: miner-trader
   #  depends_on:

@@ -1,15 +1,5 @@
 [
   {
-    "trade_date": "2023,08,11,00,00,00,000000",
-    "ticker": "DGICA",
-    "open": 13.469856251,
-    "high": 13.755859548,
-    "low": 13.469856251,
-    "close": 13.5528888702,
-    "volume": 71100.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,08,14,00,00,00,000000",
     "ticker": "DGICA",
     "open": 13.5805672898,
@@ -7498,5 +7488,15 @@
     "close": 19.2399997711,
     "volume": 97637.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,10,00,00,00,000000",
+    "ticker": "DGICA",
+    "open": 19.25,
+    "high": 19.25,
+    "low": 18.6299991608,
+    "close": 18.6700000763,
+    "volume": 78528.0,
+    "wedge_status": "drop"
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "trade_date": "2023,08,11,00,00,00,000000",
-    "ticker": "NXXT",
-    "open": 5.375,
-    "high": 6.125,
-    "low": 5.375,
-    "close": 5.9749999046,
-    "volume": 2160.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,08,14,00,00,00,000000",
     "ticker": "NXXT",
     "open": 6.125,
@@ -7497,6 +7487,16 @@
     "low": 0.2666999996,
     "close": 0.2901000082,
     "volume": 2402324.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,10,00,00,00,000000",
+    "ticker": "NXXT",
+    "open": 0.2949999869,
+    "high": 0.3000000119,
+    "low": 0.2657000124,
+    "close": 0.2664999962,
+    "volume": 2135117.0,
     "wedge_status": "none"
   }
 ]

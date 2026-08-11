@@ -7498,5 +7498,15 @@
     "close": 5.4499998093,
     "volume": 5255400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "NB",
+    "open": 5.5,
+    "high": 5.5700001717,
+    "low": 5.2550001144,
+    "close": 5.3600001335,
+    "volume": 5083526.0,
+    "wedge_status": "none"
   }
 ]

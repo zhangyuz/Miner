@@ -7498,5 +7498,15 @@
     "close": 3.6400001049,
     "volume": 1354474.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "RCKT",
+    "open": 3.6600000858,
+    "high": 3.6700000763,
+    "low": 3.375,
+    "close": 3.5,
+    "volume": 1684664.0,
+    "wedge_status": "none"
   }
 ]

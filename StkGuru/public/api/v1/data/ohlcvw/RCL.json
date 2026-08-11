@@ -7498,5 +7498,15 @@
     "close": 308.0,
     "volume": 1584203.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "RCL",
+    "open": 312.0,
+    "high": 312.0,
+    "low": 303.0,
+    "close": 307.1499938965,
+    "volume": 1338193.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 4.1100001335,
     "volume": 280504.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "TARA",
+    "open": 4.0,
+    "high": 4.0300002098,
+    "low": 3.8499999046,
+    "close": 3.9100000858,
+    "volume": 609314.0,
+    "wedge_status": "drop"
   }
 ]

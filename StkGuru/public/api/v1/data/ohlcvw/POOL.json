@@ -7508,5 +7508,15 @@
     "close": 201.5,
     "volume": 558881.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "POOL",
+    "open": 200.6199951172,
+    "high": 201.8804016113,
+    "low": 196.2725067139,
+    "close": 199.4100036621,
+    "volume": 571140.0,
+    "wedge_status": "none"
   }
 ]

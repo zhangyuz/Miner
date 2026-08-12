@@ -7508,5 +7508,15 @@
     "close": 10.029999733,
     "volume": 54365.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "SAMG",
+    "open": 10.0500001907,
+    "high": 10.1649999619,
+    "low": 9.8599996567,
+    "close": 10.0500001907,
+    "volume": 67557.0,
+    "wedge_status": "none"
   }
 ]

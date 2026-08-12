@@ -7508,5 +7508,15 @@
     "close": 31.25,
     "volume": 58056.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "BCML",
+    "open": 31.2800006866,
+    "high": 31.4249992371,
+    "low": 30.7600002289,
+    "close": 31.1900005341,
+    "volume": 45011.0,
+    "wedge_status": "none"
   }
 ]

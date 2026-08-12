@@ -7508,5 +7508,15 @@
     "close": 108.25,
     "volume": 2023255.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "CLX",
+    "open": 106.0,
+    "high": 107.0199966431,
+    "low": 105.3401031494,
+    "close": 105.7600021362,
+    "volume": 1509133.0,
+    "wedge_status": "none"
   }
 ]

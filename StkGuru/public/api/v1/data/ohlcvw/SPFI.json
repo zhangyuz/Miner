@@ -7508,5 +7508,15 @@
     "close": 45.0,
     "volume": 91711.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "SPFI",
+    "open": 45.125,
+    "high": 45.7299995422,
+    "low": 45.125,
+    "close": 45.5299987793,
+    "volume": 72175.0,
+    "wedge_status": "none"
   }
 ]

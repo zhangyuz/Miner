@@ -7508,5 +7508,15 @@
     "close": 8.2650003433,
     "volume": 324030.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "WEST",
+    "open": 8.3999996185,
+    "high": 8.4099998474,
+    "low": 8.1599998474,
+    "close": 8.2700004578,
+    "volume": 299488.0,
+    "wedge_status": "none"
   }
 ]

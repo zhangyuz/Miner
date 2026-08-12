@@ -7508,5 +7508,15 @@
     "close": 13.3800001144,
     "volume": 6835408.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "RPD",
+    "open": 13.0,
+    "high": 13.1700000763,
+    "low": 11.6900997162,
+    "close": 12.2700004578,
+    "volume": 3073334.0,
+    "wedge_status": "none"
   }
 ]

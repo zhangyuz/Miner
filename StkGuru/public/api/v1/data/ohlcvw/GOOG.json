@@ -7508,5 +7508,15 @@
     "close": 343.0,
     "volume": 17265730.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "GOOG",
+    "open": 345.3924865723,
+    "high": 345.5,
+    "low": 339.8200073242,
+    "close": 342.3699951172,
+    "volume": 15110064.0,
+    "wedge_status": "none"
   }
 ]

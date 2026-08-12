@@ -7508,5 +7508,15 @@
     "close": 203.8899993896,
     "volume": 923159.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "BIIB",
+    "open": 203.5200042725,
+    "high": 209.2200012207,
+    "low": 201.0,
+    "close": 208.8699951172,
+    "volume": 772748.0,
+    "wedge_status": "none"
   }
 ]

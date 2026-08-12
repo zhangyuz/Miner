@@ -7508,5 +7508,15 @@
     "close": 11.470000267,
     "volume": 439737.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "FDMT",
+    "open": 11.5,
+    "high": 11.8900003433,
+    "low": 11.3446998596,
+    "close": 11.8699998856,
+    "volume": 430067.0,
+    "wedge_status": "none"
   }
 ]

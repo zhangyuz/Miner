@@ -7508,5 +7508,15 @@
     "close": 47.1100006104,
     "volume": 876555.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "URGN",
+    "open": 47.6199989319,
+    "high": 49.6699981689,
+    "low": 47.1199989319,
+    "close": 49.0,
+    "volume": 1580417.0,
+    "wedge_status": "none"
   }
 ]

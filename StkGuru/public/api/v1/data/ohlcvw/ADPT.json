@@ -7508,5 +7508,15 @@
     "close": 25.3899993896,
     "volume": 2956032.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "ADPT",
+    "open": 25.3400001526,
+    "high": 25.5400009155,
+    "low": 24.8649997711,
+    "close": 25.25,
+    "volume": 1652561.0,
+    "wedge_status": "none"
   }
 ]

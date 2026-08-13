@@ -7508,5 +7508,15 @@
     "close": 13.5,
     "volume": 149448.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "ENTA",
+    "open": 13.5699996948,
+    "high": 13.9849996567,
+    "low": 13.4399995804,
+    "close": 13.4399995804,
+    "volume": 148854.0,
+    "wedge_status": "none"
   }
 ]

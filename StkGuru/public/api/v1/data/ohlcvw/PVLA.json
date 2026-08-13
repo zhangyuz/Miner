@@ -7508,5 +7508,15 @@
     "close": 155.0700073242,
     "volume": 165145.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "PVLA",
+    "open": 156.0,
+    "high": 158.7599945068,
+    "low": 150.4049987793,
+    "close": 156.5500030518,
+    "volume": 240744.0,
+    "wedge_status": "none"
   }
 ]

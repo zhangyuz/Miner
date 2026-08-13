@@ -3168,5 +3168,15 @@
     "close": 28.0,
     "volume": 401221.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "KMTS",
+    "open": 28.1800003052,
+    "high": 28.6100006104,
+    "low": 27.5,
+    "close": 27.7399997711,
+    "volume": 341689.0,
+    "wedge_status": "none"
   }
 ]

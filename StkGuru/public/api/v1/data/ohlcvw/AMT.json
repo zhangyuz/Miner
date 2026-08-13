@@ -7508,5 +7508,15 @@
     "close": 170.4700012207,
     "volume": 1374669.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "AMT",
+    "open": 171.3500061035,
+    "high": 175.0,
+    "low": 171.25,
+    "close": 174.2200012207,
+    "volume": 1093081.0,
+    "wedge_status": "pop"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 185.8500061035,
     "volume": 465332.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "LSTR",
+    "open": 186.75,
+    "high": 189.3000030518,
+    "low": 186.75,
+    "close": 188.6399993896,
+    "volume": 448698.0,
+    "wedge_status": "pop"
   }
 ]

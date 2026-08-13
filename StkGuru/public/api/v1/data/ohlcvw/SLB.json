@@ -7508,5 +7508,15 @@
     "close": 52.6100006104,
     "volume": 6716645.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "SLB",
+    "open": 52.0,
+    "high": 52.4300003052,
+    "low": 51.5999984741,
+    "close": 52.0600013733,
+    "volume": 5944552.0,
+    "wedge_status": "none"
   }
 ]

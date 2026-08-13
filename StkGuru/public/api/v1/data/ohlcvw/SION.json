@@ -3348,5 +3348,15 @@
     "close": 6.25,
     "volume": 9220426.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "SION",
+    "open": 6.3000001907,
+    "high": 6.75,
+    "low": 6.0500001907,
+    "close": 6.5399999619,
+    "volume": 5417595.0,
+    "wedge_status": "none"
   }
 ]

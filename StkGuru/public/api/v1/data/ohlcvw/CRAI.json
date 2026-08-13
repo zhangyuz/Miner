@@ -7508,5 +7508,15 @@
     "close": 168.5,
     "volume": 134399.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "CRAI",
+    "open": 170.6199951172,
+    "high": 171.9949951172,
+    "low": 166.2250061035,
+    "close": 170.8300018311,
+    "volume": 105157.0,
+    "wedge_status": "none"
   }
 ]

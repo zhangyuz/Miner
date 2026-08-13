@@ -7508,5 +7508,15 @@
     "close": 7.1700000763,
     "volume": 4072645.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "PCT",
+    "open": 7.1700000763,
+    "high": 7.4600000381,
+    "low": 6.9801001549,
+    "close": 7.0,
+    "volume": 4865957.0,
+    "wedge_status": "none"
   }
 ]

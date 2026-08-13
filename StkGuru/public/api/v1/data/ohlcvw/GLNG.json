@@ -7508,5 +7508,15 @@
     "close": 51.0699996948,
     "volume": 849688.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "GLNG",
+    "open": 55.3800010681,
+    "high": 55.5,
+    "low": 51.0699996948,
+    "close": 51.2099990845,
+    "volume": 2995233.0,
+    "wedge_status": "none"
   }
 ]

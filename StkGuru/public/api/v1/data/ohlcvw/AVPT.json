@@ -7508,5 +7508,15 @@
     "close": 13.75,
     "volume": 2544340.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "AVPT",
+    "open": 13.779999733,
+    "high": 13.8199996948,
+    "low": 13.4010000229,
+    "close": 13.4799995422,
+    "volume": 1210468.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 66.6699981689,
     "volume": 531599.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "BJRI",
+    "open": 66.8099975586,
+    "high": 68.125,
+    "low": 65.5899963379,
+    "close": 67.9499969482,
+    "volume": 465746.0,
+    "wedge_status": "none"
   }
 ]

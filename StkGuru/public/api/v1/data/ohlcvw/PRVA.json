@@ -7508,5 +7508,15 @@
     "close": 21.7600002289,
     "volume": 1119142.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "PRVA",
+    "open": 21.7199993134,
+    "high": 22.2399997711,
+    "low": 21.5499992371,
+    "close": 22.0,
+    "volume": 647933.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 328.950012207,
     "volume": 897168.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "TYL",
+    "open": 333.25,
+    "high": 335.0,
+    "low": 324.9299926758,
+    "close": 328.6400146484,
+    "volume": 606015.0,
+    "wedge_status": "none"
   }
 ]

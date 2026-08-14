@@ -7508,5 +7508,15 @@
     "close": 16.0,
     "volume": 836915.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "JANX",
+    "open": 16.0,
+    "high": 16.2199993134,
+    "low": 15.7100000381,
+    "close": 16.1200008392,
+    "volume": 426031.0,
+    "wedge_status": "none"
   }
 ]

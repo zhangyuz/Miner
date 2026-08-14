@@ -7508,5 +7508,15 @@
     "close": 165.4400024414,
     "volume": 3942949.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "FTNT",
+    "open": 165.75,
+    "high": 165.75,
+    "low": 159.104095459,
+    "close": 160.0099945068,
+    "volume": 2782817.0,
+    "wedge_status": "drop"
   }
 ]

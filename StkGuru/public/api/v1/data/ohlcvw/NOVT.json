@@ -7508,5 +7508,15 @@
     "close": 167.25,
     "volume": 410022.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "NOVT",
+    "open": 166.5,
+    "high": 169.3099975586,
+    "low": 165.5800018311,
+    "close": 166.5800018311,
+    "volume": 182236.0,
+    "wedge_status": "none"
   }
 ]

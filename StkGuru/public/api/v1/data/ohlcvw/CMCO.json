@@ -7488,5 +7488,15 @@
     "close": 19.25,
     "volume": 330357.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "CMCO",
+    "open": 19.2099990845,
+    "high": 19.3320999146,
+    "low": 18.875,
+    "close": 19.0799999237,
+    "volume": 262805.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 98.6600036621,
     "volume": 1653521.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "HALO",
+    "open": 98.8600006104,
+    "high": 104.0899963379,
+    "low": 98.5800018311,
+    "close": 103.0,
+    "volume": 2175502.0,
+    "wedge_status": "none"
   }
 ]

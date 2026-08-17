@@ -7488,5 +7488,15 @@
     "close": 18.0499992371,
     "volume": 99991.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "TIPT",
+    "open": 18.0,
+    "high": 18.0849990845,
+    "low": 17.6774997711,
+    "close": 17.7900009155,
+    "volume": 196642.0,
+    "wedge_status": "drop"
   }
 ]

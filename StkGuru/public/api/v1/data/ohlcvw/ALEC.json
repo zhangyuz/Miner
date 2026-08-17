@@ -7488,5 +7488,15 @@
     "close": 1.9600000381,
     "volume": 596372.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "ALEC",
+    "open": 1.9099999666,
+    "high": 2.0899999142,
+    "low": 1.8999999762,
+    "close": 2.0499999523,
+    "volume": 913801.0,
+    "wedge_status": "none"
   }
 ]

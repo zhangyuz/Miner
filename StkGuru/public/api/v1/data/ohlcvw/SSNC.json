@@ -7488,5 +7488,15 @@
     "close": 81.5,
     "volume": 1125835.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "SSNC",
+    "open": 80.6200027466,
+    "high": 81.1699981689,
+    "low": 79.6700973511,
+    "close": 79.8000030518,
+    "volume": 1116336.0,
+    "wedge_status": "none"
   }
 ]

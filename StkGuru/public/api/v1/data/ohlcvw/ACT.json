@@ -7488,5 +7488,15 @@
     "close": 49.9399986267,
     "volume": 175708.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "ACT",
+    "open": 49.9399986267,
+    "high": 50.0400009155,
+    "low": 49.5,
+    "close": 49.7799987793,
+    "volume": 249560.0,
+    "wedge_status": "none"
   }
 ]

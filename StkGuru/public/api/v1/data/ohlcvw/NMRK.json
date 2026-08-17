@@ -7488,5 +7488,15 @@
     "close": 15.25,
     "volume": 784958.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "NMRK",
+    "open": 15.1899995804,
+    "high": 15.3699998856,
+    "low": 14.9499998093,
+    "close": 15.1300001144,
+    "volume": 1210870.0,
+    "wedge_status": "none"
   }
 ]

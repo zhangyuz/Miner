@@ -7488,5 +7488,15 @@
     "close": 42.5800018311,
     "volume": 115129.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "APOG",
+    "open": 42.0999984741,
+    "high": 42.2599983215,
+    "low": 41.75,
+    "close": 42.1800003052,
+    "volume": 152956.0,
+    "wedge_status": "none"
   }
 ]

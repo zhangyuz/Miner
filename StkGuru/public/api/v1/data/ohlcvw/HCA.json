@@ -7488,5 +7488,15 @@
     "close": 404.6799926758,
     "volume": 771310.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "HCA",
+    "open": 401.0,
+    "high": 407.3200073242,
+    "low": 400.0,
+    "close": 404.9800109863,
+    "volume": 749258.0,
+    "wedge_status": "none"
   }
 ]

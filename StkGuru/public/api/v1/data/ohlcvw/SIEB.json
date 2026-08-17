@@ -7488,5 +7488,15 @@
     "close": 1.9199999571,
     "volume": 25871.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "SIEB",
+    "open": 1.9400000572,
+    "high": 1.9650000334,
+    "low": 1.9099999666,
+    "close": 1.9400000572,
+    "volume": 52848.0,
+    "wedge_status": "none"
   }
 ]

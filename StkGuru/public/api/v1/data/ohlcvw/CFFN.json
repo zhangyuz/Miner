@@ -7488,5 +7488,15 @@
     "close": 8.7299995422,
     "volume": 654123.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "CFFN",
+    "open": 8.720000267,
+    "high": 8.7650003433,
+    "low": 8.6750001907,
+    "close": 8.720000267,
+    "volume": 733582.0,
+    "wedge_status": "none"
   }
 ]

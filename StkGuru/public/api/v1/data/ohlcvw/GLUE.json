@@ -7488,5 +7488,15 @@
     "close": 15.5,
     "volume": 485066.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "GLUE",
+    "open": 15.5100002289,
+    "high": 15.6899995804,
+    "low": 15.3599996567,
+    "close": 15.3800001144,
+    "volume": 798075.0,
+    "wedge_status": "none"
   }
 ]

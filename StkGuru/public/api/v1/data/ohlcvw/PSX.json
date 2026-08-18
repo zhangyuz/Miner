@@ -7498,5 +7498,15 @@
     "close": 240.5500030518,
     "volume": 2761308.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "PSX",
+    "open": 240.0,
+    "high": 243.5899963379,
+    "low": 238.25,
+    "close": 243.4900054932,
+    "volume": 2219280.0,
+    "wedge_status": "none"
   }
 ]

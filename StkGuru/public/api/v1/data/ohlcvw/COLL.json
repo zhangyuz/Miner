@@ -7498,5 +7498,15 @@
     "close": 28.0699996948,
     "volume": 847326.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "COLL",
+    "open": 28.3999996185,
+    "high": 28.7600002289,
+    "low": 28.1000003815,
+    "close": 28.5,
+    "volume": 777338.0,
+    "wedge_status": "none"
   }
 ]

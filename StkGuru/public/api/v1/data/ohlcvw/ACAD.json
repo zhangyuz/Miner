@@ -7498,5 +7498,15 @@
     "close": 29.0100002289,
     "volume": 1071255.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "ACAD",
+    "open": 29.1399993896,
+    "high": 30.25,
+    "low": 29.0499992371,
+    "close": 30.1800003052,
+    "volume": 2020549.0,
+    "wedge_status": "none"
   }
 ]

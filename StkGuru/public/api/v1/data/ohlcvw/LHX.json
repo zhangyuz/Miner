@@ -7498,5 +7498,15 @@
     "close": 278.3800048828,
     "volume": 2433829.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "LHX",
+    "open": 280.0,
+    "high": 284.0,
+    "low": 279.3399963379,
+    "close": 279.5400085449,
+    "volume": 1403319.0,
+    "wedge_status": "none"
   }
 ]

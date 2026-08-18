@@ -2248,5 +2248,15 @@
     "close": 13.779999733,
     "volume": 84838.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "CARL",
+    "open": 13.8400001526,
+    "high": 14.9200000763,
+    "low": 13.75,
+    "close": 14.8800001144,
+    "volume": 289466.0,
+    "wedge_status": "none"
   }
 ]

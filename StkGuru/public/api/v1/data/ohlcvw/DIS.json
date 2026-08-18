@@ -7498,5 +7498,15 @@
     "close": 103.5,
     "volume": 7173908.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "DIS",
+    "open": 104.1900024414,
+    "high": 105.2099990845,
+    "low": 103.625,
+    "close": 103.9499969482,
+    "volume": 5708094.0,
+    "wedge_status": "none"
   }
 ]

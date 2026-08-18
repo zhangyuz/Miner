@@ -7498,5 +7498,15 @@
     "close": 348.6300048828,
     "volume": 456393.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "AEIS",
+    "open": 332.6799926758,
+    "high": 334.0,
+    "low": 309.0249938965,
+    "close": 314.4299926758,
+    "volume": 632862.0,
+    "wedge_status": "drop"
   }
 ]

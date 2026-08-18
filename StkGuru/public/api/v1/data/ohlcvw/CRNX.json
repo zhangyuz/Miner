@@ -7498,5 +7498,15 @@
     "close": 84.75,
     "volume": 1620745.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "CRNX",
+    "open": 84.6999969482,
+    "high": 84.7949981689,
+    "low": 84.6699981689,
+    "close": 84.7200012207,
+    "volume": 3528105.0,
+    "wedge_status": "none"
   }
 ]

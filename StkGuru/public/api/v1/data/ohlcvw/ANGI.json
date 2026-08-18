@@ -7498,5 +7498,15 @@
     "close": 4.4600000381,
     "volume": 748655.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "ANGI",
+    "open": 4.4600000381,
+    "high": 4.6599998474,
+    "low": 4.4600000381,
+    "close": 4.6300001144,
+    "volume": 869542.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 111.3300018311,
     "volume": 252136.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "AGYS",
+    "open": 113.0,
+    "high": 115.5,
+    "low": 110.9199981689,
+    "close": 111.9599990845,
+    "volume": 330797.0,
+    "wedge_status": "none"
   }
 ]

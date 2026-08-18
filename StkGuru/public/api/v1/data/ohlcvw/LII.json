@@ -7498,5 +7498,15 @@
     "close": 416.1300048828,
     "volume": 404725.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "LII",
+    "open": 416.0,
+    "high": 415.049987793,
+    "low": 407.9375,
+    "close": 411.049987793,
+    "volume": 244662.0,
+    "wedge_status": "none"
   }
 ]

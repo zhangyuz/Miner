@@ -4908,5 +4908,15 @@
     "close": 25.5,
     "volume": 633485.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "ALMS",
+    "open": 25.2600002289,
+    "high": 25.3199996948,
+    "low": 24.3600006104,
+    "close": 24.8799991608,
+    "volume": 620060.0,
+    "wedge_status": "none"
   }
 ]

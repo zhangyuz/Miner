@@ -7498,5 +7498,15 @@
     "close": 33.9599990845,
     "volume": 1098247.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "LBRDK",
+    "open": 34.4900016785,
+    "high": 35.8899993896,
+    "low": 34.25,
+    "close": 35.0099983215,
+    "volume": 1701426.0,
+    "wedge_status": "none"
   }
 ]

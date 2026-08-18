@@ -7498,5 +7498,15 @@
     "close": 252.9700012207,
     "volume": 331602.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "PKG",
+    "open": 254.0,
+    "high": 253.8000030518,
+    "low": 250.25,
+    "close": 250.3000030518,
+    "volume": 273318.0,
+    "wedge_status": "none"
   }
 ]

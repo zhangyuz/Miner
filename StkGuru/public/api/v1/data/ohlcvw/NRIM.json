@@ -7498,5 +7498,15 @@
     "close": 26.8899993896,
     "volume": 91543.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "NRIM",
+    "open": 26.9899997711,
+    "high": 27.0,
+    "low": 26.5400009155,
+    "close": 26.7700004578,
+    "volume": 103880.0,
+    "wedge_status": "drop"
   }
 ]

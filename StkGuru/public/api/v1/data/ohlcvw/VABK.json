@@ -7498,5 +7498,15 @@
     "close": 46.1899986267,
     "volume": 5052.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "VABK",
+    "open": 46.7599983215,
+    "high": 47.4399986267,
+    "low": 46.1500015259,
+    "close": 47.1100006104,
+    "volume": 3703.0,
+    "wedge_status": "none"
   }
 ]

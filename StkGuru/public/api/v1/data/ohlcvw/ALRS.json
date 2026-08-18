@@ -7498,5 +7498,15 @@
     "close": 33.4900016785,
     "volume": 114704.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "ALRS",
+    "open": 33.5,
+    "high": 33.8499984741,
+    "low": 33.2249984741,
+    "close": 33.5999984741,
+    "volume": 128524.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 1.5900000334,
     "volume": 1197303.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "CDXS",
+    "open": 1.5599999428,
+    "high": 1.5995999575,
+    "low": 1.4850000143,
+    "close": 1.5,
+    "volume": 939856.0,
+    "wedge_status": "none"
   }
 ]

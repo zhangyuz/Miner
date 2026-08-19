@@ -7508,5 +7508,15 @@
     "close": 57.3400001526,
     "volume": 118509.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "TRST",
+    "open": 57.7099990845,
+    "high": 57.7099990845,
+    "low": 56.1699981689,
+    "close": 56.5,
+    "volume": 159894.0,
+    "wedge_status": "none"
   }
 ]

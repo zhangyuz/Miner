@@ -7508,5 +7508,15 @@
     "close": 12.125,
     "volume": 6262138.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "PTEN",
+    "open": 12.2399997711,
+    "high": 12.2899999619,
+    "low": 11.9750003815,
+    "close": 12.0600004196,
+    "volume": 4247605.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 55.0900001526,
     "volume": 452719.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "ZD",
+    "open": 55.0900001526,
+    "high": 56.2000007629,
+    "low": 55.0800018311,
+    "close": 55.5,
+    "volume": 345411.0,
+    "wedge_status": "none"
   }
 ]

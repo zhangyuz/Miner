@@ -7508,5 +7508,15 @@
     "close": 114.3600006104,
     "volume": 575455.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "BG",
+    "open": 115.0,
+    "high": 116.0599975586,
+    "low": 113.7752990723,
+    "close": 114.0,
+    "volume": 826515.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 5.25,
     "volume": 2383429.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "TALK",
+    "open": 5.25,
+    "high": 5.25,
+    "low": 5.25,
+    "close": 5.25,
+    "volume": 0.0,
+    "wedge_status": "none"
   }
 ]

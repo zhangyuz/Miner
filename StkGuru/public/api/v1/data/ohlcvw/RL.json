@@ -7508,5 +7508,15 @@
     "close": 378.25,
     "volume": 331112.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "RL",
+    "open": 384.0,
+    "high": 383.8299865723,
+    "low": 377.1050109863,
+    "close": 377.9599914551,
+    "volume": 262006.0,
+    "wedge_status": "none"
   }
 ]

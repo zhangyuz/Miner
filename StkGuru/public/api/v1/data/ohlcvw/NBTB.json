@@ -7508,5 +7508,15 @@
     "close": 52.9199981689,
     "volume": 225232.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "NBTB",
+    "open": 53.0800018311,
+    "high": 53.0900001526,
+    "low": 51.6236991882,
+    "close": 51.75,
+    "volume": 290509.0,
+    "wedge_status": "drop"
   }
 ]

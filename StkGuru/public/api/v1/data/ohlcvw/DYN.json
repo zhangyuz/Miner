@@ -7508,5 +7508,15 @@
     "close": 26.0,
     "volume": 1900730.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "DYN",
+    "open": 26.5,
+    "high": 26.9400005341,
+    "low": 25.9799995422,
+    "close": 26.7800006866,
+    "volume": 1655044.0,
+    "wedge_status": "none"
   }
 ]

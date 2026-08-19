@@ -7508,5 +7508,15 @@
     "close": 97.5800018311,
     "volume": 160063.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "ATLC",
+    "open": 98.5,
+    "high": 99.9599990845,
+    "low": 96.9599990845,
+    "close": 99.1200027466,
+    "volume": 118866.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 65.8300018311,
     "volume": 1802003.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "NTNX",
+    "open": 65.6500015259,
+    "high": 66.4699020386,
+    "low": 64.75,
+    "close": 65.4199981689,
+    "volume": 1919063.0,
+    "wedge_status": "none"
   }
 ]

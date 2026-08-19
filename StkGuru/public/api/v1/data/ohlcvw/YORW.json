@@ -7508,5 +7508,15 @@
     "close": 33.3600006104,
     "volume": 110087.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "YORW",
+    "open": 33.5400009155,
+    "high": 33.8899993896,
+    "low": 33.5,
+    "close": 33.8400001526,
+    "volume": 96167.0,
+    "wedge_status": "none"
   }
 ]

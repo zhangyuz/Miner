@@ -7508,5 +7508,15 @@
     "close": 17.3600006104,
     "volume": 918697.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "PUBM",
+    "open": 17.2250003815,
+    "high": 17.5,
+    "low": 16.7150001526,
+    "close": 16.7800006866,
+    "volume": 622326.0,
+    "wedge_status": "none"
   }
 ]

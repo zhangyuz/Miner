@@ -7508,5 +7508,15 @@
     "close": 275.9700012207,
     "volume": 162226.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "BELFB",
+    "open": 280.8599853516,
+    "high": 280.8599853516,
+    "low": 261.0,
+    "close": 263.8699951172,
+    "volume": 201421.0,
+    "wedge_status": "none"
   }
 ]

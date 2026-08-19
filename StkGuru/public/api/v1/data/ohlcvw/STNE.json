@@ -7508,5 +7508,15 @@
     "close": 9.1199998856,
     "volume": 5607750.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "STNE",
+    "open": 9.2600002289,
+    "high": 9.5380001068,
+    "low": 9.2100000381,
+    "close": 9.470000267,
+    "volume": 6199750.0,
+    "wedge_status": "none"
   }
 ]

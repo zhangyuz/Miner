@@ -7508,5 +7508,15 @@
     "close": 25.0400009155,
     "volume": 513816.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "OSBC",
+    "open": 24.8899993896,
+    "high": 25.25,
+    "low": 24.7000007629,
+    "close": 25.2000007629,
+    "volume": 366262.0,
+    "wedge_status": "none"
   }
 ]

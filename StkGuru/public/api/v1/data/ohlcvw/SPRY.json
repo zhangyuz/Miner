@@ -7508,5 +7508,15 @@
     "close": 6.3800001144,
     "volume": 1208443.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "SPRY",
+    "open": 6.3000001907,
+    "high": 6.3499999046,
+    "low": 5.5,
+    "close": 5.5050001144,
+    "volume": 2111869.0,
+    "wedge_status": "none"
   }
 ]

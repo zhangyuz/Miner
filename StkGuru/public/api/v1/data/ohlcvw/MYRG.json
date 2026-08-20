@@ -7508,5 +7508,15 @@
     "close": 325.9899902344,
     "volume": 313912.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "MYRG",
+    "open": 325.5400085449,
+    "high": 329.9700012207,
+    "low": 316.2950134277,
+    "close": 318.0,
+    "volume": 274380.0,
+    "wedge_status": "none"
   }
 ]

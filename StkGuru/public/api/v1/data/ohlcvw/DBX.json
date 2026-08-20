@@ -7508,5 +7508,15 @@
     "close": 33.9900016785,
     "volume": 2711275.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "DBX",
+    "open": 34.3199996948,
+    "high": 34.3199996948,
+    "low": 33.7599983215,
+    "close": 34.0,
+    "volume": 1762111.0,
+    "wedge_status": "none"
   }
 ]

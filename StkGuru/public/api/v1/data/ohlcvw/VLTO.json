@@ -6768,5 +6768,15 @@
     "close": 100.0999984741,
     "volume": 992714.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "VLTO",
+    "open": 100.25,
+    "high": 101.0,
+    "low": 99.1399993896,
+    "close": 99.4599990845,
+    "volume": 858811.0,
+    "wedge_status": "none"
   }
 ]

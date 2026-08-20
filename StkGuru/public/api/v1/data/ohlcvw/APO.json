@@ -7508,5 +7508,15 @@
     "close": 133.6300048828,
     "volume": 2127922.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "APO",
+    "open": 131.5,
+    "high": 134.25,
+    "low": 129.9600067139,
+    "close": 129.9900054932,
+    "volume": 6299065.0,
+    "wedge_status": "drop"
   }
 ]

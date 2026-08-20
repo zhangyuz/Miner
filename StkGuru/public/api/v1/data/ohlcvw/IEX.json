@@ -7508,5 +7508,15 @@
     "close": 234.4499969482,
     "volume": 547084.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "IEX",
+    "open": 232.4600067139,
+    "high": 236.6399993896,
+    "low": 231.75,
+    "close": 233.75,
+    "volume": 436082.0,
+    "wedge_status": "drop"
   }
 ]

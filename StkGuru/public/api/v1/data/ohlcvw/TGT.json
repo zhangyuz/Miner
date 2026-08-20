@@ -7508,5 +7508,15 @@
     "close": 159.0,
     "volume": 8497725.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "TGT",
+    "open": 157.0,
+    "high": 161.2799987793,
+    "low": 154.5800018311,
+    "close": 158.25,
+    "volume": 4755282.0,
+    "wedge_status": "none"
   }
 ]

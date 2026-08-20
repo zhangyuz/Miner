@@ -7508,5 +7508,15 @@
     "close": 62.6500015259,
     "volume": 26676.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "FCAP",
+    "open": 62.0,
+    "high": 63.0,
+    "low": 62.0,
+    "close": 62.5999984741,
+    "volume": 10132.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 618.7100219727,
     "volume": 511868.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "SITM",
+    "open": 620.0,
+    "high": 628.049987793,
+    "low": 595.0100097656,
+    "close": 598.8099975586,
+    "volume": 312994.0,
+    "wedge_status": "none"
   }
 ]

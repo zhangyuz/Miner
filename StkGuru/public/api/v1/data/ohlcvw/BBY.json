@@ -7508,5 +7508,15 @@
     "close": 89.2099990845,
     "volume": 2211850.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "BBY",
+    "open": 87.5,
+    "high": 87.9260025024,
+    "low": 85.2850036621,
+    "close": 85.7300033569,
+    "volume": 2204143.0,
+    "wedge_status": "none"
   }
 ]

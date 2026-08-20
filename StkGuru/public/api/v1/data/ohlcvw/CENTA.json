@@ -7508,5 +7508,15 @@
     "close": 38.5,
     "volume": 199073.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "CENTA",
+    "open": 37.8800010681,
+    "high": 38.1800003052,
+    "low": 37.7700004578,
+    "close": 38.0600013733,
+    "volume": 214414.0,
+    "wedge_status": "drop"
   }
 ]

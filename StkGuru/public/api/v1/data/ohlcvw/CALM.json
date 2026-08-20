@@ -7508,5 +7508,15 @@
     "close": 80.5500030518,
     "volume": 703951.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "CALM",
+    "open": 80.5,
+    "high": 82.6299972534,
+    "low": 80.25,
+    "close": 82.4300003052,
+    "volume": 1002042.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 96.0,
     "volume": 105375.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "FWONA",
+    "open": 96.4400024414,
+    "high": 96.4400024414,
+    "low": 94.4000015259,
+    "close": 95.5999984741,
+    "volume": 87547.0,
+    "wedge_status": "none"
   }
 ]

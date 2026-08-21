@@ -7508,5 +7508,15 @@
     "close": 200.5399932861,
     "volume": 1282856.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "TEL",
+    "open": 200.25,
+    "high": 204.1779022217,
+    "low": 200.25,
+    "close": 203.5200042725,
+    "volume": 2965339.0,
+    "wedge_status": "none"
   }
 ]

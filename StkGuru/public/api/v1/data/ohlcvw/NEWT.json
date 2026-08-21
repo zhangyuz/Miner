@@ -7508,5 +7508,15 @@
     "close": 12.5,
     "volume": 244443.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "NEWT",
+    "open": 12.4899997711,
+    "high": 12.6400003433,
+    "low": 12.4499998093,
+    "close": 12.529999733,
+    "volume": 327023.0,
+    "wedge_status": "none"
   }
 ]

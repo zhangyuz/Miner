@@ -7508,5 +7508,15 @@
     "close": 3.2400000095,
     "volume": 581020.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "FFAI",
+    "open": 3.2200000286,
+    "high": 3.4400000572,
+    "low": 3.2000000477,
+    "close": 3.2000000477,
+    "volume": 641465.0,
+    "wedge_status": "none"
   }
 ]

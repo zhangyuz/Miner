@@ -7508,5 +7508,15 @@
     "close": 5.9600000381,
     "volume": 1197358.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "ABEO",
+    "open": 6.0300002098,
+    "high": 6.1399998665,
+    "low": 6.0100002289,
+    "close": 6.0900001526,
+    "volume": 880216.0,
+    "wedge_status": "none"
   }
 ]

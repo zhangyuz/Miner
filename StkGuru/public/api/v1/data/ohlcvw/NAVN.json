@@ -1578,5 +1578,15 @@
     "close": 28.5599994659,
     "volume": 1501909.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "NAVN",
+    "open": 28.7600002289,
+    "high": 29.2350006104,
+    "low": 28.0,
+    "close": 29.1599998474,
+    "volume": 1345249.0,
+    "wedge_status": "none"
   }
 ]

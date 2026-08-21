@@ -7508,5 +7508,15 @@
     "close": 358.2300109863,
     "volume": 2431715.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "MPC",
+    "open": 358.875,
+    "high": 365.2099914551,
+    "low": 357.75,
+    "close": 360.7200012207,
+    "volume": 1682101.0,
+    "wedge_status": "none"
   }
 ]

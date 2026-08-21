@@ -7508,5 +7508,15 @@
     "close": 40.8300018311,
     "volume": 24574.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "NKSH",
+    "open": 41.0,
+    "high": 41.7799987793,
+    "low": 40.5415000916,
+    "close": 41.1500015259,
+    "volume": 34835.0,
+    "wedge_status": "none"
   }
 ]

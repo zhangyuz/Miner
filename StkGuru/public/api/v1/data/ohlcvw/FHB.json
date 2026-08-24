@@ -7488,5 +7488,15 @@
     "close": 26.3199996948,
     "volume": 1592889.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "FHB",
+    "open": 26.3700008392,
+    "high": 26.5200004578,
+    "low": 26.0,
+    "close": 26.0400009155,
+    "volume": 2023522.0,
+    "wedge_status": "none"
   }
 ]

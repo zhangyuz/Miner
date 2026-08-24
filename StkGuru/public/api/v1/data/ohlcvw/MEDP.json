@@ -7488,5 +7488,15 @@
     "close": 620.75,
     "volume": 214646.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "MEDP",
+    "open": 612.2399902344,
+    "high": 622.4899902344,
+    "low": 612.0,
+    "close": 620.0300292969,
+    "volume": 152830.0,
+    "wedge_status": "none"
   }
 ]

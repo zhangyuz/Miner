@@ -7488,5 +7488,15 @@
     "close": 110.0,
     "volume": 506215.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "RYTM",
+    "open": 112.2900009155,
+    "high": 113.4400024414,
+    "low": 109.8899993896,
+    "close": 111.4400024414,
+    "volume": 400562.0,
+    "wedge_status": "none"
   }
 ]

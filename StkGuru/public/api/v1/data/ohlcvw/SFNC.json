@@ -7488,5 +7488,15 @@
     "close": 23.0100002289,
     "volume": 760039.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "SFNC",
+    "open": 23.0,
+    "high": 23.2150001526,
+    "low": 22.8999996185,
+    "close": 22.9699993134,
+    "volume": 1140345.0,
+    "wedge_status": "none"
   }
 ]

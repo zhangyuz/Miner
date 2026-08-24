@@ -7488,5 +7488,15 @@
     "close": 239.6199951172,
     "volume": 1494494.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "TTWO",
+    "open": 239.75,
+    "high": 242.3683013916,
+    "low": 232.7899932861,
+    "close": 233.5,
+    "volume": 2551147.0,
+    "wedge_status": "none"
   }
 ]

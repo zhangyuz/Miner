@@ -7488,5 +7488,15 @@
     "close": 42.5,
     "volume": 17452.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "BPRN",
+    "open": 42.7400016785,
+    "high": 43.4449996948,
+    "low": 42.1650009155,
+    "close": 42.4000015259,
+    "volume": 24485.0,
+    "wedge_status": "none"
   }
 ]

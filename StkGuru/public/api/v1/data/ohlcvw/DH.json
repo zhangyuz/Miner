@@ -7488,5 +7488,15 @@
     "close": 0.7141000032,
     "volume": 208645.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "DH",
+    "open": 0.699000001,
+    "high": 0.75,
+    "low": 0.699000001,
+    "close": 0.7208999991,
+    "volume": 155144.0,
+    "wedge_status": "none"
   }
 ]

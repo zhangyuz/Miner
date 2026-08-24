@@ -7488,5 +7488,15 @@
     "close": 123.4100036621,
     "volume": 1738900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "DG",
+    "open": 123.5800018311,
+    "high": 125.5,
+    "low": 123.0,
+    "close": 125.3300018311,
+    "volume": 2089962.0,
+    "wedge_status": "none"
   }
 ]

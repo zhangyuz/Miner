@@ -2178,5 +2178,15 @@
     "close": 24.4500007629,
     "volume": 2097832.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "FLY",
+    "open": 23.7999992371,
+    "high": 23.9099998474,
+    "low": 23.0,
+    "close": 23.1000003815,
+    "volume": 2302061.0,
+    "wedge_status": "none"
   }
 ]

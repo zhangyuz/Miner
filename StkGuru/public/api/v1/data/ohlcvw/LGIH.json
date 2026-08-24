@@ -7488,5 +7488,15 @@
     "close": 58.1599998474,
     "volume": 203065.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "LGIH",
+    "open": 58.5099983215,
+    "high": 59.4500007629,
+    "low": 57.8120994568,
+    "close": 58.25,
+    "volume": 184853.0,
+    "wedge_status": "pop"
   }
 ]

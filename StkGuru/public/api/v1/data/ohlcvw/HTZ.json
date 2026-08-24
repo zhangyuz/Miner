@@ -7488,5 +7488,15 @@
     "close": 2.25,
     "volume": 27638005.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "HTZ",
+    "open": 2.25,
+    "high": 2.3499999046,
+    "low": 2.1800000668,
+    "close": 2.1900000572,
+    "volume": 18213643.0,
+    "wedge_status": "none"
   }
 ]

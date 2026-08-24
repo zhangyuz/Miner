@@ -7488,5 +7488,15 @@
     "close": 3.3900001049,
     "volume": 415850.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "VYGR",
+    "open": 3.3900001049,
+    "high": 3.4600000381,
+    "low": 3.2400000095,
+    "close": 3.4400000572,
+    "volume": 405975.0,
+    "wedge_status": "none"
   }
 ]

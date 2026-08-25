@@ -7498,5 +7498,15 @@
     "close": 152.5,
     "volume": 196929.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "KALU",
+    "open": 154.0500030518,
+    "high": 155.1212005615,
+    "low": 152.3699951172,
+    "close": 153.8000030518,
+    "volume": 129583.0,
+    "wedge_status": "none"
   }
 ]

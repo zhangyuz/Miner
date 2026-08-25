@@ -7498,5 +7498,15 @@
     "close": 61.9850006104,
     "volume": 5046677.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "BKR",
+    "open": 62.2700004578,
+    "high": 63.0,
+    "low": 61.7200012207,
+    "close": 61.8199996948,
+    "volume": 4711736.0,
+    "wedge_status": "none"
   }
 ]

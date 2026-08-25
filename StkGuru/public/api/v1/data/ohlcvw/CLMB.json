@@ -7498,5 +7498,15 @@
     "close": 27.4599990845,
     "volume": 207205.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "CLMB",
+    "open": 27.4699993134,
+    "high": 28.3500003815,
+    "low": 27.0049991608,
+    "close": 27.25,
+    "volume": 124427.0,
+    "wedge_status": "none"
   }
 ]

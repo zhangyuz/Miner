@@ -7498,5 +7498,15 @@
     "close": 125.25,
     "volume": 363436.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "IRTC",
+    "open": 124.3399963379,
+    "high": 125.6200027466,
+    "low": 122.5,
+    "close": 123.0899963379,
+    "volume": 353484.0,
+    "wedge_status": "none"
   }
 ]

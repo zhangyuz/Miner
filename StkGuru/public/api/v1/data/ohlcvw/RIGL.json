@@ -7498,5 +7498,15 @@
     "close": 45.1100006104,
     "volume": 416678.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "RIGL",
+    "open": 45.4799995422,
+    "high": 47.4599990845,
+    "low": 45.1399993896,
+    "close": 46.75,
+    "volume": 373325.0,
+    "wedge_status": "none"
   }
 ]

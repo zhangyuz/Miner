@@ -7498,5 +7498,15 @@
     "close": 47.2750015259,
     "volume": 1050.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "SFBC",
+    "open": 47.0999984741,
+    "high": 47.1100006104,
+    "low": 47.0999984741,
+    "close": 47.1100006104,
+    "volume": 3291.0,
+    "wedge_status": "none"
   }
 ]

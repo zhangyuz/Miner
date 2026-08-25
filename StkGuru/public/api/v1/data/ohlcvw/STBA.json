@@ -7498,5 +7498,15 @@
     "close": 50.25,
     "volume": 194417.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "STBA",
+    "open": 50.3300018311,
+    "high": 50.4000015259,
+    "low": 49.8400001526,
+    "close": 49.9900016785,
+    "volume": 232521.0,
+    "wedge_status": "none"
   }
 ]

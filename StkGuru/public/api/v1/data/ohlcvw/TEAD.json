@@ -7508,5 +7508,15 @@
     "close": 0.5529000163,
     "volume": 397499.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "TEAD",
+    "open": 0.5600000024,
+    "high": 0.5611000061,
+    "low": 0.4699999988,
+    "close": 0.4774000049,
+    "volume": 382437.0,
+    "wedge_status": "none"
   }
 ]

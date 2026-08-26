@@ -7508,5 +7508,15 @@
     "close": 4.8499999046,
     "volume": 1257548.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "PTLO",
+    "open": 4.8600001335,
+    "high": 4.8600001335,
+    "low": 4.6999998093,
+    "close": 4.75,
+    "volume": 921242.0,
+    "wedge_status": "drop"
   }
 ]

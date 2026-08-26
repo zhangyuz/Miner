@@ -7508,5 +7508,15 @@
     "close": 62.1500015259,
     "volume": 1020532.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "AOS",
+    "open": 62.4599990845,
+    "high": 63.2550010681,
+    "low": 62.1850013733,
+    "close": 62.5,
+    "volume": 777971.0,
+    "wedge_status": "none"
   }
 ]

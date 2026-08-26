@@ -7508,5 +7508,15 @@
     "close": 8.9200000763,
     "volume": 1051037.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "ARHS",
+    "open": 8.9399995804,
+    "high": 9.0850000381,
+    "low": 8.7700004578,
+    "close": 8.9399995804,
+    "volume": 978335.0,
+    "wedge_status": "none"
   }
 ]

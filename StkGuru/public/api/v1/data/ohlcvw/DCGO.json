@@ -7508,5 +7508,15 @@
     "close": 0.3824000061,
     "volume": 1610695.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "DCGO",
+    "open": 0.3713000119,
+    "high": 0.4023000002,
+    "low": 0.3713000119,
+    "close": 0.3952000141,
+    "volume": 747835.0,
+    "wedge_status": "none"
   }
 ]

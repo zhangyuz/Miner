@@ -7508,5 +7508,15 @@
     "close": 43.8400001526,
     "volume": 29835.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "PEBK",
+    "open": 43.6800003052,
+    "high": 44.0900001526,
+    "low": 43.25,
+    "close": 43.6500015259,
+    "volume": 23700.0,
+    "wedge_status": "drop"
   }
 ]

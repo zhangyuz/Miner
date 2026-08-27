@@ -7508,5 +7508,15 @@
     "close": 4.25,
     "volume": 100647.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "OM",
+    "open": 4.2300000191,
+    "high": 4.3299999237,
+    "low": 4.0700001717,
+    "close": 4.0900001526,
+    "volume": 101881.0,
+    "wedge_status": "none"
   }
 ]

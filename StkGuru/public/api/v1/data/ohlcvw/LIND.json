@@ -7508,5 +7508,15 @@
     "close": 31.1900005341,
     "volume": 562939.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "LIND",
+    "open": 30.9599990845,
+    "high": 31.4750003815,
+    "low": 30.0,
+    "close": 30.0599994659,
+    "volume": 550093.0,
+    "wedge_status": "none"
   }
 ]

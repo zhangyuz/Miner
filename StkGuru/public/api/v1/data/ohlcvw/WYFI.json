@@ -2208,5 +2208,15 @@
     "close": 20.0,
     "volume": 2605314.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "WYFI",
+    "open": 20.8500003815,
+    "high": 20.8500003815,
+    "low": 19.3500003815,
+    "close": 19.3799991608,
+    "volume": 2861422.0,
+    "wedge_status": "none"
   }
 ]

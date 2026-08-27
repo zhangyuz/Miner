@@ -7508,5 +7508,15 @@
     "close": 226.8999938965,
     "volume": 411655.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "VSEC",
+    "open": 226.5899963379,
+    "high": 228.8049926758,
+    "low": 220.3999938965,
+    "close": 221.0,
+    "volume": 244958.0,
+    "wedge_status": "drop"
   }
 ]

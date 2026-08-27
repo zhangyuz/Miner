@@ -7508,5 +7508,15 @@
     "close": 2.4900000095,
     "volume": 244096.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "IKT",
+    "open": 2.4800000191,
+    "high": 2.5,
+    "low": 2.4300000668,
+    "close": 2.4700000286,
+    "volume": 201998.0,
+    "wedge_status": "none"
   }
 ]

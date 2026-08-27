@@ -7508,5 +7508,15 @@
     "close": 137.9799957275,
     "volume": 900453.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "DD",
+    "open": 137.5,
+    "high": 139.4600067139,
+    "low": 137.5,
+    "close": 138.8000030518,
+    "volume": 848359.0,
+    "wedge_status": "none"
   }
 ]

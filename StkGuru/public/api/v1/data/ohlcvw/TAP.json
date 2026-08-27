@@ -7508,5 +7508,15 @@
     "close": 42.0900001526,
     "volume": 1560988.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "TAP",
+    "open": 41.5,
+    "high": 42.1150016785,
+    "low": 41.2900009155,
+    "close": 41.6599998474,
+    "volume": 2386270.0,
+    "wedge_status": "drop"
   }
 ]

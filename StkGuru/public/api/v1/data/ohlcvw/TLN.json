@@ -1,35 +1,5 @@
 [
   {
-    "trade_date": "2023,08,30,00,00,00,000000",
-    "ticker": "TLN",
-    "open": 55.0,
-    "high": 55.0,
-    "low": 52.75,
-    "close": 55.0,
-    "volume": 2800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,31,00,00,00,000000",
-    "ticker": "TLN",
-    "open": 55.0,
-    "high": 55.2999992371,
-    "low": 55.0,
-    "close": 55.25,
-    "volume": 259800.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,01,00,00,00,000000",
-    "ticker": "TLN",
-    "open": 55.4799995422,
-    "high": 56.8300018311,
-    "low": 55.25,
-    "close": 55.25,
-    "volume": 14300.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,05,00,00,00,000000",
     "ticker": "TLN",
     "open": 55.0,

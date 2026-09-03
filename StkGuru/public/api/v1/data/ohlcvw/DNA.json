@@ -1,35 +1,5 @@
 [
   {
-    "trade_date": "2023,08,30,00,00,00,000000",
-    "ticker": "DNA",
-    "open": 88.0,
-    "high": 91.1999969482,
-    "low": 84.8000030518,
-    "close": 90.0,
-    "volume": 710240.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,08,31,00,00,00,000000",
-    "ticker": "DNA",
-    "open": 90.4000015259,
-    "high": 94.0,
-    "low": 89.1999969482,
-    "close": 93.5999984741,
-    "volume": 750435.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,01,00,00,00,000000",
-    "ticker": "DNA",
-    "open": 94.0,
-    "high": 98.5999984741,
-    "low": 89.1999969482,
-    "close": 90.0,
-    "volume": 724420.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,05,00,00,00,000000",
     "ticker": "DNA",
     "open": 89.0,

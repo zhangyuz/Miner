@@ -7468,5 +7468,65 @@
     "close": 12.0399999619,
     "volume": 14684.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "PAMT",
+    "open": 11.9300003052,
+    "high": 12.7100000381,
+    "low": 11.7899999619,
+    "close": 12.0200004578,
+    "volume": 61000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "PAMT",
+    "open": 13.0,
+    "high": 13.0,
+    "low": 12.0,
+    "close": 12.1300001144,
+    "volume": 23800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "PAMT",
+    "open": 12.4200000763,
+    "high": 12.6999998093,
+    "low": 12.1099996567,
+    "close": 12.6199998856,
+    "volume": 20000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "PAMT",
+    "open": 12.5600004196,
+    "high": 13.1300001144,
+    "low": 12.5,
+    "close": 12.5900001526,
+    "volume": 22200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "PAMT",
+    "open": 12.6499996185,
+    "high": 12.875,
+    "low": 12.6000003815,
+    "close": 12.6199998856,
+    "volume": 16383.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "PAMT",
+    "open": 12.9099998474,
+    "high": 13.2950000763,
+    "low": 12.6750001907,
+    "close": 13.1499996185,
+    "volume": 11034.0,
+    "wedge_status": "pop"
   }
 ]

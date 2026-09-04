@@ -7468,5 +7468,55 @@
     "close": 9.279999733,
     "volume": 5142589.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "RCAT",
+    "open": 9.1499996185,
+    "high": 9.2100000381,
+    "low": 8.4499998093,
+    "close": 8.4899997711,
+    "volume": 7173800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "RCAT",
+    "open": 8.6999998093,
+    "high": 8.9799995422,
+    "low": 8.4849996567,
+    "close": 8.5900001526,
+    "volume": 6147700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "RCAT",
+    "open": 8.3999996185,
+    "high": 8.5,
+    "low": 8.1999998093,
+    "close": 8.25,
+    "volume": 4819200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "RCAT",
+    "open": 8.1000003815,
+    "high": 8.3299999237,
+    "low": 8.0500001907,
+    "close": 8.3199996948,
+    "volume": 5555300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "RCAT",
+    "open": 8.5,
+    "high": 8.6499004364,
+    "low": 8.2399997711,
+    "close": 8.3699998856,
+    "volume": 5072262.0,
+    "wedge_status": "none"
   }
 ]

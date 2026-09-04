@@ -7468,5 +7468,55 @@
     "close": 2.75,
     "volume": 538667.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "NKTX",
+    "open": 2.75,
+    "high": 2.7899999619,
+    "low": 2.6949999332,
+    "close": 2.7599999905,
+    "volume": 429800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "NKTX",
+    "open": 2.7300000191,
+    "high": 2.75,
+    "low": 2.6510000229,
+    "close": 2.7100000381,
+    "volume": 481600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "NKTX",
+    "open": 2.6199998856,
+    "high": 2.7400000095,
+    "low": 2.6199998856,
+    "close": 2.7000000477,
+    "volume": 570400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "NKTX",
+    "open": 2.7000000477,
+    "high": 2.8250000477,
+    "low": 2.6549999714,
+    "close": 2.7650001049,
+    "volume": 489600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "NKTX",
+    "open": 2.7699999809,
+    "high": 2.9300000668,
+    "low": 2.7550001144,
+    "close": 2.9200000763,
+    "volume": 446755.0,
+    "wedge_status": "none"
   }
 ]

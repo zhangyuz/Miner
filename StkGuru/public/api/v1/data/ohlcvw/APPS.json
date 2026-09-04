@@ -7468,5 +7468,55 @@
     "close": 11.4399995804,
     "volume": 3335739.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "APPS",
+    "open": 11.3400001526,
+    "high": 11.7100000381,
+    "low": 11.0200004578,
+    "close": 11.0900001526,
+    "volume": 2691900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "APPS",
+    "open": 10.8999996185,
+    "high": 11.1899995804,
+    "low": 10.5,
+    "close": 10.7600002289,
+    "volume": 4041900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "APPS",
+    "open": 10.5,
+    "high": 10.5,
+    "low": 9.9200000763,
+    "close": 10.0,
+    "volume": 2554400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "APPS",
+    "open": 9.9499998093,
+    "high": 10.0500001907,
+    "low": 9.75,
+    "close": 9.779999733,
+    "volume": 2321500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "APPS",
+    "open": 10.75,
+    "high": 10.9910001755,
+    "low": 10.4899997711,
+    "close": 10.7100000381,
+    "volume": 1997581.0,
+    "wedge_status": "none"
   }
 ]

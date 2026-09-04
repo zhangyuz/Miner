@@ -7468,5 +7468,55 @@
     "close": 0.2621000111,
     "volume": 404767.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "ARAY",
+    "open": 0.2599999905,
+    "high": 0.2800000012,
+    "low": 0.2599999905,
+    "close": 0.2700000107,
+    "volume": 641400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "ARAY",
+    "open": 0.2700000107,
+    "high": 0.2800000012,
+    "low": 0.2599999905,
+    "close": 0.2599999905,
+    "volume": 242500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "ARAY",
+    "open": 0.2599999905,
+    "high": 0.2599999905,
+    "low": 0.25,
+    "close": 0.25,
+    "volume": 550700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "ARAY",
+    "open": 0.25,
+    "high": 0.2599999905,
+    "low": 0.25,
+    "close": 0.2599999905,
+    "volume": 323400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "ARAY",
+    "open": 0.2660000026,
+    "high": 0.2721999884,
+    "low": 0.2547000051,
+    "close": 0.2667999864,
+    "volume": 278401.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,55 @@
     "close": 6.0399999619,
     "volume": 536577.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "ABEO",
+    "open": 5.9899997711,
+    "high": 6.0399999619,
+    "low": 5.8800001144,
+    "close": 5.9200000763,
+    "volume": 912600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "ABEO",
+    "open": 5.9099998474,
+    "high": 5.9200000763,
+    "low": 5.7800002098,
+    "close": 5.8499999046,
+    "volume": 993600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "ABEO",
+    "open": 5.8000001907,
+    "high": 6.0,
+    "low": 5.7899999619,
+    "close": 5.9800000191,
+    "volume": 683800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "ABEO",
+    "open": 5.9800000191,
+    "high": 6.0999999046,
+    "low": 5.8600001335,
+    "close": 5.9499998093,
+    "volume": 1086100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "ABEO",
+    "open": 5.8899998665,
+    "high": 6.0199999809,
+    "low": 5.8499999046,
+    "close": 6.0,
+    "volume": 866459.0,
+    "wedge_status": "none"
   }
 ]

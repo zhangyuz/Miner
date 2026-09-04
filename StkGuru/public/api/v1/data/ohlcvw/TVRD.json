@@ -7468,5 +7468,55 @@
     "close": 1.7999999523,
     "volume": 69634.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "TVRD",
+    "open": 1.7999999523,
+    "high": 1.9190000296,
+    "low": 1.7799999714,
+    "close": 1.8200000525,
+    "volume": 337300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "TVRD",
+    "open": 1.8200000525,
+    "high": 1.8400000334,
+    "low": 1.7549999952,
+    "close": 1.7999999523,
+    "volume": 117400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "TVRD",
+    "open": 1.8099999428,
+    "high": 1.8400000334,
+    "low": 1.7450000048,
+    "close": 1.7450000048,
+    "volume": 96000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "TVRD",
+    "open": 1.75,
+    "high": 1.8799999952,
+    "low": 1.75,
+    "close": 1.8799999952,
+    "volume": 107600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "TVRD",
+    "open": 1.8500000238,
+    "high": 1.9199999571,
+    "low": 1.8099999428,
+    "close": 1.9099999666,
+    "volume": 73276.0,
+    "wedge_status": "none"
   }
 ]

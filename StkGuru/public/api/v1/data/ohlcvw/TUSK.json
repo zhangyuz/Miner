@@ -7468,5 +7468,55 @@
     "close": 3.1500000954,
     "volume": 41996.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "TUSK",
+    "open": 3.1700000763,
+    "high": 3.2000000477,
+    "low": 3.0899999142,
+    "close": 3.0899999142,
+    "volume": 39200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "TUSK",
+    "open": 3.0999999046,
+    "high": 3.1500000954,
+    "low": 3.0599999428,
+    "close": 3.1300001144,
+    "volume": 114300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "TUSK",
+    "open": 3.1300001144,
+    "high": 3.2100000381,
+    "low": 3.0899999142,
+    "close": 3.0999999046,
+    "volume": 64800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "TUSK",
+    "open": 3.1099998951,
+    "high": 3.25,
+    "low": 3.0899999142,
+    "close": 3.2200000286,
+    "volume": 85500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "TUSK",
+    "open": 3.0999999046,
+    "high": 3.1298999786,
+    "low": 3.0199999809,
+    "close": 3.1199998856,
+    "volume": 82916.0,
+    "wedge_status": "none"
   }
 ]

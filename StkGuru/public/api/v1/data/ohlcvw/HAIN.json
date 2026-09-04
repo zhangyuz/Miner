@@ -7468,5 +7468,55 @@
     "close": 0.7102000117,
     "volume": 314164.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "HAIN",
+    "open": 0.7200000286,
+    "high": 0.75,
+    "low": 0.6999999881,
+    "close": 0.7300000191,
+    "volume": 265400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "HAIN",
+    "open": 0.7400000095,
+    "high": 0.7599999905,
+    "low": 0.7200000286,
+    "close": 0.75,
+    "volume": 454000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "HAIN",
+    "open": 0.7300000191,
+    "high": 0.7599999905,
+    "low": 0.7200000286,
+    "close": 0.7300000191,
+    "volume": 273100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "HAIN",
+    "open": 0.7300000191,
+    "high": 0.7599999905,
+    "low": 0.6800000072,
+    "close": 0.6899999976,
+    "volume": 398000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "HAIN",
+    "open": 0.7332999706,
+    "high": 0.7724000216,
+    "low": 0.7203000188,
+    "close": 0.7479000092,
+    "volume": 414254.0,
+    "wedge_status": "none"
   }
 ]

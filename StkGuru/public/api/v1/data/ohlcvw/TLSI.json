@@ -7468,5 +7468,55 @@
     "close": 4.9299998283,
     "volume": 74330.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "TLSI",
+    "open": 4.9400000572,
+    "high": 5.2399997711,
+    "low": 4.6999998093,
+    "close": 4.8299999237,
+    "volume": 80000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "TLSI",
+    "open": 4.8499999046,
+    "high": 5.0250000954,
+    "low": 4.8099999428,
+    "close": 4.9499998093,
+    "volume": 72700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "TLSI",
+    "open": 4.9600000381,
+    "high": 5.2300000191,
+    "low": 4.9349999428,
+    "close": 5.1700000763,
+    "volume": 82500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "TLSI",
+    "open": 5.1799998283,
+    "high": 5.3699998856,
+    "low": 5.015999794,
+    "close": 5.1399998665,
+    "volume": 250600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "TLSI",
+    "open": 4.9200000763,
+    "high": 5.125,
+    "low": 4.9200000763,
+    "close": 5.0,
+    "volume": 86869.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,55 @@
     "close": 56.9900016785,
     "volume": 166659.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "LGIH",
+    "open": 57.0,
+    "high": 57.7799987793,
+    "low": 56.5,
+    "close": 57.5,
+    "volume": 187000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "LGIH",
+    "open": 57.2400016785,
+    "high": 57.2400016785,
+    "low": 55.8400001526,
+    "close": 55.9399986267,
+    "volume": 223300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "LGIH",
+    "open": 54.9300003052,
+    "high": 55.0600013733,
+    "low": 53.4799995422,
+    "close": 53.7400016785,
+    "volume": 345700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "LGIH",
+    "open": 54.1699981689,
+    "high": 55.0900001526,
+    "low": 53.1599998474,
+    "close": 53.4500007629,
+    "volume": 512000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "LGIH",
+    "open": 54.4700012207,
+    "high": 56.2099990845,
+    "low": 54.2999992371,
+    "close": 55.0,
+    "volume": 217855.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,55 @@
     "close": 7.8800001144,
     "volume": 12900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "CSPI",
+    "open": 7.9600000381,
+    "high": 8.2100000381,
+    "low": 7.7600002289,
+    "close": 8.1400003433,
+    "volume": 16700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "CSPI",
+    "open": 8.0600004196,
+    "high": 8.1999998093,
+    "low": 7.9099998474,
+    "close": 7.9099998474,
+    "volume": 5800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "CSPI",
+    "open": 7.8000001907,
+    "high": 8.25,
+    "low": 7.8000001907,
+    "close": 8.0500001907,
+    "volume": 8400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "CSPI",
+    "open": 8.0,
+    "high": 8.279999733,
+    "low": 7.9400000572,
+    "close": 7.9400000572,
+    "volume": 18000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "CSPI",
+    "open": 8.2930002213,
+    "high": 8.3299999237,
+    "low": 8.0,
+    "close": 8.0900001526,
+    "volume": 3907.0,
+    "wedge_status": "none"
   }
 ]

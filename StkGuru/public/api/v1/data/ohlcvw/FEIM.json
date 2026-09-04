@@ -7468,5 +7468,55 @@
     "close": 63.9000015259,
     "volume": 253223.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "FEIM",
+    "open": 63.1199989319,
+    "high": 63.75,
+    "low": 60.2799987793,
+    "close": 60.4599990845,
+    "volume": 224000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "FEIM",
+    "open": 60.4599990845,
+    "high": 60.9199981689,
+    "low": 57.5200004578,
+    "close": 60.25,
+    "volume": 351500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "FEIM",
+    "open": 59.3400001526,
+    "high": 59.75,
+    "low": 56.9799995422,
+    "close": 58.9799995422,
+    "volume": 218200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "FEIM",
+    "open": 59.5,
+    "high": 59.5,
+    "low": 57.0299987793,
+    "close": 59.0699996948,
+    "volume": 153100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "FEIM",
+    "open": 62.0200004578,
+    "high": 62.25,
+    "low": 59.7550010681,
+    "close": 60.6699981689,
+    "volume": 149489.0,
+    "wedge_status": "none"
   }
 ]

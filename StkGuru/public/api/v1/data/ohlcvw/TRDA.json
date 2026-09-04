@@ -7468,5 +7468,55 @@
     "close": 7.2699999809,
     "volume": 248591.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "TRDA",
+    "open": 7.1799998283,
+    "high": 7.2399997711,
+    "low": 6.9349999428,
+    "close": 7.0,
+    "volume": 111600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "TRDA",
+    "open": 6.8400001526,
+    "high": 7.1700000763,
+    "low": 6.7600002289,
+    "close": 7.0500001907,
+    "volume": 450400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "TRDA",
+    "open": 6.9499998093,
+    "high": 7.1789999008,
+    "low": 6.8000001907,
+    "close": 7.0700001717,
+    "volume": 205500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "TRDA",
+    "open": 7.0700001717,
+    "high": 7.3400001526,
+    "low": 6.9600000381,
+    "close": 7.3000001907,
+    "volume": 306500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "TRDA",
+    "open": 7.1100001335,
+    "high": 7.1700000763,
+    "low": 7.0,
+    "close": 7.1300001144,
+    "volume": 341729.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,55 @@
     "close": 8.4099998474,
     "volume": 701561.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "CRNC",
+    "open": 8.4099998474,
+    "high": 8.625,
+    "low": 8.2950000763,
+    "close": 8.5,
+    "volume": 647000.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "CRNC",
+    "open": 8.4149999619,
+    "high": 8.7449998856,
+    "low": 8.4149999619,
+    "close": 8.4399995804,
+    "volume": 453200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "CRNC",
+    "open": 8.2100000381,
+    "high": 8.5100002289,
+    "low": 8.0500001907,
+    "close": 8.4200000763,
+    "volume": 648700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "CRNC",
+    "open": 8.4600000381,
+    "high": 8.6099996567,
+    "low": 8.2930002213,
+    "close": 8.5100002289,
+    "volume": 528000.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "CRNC",
+    "open": 8.3999996185,
+    "high": 8.6899995804,
+    "low": 8.3999996185,
+    "close": 8.529999733,
+    "volume": 421426.0,
+    "wedge_status": "none"
   }
 ]

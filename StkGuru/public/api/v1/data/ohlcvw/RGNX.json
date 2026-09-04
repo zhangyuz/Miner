@@ -7468,5 +7468,55 @@
     "close": 9.3699998856,
     "volume": 873895.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "RGNX",
+    "open": 10.0,
+    "high": 10.1000003815,
+    "low": 9.2119998932,
+    "close": 9.6599998474,
+    "volume": 1752500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "RGNX",
+    "open": 9.5,
+    "high": 9.6800003052,
+    "low": 9.0900001526,
+    "close": 9.5,
+    "volume": 1611400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "RGNX",
+    "open": 9.3800001144,
+    "high": 9.6160001755,
+    "low": 9.279999733,
+    "close": 9.3199996948,
+    "volume": 783700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "RGNX",
+    "open": 9.3400001526,
+    "high": 9.7080001831,
+    "low": 9.1999998093,
+    "close": 9.6000003815,
+    "volume": 866300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "RGNX",
+    "open": 9.0900001526,
+    "high": 9.2150001526,
+    "low": 8.8599996567,
+    "close": 8.9399995804,
+    "volume": 1068812.0,
+    "wedge_status": "none"
   }
 ]

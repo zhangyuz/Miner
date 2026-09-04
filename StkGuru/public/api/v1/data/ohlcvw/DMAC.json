@@ -7468,5 +7468,55 @@
     "close": 6.75,
     "volume": 113811.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "DMAC",
+    "open": 6.7199997902,
+    "high": 6.7399997711,
+    "low": 6.3400001526,
+    "close": 6.3899998665,
+    "volume": 116500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "DMAC",
+    "open": 6.4400000572,
+    "high": 6.5900001526,
+    "low": 6.2199997902,
+    "close": 6.3499999046,
+    "volume": 135100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "DMAC",
+    "open": 6.2899999619,
+    "high": 6.4499998093,
+    "low": 6.2649998665,
+    "close": 6.4499998093,
+    "volume": 145900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "DMAC",
+    "open": 6.5999999046,
+    "high": 6.9352998734,
+    "low": 6.5900001526,
+    "close": 6.75,
+    "volume": 176000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "DMAC",
+    "open": 6.5599999428,
+    "high": 6.8873000145,
+    "low": 6.4899997711,
+    "close": 6.75,
+    "volume": 189481.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,55 @@
     "close": 2.0,
     "volume": 416729.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "RBBN",
+    "open": 2.0,
+    "high": 2.0399999619,
+    "low": 1.9700000286,
+    "close": 2.0299999714,
+    "volume": 580400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "RBBN",
+    "open": 2.0199999809,
+    "high": 2.0299999714,
+    "low": 1.9700000286,
+    "close": 1.9900000095,
+    "volume": 551500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "RBBN",
+    "open": 1.9700000286,
+    "high": 1.9800000191,
+    "low": 1.9400000572,
+    "close": 1.9600000381,
+    "volume": 595700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "RBBN",
+    "open": 1.9600000381,
+    "high": 1.9700000286,
+    "low": 1.9400000572,
+    "close": 1.9600000381,
+    "volume": 563200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "RBBN",
+    "open": 1.9900000095,
+    "high": 2.0099999905,
+    "low": 1.9500000477,
+    "close": 1.9900000095,
+    "volume": 668233.0,
+    "wedge_status": "none"
   }
 ]

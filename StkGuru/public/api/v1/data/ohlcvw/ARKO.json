@@ -7468,5 +7468,55 @@
     "close": 4.4600000381,
     "volume": 760398.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "ARKO",
+    "open": 4.4400000572,
+    "high": 4.4600000381,
+    "low": 4.3400001526,
+    "close": 4.3699998856,
+    "volume": 820300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "ARKO",
+    "open": 4.3699998856,
+    "high": 4.5799999237,
+    "low": 4.3000001907,
+    "close": 4.5599999428,
+    "volume": 1322400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "ARKO",
+    "open": 4.5399999619,
+    "high": 4.6750001907,
+    "low": 4.4499998093,
+    "close": 4.5,
+    "volume": 1403500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "ARKO",
+    "open": 4.5500001907,
+    "high": 4.7800002098,
+    "low": 4.501999855,
+    "close": 4.7399997711,
+    "volume": 899400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "ARKO",
+    "open": 4.7699999809,
+    "high": 4.9549999237,
+    "low": 4.75,
+    "close": 4.8899998665,
+    "volume": 750581.0,
+    "wedge_status": "none"
   }
 ]

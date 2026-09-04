@@ -3418,5 +3418,55 @@
     "close": 6.6199998856,
     "volume": 74109.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "AARD",
+    "open": 6.4699997902,
+    "high": 6.4699997902,
+    "low": 5.6199998856,
+    "close": 5.7899999619,
+    "volume": 143000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "AARD",
+    "open": 5.6999998093,
+    "high": 6.1550002098,
+    "low": 5.3000001907,
+    "close": 6.0999999046,
+    "volume": 125400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "AARD",
+    "open": 6.0,
+    "high": 6.2449998856,
+    "low": 5.8070001602,
+    "close": 5.9200000763,
+    "volume": 85000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "AARD",
+    "open": 6.0500001907,
+    "high": 6.2249999046,
+    "low": 5.7950000763,
+    "close": 5.9499998093,
+    "volume": 59400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "AARD",
+    "open": 5.75,
+    "high": 5.9910001755,
+    "low": 5.1500000954,
+    "close": 5.3800001144,
+    "volume": 257808.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,55 @@
     "close": 1.4199999571,
     "volume": 14718.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "ISPR",
+    "open": 1.4199999571,
+    "high": 1.4379999638,
+    "low": 1.4199999571,
+    "close": 1.4199999571,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "ISPR",
+    "open": 1.4299999475,
+    "high": 1.5499999523,
+    "low": 1.4060000181,
+    "close": 1.4700000286,
+    "volume": 13000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "ISPR",
+    "open": 1.4600000381,
+    "high": 1.5,
+    "low": 1.4099999666,
+    "close": 1.4500000477,
+    "volume": 7800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "ISPR",
+    "open": 1.4500000477,
+    "high": 1.5750000477,
+    "low": 1.4299999475,
+    "close": 1.5499999523,
+    "volume": 14700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "ISPR",
+    "open": 1.5399999619,
+    "high": 1.5399999619,
+    "low": 1.4850000143,
+    "close": 1.5399999619,
+    "volume": 5965.0,
+    "wedge_status": "none"
   }
 ]

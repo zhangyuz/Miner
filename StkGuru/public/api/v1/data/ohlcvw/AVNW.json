@@ -7468,5 +7468,55 @@
     "close": 21.4400005341,
     "volume": 400782.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "AVNW",
+    "open": 21.5,
+    "high": 22.25,
+    "low": 19.7999992371,
+    "close": 20.0,
+    "volume": 366300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "AVNW",
+    "open": 19.8299999237,
+    "high": 20.0799999237,
+    "low": 19.4500007629,
+    "close": 19.9300003052,
+    "volume": 277100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "AVNW",
+    "open": 19.7299995422,
+    "high": 20.3299999237,
+    "low": 18.6000003815,
+    "close": 18.6599998474,
+    "volume": 201900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "AVNW",
+    "open": 18.5599994659,
+    "high": 19.5,
+    "low": 18.5599994659,
+    "close": 19.25,
+    "volume": 250200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "AVNW",
+    "open": 19.3299999237,
+    "high": 19.8999996185,
+    "low": 19.3099994659,
+    "close": 19.7800006866,
+    "volume": 134810.0,
+    "wedge_status": "none"
   }
 ]

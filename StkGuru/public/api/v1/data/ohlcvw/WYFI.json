@@ -2218,5 +2218,55 @@
     "close": 19.3799991608,
     "volume": 2861422.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "WYFI",
+    "open": 19.1000003815,
+    "high": 19.5,
+    "low": 17.7299995422,
+    "close": 17.75,
+    "volume": 2815200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "WYFI",
+    "open": 17.75,
+    "high": 18.9699993134,
+    "low": 17.25,
+    "close": 18.9200000763,
+    "volume": 2719900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "WYFI",
+    "open": 18.2700004578,
+    "high": 18.3400001526,
+    "low": 17.2199993134,
+    "close": 17.5,
+    "volume": 2076100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "WYFI",
+    "open": 17.1849994659,
+    "high": 17.4500007629,
+    "low": 16.8099994659,
+    "close": 17.3099994659,
+    "volume": 1437800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "WYFI",
+    "open": 18.3799991608,
+    "high": 19.5799999237,
+    "low": 18.2999992371,
+    "close": 19.5400009155,
+    "volume": 1361458.0,
+    "wedge_status": "none"
   }
 ]

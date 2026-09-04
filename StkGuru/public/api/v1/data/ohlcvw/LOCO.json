@@ -7468,5 +7468,55 @@
     "close": 15.1999998093,
     "volume": 146334.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "LOCO",
+    "open": 15.25,
+    "high": 15.4449996948,
+    "low": 15.1999998093,
+    "close": 15.3100004196,
+    "volume": 162000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "LOCO",
+    "open": 15.3100004196,
+    "high": 15.4250001907,
+    "low": 15.1700000763,
+    "close": 15.2700004578,
+    "volume": 166800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "LOCO",
+    "open": 15.1999998093,
+    "high": 15.2849998474,
+    "low": 14.9399995804,
+    "close": 14.9899997711,
+    "volume": 154900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "LOCO",
+    "open": 15.0,
+    "high": 15.4499998093,
+    "low": 15.0,
+    "close": 15.3500003815,
+    "volume": 260000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "LOCO",
+    "open": 15.029999733,
+    "high": 15.4739999771,
+    "low": 15.0,
+    "close": 15.3699998856,
+    "volume": 174095.0,
+    "wedge_status": "none"
   }
 ]

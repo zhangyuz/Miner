@@ -7468,5 +7468,55 @@
     "close": 83.0899963379,
     "volume": 432947.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "PATK",
+    "open": 83.5199966431,
+    "high": 84.0299987793,
+    "low": 82.3799972534,
+    "close": 83.4700012207,
+    "volume": 282700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "PATK",
+    "open": 82.5100021362,
+    "high": 83.25,
+    "low": 81.2900009155,
+    "close": 81.7200012207,
+    "volume": 416700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "PATK",
+    "open": 81.8300018311,
+    "high": 83.3399963379,
+    "low": 80.7600021362,
+    "close": 81.3000030518,
+    "volume": 417500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "PATK",
+    "open": 81.7300033569,
+    "high": 83.5,
+    "low": 81.6100006104,
+    "close": 82.75,
+    "volume": 381800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "PATK",
+    "open": 81.0599975586,
+    "high": 83.5,
+    "low": 80.7900009155,
+    "close": 82.8399963379,
+    "volume": 338304.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,55 @@
     "close": 2.6900000572,
     "volume": 260219.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "IHRT",
+    "open": 2.7000000477,
+    "high": 2.8399999142,
+    "low": 2.6809999943,
+    "close": 2.75,
+    "volume": 450900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "IHRT",
+    "open": 2.7599999905,
+    "high": 2.7850000858,
+    "low": 2.6099998951,
+    "close": 2.7200000286,
+    "volume": 558800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "IHRT",
+    "open": 2.6700000763,
+    "high": 2.7100000381,
+    "low": 2.6150000095,
+    "close": 2.7000000477,
+    "volume": 317300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "IHRT",
+    "open": 2.7100000381,
+    "high": 2.8849999905,
+    "low": 2.6900000572,
+    "close": 2.8399999142,
+    "volume": 570300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "IHRT",
+    "open": 2.8199999332,
+    "high": 2.8900001049,
+    "low": 2.75,
+    "close": 2.8050000668,
+    "volume": 329257.0,
+    "wedge_status": "none"
   }
 ]

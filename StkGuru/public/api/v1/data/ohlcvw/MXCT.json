@@ -7468,5 +7468,55 @@
     "close": 1.2799999714,
     "volume": 359994.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "MXCT",
+    "open": 1.2999999523,
+    "high": 1.2999999523,
+    "low": 1.2100000381,
+    "close": 1.2200000286,
+    "volume": 563100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "MXCT",
+    "open": 1.1900000572,
+    "high": 1.3150000572,
+    "low": 1.1900000572,
+    "close": 1.2899999619,
+    "volume": 777300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "MXCT",
+    "open": 1.2599999905,
+    "high": 1.2799999714,
+    "low": 1.2150000334,
+    "close": 1.2400000095,
+    "volume": 678900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "MXCT",
+    "open": 1.2400000095,
+    "high": 1.3049999475,
+    "low": 1.2200000286,
+    "close": 1.2699999809,
+    "volume": 502300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "MXCT",
+    "open": 1.25,
+    "high": 1.2999999523,
+    "low": 1.25,
+    "close": 1.2799999714,
+    "volume": 333493.0,
+    "wedge_status": "none"
   }
 ]

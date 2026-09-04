@@ -7468,5 +7468,55 @@
     "close": 12.9799995422,
     "volume": 265318.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "GOOD",
+    "open": 13.0,
+    "high": 13.1400003433,
+    "low": 13.0,
+    "close": 13.0100002289,
+    "volume": 299500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "GOOD",
+    "open": 13.0100002289,
+    "high": 13.0200004578,
+    "low": 12.8900003433,
+    "close": 12.970000267,
+    "volume": 476600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "GOOD",
+    "open": 12.970000267,
+    "high": 13.0399999619,
+    "low": 12.8999996185,
+    "close": 12.9899997711,
+    "volume": 319200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "GOOD",
+    "open": 13.0,
+    "high": 13.1400003433,
+    "low": 12.970000267,
+    "close": 13.0,
+    "volume": 414100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "GOOD",
+    "open": 12.9899997711,
+    "high": 13.2299995422,
+    "low": 12.9471998215,
+    "close": 13.1099996567,
+    "volume": 227704.0,
+    "wedge_status": "none"
   }
 ]

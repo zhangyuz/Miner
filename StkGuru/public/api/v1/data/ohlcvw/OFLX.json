@@ -7468,5 +7468,55 @@
     "close": 26.8199996948,
     "volume": 20660.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "OFLX",
+    "open": 26.8199996948,
+    "high": 27.0,
+    "low": 26.6800003052,
+    "close": 27.0,
+    "volume": 28300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "OFLX",
+    "open": 27.2700004578,
+    "high": 27.3099994659,
+    "low": 26.3600006104,
+    "close": 26.6399993896,
+    "volume": 31100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "OFLX",
+    "open": 26.4799995422,
+    "high": 26.5100002289,
+    "low": 26.0,
+    "close": 26.1399993896,
+    "volume": 25500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "OFLX",
+    "open": 26.1000003815,
+    "high": 26.2099990845,
+    "low": 25.75,
+    "close": 25.9899997711,
+    "volume": 45100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "OFLX",
+    "open": 26.2199993134,
+    "high": 27.0,
+    "low": 26.2199993134,
+    "close": 26.9099998474,
+    "volume": 17461.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,55 @@
     "close": 15.25,
     "volume": 389230.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "DSGN",
+    "open": 15.1199998856,
+    "high": 15.3599996567,
+    "low": 14.8000001907,
+    "close": 15.1099996567,
+    "volume": 820800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "DSGN",
+    "open": 15.0,
+    "high": 15.2100000381,
+    "low": 14.3800001144,
+    "close": 15.0900001526,
+    "volume": 704400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "DSGN",
+    "open": 14.9499998093,
+    "high": 15.220000267,
+    "low": 14.6400003433,
+    "close": 15.1400003433,
+    "volume": 477000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "DSGN",
+    "open": 15.25,
+    "high": 15.75,
+    "low": 15.1700000763,
+    "close": 15.529999733,
+    "volume": 1003400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "DSGN",
+    "open": 14.9600000381,
+    "high": 15.3500003815,
+    "low": 14.9600000381,
+    "close": 15.1400003433,
+    "volume": 256616.0,
+    "wedge_status": "none"
   }
 ]

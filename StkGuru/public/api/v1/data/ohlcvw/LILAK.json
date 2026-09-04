@@ -7468,5 +7468,55 @@
     "close": 8.2700004578,
     "volume": 899868.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "LILAK",
+    "open": 8.3000001907,
+    "high": 8.5150003433,
+    "low": 8.2550001144,
+    "close": 8.4799995422,
+    "volume": 1168500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "LILAK",
+    "open": 8.4600000381,
+    "high": 8.595000267,
+    "low": 8.25,
+    "close": 8.5500001907,
+    "volume": 2180500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "LILAK",
+    "open": 8.5399999619,
+    "high": 8.5399999619,
+    "low": 8.4099998474,
+    "close": 8.470000267,
+    "volume": 914400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "LILAK",
+    "open": 8.5200004578,
+    "high": 8.720000267,
+    "low": 8.3149995804,
+    "close": 8.6300001144,
+    "volume": 1594000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "LILAK",
+    "open": 8.6700000763,
+    "high": 8.7399997711,
+    "low": 8.4300003052,
+    "close": 8.4499998093,
+    "volume": 987912.0,
+    "wedge_status": "none"
   }
 ]

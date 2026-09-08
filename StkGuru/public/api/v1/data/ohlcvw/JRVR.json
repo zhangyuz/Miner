@@ -7488,5 +7488,15 @@
     "close": 4.1599998474,
     "volume": 165403.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "JRVR",
+    "open": 4.1100001335,
+    "high": 4.125,
+    "low": 4.0100002289,
+    "close": 4.0300002098,
+    "volume": 280315.0,
+    "wedge_status": "none"
   }
 ]

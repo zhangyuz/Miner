@@ -7498,5 +7498,15 @@
     "close": 97.6200027466,
     "volume": 2621414.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "MET",
+    "open": 96.5599975586,
+    "high": 97.0899963379,
+    "low": 95.4049987793,
+    "close": 95.5,
+    "volume": 2448779.0,
+    "wedge_status": "drop"
   }
 ]

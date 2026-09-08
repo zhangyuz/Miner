@@ -7498,5 +7498,15 @@
     "close": 26.5,
     "volume": 847443.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "ADEA",
+    "open": 26.1000003815,
+    "high": 27.3899993896,
+    "low": 26.1000003815,
+    "close": 27.2000007629,
+    "volume": 783404.0,
+    "wedge_status": "none"
   }
 ]

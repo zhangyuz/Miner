@@ -7488,5 +7488,15 @@
     "close": 3.5999999046,
     "volume": 2984288.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "INDI",
+    "open": 3.6400001049,
+    "high": 3.7799999714,
+    "low": 3.4749999046,
+    "close": 3.5,
+    "volume": 7477506.0,
+    "wedge_status": "none"
   }
 ]

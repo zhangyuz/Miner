@@ -7498,5 +7498,15 @@
     "close": 16.0699996948,
     "volume": 968165.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "AUPH",
+    "open": 15.970000267,
+    "high": 16.3099994659,
+    "low": 15.8500003815,
+    "close": 16.25,
+    "volume": 723243.0,
+    "wedge_status": "none"
   }
 ]

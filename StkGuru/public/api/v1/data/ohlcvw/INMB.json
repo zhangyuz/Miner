@@ -7498,5 +7498,15 @@
     "close": 2.5099999905,
     "volume": 493743.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "INMB",
+    "open": 2.5450000763,
+    "high": 2.5750000477,
+    "low": 2.4500000477,
+    "close": 2.4600000381,
+    "volume": 239438.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 5.2100000381,
     "volume": 1983022.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "AQST",
+    "open": 5.2199997902,
+    "high": 5.25,
+    "low": 5.0650000572,
+    "close": 5.1500000954,
+    "volume": 1883889.0,
+    "wedge_status": "none"
   }
 ]

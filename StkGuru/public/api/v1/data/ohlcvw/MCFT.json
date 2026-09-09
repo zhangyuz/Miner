@@ -7498,5 +7498,15 @@
     "close": 23.5300006866,
     "volume": 161816.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "MCFT",
+    "open": 23.3500003815,
+    "high": 23.4500007629,
+    "low": 22.75,
+    "close": 22.7900009155,
+    "volume": 183814.0,
+    "wedge_status": "none"
   }
 ]

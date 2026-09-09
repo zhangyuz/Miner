@@ -7498,5 +7498,15 @@
     "close": 1.6000000238,
     "volume": 979083.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "ORGO",
+    "open": 1.5800000429,
+    "high": 1.5900000334,
+    "low": 1.5499999523,
+    "close": 1.5700000525,
+    "volume": 465736.0,
+    "wedge_status": "none"
   }
 ]

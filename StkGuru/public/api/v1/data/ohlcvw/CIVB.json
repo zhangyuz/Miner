@@ -7498,5 +7498,15 @@
     "close": 27.4300003052,
     "volume": 99753.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "CIVB",
+    "open": 27.25,
+    "high": 27.4150009155,
+    "low": 27.0100002289,
+    "close": 27.1399993896,
+    "volume": 119200.0,
+    "wedge_status": "none"
   }
 ]

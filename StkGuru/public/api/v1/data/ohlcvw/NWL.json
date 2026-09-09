@@ -7498,5 +7498,15 @@
     "close": 6.3400001526,
     "volume": 10124669.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "NWL",
+    "open": 6.2699999809,
+    "high": 6.3649997711,
+    "low": 5.9349999428,
+    "close": 6.0,
+    "volume": 7616940.0,
+    "wedge_status": "none"
   }
 ]

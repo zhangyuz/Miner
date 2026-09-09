@@ -3438,5 +3438,15 @@
     "close": 10.8000001907,
     "volume": 346704.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "VRM",
+    "open": 10.8000001907,
+    "high": 10.875,
+    "low": 9.991900444,
+    "close": 10.4149999619,
+    "volume": 18194.0,
+    "wedge_status": "none"
   }
 ]

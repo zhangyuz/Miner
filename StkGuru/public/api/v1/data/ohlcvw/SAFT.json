@@ -7498,5 +7498,15 @@
     "close": 103.3700027466,
     "volume": 121882.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "SAFT",
+    "open": 103.2300033569,
+    "high": 103.5,
+    "low": 103.2300033569,
+    "close": 103.4300003052,
+    "volume": 174332.0,
+    "wedge_status": "none"
   }
 ]

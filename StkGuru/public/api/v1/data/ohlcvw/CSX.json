@@ -7508,5 +7508,15 @@
     "close": 49.0,
     "volume": 6953993.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "CSX",
+    "open": 48.6300010681,
+    "high": 48.9199981689,
+    "low": 48.2700004578,
+    "close": 48.3699989319,
+    "volume": 7675710.0,
+    "wedge_status": "none"
   }
 ]

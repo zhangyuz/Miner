@@ -7498,5 +7498,15 @@
     "close": 27.75,
     "volume": 213945.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "EGBN",
+    "open": 27.4799995422,
+    "high": 27.5650005341,
+    "low": 27.2299995422,
+    "close": 27.3299999237,
+    "volume": 273236.0,
+    "wedge_status": "none"
   }
 ]

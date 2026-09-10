@@ -7498,5 +7498,15 @@
     "close": 39.7200012207,
     "volume": 60190.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "CENT",
+    "open": 39.6850013733,
+    "high": 39.9500007629,
+    "low": 39.5,
+    "close": 39.6599998474,
+    "volume": 70607.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 10.8999996185,
     "volume": 970725.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "BYND",
+    "open": 10.75,
+    "high": 10.8699998856,
+    "low": 10.4017000198,
+    "close": 10.4499998093,
+    "volume": 1128592.0,
+    "wedge_status": "none"
   }
 ]

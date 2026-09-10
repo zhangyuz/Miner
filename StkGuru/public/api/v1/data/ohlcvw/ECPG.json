@@ -7498,5 +7498,15 @@
     "close": 97.3300018311,
     "volume": 301955.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "ECPG",
+    "open": 97.0,
+    "high": 98.3850021362,
+    "low": 95.4599990845,
+    "close": 97.9400024414,
+    "volume": 298447.0,
+    "wedge_status": "none"
   }
 ]

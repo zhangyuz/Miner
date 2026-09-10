@@ -7498,5 +7498,15 @@
     "close": 15.75,
     "volume": 103044.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "USAU",
+    "open": 15.5100002289,
+    "high": 15.5249996185,
+    "low": 15.0600004196,
+    "close": 15.0699996948,
+    "volume": 110448.0,
+    "wedge_status": "none"
   }
 ]

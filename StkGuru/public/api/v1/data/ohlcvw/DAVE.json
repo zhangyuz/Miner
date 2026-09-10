@@ -7498,5 +7498,15 @@
     "close": 361.875,
     "volume": 200758.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "DAVE",
+    "open": 357.5,
+    "high": 363.7650146484,
+    "low": 353.3099975586,
+    "close": 358.3599853516,
+    "volume": 191231.0,
+    "wedge_status": "none"
   }
 ]

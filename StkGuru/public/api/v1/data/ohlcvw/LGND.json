@@ -7498,5 +7498,15 @@
     "close": 288.049987793,
     "volume": 309961.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "LGND",
+    "open": 285.0,
+    "high": 291.2600097656,
+    "low": 283.3500061035,
+    "close": 289.25,
+    "volume": 146552.0,
+    "wedge_status": "none"
   }
 ]

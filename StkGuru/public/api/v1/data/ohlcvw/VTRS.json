@@ -7498,5 +7498,15 @@
     "close": 16.5,
     "volume": 6503432.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "VTRS",
+    "open": 16.5,
+    "high": 16.5100002289,
+    "low": 16.1499996185,
+    "close": 16.3799991608,
+    "volume": 9005878.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 23.8999996185,
     "volume": 1864.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "UNB",
+    "open": 23.8250007629,
+    "high": 23.8250007629,
+    "low": 23.75,
+    "close": 23.75,
+    "volume": 1924.0,
+    "wedge_status": "none"
   }
 ]

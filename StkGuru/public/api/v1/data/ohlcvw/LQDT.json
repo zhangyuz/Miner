@@ -7498,5 +7498,15 @@
     "close": 41.4900016785,
     "volume": 145176.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "LQDT",
+    "open": 42.0,
+    "high": 42.7000007629,
+    "low": 41.9900016785,
+    "close": 42.4900016785,
+    "volume": 111510.0,
+    "wedge_status": "pop"
   }
 ]

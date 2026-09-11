@@ -7498,5 +7498,15 @@
     "close": 35.3699989319,
     "volume": 50822.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "MCBS",
+    "open": 35.6899986267,
+    "high": 35.6899986267,
+    "low": 35.2599983215,
+    "close": 35.5,
+    "volume": 50503.0,
+    "wedge_status": "none"
   }
 ]

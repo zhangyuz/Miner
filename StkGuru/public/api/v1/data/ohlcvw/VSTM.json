@@ -7498,5 +7498,15 @@
     "close": 7.6199998856,
     "volume": 2669900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "VSTM",
+    "open": 7.75,
+    "high": 7.7880001068,
+    "low": 7.3150000572,
+    "close": 7.3200001717,
+    "volume": 1912809.0,
+    "wedge_status": "drop"
   }
 ]

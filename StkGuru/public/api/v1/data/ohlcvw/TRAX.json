@@ -658,5 +658,35 @@
     "close": 36.4399986267,
     "volume": 619864.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "TRAX",
+    "open": 36.1699981689,
+    "high": 38.5,
+    "low": 36.1699981689,
+    "close": 37.5699996948,
+    "volume": 442600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "TRAX",
+    "open": 37.2200012207,
+    "high": 39.0200004578,
+    "low": 35.9799995422,
+    "close": 38.4700012207,
+    "volume": 526000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "TRAX",
+    "open": 40.25,
+    "high": 40.8899993896,
+    "low": 38.5699996948,
+    "close": 39.0,
+    "volume": 637200.0,
+    "wedge_status": "none"
   }
 ]

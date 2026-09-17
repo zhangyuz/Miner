@@ -7468,5 +7468,35 @@
     "close": 39.5600013733,
     "volume": 13349.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "ALCO",
+    "open": 39.5200004578,
+    "high": 39.75,
+    "low": 39.1500015259,
+    "close": 39.4599990845,
+    "volume": 13700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "ALCO",
+    "open": 39.5999984741,
+    "high": 39.8499984741,
+    "low": 39.1800003052,
+    "close": 39.7400016785,
+    "volume": 24600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "ALCO",
+    "open": 40.1599998474,
+    "high": 40.25,
+    "low": 39.0299987793,
+    "close": 39.4000015259,
+    "volume": 25800.0,
+    "wedge_status": "none"
   }
 ]

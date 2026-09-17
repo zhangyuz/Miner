@@ -7468,5 +7468,35 @@
     "close": 6.5650000572,
     "volume": 56360.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "KG",
+    "open": 6.5599999428,
+    "high": 6.8000001907,
+    "low": 6.2699999809,
+    "close": 6.2699999809,
+    "volume": 10500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "KG",
+    "open": 6.25,
+    "high": 6.4099998474,
+    "low": 6.0999999046,
+    "close": 6.0999999046,
+    "volume": 23000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "KG",
+    "open": 6.5,
+    "high": 6.5,
+    "low": 5.8600001335,
+    "close": 5.8699998856,
+    "volume": 30200.0,
+    "wedge_status": "none"
   }
 ]

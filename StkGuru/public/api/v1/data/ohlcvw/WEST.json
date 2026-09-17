@@ -7468,5 +7468,35 @@
     "close": 7.6999998093,
     "volume": 215977.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "WEST",
+    "open": 7.75,
+    "high": 7.9299998283,
+    "low": 7.75,
+    "close": 7.8400001526,
+    "volume": 242600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "WEST",
+    "open": 7.8400001526,
+    "high": 7.8600001335,
+    "low": 7.7100000381,
+    "close": 7.8400001526,
+    "volume": 191100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "WEST",
+    "open": 8.0100002289,
+    "high": 8.0100002289,
+    "low": 7.6799998283,
+    "close": 7.7699999809,
+    "volume": 188100.0,
+    "wedge_status": "none"
   }
 ]

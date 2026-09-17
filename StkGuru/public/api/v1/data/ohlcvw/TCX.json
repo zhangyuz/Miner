@@ -7468,5 +7468,35 @@
     "close": 10.8100004196,
     "volume": 37315.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "TCX",
+    "open": 10.7899999619,
+    "high": 10.9300003052,
+    "low": 10.3100004196,
+    "close": 10.4600000381,
+    "volume": 55500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "TCX",
+    "open": 10.4899997711,
+    "high": 10.5,
+    "low": 10.25,
+    "close": 10.3100004196,
+    "volume": 74700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "TCX",
+    "open": 10.3000001907,
+    "high": 10.5,
+    "low": 9.8199996948,
+    "close": 10.2100000381,
+    "volume": 77800.0,
+    "wedge_status": "none"
   }
 ]

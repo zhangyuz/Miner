@@ -4458,5 +4458,35 @@
     "close": 8.4899997711,
     "volume": 672051.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "BIOA",
+    "open": 8.5200004578,
+    "high": 8.6350002289,
+    "low": 8.3900003433,
+    "close": 8.4799995422,
+    "volume": 563400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "BIOA",
+    "open": 8.4799995422,
+    "high": 8.5,
+    "low": 8.0200004578,
+    "close": 8.1800003052,
+    "volume": 643500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "BIOA",
+    "open": 8.2100000381,
+    "high": 8.2749996185,
+    "low": 7.6199998856,
+    "close": 7.75,
+    "volume": 715800.0,
+    "wedge_status": "none"
   }
 ]

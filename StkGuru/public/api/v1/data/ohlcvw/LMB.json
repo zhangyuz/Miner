@@ -7468,5 +7468,35 @@
     "close": 50.5,
     "volume": 379018.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "LMB",
+    "open": 49.0499992371,
+    "high": 52.0,
+    "low": 48.75,
+    "close": 51.1800003052,
+    "volume": 500000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "LMB",
+    "open": 50.2099990845,
+    "high": 52.3600006104,
+    "low": 49.8199996948,
+    "close": 50.5200004578,
+    "volume": 493200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "LMB",
+    "open": 52.3800010681,
+    "high": 53.4199981689,
+    "low": 51.4700012207,
+    "close": 52.5600013733,
+    "volume": 453100.0,
+    "wedge_status": "none"
   }
 ]

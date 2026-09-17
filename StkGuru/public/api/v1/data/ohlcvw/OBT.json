@@ -7468,5 +7468,35 @@
     "close": 38.2799987793,
     "volume": 54326.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "OBT",
+    "open": 38.2999992371,
+    "high": 39.0,
+    "low": 38.0999984741,
+    "close": 38.3800010681,
+    "volume": 45200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "OBT",
+    "open": 38.4500007629,
+    "high": 38.8199996948,
+    "low": 38.0699996948,
+    "close": 38.7799987793,
+    "volume": 49000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "OBT",
+    "open": 38.75,
+    "high": 38.9399986267,
+    "low": 37.2400016785,
+    "close": 38.25,
+    "volume": 47500.0,
+    "wedge_status": "none"
   }
 ]

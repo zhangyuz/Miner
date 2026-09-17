@@ -7468,5 +7468,35 @@
     "close": 7.3000001907,
     "volume": 3637140.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "SHLS",
+    "open": 6.8299999237,
+    "high": 7.2600002289,
+    "low": 6.75,
+    "close": 7.0500001907,
+    "volume": 5601200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "SHLS",
+    "open": 7.0399999619,
+    "high": 7.2899999619,
+    "low": 7.0,
+    "close": 7.0599999428,
+    "volume": 3713800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "SHLS",
+    "open": 7.1700000763,
+    "high": 7.1700000763,
+    "low": 6.7100000381,
+    "close": 6.8200001717,
+    "volume": 3752200.0,
+    "wedge_status": "none"
   }
 ]

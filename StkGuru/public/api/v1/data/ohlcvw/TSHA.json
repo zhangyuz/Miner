@@ -7468,5 +7468,35 @@
     "close": 5.0199999809,
     "volume": 1777064.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "TSHA",
+    "open": 5.0,
+    "high": 5.1199998856,
+    "low": 4.9800000191,
+    "close": 5.0100002289,
+    "volume": 6695900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "TSHA",
+    "open": 5.0,
+    "high": 5.1900000572,
+    "low": 4.9000000954,
+    "close": 5.0599999428,
+    "volume": 5148800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "TSHA",
+    "open": 5.0799999237,
+    "high": 5.1350002289,
+    "low": 4.9749999046,
+    "close": 5.0700001717,
+    "volume": 4346900.0,
+    "wedge_status": "none"
   }
 ]

@@ -3398,5 +3398,35 @@
     "close": 4.0999999046,
     "volume": 42655.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "SNWV",
+    "open": 4.0700001717,
+    "high": 4.3499999046,
+    "low": 4.0700001717,
+    "close": 4.25,
+    "volume": 51000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "SNWV",
+    "open": 4.2800002098,
+    "high": 4.3280000687,
+    "low": 4.0700001717,
+    "close": 4.1100001335,
+    "volume": 82400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "SNWV",
+    "open": 4.1500000954,
+    "high": 4.3499999046,
+    "low": 4.0199999809,
+    "close": 4.2199997902,
+    "volume": 51500.0,
+    "wedge_status": "none"
   }
 ]

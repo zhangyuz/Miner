@@ -7468,5 +7468,35 @@
     "close": 2.5599999428,
     "volume": 323040.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "QTRX",
+    "open": 2.5,
+    "high": 2.6849999428,
+    "low": 2.3699998856,
+    "close": 2.5,
+    "volume": 6093200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "QTRX",
+    "open": 2.5,
+    "high": 2.7899999619,
+    "low": 2.4949998856,
+    "close": 2.7200000286,
+    "volume": 1595200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "QTRX",
+    "open": 2.7200000286,
+    "high": 2.9549999237,
+    "low": 2.6600000858,
+    "close": 2.9100000858,
+    "volume": 924900.0,
+    "wedge_status": "none"
   }
 ]

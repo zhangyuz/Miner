@@ -6898,5 +6898,35 @@
     "close": 6.1900000572,
     "volume": 217651.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "FBYD",
+    "open": 6.1599998474,
+    "high": 6.9299998283,
+    "low": 6.1599998474,
+    "close": 6.8600001335,
+    "volume": 161200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "FBYD",
+    "open": 6.8099999428,
+    "high": 7.0900001526,
+    "low": 6.6129999161,
+    "close": 6.9499998093,
+    "volume": 114700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "FBYD",
+    "open": 7.0,
+    "high": 7.5199999809,
+    "low": 6.8200001717,
+    "close": 7.0100002289,
+    "volume": 152700.0,
+    "wedge_status": "none"
   }
 ]

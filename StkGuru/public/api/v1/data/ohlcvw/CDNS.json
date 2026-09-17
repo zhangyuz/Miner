@@ -7478,5 +7478,35 @@
     "close": 289.3699951172,
     "volume": 2274131.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "CDNS",
+    "open": 288.0,
+    "high": 288.799987793,
+    "low": 278.1000061035,
+    "close": 279.0599975586,
+    "volume": 2337700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "CDNS",
+    "open": 277.3800048828,
+    "high": 279.0,
+    "low": 273.0700073242,
+    "close": 273.9599914551,
+    "volume": 2608500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "CDNS",
+    "open": 274.25,
+    "high": 282.0,
+    "low": 274.1600036621,
+    "close": 279.8999938965,
+    "volume": 2496300.0,
+    "wedge_status": "none"
   }
 ]

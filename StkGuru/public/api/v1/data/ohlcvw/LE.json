@@ -7468,5 +7468,35 @@
     "close": 10.3699998856,
     "volume": 128074.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "LE",
+    "open": 10.3999996185,
+    "high": 10.6149997711,
+    "low": 10.3400001526,
+    "close": 10.5,
+    "volume": 138700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "LE",
+    "open": 10.5,
+    "high": 10.5,
+    "low": 10.1890001297,
+    "close": 10.25,
+    "volume": 156100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "LE",
+    "open": 10.2600002289,
+    "high": 10.4460000992,
+    "low": 10.2399997711,
+    "close": 10.2899999619,
+    "volume": 170000.0,
+    "wedge_status": "none"
   }
 ]

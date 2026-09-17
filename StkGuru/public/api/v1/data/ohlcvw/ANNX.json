@@ -7468,5 +7468,35 @@
     "close": 3.9400000572,
     "volume": 3935106.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "ANNX",
+    "open": 3.9700000286,
+    "high": 4.0349998474,
+    "low": 3.8800001144,
+    "close": 3.9500000477,
+    "volume": 2896000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "ANNX",
+    "open": 3.9300000668,
+    "high": 3.9749999046,
+    "low": 3.7899999619,
+    "close": 3.9200000763,
+    "volume": 2960600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "ANNX",
+    "open": 3.9100000858,
+    "high": 4.0,
+    "low": 3.875,
+    "close": 3.9300000668,
+    "volume": 4513900.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,35 @@
     "close": 63.5400009155,
     "volume": 24091.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "FRAF",
+    "open": 63.7200012207,
+    "high": 64.1200027466,
+    "low": 62.6599998474,
+    "close": 63.2599983215,
+    "volume": 21800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "FRAF",
+    "open": 63.25,
+    "high": 64.3499984741,
+    "low": 62.7099990845,
+    "close": 64.2600021362,
+    "volume": 58700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "FRAF",
+    "open": 64.1299972534,
+    "high": 64.5,
+    "low": 62.2000007629,
+    "close": 63.5299987793,
+    "volume": 48600.0,
+    "wedge_status": "none"
   }
 ]

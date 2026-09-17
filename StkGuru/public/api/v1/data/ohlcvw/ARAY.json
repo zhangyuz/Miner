@@ -7468,5 +7468,35 @@
     "close": 0.2502000034,
     "volume": 693747.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "ARAY",
+    "open": 0.25,
+    "high": 0.2599999905,
+    "low": 0.2399999946,
+    "close": 0.25,
+    "volume": 319600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "ARAY",
+    "open": 0.2399999946,
+    "high": 0.25,
+    "low": 0.2300000042,
+    "close": 0.2300000042,
+    "volume": 431900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "ARAY",
+    "open": 0.2300000042,
+    "high": 0.25,
+    "low": 0.2199999988,
+    "close": 0.2300000042,
+    "volume": 544800.0,
+    "wedge_status": "none"
   }
 ]

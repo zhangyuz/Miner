@@ -7468,5 +7468,35 @@
     "close": 9.9499998093,
     "volume": 165407.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "SAMG",
+    "open": 10.029999733,
+    "high": 10.0600004196,
+    "low": 9.6599998474,
+    "close": 9.6599998474,
+    "volume": 174400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "SAMG",
+    "open": 9.6700000763,
+    "high": 9.779999733,
+    "low": 9.5200004578,
+    "close": 9.75,
+    "volume": 92000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "SAMG",
+    "open": 9.75,
+    "high": 9.7700004578,
+    "low": 9.6300001144,
+    "close": 9.6999998093,
+    "volume": 120200.0,
+    "wedge_status": "none"
   }
 ]

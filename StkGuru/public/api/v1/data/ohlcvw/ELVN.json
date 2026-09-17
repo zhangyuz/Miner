@@ -7468,5 +7468,35 @@
     "close": 54.3199996948,
     "volume": 995807.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "ELVN",
+    "open": 55.0,
+    "high": 55.8300018311,
+    "low": 54.0050010681,
+    "close": 54.4300003052,
+    "volume": 858200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "ELVN",
+    "open": 54.3199996948,
+    "high": 54.5,
+    "low": 52.9799995422,
+    "close": 53.3600006104,
+    "volume": 867000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "ELVN",
+    "open": 53.7000007629,
+    "high": 54.125,
+    "low": 48.4199981689,
+    "close": 49.1199989319,
+    "volume": 2914700.0,
+    "wedge_status": "none"
   }
 ]

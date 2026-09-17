@@ -7468,5 +7468,35 @@
     "close": 23.6000003815,
     "volume": 1505040.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "FULT",
+    "open": 23.5900001526,
+    "high": 23.8999996185,
+    "low": 23.4899997711,
+    "close": 23.75,
+    "volume": 1679400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "FULT",
+    "open": 23.7399997711,
+    "high": 24.0,
+    "low": 23.6900005341,
+    "close": 23.75,
+    "volume": 1284100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "FULT",
+    "open": 23.6900005341,
+    "high": 23.7999992371,
+    "low": 23.0,
+    "close": 23.4599990845,
+    "volume": 2400600.0,
+    "wedge_status": "none"
   }
 ]

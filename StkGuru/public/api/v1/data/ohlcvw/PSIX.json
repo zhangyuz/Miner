@@ -7468,5 +7468,35 @@
     "close": 42.1100006104,
     "volume": 320080.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "PSIX",
+    "open": 39.5499992371,
+    "high": 40.5,
+    "low": 39.0800018311,
+    "close": 39.4599990845,
+    "volume": 236400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "PSIX",
+    "open": 40.0499992371,
+    "high": 40.5099983215,
+    "low": 39.0,
+    "close": 39.25,
+    "volume": 253900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "PSIX",
+    "open": 40.1300010681,
+    "high": 40.3499984741,
+    "low": 39.1100006104,
+    "close": 40.0900001526,
+    "volume": 279400.0,
+    "wedge_status": "none"
   }
 ]

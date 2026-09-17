@@ -7468,5 +7468,35 @@
     "close": 216.0,
     "volume": 472907.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "SANM",
+    "open": 206.5,
+    "high": 206.5,
+    "low": 195.8200073242,
+    "close": 196.0399932861,
+    "volume": 535900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "SANM",
+    "open": 198.3200073242,
+    "high": 201.0,
+    "low": 189.5800018311,
+    "close": 191.6100006104,
+    "volume": 422400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "SANM",
+    "open": 194.8399963379,
+    "high": 200.2100067139,
+    "low": 193.1999969482,
+    "close": 195.75,
+    "volume": 445900.0,
+    "wedge_status": "none"
   }
 ]

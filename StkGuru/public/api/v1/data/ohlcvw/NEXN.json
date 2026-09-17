@@ -7468,5 +7468,35 @@
     "close": 9.1599998474,
     "volume": 301999.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "NEXN",
+    "open": 9.2700004578,
+    "high": 9.4300003052,
+    "low": 9.1700000763,
+    "close": 9.3599996567,
+    "volume": 741700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "NEXN",
+    "open": 9.3400001526,
+    "high": 9.3500003815,
+    "low": 9.0600004196,
+    "close": 9.25,
+    "volume": 556200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "NEXN",
+    "open": 9.2100000381,
+    "high": 9.279999733,
+    "low": 8.9899997711,
+    "close": 9.1400003433,
+    "volume": 378500.0,
+    "wedge_status": "none"
   }
 ]

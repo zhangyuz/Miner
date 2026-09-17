@@ -7468,5 +7468,35 @@
     "close": 10.0799999237,
     "volume": 87449.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "LAKE",
+    "open": 10.0,
+    "high": 10.4200000763,
+    "low": 10.0,
+    "close": 10.3800001144,
+    "volume": 49700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "LAKE",
+    "open": 10.2399997711,
+    "high": 10.4799995422,
+    "low": 10.0699996948,
+    "close": 10.4600000381,
+    "volume": 36700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "LAKE",
+    "open": 10.4499998093,
+    "high": 10.4899997711,
+    "low": 10.0500001907,
+    "close": 10.4099998474,
+    "volume": 35300.0,
+    "wedge_status": "none"
   }
 ]

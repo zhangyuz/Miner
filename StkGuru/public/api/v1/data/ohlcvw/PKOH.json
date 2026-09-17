@@ -7468,5 +7468,35 @@
     "close": 46.4500007629,
     "volume": 49105.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "PKOH",
+    "open": 45.6100006104,
+    "high": 45.8699989319,
+    "low": 44.7000007629,
+    "close": 44.9099998474,
+    "volume": 54500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "PKOH",
+    "open": 44.7000007629,
+    "high": 45.0200004578,
+    "low": 44.0,
+    "close": 45.0099983215,
+    "volume": 73800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "PKOH",
+    "open": 45.3100013733,
+    "high": 46.0,
+    "low": 44.5,
+    "close": 45.0699996948,
+    "volume": 56300.0,
+    "wedge_status": "none"
   }
 ]

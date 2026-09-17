@@ -7468,5 +7468,35 @@
     "close": 71.5299987793,
     "volume": 63540.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "BHRB",
+    "open": 71.7300033569,
+    "high": 72.4599990845,
+    "low": 71.2799987793,
+    "close": 71.5599975586,
+    "volume": 119400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "BHRB",
+    "open": 71.5,
+    "high": 72.8000030518,
+    "low": 71.25,
+    "close": 71.5100021362,
+    "volume": 98200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "BHRB",
+    "open": 71.6100006104,
+    "high": 71.9800033569,
+    "low": 70.1299972534,
+    "close": 70.5800018311,
+    "volume": 119800.0,
+    "wedge_status": "none"
   }
 ]

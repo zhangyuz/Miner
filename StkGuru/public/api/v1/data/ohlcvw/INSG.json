@@ -7468,5 +7468,35 @@
     "close": 4.4699997902,
     "volume": 276493.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 4.3499999046,
+    "high": 4.4899997711,
+    "low": 4.2800002098,
+    "close": 4.3499999046,
+    "volume": 170200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 4.3000001907,
+    "high": 4.3699998856,
+    "low": 4.0399999619,
+    "close": 4.1399998665,
+    "volume": 211400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 4.2100000381,
+    "high": 4.2199997902,
+    "low": 4.0,
+    "close": 4.1100001335,
+    "volume": 222000.0,
+    "wedge_status": "none"
   }
 ]

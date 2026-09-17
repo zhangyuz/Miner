@@ -7468,5 +7468,35 @@
     "close": 3.0,
     "volume": 820116.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "AIOT",
+    "open": 2.9800000191,
+    "high": 3.0899999142,
+    "low": 2.9800000191,
+    "close": 3.0499999523,
+    "volume": 1221900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "AIOT",
+    "open": 3.0,
+    "high": 3.0799999237,
+    "low": 2.9900000095,
+    "close": 3.0099999905,
+    "volume": 1065900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "AIOT",
+    "open": 3.0199999809,
+    "high": 3.0599999428,
+    "low": 2.9900000095,
+    "close": 3.0299999714,
+    "volume": 1113300.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,35 @@
     "close": 7.8400001526,
     "volume": 586488.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "EOLS",
+    "open": 7.9000000954,
+    "high": 8.25,
+    "low": 7.8699998856,
+    "close": 7.9299998283,
+    "volume": 515600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "EOLS",
+    "open": 7.8800001144,
+    "high": 7.9499998093,
+    "low": 7.5900001526,
+    "close": 7.9099998474,
+    "volume": 637900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "EOLS",
+    "open": 7.9299998283,
+    "high": 8.0900001526,
+    "low": 7.8200001717,
+    "close": 7.9899997711,
+    "volume": 683400.0,
+    "wedge_status": "none"
   }
 ]

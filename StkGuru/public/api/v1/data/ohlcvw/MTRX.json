@@ -7468,5 +7468,35 @@
     "close": 10.6099996567,
     "volume": 347251.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "MTRX",
+    "open": 10.4600000381,
+    "high": 10.6400003433,
+    "low": 9.9099998474,
+    "close": 10.0,
+    "volume": 540900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "MTRX",
+    "open": 10.0,
+    "high": 10.0600004196,
+    "low": 9.8299999237,
+    "close": 9.9200000763,
+    "volume": 419100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "MTRX",
+    "open": 9.9200000763,
+    "high": 10.0,
+    "low": 9.7100000381,
+    "close": 9.8999996185,
+    "volume": 615200.0,
+    "wedge_status": "none"
   }
 ]

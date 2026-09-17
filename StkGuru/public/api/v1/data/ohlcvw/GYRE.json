@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,14,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 7.8000001907,
-    "high": 8.3999996185,
-    "low": 7.8000001907,
-    "close": 8.3999996185,
-    "volume": 20267.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,15,00,00,00,000000",
-    "ticker": "GYRE",
-    "open": 8.3999996185,
-    "high": 8.3999996185,
-    "low": 8.25,
-    "close": 8.25,
-    "volume": 7787.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,18,00,00,00,000000",
     "ticker": "GYRE",
     "open": 8.25,

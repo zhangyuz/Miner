@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,14,00,00,00,000000",
-    "ticker": "SMTI",
-    "open": 35.4500007629,
-    "high": 36.8199996948,
-    "low": 34.0,
-    "close": 34.5800018311,
-    "volume": 27500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,15,00,00,00,000000",
-    "ticker": "SMTI",
-    "open": 34.5,
-    "high": 34.5,
-    "low": 33.0,
-    "close": 33.4000015259,
-    "volume": 27400.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,18,00,00,00,000000",
     "ticker": "SMTI",
     "open": 33.5299987793,

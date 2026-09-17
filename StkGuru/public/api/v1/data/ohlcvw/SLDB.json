@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,14,00,00,00,000000",
-    "ticker": "SLDB",
-    "open": 3.4000000954,
-    "high": 3.4140000343,
-    "low": 3.25,
-    "close": 3.2599999905,
-    "volume": 5600.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,15,00,00,00,000000",
-    "ticker": "SLDB",
-    "open": 3.25,
-    "high": 3.2630000114,
-    "low": 3.0,
-    "close": 3.1199998856,
-    "volume": 50900.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,18,00,00,00,000000",
     "ticker": "SLDB",
     "open": 3.0999999046,

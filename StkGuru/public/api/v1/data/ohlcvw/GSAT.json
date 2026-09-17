@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,14,00,00,00,000000",
-    "ticker": "GSAT",
-    "open": 21.2999992371,
-    "high": 22.2000007629,
-    "low": 20.7000007629,
-    "close": 21.0,
-    "volume": 340147.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,15,00,00,00,000000",
-    "ticker": "GSAT",
-    "open": 21.0,
-    "high": 21.4500007629,
-    "low": 20.25,
-    "close": 20.5499992371,
-    "volume": 453553.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,18,00,00,00,000000",
     "ticker": "GSAT",
     "open": 20.25,

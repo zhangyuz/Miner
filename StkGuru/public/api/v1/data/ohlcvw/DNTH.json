@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,14,00,00,00,000000",
-    "ticker": "DNTH",
-    "open": 12.25,
-    "high": 13.3900003433,
-    "low": 12.25,
-    "close": 12.8999996185,
-    "volume": 110100.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,15,00,00,00,000000",
-    "ticker": "DNTH",
-    "open": 12.0,
-    "high": 13.1999998093,
-    "low": 12.0,
-    "close": 13.0399999619,
-    "volume": 54500.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,18,00,00,00,000000",
     "ticker": "DNTH",
     "open": 12.75,

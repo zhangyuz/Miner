@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,14,00,00,00,000000",
-    "ticker": "BNED",
-    "open": 99.0,
-    "high": 106.0,
-    "low": 96.8000030518,
-    "close": 104.0,
-    "volume": 2183.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,15,00,00,00,000000",
-    "ticker": "BNED",
-    "open": 105.0,
-    "high": 105.0,
-    "low": 93.0,
-    "close": 94.0,
-    "volume": 4009.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,18,00,00,00,000000",
     "ticker": "BNED",
     "open": 100.0,

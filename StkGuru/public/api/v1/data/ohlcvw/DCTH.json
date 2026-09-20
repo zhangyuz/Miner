@@ -1,15 +1,5 @@
 [
   {
-    "trade_date": "2023,09,21,00,00,00,000000",
-    "ticker": "DCTH",
-    "open": 4.3499999046,
-    "high": 4.3499999046,
-    "low": 4.0999999046,
-    "close": 4.1599998474,
-    "volume": 397100.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,22,00,00,00,000000",
     "ticker": "DCTH",
     "open": 4.2100000381,
@@ -7478,5 +7468,25 @@
     "close": 16.2199993134,
     "volume": 463200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "DCTH",
+    "open": 16.4699993134,
+    "high": 16.5,
+    "low": 16.1200008392,
+    "close": 16.25,
+    "volume": 437200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "DCTH",
+    "open": 16.25,
+    "high": 16.2600002289,
+    "low": 16.0,
+    "close": 16.1100006104,
+    "volume": 703100.0,
+    "wedge_status": "drop"
   }
 ]

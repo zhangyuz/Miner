@@ -1,15 +1,5 @@
 [
   {
-    "trade_date": "2023,09,21,00,00,00,000000",
-    "ticker": "TNXP",
-    "open": 2752.0,
-    "high": 2752.0,
-    "low": 2464.0,
-    "close": 2560.0,
-    "volume": 105.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,22,00,00,00,000000",
     "ticker": "TNXP",
     "open": 2624.0,
@@ -7477,6 +7467,26 @@
     "low": 11.5200004578,
     "close": 11.7600002289,
     "volume": 273700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "TNXP",
+    "open": 12.0,
+    "high": 12.1400003433,
+    "low": 11.3199996948,
+    "close": 11.4200000763,
+    "volume": 388700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "TNXP",
+    "open": 11.4300003052,
+    "high": 11.470000267,
+    "low": 10.8000001907,
+    "close": 10.8699998856,
+    "volume": 808200.0,
     "wedge_status": "none"
   }
 ]

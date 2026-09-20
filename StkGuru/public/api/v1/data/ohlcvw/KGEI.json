@@ -1,15 +1,5 @@
 [
   {
-    "trade_date": "2023,09,21,00,00,00,000000",
-    "ticker": "KGEI",
-    "open": 4.25,
-    "high": 4.2800002098,
-    "low": 4.25,
-    "close": 4.25,
-    "volume": 2200.0,
-    "wedge_status": "drop"
-  },
-  {
     "trade_date": "2023,09,22,00,00,00,000000",
     "ticker": "KGEI",
     "open": 4.3299999237,
@@ -7477,6 +7467,26 @@
     "low": 6.6900000572,
     "close": 6.8499999046,
     "volume": 248800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "KGEI",
+    "open": 6.8299999237,
+    "high": 6.8299999237,
+    "low": 6.6100001335,
+    "close": 6.6999998093,
+    "volume": 152100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "KGEI",
+    "open": 6.75,
+    "high": 6.9000000954,
+    "low": 6.7100000381,
+    "close": 6.8200001717,
+    "volume": 206600.0,
     "wedge_status": "none"
   }
 ]

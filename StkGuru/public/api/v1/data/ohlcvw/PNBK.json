@@ -1,15 +1,5 @@
 [
   {
-    "trade_date": "2023,09,21,00,00,00,000000",
-    "ticker": "PNBK",
-    "open": 8.0,
-    "high": 8.0,
-    "low": 8.0,
-    "close": 8.0,
-    "volume": 300.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,22,00,00,00,000000",
     "ticker": "PNBK",
     "open": 7.6700000763,
@@ -7477,6 +7467,26 @@
     "low": 0.9200000167,
     "close": 0.9200000167,
     "volume": 220500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "PNBK",
+    "open": 0.9499999881,
+    "high": 0.9800000191,
+    "low": 0.9399999976,
+    "close": 0.9700000286,
+    "volume": 155400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "PNBK",
+    "open": 0.9900000095,
+    "high": 0.9900000095,
+    "low": 0.9300000072,
+    "close": 0.9700000286,
+    "volume": 299200.0,
     "wedge_status": "none"
   }
 ]

@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,19,00,00,00,000000",
-    "ticker": "ANGI",
-    "open": 21.6000003815,
-    "high": 22.8999996185,
-    "low": 21.6000003815,
-    "close": 22.5,
-    "volume": 41510.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,20,00,00,00,000000",
-    "ticker": "ANGI",
-    "open": 22.5,
-    "high": 22.8999996185,
-    "low": 21.5,
-    "close": 21.6000003815,
-    "volume": 41630.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,21,00,00,00,000000",
     "ticker": "ANGI",
     "open": 21.5,

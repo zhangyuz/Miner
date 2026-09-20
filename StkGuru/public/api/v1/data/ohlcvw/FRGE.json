@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,19,00,00,00,000000",
-    "ticker": "FRGE",
-    "open": 29.8500003815,
-    "high": 32.25,
-    "low": 29.8500003815,
-    "close": 32.25,
-    "volume": 21227.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,20,00,00,00,000000",
-    "ticker": "FRGE",
-    "open": 32.25,
-    "high": 33.0,
-    "low": 31.3500003815,
-    "close": 31.6499996185,
-    "volume": 14813.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,21,00,00,00,000000",
     "ticker": "FRGE",
     "open": 31.0499992371,

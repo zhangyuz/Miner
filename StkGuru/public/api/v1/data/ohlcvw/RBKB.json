@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,19,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 6.75,
-    "high": 6.75,
-    "low": 6.75,
-    "close": 6.75,
-    "volume": 200.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,20,00,00,00,000000",
-    "ticker": "RBKB",
-    "open": 6.8299999237,
-    "high": 6.8299999237,
-    "low": 6.8299999237,
-    "close": 6.8299999237,
-    "volume": 100.0,
-    "wedge_status": "pop"
-  },
-  {
     "trade_date": "2023,09,21,00,00,00,000000",
     "ticker": "RBKB",
     "open": 6.8260002136,

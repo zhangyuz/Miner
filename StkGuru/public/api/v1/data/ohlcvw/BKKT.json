@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,19,00,00,00,000000",
-    "ticker": "BKKT",
-    "open": 30.0,
-    "high": 30.75,
-    "low": 29.125,
-    "close": 30.0,
-    "volume": 54400.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,20,00,00,00,000000",
-    "ticker": "BKKT",
-    "open": 30.5,
-    "high": 31.0,
-    "low": 29.75,
-    "close": 30.0,
-    "volume": 20356.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,21,00,00,00,000000",
     "ticker": "BKKT",
     "open": 29.75,

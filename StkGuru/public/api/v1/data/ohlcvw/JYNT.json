@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,19,00,00,00,000000",
-    "ticker": "JYNT",
-    "open": 9.5,
-    "high": 10.0649995804,
-    "low": 9.3999996185,
-    "close": 9.6599998474,
-    "volume": 335700.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,20,00,00,00,000000",
-    "ticker": "JYNT",
-    "open": 9.6499996185,
-    "high": 9.75,
-    "low": 9.4549999237,
-    "close": 9.5,
-    "volume": 188000.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,21,00,00,00,000000",
     "ticker": "JYNT",
     "open": 9.3699998856,

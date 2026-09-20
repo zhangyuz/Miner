@@ -1,25 +1,5 @@
 [
   {
-    "trade_date": "2023,09,19,00,00,00,000000",
-    "ticker": "EPAM",
-    "open": 257.2600097656,
-    "high": 267.0599975586,
-    "low": 256.0,
-    "close": 263.1099853516,
-    "volume": 429500.0,
-    "wedge_status": "none"
-  },
-  {
-    "trade_date": "2023,09,20,00,00,00,000000",
-    "ticker": "EPAM",
-    "open": 264.75,
-    "high": 269.7799987793,
-    "low": 264.75,
-    "close": 267.0,
-    "volume": 438600.0,
-    "wedge_status": "none"
-  },
-  {
     "trade_date": "2023,09,21,00,00,00,000000",
     "ticker": "EPAM",
     "open": 263.0,

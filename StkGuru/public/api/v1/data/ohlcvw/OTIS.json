@@ -7488,5 +7488,15 @@
     "close": 68.5199966431,
     "volume": 12917800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "OTIS",
+    "open": 68.5,
+    "high": 68.5799026489,
+    "low": 66.5699996948,
+    "close": 66.6399993896,
+    "volume": 4659044.0,
+    "wedge_status": "none"
   }
 ]

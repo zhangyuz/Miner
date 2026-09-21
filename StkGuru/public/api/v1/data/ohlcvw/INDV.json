@@ -7478,5 +7478,15 @@
     "close": 34.8800010681,
     "volume": 4684200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "INDV",
+    "open": 35.0,
+    "high": 35.6300010681,
+    "low": 34.7799987793,
+    "close": 35.5299987793,
+    "volume": 1298959.0,
+    "wedge_status": "pop"
   }
 ]

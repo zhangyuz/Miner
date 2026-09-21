@@ -7478,5 +7478,15 @@
     "close": 0.4280000031,
     "volume": 856800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "PROP",
+    "open": 0.4250000119,
+    "high": 0.4386999905,
+    "low": 0.4115000069,
+    "close": 0.4117000103,
+    "volume": 633401.0,
+    "wedge_status": "none"
   }
 ]

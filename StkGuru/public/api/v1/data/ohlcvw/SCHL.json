@@ -7478,5 +7478,15 @@
     "close": 34.75,
     "volume": 1245300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "SCHL",
+    "open": 35.0999984741,
+    "high": 35.4399986267,
+    "low": 34.8699989319,
+    "close": 34.9099998474,
+    "volume": 438652.0,
+    "wedge_status": "none"
   }
 ]

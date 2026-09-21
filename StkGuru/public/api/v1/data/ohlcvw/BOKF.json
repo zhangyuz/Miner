@@ -7478,5 +7478,15 @@
     "close": 132.75,
     "volume": 724800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "BOKF",
+    "open": 133.0,
+    "high": 133.8300018311,
+    "low": 131.5,
+    "close": 133.1349945068,
+    "volume": 245789.0,
+    "wedge_status": "none"
   }
 ]

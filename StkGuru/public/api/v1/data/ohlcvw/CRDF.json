@@ -7478,5 +7478,15 @@
     "close": 1.3700000048,
     "volume": 737800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "CRDF",
+    "open": 1.3799999952,
+    "high": 1.4099999666,
+    "low": 1.3600000143,
+    "close": 1.3700000048,
+    "volume": 476009.0,
+    "wedge_status": "none"
   }
 ]

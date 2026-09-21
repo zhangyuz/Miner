@@ -2338,5 +2338,15 @@
     "close": 50.75,
     "volume": 6606900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "HTFL",
+    "open": 50.7000007629,
+    "high": 51.1300010681,
+    "low": 48.7000007629,
+    "close": 50.3300018311,
+    "volume": 1379585.0,
+    "wedge_status": "none"
   }
 ]

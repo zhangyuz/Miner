@@ -7488,5 +7488,15 @@
     "close": 181.2899932861,
     "volume": 11582300.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "ACN",
+    "open": 187.0,
+    "high": 193.75,
+    "low": 184.9850006104,
+    "close": 186.1100006104,
+    "volume": 6628559.0,
+    "wedge_status": "none"
   }
 ]

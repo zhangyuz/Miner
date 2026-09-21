@@ -7478,5 +7478,15 @@
     "close": 65.2300033569,
     "volume": 3317200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "ZION",
+    "open": 65.5,
+    "high": 65.5599975586,
+    "low": 64.3399963379,
+    "close": 64.9800033569,
+    "volume": 1929256.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 42.7799987793,
     "volume": 621967.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "SUPN",
+    "open": 43.0400009155,
+    "high": 44.25,
+    "low": 42.8199996948,
+    "close": 43.75,
+    "volume": 667584.0,
+    "wedge_status": "none"
   }
 ]

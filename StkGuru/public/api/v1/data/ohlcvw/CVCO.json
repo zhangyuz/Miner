@@ -7488,5 +7488,15 @@
     "close": 543.3900146484,
     "volume": 145532.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "CVCO",
+    "open": 547.25,
+    "high": 561.7399902344,
+    "low": 547.25,
+    "close": 558.3900146484,
+    "volume": 146404.0,
+    "wedge_status": "pop"
   }
 ]

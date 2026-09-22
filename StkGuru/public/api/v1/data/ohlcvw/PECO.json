@@ -7488,5 +7488,15 @@
     "close": 37.0,
     "volume": 1187837.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "PECO",
+    "open": 37.1899986267,
+    "high": 37.4249992371,
+    "low": 36.9199981689,
+    "close": 37.0900001526,
+    "volume": 926356.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 123.3000030518,
     "volume": 27461252.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "HOOD",
+    "open": 123.0,
+    "high": 126.1600036621,
+    "low": 122.4599990845,
+    "close": 124.25,
+    "volume": 15749829.0,
+    "wedge_status": "none"
   }
 ]

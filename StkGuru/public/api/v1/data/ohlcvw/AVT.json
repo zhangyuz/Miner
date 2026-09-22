@@ -7488,5 +7488,15 @@
     "close": 95.4800033569,
     "volume": 1305401.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "AVT",
+    "open": 95.3499984741,
+    "high": 98.3700027466,
+    "low": 95.3000030518,
+    "close": 98.25,
+    "volume": 910271.0,
+    "wedge_status": "none"
   }
 ]

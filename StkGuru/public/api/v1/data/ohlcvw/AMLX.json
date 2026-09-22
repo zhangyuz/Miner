@@ -7488,5 +7488,15 @@
     "close": 32.3899993896,
     "volume": 966456.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "AMLX",
+    "open": 32.5200004578,
+    "high": 33.1899986267,
+    "low": 32.25,
+    "close": 33.0,
+    "volume": 1357088.0,
+    "wedge_status": "none"
   }
 ]

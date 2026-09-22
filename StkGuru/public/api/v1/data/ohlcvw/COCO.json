@@ -7488,5 +7488,15 @@
     "close": 57.25,
     "volume": 1061287.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "COCO",
+    "open": 57.9700012207,
+    "high": 60.2200012207,
+    "low": 57.5299987793,
+    "close": 59.5999984741,
+    "volume": 1572251.0,
+    "wedge_status": "none"
   }
 ]

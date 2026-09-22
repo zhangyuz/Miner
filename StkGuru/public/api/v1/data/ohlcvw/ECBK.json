@@ -7488,5 +7488,15 @@
     "close": 21.1200008392,
     "volume": 6550.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "ECBK",
+    "open": 20.7399997711,
+    "high": 21.1000003815,
+    "low": 20.7399997711,
+    "close": 21.1000003815,
+    "volume": 6897.0,
+    "wedge_status": "none"
   }
 ]

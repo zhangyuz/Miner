@@ -7508,5 +7508,15 @@
     "close": 521.5,
     "volume": 457592.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "IDXX",
+    "open": 517.200012207,
+    "high": 523.2199707031,
+    "low": 516.8800048828,
+    "close": 522.0200195312,
+    "volume": 344326.0,
+    "wedge_status": "none"
   }
 ]

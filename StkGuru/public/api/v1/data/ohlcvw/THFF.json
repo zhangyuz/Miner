@@ -7498,5 +7498,15 @@
     "close": 75.7200012207,
     "volume": 100680.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "THFF",
+    "open": 75.0999984741,
+    "high": 75.5299987793,
+    "low": 74.3399963379,
+    "close": 74.5,
+    "volume": 108121.0,
+    "wedge_status": "none"
   }
 ]

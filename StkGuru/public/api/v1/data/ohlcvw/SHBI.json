@@ -7498,5 +7498,15 @@
     "close": 23.0,
     "volume": 208037.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "SHBI",
+    "open": 22.9400005341,
+    "high": 23.0499992371,
+    "low": 22.7299995422,
+    "close": 22.7399997711,
+    "volume": 147146.0,
+    "wedge_status": "none"
   }
 ]

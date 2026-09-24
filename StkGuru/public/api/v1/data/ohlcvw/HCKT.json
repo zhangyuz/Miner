@@ -7498,5 +7498,15 @@
     "close": 10.3500003815,
     "volume": 112418.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "HCKT",
+    "open": 10.5,
+    "high": 10.5200004578,
+    "low": 9.9300003052,
+    "close": 10.2100000381,
+    "volume": 183498.0,
+    "wedge_status": "none"
   }
 ]

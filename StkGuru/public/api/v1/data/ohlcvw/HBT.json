@@ -7498,5 +7498,15 @@
     "close": 35.1100006104,
     "volume": 131541.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "HBT",
+    "open": 35.5750007629,
+    "high": 35.8450012207,
+    "low": 35.1899986267,
+    "close": 35.75,
+    "volume": 109772.0,
+    "wedge_status": "none"
   }
 ]

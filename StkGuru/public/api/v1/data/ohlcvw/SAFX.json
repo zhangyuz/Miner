@@ -3868,5 +3868,15 @@
     "close": 0.4253000021,
     "volume": 3297759.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "SAFX",
+    "open": 0.4255999923,
+    "high": 0.4269999862,
+    "low": 0.400000006,
+    "close": 0.413199991,
+    "volume": 3453170.0,
+    "wedge_status": "none"
   }
 ]

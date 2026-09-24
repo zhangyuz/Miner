@@ -7498,5 +7498,15 @@
     "close": 0.5500000119,
     "volume": 362308.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "HAIN",
+    "open": 0.5479999781,
+    "high": 0.5550000072,
+    "low": 0.5199999809,
+    "close": 0.5199999809,
+    "volume": 1710550.0,
+    "wedge_status": "none"
   }
 ]

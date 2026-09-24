@@ -7498,5 +7498,15 @@
     "close": 3.7699999809,
     "volume": 349822.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "TTGT",
+    "open": 3.7699999809,
+    "high": 3.7899999619,
+    "low": 3.7000000477,
+    "close": 3.75,
+    "volume": 289825.0,
+    "wedge_status": "none"
   }
 ]

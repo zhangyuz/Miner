@@ -7508,5 +7508,15 @@
     "close": 63.1500015259,
     "volume": 3822025.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "CMS",
+    "open": 63.3300018311,
+    "high": 63.5,
+    "low": 62.7649993896,
+    "close": 62.7700004578,
+    "volume": 4992611.0,
+    "wedge_status": "none"
   }
 ]

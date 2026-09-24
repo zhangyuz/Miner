@@ -5308,5 +5308,15 @@
     "close": 40.75,
     "volume": 638425.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "LIF",
+    "open": 40.75,
+    "high": 41.7000007629,
+    "low": 40.5499992371,
+    "close": 41.2599983215,
+    "volume": 464968.0,
+    "wedge_status": "none"
   }
 ]

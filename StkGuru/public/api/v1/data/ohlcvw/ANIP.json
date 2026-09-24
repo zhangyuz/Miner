@@ -7498,5 +7498,15 @@
     "close": 74.4300003052,
     "volume": 433642.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "ANIP",
+    "open": 74.0,
+    "high": 75.3700027466,
+    "low": 73.6858978271,
+    "close": 74.0400009155,
+    "volume": 368801.0,
+    "wedge_status": "drop"
   }
 ]

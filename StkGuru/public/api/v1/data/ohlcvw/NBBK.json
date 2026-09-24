@@ -6398,5 +6398,15 @@
     "close": 22.3899993896,
     "volume": 223831.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "NBBK",
+    "open": 22.4699993134,
+    "high": 22.6650009155,
+    "low": 22.2399997711,
+    "close": 22.5,
+    "volume": 202007.0,
+    "wedge_status": "none"
   }
 ]

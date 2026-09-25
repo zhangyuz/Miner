@@ -7508,5 +7508,15 @@
     "close": 35.9900016785,
     "volume": 38011969.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "NKE",
+    "open": 35.25,
+    "high": 36.1800003052,
+    "low": 35.2159004211,
+    "close": 35.75,
+    "volume": 38051806.0,
+    "wedge_status": "none"
   }
 ]

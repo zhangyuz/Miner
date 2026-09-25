@@ -7498,5 +7498,15 @@
     "close": 0.881099999,
     "volume": 52483.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "NEON",
+    "open": 0.8986999989,
+    "high": 0.939899981,
+    "low": 0.8812000155,
+    "close": 0.9160000086,
+    "volume": 32128.0,
+    "wedge_status": "none"
   }
 ]

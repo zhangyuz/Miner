@@ -7498,5 +7498,15 @@
     "close": 10.8000001907,
     "volume": 11855606.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "IOVA",
+    "open": 10.8999996185,
+    "high": 11.1300001144,
+    "low": 10.6899995804,
+    "close": 11.0,
+    "volume": 12588209.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 39.2400016785,
     "volume": 287304.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "FSUN",
+    "open": 39.25,
+    "high": 39.875,
+    "low": 39.25,
+    "close": 39.7400016785,
+    "volume": 272874.0,
+    "wedge_status": "pop"
   }
 ]

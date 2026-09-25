@@ -7498,5 +7498,15 @@
     "close": 27.0599994659,
     "volume": 13139304.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "APLD",
+    "open": 27.2199993134,
+    "high": 27.4799995422,
+    "low": 25.9650001526,
+    "close": 26.25,
+    "volume": 13918828.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 83.9000015259,
     "volume": 622596.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "TMDX",
+    "open": 83.5,
+    "high": 85.6924972534,
+    "low": 81.8000030518,
+    "close": 85.2900009155,
+    "volume": 689335.0,
+    "wedge_status": "none"
   }
 ]

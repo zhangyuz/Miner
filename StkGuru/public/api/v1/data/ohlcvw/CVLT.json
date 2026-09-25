@@ -7498,5 +7498,15 @@
     "close": 150.0,
     "volume": 598252.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "CVLT",
+    "open": 150.1600036621,
+    "high": 150.9900054932,
+    "low": 145.1307067871,
+    "close": 145.5399932861,
+    "volume": 475838.0,
+    "wedge_status": "none"
   }
 ]

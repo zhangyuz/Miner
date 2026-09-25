@@ -7498,5 +7498,15 @@
     "close": 73.7300033569,
     "volume": 151080.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "CRVL",
+    "open": 73.7300033569,
+    "high": 75.0,
+    "low": 73.7300033569,
+    "close": 74.3300018311,
+    "volume": 213846.0,
+    "wedge_status": "none"
   }
 ]

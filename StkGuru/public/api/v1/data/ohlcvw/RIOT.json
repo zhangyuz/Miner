@@ -7498,5 +7498,15 @@
     "close": 23.4799995422,
     "volume": 21837550.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "RIOT",
+    "open": 23.4500007629,
+    "high": 23.6399993896,
+    "low": 22.3050003052,
+    "close": 23.0,
+    "volume": 16056071.0,
+    "wedge_status": "none"
   }
 ]

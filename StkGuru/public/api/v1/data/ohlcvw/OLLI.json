@@ -7498,5 +7498,15 @@
     "close": 84.4400024414,
     "volume": 2026540.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "OLLI",
+    "open": 84.5,
+    "high": 85.3700027466,
+    "low": 82.9000015259,
+    "close": 84.25,
+    "volume": 1840313.0,
+    "wedge_status": "none"
   }
 ]

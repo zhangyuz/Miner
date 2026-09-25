@@ -7508,5 +7508,15 @@
     "close": 60.8600006104,
     "volume": 5472245.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "MDLZ",
+    "open": 60.5999984741,
+    "high": 60.7000007629,
+    "low": 60.0,
+    "close": 60.25,
+    "volume": 5413642.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 2.5299999714,
     "volume": 693523.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "CVRX",
+    "open": 2.5599999428,
+    "high": 2.7000000477,
+    "low": 2.5099999905,
+    "close": 2.7000000477,
+    "volume": 461581.0,
+    "wedge_status": "none"
   }
 ]

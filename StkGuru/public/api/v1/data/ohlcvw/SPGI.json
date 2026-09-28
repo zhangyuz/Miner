@@ -7488,5 +7488,15 @@
     "close": 403.299987793,
     "volume": 1315326.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "SPGI",
+    "open": 400.0,
+    "high": 400.6499938965,
+    "low": 395.125,
+    "close": 395.9200134277,
+    "volume": 1698825.0,
+    "wedge_status": "none"
   }
 ]

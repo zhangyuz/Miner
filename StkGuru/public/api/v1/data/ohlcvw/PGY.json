@@ -7478,5 +7478,15 @@
     "close": 17.6200008392,
     "volume": 3386898.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "PGY",
+    "open": 17.1650009155,
+    "high": 17.2427005768,
+    "low": 16.5,
+    "close": 17.0,
+    "volume": 2762308.0,
+    "wedge_status": "none"
   }
 ]

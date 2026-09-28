@@ -7488,5 +7488,15 @@
     "close": 97.1399993896,
     "volume": 2675423.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "GDDY",
+    "open": 96.0,
+    "high": 96.125,
+    "low": 93.4800033569,
+    "close": 93.7099990845,
+    "volume": 2234587.0,
+    "wedge_status": "none"
   }
 ]

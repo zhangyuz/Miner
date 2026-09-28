@@ -7488,5 +7488,15 @@
     "close": 31.75,
     "volume": 697940.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "NWS",
+    "open": 31.7000007629,
+    "high": 32.2700004578,
+    "low": 31.1499996185,
+    "close": 32.2400016785,
+    "volume": 743691.0,
+    "wedge_status": "none"
   }
 ]

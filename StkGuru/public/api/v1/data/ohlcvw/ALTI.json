@@ -7478,5 +7478,15 @@
     "close": 3.1300001144,
     "volume": 89748.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "ALTI",
+    "open": 3.1099998951,
+    "high": 3.1150000095,
+    "low": 3.0499999523,
+    "close": 3.0899999142,
+    "volume": 71983.0,
+    "wedge_status": "none"
   }
 ]

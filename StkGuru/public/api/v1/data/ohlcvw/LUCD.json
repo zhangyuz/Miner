@@ -7478,5 +7478,15 @@
     "close": 0.8259999752,
     "volume": 1185848.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "LUCD",
+    "open": 0.8199999928,
+    "high": 0.8267999887,
+    "low": 0.8026000261,
+    "close": 0.8057000041,
+    "volume": 779865.0,
+    "wedge_status": "none"
   }
 ]

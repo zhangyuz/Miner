@@ -2158,5 +2158,15 @@
     "close": 52.5200004578,
     "volume": 720200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "LGN",
+    "open": 52.1199989319,
+    "high": 54.1100006104,
+    "low": 51.5,
+    "close": 53.4099998474,
+    "volume": 914338.0,
+    "wedge_status": "none"
   }
 ]

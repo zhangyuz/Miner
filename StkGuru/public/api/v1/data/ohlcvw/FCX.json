@@ -7488,5 +7488,15 @@
     "close": 72.3099975586,
     "volume": 7361638.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "FCX",
+    "open": 69.7549972534,
+    "high": 72.5,
+    "low": 69.4615020752,
+    "close": 71.9599990845,
+    "volume": 8604527.0,
+    "wedge_status": "drop"
   }
 ]

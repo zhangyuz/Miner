@@ -7478,5 +7478,15 @@
     "close": 345.8200073242,
     "volume": 199918.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "KRYS",
+    "open": 345.8200073242,
+    "high": 350.0,
+    "low": 334.0100097656,
+    "close": 337.0799865723,
+    "volume": 298925.0,
+    "wedge_status": "drop"
   }
 ]

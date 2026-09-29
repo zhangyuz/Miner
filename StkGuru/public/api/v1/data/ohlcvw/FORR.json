@@ -7488,5 +7488,15 @@
     "close": 11.3299999237,
     "volume": 98955.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "FORR",
+    "open": 11.3500003815,
+    "high": 11.75,
+    "low": 11.3500003815,
+    "close": 11.5900001526,
+    "volume": 111337.0,
+    "wedge_status": "none"
   }
 ]

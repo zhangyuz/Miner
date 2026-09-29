@@ -7498,5 +7498,15 @@
     "close": 354.0,
     "volume": 858297.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "ROP",
+    "open": 348.6400146484,
+    "high": 352.25,
+    "low": 347.4450073242,
+    "close": 349.450012207,
+    "volume": 593916.0,
+    "wedge_status": "none"
   }
 ]

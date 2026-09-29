@@ -7488,5 +7488,15 @@
     "close": 24.2099990845,
     "volume": 251498.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "TREE",
+    "open": 24.2299995422,
+    "high": 24.4099998474,
+    "low": 23.75,
+    "close": 24.3500003815,
+    "volume": 375995.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 28.0,
     "volume": 6687945.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "CELH",
+    "open": 28.1100006104,
+    "high": 28.5354003906,
+    "low": 27.3400001526,
+    "close": 27.7099990845,
+    "volume": 6501258.0,
+    "wedge_status": "none"
   }
 ]

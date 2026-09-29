@@ -7488,5 +7488,15 @@
     "close": 78.0199966431,
     "volume": 146680.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "SYBT",
+    "open": 77.8600006104,
+    "high": 78.4499969482,
+    "low": 75.9400024414,
+    "close": 77.25,
+    "volume": 111243.0,
+    "wedge_status": "none"
   }
 ]

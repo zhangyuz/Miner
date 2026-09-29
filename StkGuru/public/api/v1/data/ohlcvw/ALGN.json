@@ -7498,5 +7498,15 @@
     "close": 145.0,
     "volume": 868596.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "ALGN",
+    "open": 145.0,
+    "high": 145.5500030518,
+    "low": 142.2400054932,
+    "close": 144.0099945068,
+    "volume": 910388.0,
+    "wedge_status": "none"
   }
 ]

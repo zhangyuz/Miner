@@ -7498,5 +7498,15 @@
     "close": 128.5,
     "volume": 7158691.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "PEP",
+    "open": 126.5,
+    "high": 128.9400024414,
+    "low": 126.4199981689,
+    "close": 128.6900024414,
+    "volume": 8009827.0,
+    "wedge_status": "none"
   }
 ]

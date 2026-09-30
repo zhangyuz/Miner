@@ -7498,5 +7498,15 @@
     "close": 14.4399995804,
     "volume": 804924.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "QNST",
+    "open": 14.5,
+    "high": 15.2600002289,
+    "low": 14.4399995804,
+    "close": 15.0100002289,
+    "volume": 1421407.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 5.2800002098,
     "volume": 7413.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "KG",
+    "open": 5.25,
+    "high": 5.4400000572,
+    "low": 5.25,
+    "close": 5.3099999428,
+    "volume": 1256.0,
+    "wedge_status": "none"
   }
 ]

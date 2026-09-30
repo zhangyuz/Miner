@@ -7508,5 +7508,15 @@
     "close": 332.0799865723,
     "volume": 1068094.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "CB",
+    "open": 330.9200134277,
+    "high": 330.9859924316,
+    "low": 325.25,
+    "close": 325.25,
+    "volume": 1385621.0,
+    "wedge_status": "none"
   }
 ]

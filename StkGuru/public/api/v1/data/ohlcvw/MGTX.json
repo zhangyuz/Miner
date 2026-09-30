@@ -7498,5 +7498,15 @@
     "close": 11.1300001144,
     "volume": 875397.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "MGTX",
+    "open": 11.1899995804,
+    "high": 11.6000003815,
+    "low": 10.970000267,
+    "close": 11.0,
+    "volume": 1423789.0,
+    "wedge_status": "none"
   }
 ]

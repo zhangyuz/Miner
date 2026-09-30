@@ -7498,5 +7498,15 @@
     "close": 47.9399986267,
     "volume": 840925.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "IRDM",
+    "open": 48.0099983215,
+    "high": 48.75,
+    "low": 47.8800010681,
+    "close": 47.9000015259,
+    "volume": 830323.0,
+    "wedge_status": "drop"
   }
 ]

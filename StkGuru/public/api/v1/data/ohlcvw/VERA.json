@@ -7498,5 +7498,15 @@
     "close": 32.375,
     "volume": 1457444.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "VERA",
+    "open": 32.5699996948,
+    "high": 33.5999984741,
+    "low": 32.2000007629,
+    "close": 32.2900009155,
+    "volume": 1798814.0,
+    "wedge_status": "none"
   }
 ]

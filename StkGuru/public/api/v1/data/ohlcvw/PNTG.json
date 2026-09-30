@@ -7498,5 +7498,15 @@
     "close": 40.5,
     "volume": 216661.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "PNTG",
+    "open": 40.7700004578,
+    "high": 40.7700004578,
+    "low": 38.9000015259,
+    "close": 39.0,
+    "volume": 248726.0,
+    "wedge_status": "drop"
   }
 ]

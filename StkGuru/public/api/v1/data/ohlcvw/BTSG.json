@@ -6268,5 +6268,15 @@
     "close": 56.75,
     "volume": 2143928.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "BTSG",
+    "open": 56.5200004578,
+    "high": 57.3899002075,
+    "low": 55.9003982544,
+    "close": 57.2599983215,
+    "volume": 2880276.0,
+    "wedge_status": "none"
   }
 ]

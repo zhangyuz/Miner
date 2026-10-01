@@ -7498,5 +7498,15 @@
     "close": 43.4000015259,
     "volume": 1087024.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "STEP",
+    "open": 43.5,
+    "high": 46.0699996948,
+    "low": 43.5,
+    "close": 44.7099990845,
+    "volume": 1780339.0,
+    "wedge_status": "none"
   }
 ]

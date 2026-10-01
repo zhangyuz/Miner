@@ -7148,5 +7148,15 @@
     "close": 18.8500003815,
     "volume": 30723.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "SRBK",
+    "open": 18.8299999237,
+    "high": 18.8299999237,
+    "low": 18.3400001526,
+    "close": 18.75,
+    "volume": 22807.0,
+    "wedge_status": "none"
   }
 ]

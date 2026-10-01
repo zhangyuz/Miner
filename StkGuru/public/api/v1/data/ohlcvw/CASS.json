@@ -7498,5 +7498,15 @@
     "close": 53.25,
     "volume": 85785.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "CASS",
+    "open": 53.2849998474,
+    "high": 53.8199996948,
+    "low": 52.75,
+    "close": 53.7000007629,
+    "volume": 89453.0,
+    "wedge_status": "none"
   }
 ]

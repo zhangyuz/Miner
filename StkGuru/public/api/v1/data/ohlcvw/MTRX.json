@@ -7498,5 +7498,15 @@
     "close": 9.5699996948,
     "volume": 651747.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "MTRX",
+    "open": 9.5500001907,
+    "high": 10.470000267,
+    "low": 9.5500001907,
+    "close": 10.4600000381,
+    "volume": 815314.0,
+    "wedge_status": "none"
   }
 ]

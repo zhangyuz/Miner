@@ -7508,5 +7508,15 @@
     "close": 516.5700073242,
     "volume": 1080020.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "CMI",
+    "open": 515.0,
+    "high": 525.6199951172,
+    "low": 507.2399902344,
+    "close": 517.0,
+    "volume": 1644327.0,
+    "wedge_status": "none"
   }
 ]

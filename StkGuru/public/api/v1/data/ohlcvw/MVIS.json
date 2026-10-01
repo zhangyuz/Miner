@@ -7498,5 +7498,15 @@
     "close": 1.5,
     "volume": 799446.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "MVIS",
+    "open": 1.5,
+    "high": 1.5199999809,
+    "low": 1.4299999475,
+    "close": 1.5,
+    "volume": 797858.0,
+    "wedge_status": "none"
   }
 ]

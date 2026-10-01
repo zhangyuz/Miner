@@ -7508,5 +7508,15 @@
     "close": 190.4600067139,
     "volume": 1984665.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "WDAY",
+    "open": 195.3000030518,
+    "high": 195.75,
+    "low": 183.0899963379,
+    "close": 186.75,
+    "volume": 2380884.0,
+    "wedge_status": "drop"
   }
 ]

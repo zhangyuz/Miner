@@ -7498,5 +7498,15 @@
     "close": 9.4499998093,
     "volume": 43930.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "TCX",
+    "open": 9.7700004578,
+    "high": 9.7700004578,
+    "low": 9.1800003052,
+    "close": 9.4799995422,
+    "volume": 20768.0,
+    "wedge_status": "none"
   }
 ]

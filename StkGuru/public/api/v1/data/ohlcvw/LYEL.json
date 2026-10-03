@@ -1,0 +1,7522 @@
+[
+  {
+    "trade_date": "2023,10,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 28.3999996185,
+    "high": 28.5,
+    "low": 26.6000003815,
+    "close": 27.7999992371,
+    "volume": 35970.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.6000003815,
+    "high": 30.2000007629,
+    "low": 27.2000007629,
+    "close": 29.7999992371,
+    "volume": 41405.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.3999996185,
+    "high": 32.7999992371,
+    "low": 27.2000007629,
+    "close": 28.6000003815,
+    "volume": 25280.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.7999992371,
+    "high": 28.0,
+    "low": 26.3999996185,
+    "close": 27.7999992371,
+    "volume": 30795.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.7999992371,
+    "high": 31.2000007629,
+    "low": 26.5200004578,
+    "close": 30.3999996185,
+    "volume": 27460.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 30.3999996185,
+    "high": 32.4000015259,
+    "low": 30.3999996185,
+    "close": 31.3999996185,
+    "volume": 28840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.6000003815,
+    "high": 31.6000003815,
+    "low": 29.7999992371,
+    "close": 31.2000007629,
+    "volume": 58505.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.3999996185,
+    "high": 33.5999984741,
+    "low": 30.6000003815,
+    "close": 32.7999992371,
+    "volume": 35405.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,10,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.7999992371,
+    "high": 33.4000015259,
+    "low": 31.0,
+    "close": 32.2000007629,
+    "volume": 30185.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.0,
+    "high": 33.4000015259,
+    "low": 31.6000003815,
+    "close": 31.6000003815,
+    "volume": 31350.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.0,
+    "high": 32.2000007629,
+    "low": 30.2000007629,
+    "close": 31.6000003815,
+    "volume": 33135.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.0,
+    "high": 32.7999992371,
+    "low": 31.0,
+    "close": 31.6000003815,
+    "volume": 30440.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.7999992371,
+    "high": 32.5999984741,
+    "low": 30.1000003815,
+    "close": 31.0,
+    "volume": 54205.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 30.3999996185,
+    "high": 32.5,
+    "low": 30.0,
+    "close": 31.2000007629,
+    "volume": 53085.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.2000007629,
+    "high": 32.9000015259,
+    "low": 31.2000007629,
+    "close": 32.4000015259,
+    "volume": 26485.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,10,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.4000015259,
+    "high": 32.7999992371,
+    "low": 31.1000003815,
+    "close": 31.2000007629,
+    "volume": 28745.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.6000003815,
+    "high": 33.2000007629,
+    "low": 30.6000003815,
+    "close": 32.5999984741,
+    "volume": 28295.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,10,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.0,
+    "high": 33.0,
+    "low": 31.2999992371,
+    "close": 31.3999996185,
+    "volume": 37445.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.2000007629,
+    "high": 36.5999984741,
+    "low": 31.3999996185,
+    "close": 35.7999992371,
+    "volume": 28380.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 34.4000015259,
+    "high": 34.4000015259,
+    "low": 32.0999984741,
+    "close": 33.0999984741,
+    "volume": 24585.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.2000007629,
+    "high": 33.4000015259,
+    "low": 30.3999996185,
+    "close": 33.4000015259,
+    "volume": 34900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 34.4000015259,
+    "high": 40.4000015259,
+    "low": 32.0,
+    "close": 40.0,
+    "volume": 73680.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.5999984741,
+    "high": 43.2000007629,
+    "low": 39.7000007629,
+    "close": 42.7999992371,
+    "volume": 58505.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.7999992371,
+    "high": 45.2799987793,
+    "low": 42.0,
+    "close": 44.0,
+    "volume": 70310.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 44.0,
+    "high": 45.4000015259,
+    "low": 42.7999992371,
+    "close": 45.0,
+    "volume": 51990.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 44.5999984741,
+    "high": 49.0,
+    "low": 43.5,
+    "close": 47.0,
+    "volume": 81560.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 47.0,
+    "high": 48.4000015259,
+    "low": 40.7999992371,
+    "close": 43.7999992371,
+    "volume": 92265.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.2000007629,
+    "high": 43.2000007629,
+    "low": 31.7999992371,
+    "close": 33.0999984741,
+    "volume": 73900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,11,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.2000007629,
+    "high": 33.2999992371,
+    "low": 30.7999992371,
+    "close": 31.0,
+    "volume": 45390.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.4000015259,
+    "high": 39.5999984741,
+    "low": 31.3999996185,
+    "close": 38.0,
+    "volume": 110770.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.0,
+    "high": 43.2999992371,
+    "low": 36.4000015259,
+    "close": 41.0,
+    "volume": 72790.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.4000015259,
+    "high": 40.4000015259,
+    "low": 36.9000015259,
+    "close": 37.4000015259,
+    "volume": 52455.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 37.7999992371,
+    "high": 40.5999984741,
+    "low": 37.2000007629,
+    "close": 38.7999992371,
+    "volume": 46215.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.2000007629,
+    "high": 43.0999984741,
+    "low": 37.2000007629,
+    "close": 38.7999992371,
+    "volume": 42145.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 37.7999992371,
+    "high": 44.5999984741,
+    "low": 34.7999992371,
+    "close": 35.2999992371,
+    "volume": 48395.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,11,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 36.2000007629,
+    "high": 38.5800018311,
+    "low": 34.4000015259,
+    "close": 34.5999984741,
+    "volume": 38295.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.5999984741,
+    "high": 37.5999984741,
+    "low": 32.7999992371,
+    "close": 33.5999984741,
+    "volume": 49160.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 34.0,
+    "high": 34.2000007629,
+    "low": 30.5,
+    "close": 31.3999996185,
+    "volume": 63975.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.2000007629,
+    "high": 33.9000015259,
+    "low": 31.2000007629,
+    "close": 32.7999992371,
+    "volume": 33070.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.7999992371,
+    "high": 36.5,
+    "low": 32.7999992371,
+    "close": 33.4000015259,
+    "volume": 43305.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.4000015259,
+    "high": 34.7999992371,
+    "low": 33.2000007629,
+    "close": 34.5999984741,
+    "volume": 47110.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 34.5999984741,
+    "high": 38.4000015259,
+    "low": 33.7999992371,
+    "close": 38.2000007629,
+    "volume": 64380.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,12,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.4000015259,
+    "high": 42.5,
+    "low": 37.5,
+    "close": 38.0,
+    "volume": 64625.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 37.5999984741,
+    "high": 38.7999992371,
+    "low": 36.2000007629,
+    "close": 38.2000007629,
+    "volume": 40255.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 39.5999984741,
+    "high": 39.9000015259,
+    "low": 36.7999992371,
+    "close": 37.5999984741,
+    "volume": 51340.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 37.5999984741,
+    "high": 39.2000007629,
+    "low": 36.2000007629,
+    "close": 38.7999992371,
+    "volume": 38820.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.0,
+    "high": 40.5,
+    "low": 36.7999992371,
+    "close": 38.4000015259,
+    "volume": 43915.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 37.7999992371,
+    "high": 39.2000007629,
+    "low": 36.4000015259,
+    "close": 38.7999992371,
+    "volume": 63200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 39.2000007629,
+    "high": 39.2000007629,
+    "low": 36.4000015259,
+    "close": 39.2000007629,
+    "volume": 55185.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 39.4000015259,
+    "high": 42.0,
+    "low": 36.7000007629,
+    "close": 41.5999984741,
+    "volume": 126215.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.0,
+    "high": 46.5999984741,
+    "low": 40.0,
+    "close": 40.4000015259,
+    "volume": 171255.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.0,
+    "high": 42.3800010681,
+    "low": 37.9000015259,
+    "close": 38.4000015259,
+    "volume": 438565.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.5999984741,
+    "high": 40.5999984741,
+    "low": 36.5999984741,
+    "close": 39.0,
+    "volume": 92050.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.4000015259,
+    "high": 43.2000007629,
+    "low": 39.4000015259,
+    "close": 41.2000007629,
+    "volume": 106905.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.0,
+    "high": 42.0,
+    "low": 39.2999992371,
+    "close": 39.5999984741,
+    "volume": 50065.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.7999992371,
+    "high": 42.0,
+    "low": 39.4000015259,
+    "close": 40.0,
+    "volume": 36210.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.7999992371,
+    "high": 43.7999992371,
+    "low": 40.5999984741,
+    "close": 42.4000015259,
+    "volume": 40125.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.2000007629,
+    "high": 45.0,
+    "low": 42.2000007629,
+    "close": 42.5999984741,
+    "volume": 32030.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.0,
+    "high": 43.2000007629,
+    "low": 40.7999992371,
+    "close": 42.2000007629,
+    "volume": 33745.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.7999992371,
+    "high": 43.5999984741,
+    "low": 41.5999984741,
+    "close": 42.2000007629,
+    "volume": 59990.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.7999992371,
+    "high": 42.2000007629,
+    "low": 38.0999984741,
+    "close": 38.7999992371,
+    "volume": 95030.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,01,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.7999992371,
+    "high": 46.2000007629,
+    "low": 38.0200004578,
+    "close": 42.2000007629,
+    "volume": 83555.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.4000015259,
+    "high": 43.4000015259,
+    "low": 39.2000007629,
+    "close": 39.7999992371,
+    "volume": 49415.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,01,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.2000007629,
+    "high": 41.9799995422,
+    "low": 39.2999992371,
+    "close": 39.7999992371,
+    "volume": 37840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.0,
+    "high": 42.0,
+    "low": 38.2999992371,
+    "close": 40.7999992371,
+    "volume": 107185.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.7999992371,
+    "high": 44.0999984741,
+    "low": 40.2000007629,
+    "close": 42.4000015259,
+    "volume": 90180.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.7999992371,
+    "high": 42.7000007629,
+    "low": 40.5999984741,
+    "close": 41.4000015259,
+    "volume": 70650.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.2000007629,
+    "high": 43.7999992371,
+    "low": 41.0,
+    "close": 42.0,
+    "volume": 62410.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 44.5999984741,
+    "high": 46.4000015259,
+    "low": 42.9000015259,
+    "close": 44.0,
+    "volume": 111880.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.0,
+    "high": 46.7999992371,
+    "low": 43.4000015259,
+    "close": 44.4000015259,
+    "volume": 93625.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 44.4000015259,
+    "high": 45.5999984741,
+    "low": 41.4000015259,
+    "close": 42.2000007629,
+    "volume": 65005.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.4000015259,
+    "high": 42.7000007629,
+    "low": 39.5999984741,
+    "close": 40.0,
+    "volume": 42010.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,01,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 39.7999992371,
+    "high": 40.7999992371,
+    "low": 37.7999992371,
+    "close": 39.4000015259,
+    "volume": 60595.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.0,
+    "high": 40.2999992371,
+    "low": 36.2000007629,
+    "close": 38.0,
+    "volume": 47440.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 37.0,
+    "high": 41.5999984741,
+    "low": 37.0,
+    "close": 40.7999992371,
+    "volume": 57840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.0,
+    "high": 43.0999984741,
+    "low": 41.0,
+    "close": 42.0,
+    "volume": 55110.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.2000007629,
+    "high": 44.4000015259,
+    "low": 41.2000007629,
+    "close": 41.5999984741,
+    "volume": 40365.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.0,
+    "high": 43.7000007629,
+    "low": 41.5999984741,
+    "close": 41.7999992371,
+    "volume": 41880.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.4000015259,
+    "high": 43.7999992371,
+    "low": 41.0,
+    "close": 41.5999984741,
+    "volume": 39035.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.4000015259,
+    "high": 42.4000015259,
+    "low": 39.2999992371,
+    "close": 42.0,
+    "volume": 40285.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.2000007629,
+    "high": 41.2000007629,
+    "low": 38.2000007629,
+    "close": 38.4000015259,
+    "volume": 42995.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.2000007629,
+    "high": 38.5,
+    "low": 36.5,
+    "close": 36.5999984741,
+    "volume": 45910.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 36.7999992371,
+    "high": 38.0,
+    "low": 35.7999992371,
+    "close": 37.0,
+    "volume": 43295.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 36.4000015259,
+    "high": 37.5,
+    "low": 35.4000015259,
+    "close": 35.7999992371,
+    "volume": 27775.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 35.5999984741,
+    "high": 36.0,
+    "low": 34.4000015259,
+    "close": 35.5999984741,
+    "volume": 32100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 35.7999992371,
+    "high": 37.7999992371,
+    "low": 35.4000015259,
+    "close": 37.4000015259,
+    "volume": 28180.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 37.4000015259,
+    "high": 37.4000015259,
+    "low": 35.0,
+    "close": 35.2000007629,
+    "volume": 34585.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 34.4000015259,
+    "high": 35.5,
+    "low": 34.0,
+    "close": 34.2000007629,
+    "volume": 58975.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 34.5999984741,
+    "high": 36.5999984741,
+    "low": 33.7999992371,
+    "close": 36.0,
+    "volume": 45055.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 36.4000015259,
+    "high": 38.9000015259,
+    "low": 36.2000007629,
+    "close": 38.5999984741,
+    "volume": 45800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 36.5999984741,
+    "high": 37.2000007629,
+    "low": 34.5999984741,
+    "close": 35.0999984741,
+    "volume": 41700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 35.2000007629,
+    "high": 36.7999992371,
+    "low": 34.5999984741,
+    "close": 35.5,
+    "volume": 29010.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 35.7999992371,
+    "high": 38.0,
+    "low": 35.4000015259,
+    "close": 38.0,
+    "volume": 37650.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.0,
+    "high": 38.7999992371,
+    "low": 37.1199989319,
+    "close": 37.2000007629,
+    "volume": 48625.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.2000007629,
+    "high": 42.4000015259,
+    "low": 37.5999984741,
+    "close": 42.4000015259,
+    "volume": 65745.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.0,
+    "high": 45.7999992371,
+    "low": 40.7999992371,
+    "close": 45.5999984741,
+    "volume": 65295.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 45.5999984741,
+    "high": 49.2999992371,
+    "low": 44.0,
+    "close": 48.7999992371,
+    "volume": 49780.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 48.4000015259,
+    "high": 49.5999984741,
+    "low": 47.0,
+    "close": 47.7999992371,
+    "volume": 34735.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 48.2000007629,
+    "high": 52.5999984741,
+    "low": 47.2000007629,
+    "close": 52.4000015259,
+    "volume": 64175.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 54.4000015259,
+    "high": 57.0,
+    "low": 51.5,
+    "close": 57.0,
+    "volume": 46870.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 57.4000015259,
+    "high": 58.7000007629,
+    "low": 55.0,
+    "close": 56.7999992371,
+    "volume": 51855.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 54.7999992371,
+    "high": 61.0,
+    "low": 53.0,
+    "close": 58.4000015259,
+    "volume": 51300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 59.0,
+    "high": 64.3000030518,
+    "low": 58.7999992371,
+    "close": 61.4000015259,
+    "volume": 53420.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 62.2000007629,
+    "high": 65.1200027466,
+    "low": 50.4000015259,
+    "close": 52.0999984741,
+    "volume": 42535.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 51.2000007629,
+    "high": 54.2000007629,
+    "low": 49.4000015259,
+    "close": 50.2000007629,
+    "volume": 35015.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 50.7999992371,
+    "high": 53.0,
+    "low": 49.5999984741,
+    "close": 52.7999992371,
+    "volume": 31630.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 53.2000007629,
+    "high": 53.7000007629,
+    "low": 50.2000007629,
+    "close": 50.4000015259,
+    "volume": 36945.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 51.7999992371,
+    "high": 53.2000007629,
+    "low": 48.5,
+    "close": 50.2000007629,
+    "volume": 33800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 50.4000015259,
+    "high": 51.5,
+    "low": 46.2000007629,
+    "close": 46.5999984741,
+    "volume": 37510.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,03,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.5999984741,
+    "high": 46.7999992371,
+    "low": 43.5999984741,
+    "close": 43.5999984741,
+    "volume": 38690.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 44.7999992371,
+    "high": 48.4000015259,
+    "low": 43.2000007629,
+    "close": 47.0,
+    "volume": 47385.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.7999992371,
+    "high": 46.7999992371,
+    "low": 44.0,
+    "close": 44.2000007629,
+    "volume": 51575.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 45.4000015259,
+    "high": 46.4000015259,
+    "low": 42.7999992371,
+    "close": 43.2000007629,
+    "volume": 76915.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.5999984741,
+    "high": 43.7999992371,
+    "low": 41.0,
+    "close": 41.5999984741,
+    "volume": 29650.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.4000015259,
+    "high": 42.9000015259,
+    "low": 36.7999992371,
+    "close": 39.7999992371,
+    "volume": 107010.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.4000015259,
+    "high": 41.5999984741,
+    "low": 38.2000007629,
+    "close": 40.7000007629,
+    "volume": 41855.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.2000007629,
+    "high": 42.0,
+    "low": 39.0,
+    "close": 40.7999992371,
+    "volume": 45555.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.4000015259,
+    "high": 40.5999984741,
+    "low": 38.2000007629,
+    "close": 38.4000015259,
+    "volume": 23850.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.0,
+    "high": 39.0999984741,
+    "low": 38.0,
+    "close": 38.4000015259,
+    "volume": 25600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.5999984741,
+    "high": 39.7999992371,
+    "low": 38.0,
+    "close": 38.7999992371,
+    "volume": 23305.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 39.5999984741,
+    "high": 41.0,
+    "low": 38.5999984741,
+    "close": 40.7999992371,
+    "volume": 30300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.7999992371,
+    "high": 45.2000007629,
+    "low": 40.2999992371,
+    "close": 44.5999984741,
+    "volume": 58870.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 45.4000015259,
+    "high": 45.5999984741,
+    "low": 41.4000015259,
+    "close": 43.5999984741,
+    "volume": 50265.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.7999992371,
+    "high": 42.7999992371,
+    "low": 40.7999992371,
+    "close": 41.5999984741,
+    "volume": 26325.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 40.7999992371,
+    "high": 42.0,
+    "low": 40.2999992371,
+    "close": 41.2000007629,
+    "volume": 24455.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.4000015259,
+    "high": 44.2000007629,
+    "low": 41.2000007629,
+    "close": 41.7999992371,
+    "volume": 31015.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.4000015259,
+    "high": 42.7999992371,
+    "low": 40.2000007629,
+    "close": 41.7999992371,
+    "volume": 17960.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.4000015259,
+    "high": 44.4000015259,
+    "low": 41.2000007629,
+    "close": 43.7999992371,
+    "volume": 24810.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,04,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 44.5999984741,
+    "high": 52.5,
+    "low": 43.7999992371,
+    "close": 50.4000015259,
+    "volume": 70185.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 49.5999984741,
+    "high": 49.5999984741,
+    "low": 46.4000015259,
+    "close": 49.0,
+    "volume": 58810.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 49.2000007629,
+    "high": 53.5999984741,
+    "low": 49.0,
+    "close": 53.2000007629,
+    "volume": 45180.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 59.4000015259,
+    "high": 62.9000015259,
+    "low": 56.4000015259,
+    "close": 60.2000007629,
+    "volume": 129485.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 56.7999992371,
+    "high": 57.7999992371,
+    "low": 47.0999984741,
+    "close": 48.0,
+    "volume": 99490.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.5999984741,
+    "high": 50.0,
+    "low": 45.4000015259,
+    "close": 48.2000007629,
+    "volume": 66770.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 48.0,
+    "high": 49.7999992371,
+    "low": 47.0,
+    "close": 47.5999984741,
+    "volume": 51580.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.5999984741,
+    "high": 48.2999992371,
+    "low": 45.2000007629,
+    "close": 46.5999984741,
+    "volume": 45330.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,04,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.2000007629,
+    "high": 47.5999984741,
+    "low": 43.0,
+    "close": 44.5999984741,
+    "volume": 54010.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 44.0,
+    "high": 48.4000015259,
+    "low": 43.8199996948,
+    "close": 48.2000007629,
+    "volume": 47935.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 47.2000007629,
+    "high": 51.0,
+    "low": 47.2000007629,
+    "close": 48.7999992371,
+    "volume": 34355.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 48.4000015259,
+    "high": 49.5999984741,
+    "low": 45.7999992371,
+    "close": 46.0,
+    "volume": 38765.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,04,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.0,
+    "high": 50.5800018311,
+    "low": 43.0,
+    "close": 44.0,
+    "volume": 27040.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.7999992371,
+    "high": 44.2000007629,
+    "low": 42.2000007629,
+    "close": 43.4000015259,
+    "volume": 17610.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.7999992371,
+    "high": 45.5,
+    "low": 43.7999992371,
+    "close": 45.0,
+    "volume": 20710.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 44.5999984741,
+    "high": 45.0999984741,
+    "low": 43.2000007629,
+    "close": 43.4000015259,
+    "volume": 28000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.5999984741,
+    "high": 47.5999984741,
+    "low": 42.7999992371,
+    "close": 46.5999984741,
+    "volume": 41260.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 47.5999984741,
+    "high": 48.7999992371,
+    "low": 46.2999992371,
+    "close": 48.0,
+    "volume": 39985.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 48.7999992371,
+    "high": 53.2000007629,
+    "low": 47.0,
+    "close": 47.2000007629,
+    "volume": 22330.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.7999992371,
+    "high": 50.7999992371,
+    "low": 46.7999992371,
+    "close": 50.7999992371,
+    "volume": 41725.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 49.2000007629,
+    "high": 51.0,
+    "low": 48.4000015259,
+    "close": 50.7999992371,
+    "volume": 46350.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 51.0,
+    "high": 51.5999984741,
+    "low": 49.4000015259,
+    "close": 50.0,
+    "volume": 41990.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 50.4000015259,
+    "high": 54.0,
+    "low": 49.9000015259,
+    "close": 53.5999984741,
+    "volume": 51550.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 51.2000007629,
+    "high": 54.2999992371,
+    "low": 48.9000015259,
+    "close": 49.2000007629,
+    "volume": 32565.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 49.2000007629,
+    "high": 50.4000015259,
+    "low": 47.9000015259,
+    "close": 48.0,
+    "volume": 29575.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 49.7999992371,
+    "high": 52.0,
+    "low": 48.2999992371,
+    "close": 50.7999992371,
+    "volume": 21750.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 52.5999984741,
+    "high": 54.4000015259,
+    "low": 50.0,
+    "close": 52.2000007629,
+    "volume": 24650.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 52.2000007629,
+    "high": 56.0,
+    "low": 51.0,
+    "close": 55.5999984741,
+    "volume": 32405.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 55.5999984741,
+    "high": 57.5,
+    "low": 54.0,
+    "close": 54.7999992371,
+    "volume": 53035.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 52.2000007629,
+    "high": 54.4000015259,
+    "low": 50.2000007629,
+    "close": 53.4000015259,
+    "volume": 44490.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 52.4000015259,
+    "high": 54.5999984741,
+    "low": 52.0999984741,
+    "close": 52.2000007629,
+    "volume": 39550.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 51.4000015259,
+    "high": 56.4000015259,
+    "low": 51.2000007629,
+    "close": 55.2000007629,
+    "volume": 44705.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 55.2000007629,
+    "high": 55.5999984741,
+    "low": 53.2000007629,
+    "close": 54.2000007629,
+    "volume": 40705.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 54.5999984741,
+    "high": 55.7000007629,
+    "low": 53.5999984741,
+    "close": 55.4000015259,
+    "volume": 29325.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 56.4000015259,
+    "high": 57.0,
+    "low": 54.0,
+    "close": 55.0,
+    "volume": 14795.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 53.7999992371,
+    "high": 54.0999984741,
+    "low": 50.2999992371,
+    "close": 51.2000007629,
+    "volume": 29935.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 52.2000007629,
+    "high": 54.2000007629,
+    "low": 51.2000007629,
+    "close": 53.2000007629,
+    "volume": 25125.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 53.4000015259,
+    "high": 55.4000015259,
+    "low": 53.0999984741,
+    "close": 55.4000015259,
+    "volume": 32465.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 56.0,
+    "high": 56.0,
+    "low": 52.2000007629,
+    "close": 52.7999992371,
+    "volume": 31210.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 52.2000007629,
+    "high": 53.2000007629,
+    "low": 48.7999992371,
+    "close": 49.7999992371,
+    "volume": 28075.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 49.7999992371,
+    "high": 53.9000015259,
+    "low": 49.0,
+    "close": 53.5999984741,
+    "volume": 29490.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 53.2000007629,
+    "high": 53.4000015259,
+    "low": 49.2000007629,
+    "close": 49.5999984741,
+    "volume": 13350.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 48.7999992371,
+    "high": 50.0999984741,
+    "low": 48.2000007629,
+    "close": 48.5999984741,
+    "volume": 13275.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 47.4000015259,
+    "high": 47.7999992371,
+    "low": 45.0,
+    "close": 47.2000007629,
+    "volume": 23330.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.5999984741,
+    "high": 50.2000007629,
+    "low": 45.9000015259,
+    "close": 50.2000007629,
+    "volume": 21670.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 52.2000007629,
+    "high": 53.5,
+    "low": 49.2000007629,
+    "close": 51.2000007629,
+    "volume": 28140.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 51.0,
+    "high": 53.2999992371,
+    "low": 50.0,
+    "close": 51.7999992371,
+    "volume": 186540.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 50.5999984741,
+    "high": 51.2000007629,
+    "low": 46.7000007629,
+    "close": 47.2000007629,
+    "volume": 24975.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,06,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 46.5999984741,
+    "high": 47.0,
+    "low": 42.4000015259,
+    "close": 43.4000015259,
+    "volume": 31055.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 43.4000015259,
+    "high": 44.7000007629,
+    "low": 41.7000007629,
+    "close": 42.0,
+    "volume": 19665.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.4000015259,
+    "high": 43.0999984741,
+    "low": 41.0,
+    "close": 41.5999984741,
+    "volume": 19230.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.7999992371,
+    "high": 42.7999992371,
+    "low": 40.5999984741,
+    "close": 41.0,
+    "volume": 97690.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 41.2000007629,
+    "high": 45.4199981689,
+    "low": 41.2000007629,
+    "close": 42.4000015259,
+    "volume": 20960.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 42.2000007629,
+    "high": 43.4000015259,
+    "low": 40.7000007629,
+    "close": 40.7999992371,
+    "volume": 21595.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.7999992371,
+    "high": 34.0,
+    "low": 25.0,
+    "close": 26.1000003815,
+    "volume": 593775.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 26.2000007629,
+    "high": 28.0,
+    "low": 23.6000003815,
+    "close": 27.6000003815,
+    "volume": 166465.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 28.2000007629,
+    "high": 29.2000007629,
+    "low": 25.6000003815,
+    "close": 29.0,
+    "volume": 173515.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 28.6000003815,
+    "high": 31.7999992371,
+    "low": 28.0,
+    "close": 31.6000003815,
+    "volume": 67780.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.0,
+    "high": 32.0,
+    "low": 28.3999996185,
+    "close": 30.2000007629,
+    "volume": 46790.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.6000003815,
+    "high": 30.6000003815,
+    "low": 28.1000003815,
+    "close": 30.2000007629,
+    "volume": 43790.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.7999992371,
+    "high": 30.3999996185,
+    "low": 28.2000007629,
+    "close": 29.0,
+    "volume": 33075.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.2000007629,
+    "high": 32.4000015259,
+    "low": 28.7999992371,
+    "close": 32.4000015259,
+    "volume": 40945.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.2000007629,
+    "high": 34.4000015259,
+    "low": 31.2000007629,
+    "close": 32.0,
+    "volume": 21765.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.4000015259,
+    "high": 33.0999984741,
+    "low": 31.2999992371,
+    "close": 31.6000003815,
+    "volume": 22065.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.6000003815,
+    "high": 34.7999992371,
+    "low": 31.6000003815,
+    "close": 34.0,
+    "volume": 36140.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 35.0,
+    "high": 35.2999992371,
+    "low": 33.0,
+    "close": 34.2000007629,
+    "volume": 24925.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 34.5999984741,
+    "high": 35.2000007629,
+    "low": 33.5999984741,
+    "close": 34.4000015259,
+    "volume": 28245.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 35.2000007629,
+    "high": 38.4000015259,
+    "low": 34.5999984741,
+    "close": 37.5999984741,
+    "volume": 85935.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,07,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 36.7999992371,
+    "high": 38.4000015259,
+    "low": 34.5,
+    "close": 35.2000007629,
+    "volume": 32625.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 34.5999984741,
+    "high": 35.7999992371,
+    "low": 32.5999984741,
+    "close": 32.5999984741,
+    "volume": 33850.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.0,
+    "high": 33.5,
+    "low": 30.7000007629,
+    "close": 31.2000007629,
+    "volume": 26645.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.2000007629,
+    "high": 32.5999984741,
+    "low": 30.2999992371,
+    "close": 32.5999984741,
+    "volume": 24080.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.0,
+    "high": 34.0,
+    "low": 31.6000003815,
+    "close": 33.7999992371,
+    "volume": 27715.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.5999984741,
+    "high": 34.2999992371,
+    "low": 32.0,
+    "close": 32.2000007629,
+    "volume": 24980.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.7999992371,
+    "high": 34.9000015259,
+    "low": 31.3999996185,
+    "close": 32.5999984741,
+    "volume": 28245.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.7999992371,
+    "high": 34.4000015259,
+    "low": 32.2000007629,
+    "close": 32.7999992371,
+    "volume": 18635.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.2000007629,
+    "high": 33.7999992371,
+    "low": 31.0,
+    "close": 31.2000007629,
+    "volume": 27115.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.7999992371,
+    "high": 34.4000015259,
+    "low": 31.0,
+    "close": 31.6000003815,
+    "volume": 15280.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.6000003815,
+    "high": 33.9000015259,
+    "low": 30.2999992371,
+    "close": 32.2000007629,
+    "volume": 34010.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.4000015259,
+    "high": 32.5999984741,
+    "low": 29.0,
+    "close": 30.0,
+    "volume": 43995.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.7999992371,
+    "high": 30.3999996185,
+    "low": 27.6000003815,
+    "close": 29.7999992371,
+    "volume": 36900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 26.6000003815,
+    "high": 30.2000007629,
+    "low": 26.0,
+    "close": 28.3999996185,
+    "volume": 39890.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 28.3999996185,
+    "high": 30.0,
+    "low": 27.2999992371,
+    "close": 29.6000003815,
+    "volume": 27510.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 30.0,
+    "high": 30.0,
+    "low": 27.0,
+    "close": 28.2000007629,
+    "volume": 55570.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 28.0,
+    "high": 30.2000007629,
+    "low": 28.0,
+    "close": 30.0,
+    "volume": 21590.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 30.3999996185,
+    "high": 31.7999992371,
+    "low": 28.7999992371,
+    "close": 30.6000003815,
+    "volume": 30365.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.7999992371,
+    "high": 29.2000007629,
+    "low": 27.0,
+    "close": 27.2000007629,
+    "volume": 51945.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.2000007629,
+    "high": 28.0,
+    "low": 26.7999992371,
+    "close": 27.3999996185,
+    "volume": 22910.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.6000003815,
+    "high": 27.7000007629,
+    "low": 23.8999996185,
+    "close": 24.0,
+    "volume": 29535.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.7999992371,
+    "high": 26.0,
+    "low": 24.2600002289,
+    "close": 25.1000003815,
+    "volume": 22685.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.2000007629,
+    "high": 25.8999996185,
+    "low": 24.2000007629,
+    "close": 24.3999996185,
+    "volume": 44915.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.2000007629,
+    "high": 29.3999996185,
+    "low": 24.2000007629,
+    "close": 29.2000007629,
+    "volume": 41415.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 28.7999992371,
+    "high": 29.7000007629,
+    "low": 27.8199996948,
+    "close": 29.0,
+    "volume": 28995.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 28.6000003815,
+    "close": 29.2000007629,
+    "volume": 16170.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,08,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.3999996185,
+    "high": 29.7800006866,
+    "low": 28.7999992371,
+    "close": 29.0,
+    "volume": 12305.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.0,
+    "high": 32.4000015259,
+    "low": 28.6000003815,
+    "close": 31.2000007629,
+    "volume": 41215.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.3999996185,
+    "high": 32.0999984741,
+    "low": 29.7999992371,
+    "close": 31.7999992371,
+    "volume": 35545.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.0,
+    "high": 31.2000007629,
+    "low": 28.3999996185,
+    "close": 29.2000007629,
+    "volume": 26440.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.0,
+    "high": 30.3999996185,
+    "low": 28.3999996185,
+    "close": 29.0,
+    "volume": 13330.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.6000003815,
+    "high": 30.6000003815,
+    "low": 28.7999992371,
+    "close": 29.2000007629,
+    "volume": 23980.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 28.3999996185,
+    "close": 29.0,
+    "volume": 51275.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.2000007629,
+    "high": 30.2000007629,
+    "low": 27.3999996185,
+    "close": 28.0,
+    "volume": 27820.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.7999992371,
+    "high": 28.5,
+    "low": 26.7999992371,
+    "close": 27.6000003815,
+    "volume": 12835.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.7999992371,
+    "high": 27.7999992371,
+    "low": 25.6000003815,
+    "close": 25.6000003815,
+    "volume": 18030.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.0,
+    "high": 25.3999996185,
+    "low": 23.0,
+    "close": 23.3999996185,
+    "volume": 22210.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.6000003815,
+    "high": 23.6000003815,
+    "low": 22.3999996185,
+    "close": 22.6000003815,
+    "volume": 24345.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.7999992371,
+    "high": 23.1000003815,
+    "low": 21.7999992371,
+    "close": 23.0,
+    "volume": 30130.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.0,
+    "high": 23.7999992371,
+    "low": 22.0,
+    "close": 23.0,
+    "volume": 25890.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.3999996185,
+    "high": 23.7999992371,
+    "low": 22.2000007629,
+    "close": 23.0,
+    "volume": 21585.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.0,
+    "high": 24.6000003815,
+    "low": 23.1000003815,
+    "close": 24.6000003815,
+    "volume": 20925.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.3999996185,
+    "high": 25.6000003815,
+    "low": 23.5,
+    "close": 24.7999992371,
+    "volume": 25450.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.6000003815,
+    "high": 28.1000003815,
+    "low": 24.2000007629,
+    "close": 27.7999992371,
+    "volume": 38460.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.7999992371,
+    "high": 28.6000003815,
+    "low": 26.2000007629,
+    "close": 27.0,
+    "volume": 70410.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 28.3999996185,
+    "high": 32.0,
+    "low": 28.0,
+    "close": 31.2000007629,
+    "volume": 74900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 30.7999992371,
+    "high": 31.8999996185,
+    "low": 29.3999996185,
+    "close": 30.2000007629,
+    "volume": 122540.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 30.0,
+    "high": 31.1000003815,
+    "low": 28.6000003815,
+    "close": 28.6000003815,
+    "volume": 67895.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.0,
+    "high": 30.2999992371,
+    "low": 27.7999992371,
+    "close": 29.2000007629,
+    "volume": 65050.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.2000007629,
+    "high": 29.6000003815,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 46280.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 28.2000007629,
+    "high": 31.2000007629,
+    "low": 26.7999992371,
+    "close": 30.3999996185,
+    "volume": 46810.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.2000007629,
+    "high": 32.0,
+    "low": 29.7000007629,
+    "close": 30.2000007629,
+    "volume": 29790.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.6000003815,
+    "high": 30.3999996185,
+    "low": 27.1000003815,
+    "close": 27.6000003815,
+    "volume": 28570.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,10,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.2000007629,
+    "high": 27.6000003815,
+    "low": 25.6000003815,
+    "close": 25.6000003815,
+    "volume": 19895.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.2000007629,
+    "high": 25.5,
+    "low": 23.7999992371,
+    "close": 24.6000003815,
+    "volume": 25250.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.2000007629,
+    "high": 24.6000003815,
+    "low": 23.7999992371,
+    "close": 23.7999992371,
+    "volume": 17335.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.0,
+    "high": 25.0,
+    "low": 24.1000003815,
+    "close": 24.3999996185,
+    "volume": 12955.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.3999996185,
+    "high": 24.6399993896,
+    "low": 22.2000007629,
+    "close": 22.6000003815,
+    "volume": 22910.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.6000003815,
+    "high": 23.3999996185,
+    "low": 22.3999996185,
+    "close": 22.6000003815,
+    "volume": 13455.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.7999992371,
+    "high": 23.7999992371,
+    "low": 21.2000007629,
+    "close": 21.6000003815,
+    "volume": 27400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.7999992371,
+    "high": 22.1000003815,
+    "low": 21.2000007629,
+    "close": 21.7999992371,
+    "volume": 19190.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.6000003815,
+    "high": 23.6000003815,
+    "low": 21.6000003815,
+    "close": 23.6000003815,
+    "volume": 21400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.3999996185,
+    "high": 24.3999996185,
+    "low": 23.0,
+    "close": 23.7999992371,
+    "volume": 39100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.3999996185,
+    "high": 24.2999992371,
+    "low": 23.0,
+    "close": 23.3999996185,
+    "volume": 15755.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.0,
+    "high": 25.0,
+    "low": 23.3999996185,
+    "close": 25.0,
+    "volume": 33125.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,10,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.3999996185,
+    "high": 25.3999996185,
+    "low": 23.6000003815,
+    "close": 23.6000003815,
+    "volume": 12000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.0,
+    "high": 24.3999996185,
+    "low": 23.2000007629,
+    "close": 23.3999996185,
+    "volume": 20535.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.0,
+    "high": 23.3999996185,
+    "low": 21.8999996185,
+    "close": 22.3999996185,
+    "volume": 20145.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.7999992371,
+    "high": 23.3999996185,
+    "low": 21.7999992371,
+    "close": 23.0,
+    "volume": 22880.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.7999992371,
+    "high": 23.3999996185,
+    "low": 22.3999996185,
+    "close": 23.0,
+    "volume": 15095.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.0,
+    "high": 23.2000007629,
+    "low": 21.7000007629,
+    "close": 21.7999992371,
+    "volume": 147405.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.0,
+    "high": 23.2000007629,
+    "low": 17.3999996185,
+    "close": 18.5400009155,
+    "volume": 724085.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.6000003815,
+    "high": 20.6000003815,
+    "low": 17.2000007629,
+    "close": 18.7199993134,
+    "volume": 173060.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.8600006104,
+    "high": 20.2000007629,
+    "low": 17.8600006104,
+    "close": 18.9599990845,
+    "volume": 93520.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.5599994659,
+    "high": 19.0200004578,
+    "low": 17.0,
+    "close": 17.1599998474,
+    "volume": 106160.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.0,
+    "high": 19.2000007629,
+    "low": 17.0,
+    "close": 19.2000007629,
+    "volume": 106040.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.4200000763,
+    "high": 23.6000003815,
+    "low": 18.8799991608,
+    "close": 22.3999996185,
+    "volume": 98425.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.6000003815,
+    "high": 26.2000007629,
+    "low": 21.0,
+    "close": 25.3999996185,
+    "volume": 101450.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 26.3999996185,
+    "high": 26.7999992371,
+    "low": 22.7999992371,
+    "close": 24.7999992371,
+    "volume": 63220.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.7999992371,
+    "high": 30.0,
+    "low": 24.7999992371,
+    "close": 29.6000003815,
+    "volume": 86785.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.3999996185,
+    "high": 29.6000003815,
+    "low": 23.2000007629,
+    "close": 24.3999996185,
+    "volume": 101585.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.2000007629,
+    "high": 25.3999996185,
+    "low": 23.2000007629,
+    "close": 24.3999996185,
+    "volume": 28680.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.3999996185,
+    "high": 25.3999996185,
+    "low": 23.7999992371,
+    "close": 24.2000007629,
+    "volume": 50545.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.6000003815,
+    "high": 24.0,
+    "low": 21.3999996185,
+    "close": 23.2999992371,
+    "volume": 55575.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,11,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.2000007629,
+    "high": 23.3999996185,
+    "low": 21.7999992371,
+    "close": 22.0,
+    "volume": 26100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.2000007629,
+    "high": 22.3999996185,
+    "low": 21.2000007629,
+    "close": 22.0,
+    "volume": 55160.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.3999996185,
+    "high": 22.3999996185,
+    "low": 21.2000007629,
+    "close": 22.0,
+    "volume": 67335.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.3999996185,
+    "high": 23.2000007629,
+    "low": 21.7999992371,
+    "close": 22.2000007629,
+    "volume": 43250.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.7999992371,
+    "high": 22.3999996185,
+    "low": 21.2000007629,
+    "close": 22.2000007629,
+    "volume": 44695.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.7999992371,
+    "high": 22.2000007629,
+    "low": 17.2800006866,
+    "close": 20.6000003815,
+    "volume": 232765.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.2000007629,
+    "high": 20.7999992371,
+    "low": 18.3400001526,
+    "close": 18.3400001526,
+    "volume": 63345.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.3400001526,
+    "high": 19.6599998474,
+    "low": 18.0,
+    "close": 19.0,
+    "volume": 50695.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.2000007629,
+    "high": 20.7999992371,
+    "low": 17.2999992371,
+    "close": 18.2600002289,
+    "volume": 185665.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.2999992371,
+    "high": 20.6000003815,
+    "low": 17.7999992371,
+    "close": 18.4799995422,
+    "volume": 61605.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.6200008392,
+    "high": 19.9400005341,
+    "low": 18.3999996185,
+    "close": 18.4200000763,
+    "volume": 20810.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.0,
+    "high": 19.2199993134,
+    "low": 18.2399997711,
+    "close": 18.8999996185,
+    "volume": 24415.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.7999992371,
+    "high": 20.3999996185,
+    "low": 18.4599990845,
+    "close": 20.0,
+    "volume": 44345.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.7999992371,
+    "high": 20.7999992371,
+    "low": 18.6399993896,
+    "close": 18.7800006866,
+    "volume": 52540.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.7199993134,
+    "high": 19.2999992371,
+    "low": 18.1399993896,
+    "close": 18.8400001526,
+    "volume": 34245.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.9599990845,
+    "high": 19.3999996185,
+    "low": 18.2199993134,
+    "close": 18.3999996185,
+    "volume": 59050.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.6000003815,
+    "high": 19.0,
+    "low": 17.7999992371,
+    "close": 18.0799999237,
+    "volume": 45080.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.7399997711,
+    "high": 18.3600006104,
+    "low": 17.7000007629,
+    "close": 18.0,
+    "volume": 34120.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.2000007629,
+    "high": 19.0,
+    "low": 17.7999992371,
+    "close": 18.2999992371,
+    "volume": 55025.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.3999996185,
+    "high": 18.6000003815,
+    "low": 16.7399997711,
+    "close": 17.0,
+    "volume": 84085.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.6000003815,
+    "high": 17.0,
+    "low": 15.0799999237,
+    "close": 15.1999998093,
+    "volume": 90205.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.1999998093,
+    "high": 15.1999998093,
+    "low": 12.9399995804,
+    "close": 13.4799995422,
+    "volume": 147375.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.5399999619,
+    "high": 13.9399995804,
+    "low": 13.0,
+    "close": 13.3999996185,
+    "volume": 89965.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.3400001526,
+    "high": 13.8000001907,
+    "low": 12.8199996948,
+    "close": 12.9200000763,
+    "volume": 75415.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.9200000763,
+    "high": 13.3000001907,
+    "low": 11.8999996185,
+    "close": 11.8999996185,
+    "volume": 86230.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.0,
+    "high": 13.1199998856,
+    "low": 11.6400003433,
+    "close": 12.8199996948,
+    "volume": 140245.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.5,
+    "high": 12.6999998093,
+    "low": 11.9600000381,
+    "close": 12.2600002289,
+    "volume": 140380.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.4600000381,
+    "high": 12.7399997711,
+    "low": 12.0,
+    "close": 12.3199996948,
+    "volume": 39930.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.1400003433,
+    "high": 12.5399999619,
+    "low": 12.0399999619,
+    "close": 12.2600002289,
+    "volume": 37115.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.0,
+    "high": 14.1000003815,
+    "low": 11.9399995804,
+    "close": 13.0,
+    "volume": 44695.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.9399995804,
+    "high": 13.9200000763,
+    "low": 12.7399997711,
+    "close": 13.0,
+    "volume": 34325.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.6000003815,
+    "high": 12.9799995422,
+    "low": 12.0600004196,
+    "close": 12.4200000763,
+    "volume": 44175.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.6400003433,
+    "high": 12.9200000763,
+    "low": 12.3999996185,
+    "close": 12.8000001907,
+    "volume": 31280.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.7600002289,
+    "high": 13.5399999619,
+    "low": 12.7600002289,
+    "close": 12.8999996185,
+    "volume": 36840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.0,
+    "high": 14.4600000381,
+    "low": 13.0,
+    "close": 13.9600000381,
+    "volume": 41065.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.1400003433,
+    "high": 14.3400001526,
+    "low": 13.4200000763,
+    "close": 13.5600004196,
+    "volume": 43855.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.5600004196,
+    "high": 14.1400003433,
+    "low": 13.2600002289,
+    "close": 13.279999733,
+    "volume": 31195.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.1999998093,
+    "high": 13.3000001907,
+    "low": 12.6400003433,
+    "close": 13.0399999619,
+    "volume": 33840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.4600000381,
+    "high": 12.720000267,
+    "low": 12.0,
+    "close": 12.0799999237,
+    "volume": 44780.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.0799999237,
+    "high": 12.0799999237,
+    "low": 11.6199998856,
+    "close": 11.8800001144,
+    "volume": 38575.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.0,
+    "high": 12.1800003052,
+    "low": 11.0200004578,
+    "close": 11.5,
+    "volume": 90250.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.6599998474,
+    "high": 12.3000001907,
+    "low": 11.5799999237,
+    "close": 11.9399995804,
+    "volume": 29135.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.0,
+    "high": 12.1999998093,
+    "low": 11.1800003052,
+    "close": 11.1800003052,
+    "volume": 45670.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.279999733,
+    "high": 12.0799999237,
+    "low": 11.1599998474,
+    "close": 11.5200004578,
+    "volume": 30095.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.8000001907,
+    "high": 12.1999998093,
+    "low": 11.3599996567,
+    "close": 11.3800001144,
+    "volume": 44250.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.6000003815,
+    "high": 12.0,
+    "low": 11.3999996185,
+    "close": 11.5200004578,
+    "volume": 40520.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.4200000763,
+    "high": 12.3000001907,
+    "low": 11.4200000763,
+    "close": 11.6800003052,
+    "volume": 24125.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.5200004578,
+    "high": 12.6999998093,
+    "low": 11.5200004578,
+    "close": 12.1000003815,
+    "volume": 39635.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.7399997711,
+    "high": 13.0399999619,
+    "low": 11.720000267,
+    "close": 12.5399999619,
+    "volume": 67225.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.8199996948,
+    "high": 12.8199996948,
+    "low": 11.8999996185,
+    "close": 12.1999998093,
+    "volume": 22910.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.1400003433,
+    "high": 12.8000001907,
+    "low": 11.3999996185,
+    "close": 11.6000003815,
+    "volume": 29260.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.1999998093,
+    "high": 12.1999998093,
+    "low": 11.1000003815,
+    "close": 11.6599998474,
+    "volume": 26180.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.9799995422,
+    "high": 12.0,
+    "low": 11.4799995422,
+    "close": 11.8000001907,
+    "volume": 43690.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.5,
+    "high": 12.3000001907,
+    "low": 11.4399995804,
+    "close": 11.6999998093,
+    "volume": 43370.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.6999998093,
+    "high": 12.6000003815,
+    "low": 11.6199998856,
+    "close": 12.0600004196,
+    "volume": 50335.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.1400003433,
+    "high": 12.720000267,
+    "low": 12.0,
+    "close": 12.3999996185,
+    "volume": 40360.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.3400001526,
+    "high": 12.5600004196,
+    "low": 11.3999996185,
+    "close": 11.8199996948,
+    "volume": 197950.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.9600000381,
+    "high": 12.1000003815,
+    "low": 11.3000001907,
+    "close": 11.4799995422,
+    "volume": 36090.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.5200004578,
+    "high": 11.6800003052,
+    "low": 10.9200000763,
+    "close": 11.0799999237,
+    "volume": 101555.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.9200000763,
+    "high": 11.1599998474,
+    "low": 10.1800003052,
+    "close": 10.8999996185,
+    "volume": 111085.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.6199998856,
+    "high": 11.1000003815,
+    "low": 10.220000267,
+    "close": 10.7399997711,
+    "volume": 66710.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.8999996185,
+    "high": 12.1000003815,
+    "low": 10.6000003815,
+    "close": 11.6400003433,
+    "volume": 169210.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.1000003815,
+    "high": 12.5,
+    "low": 11.7600002289,
+    "close": 12.1999998093,
+    "volume": 88050.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.1999998093,
+    "high": 12.3599996567,
+    "low": 11.4399995804,
+    "close": 12.1800003052,
+    "volume": 40640.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.0200004578,
+    "high": 12.4799995422,
+    "low": 11.9200000763,
+    "close": 12.3800001144,
+    "volume": 31510.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.6000003815,
+    "high": 13.6999998093,
+    "low": 12.3599996567,
+    "close": 13.1999998093,
+    "volume": 71135.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.5799999237,
+    "high": 14.5399999619,
+    "low": 13.3999996185,
+    "close": 14.0200004578,
+    "volume": 54740.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.1999998093,
+    "high": 15.3999996185,
+    "low": 13.1199998856,
+    "close": 13.3000001907,
+    "volume": 94085.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.8000001907,
+    "high": 14.3800001144,
+    "low": 12.8800001144,
+    "close": 13.1599998474,
+    "volume": 27465.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.3199996948,
+    "high": 14.1800003052,
+    "low": 13.0,
+    "close": 14.0,
+    "volume": 57055.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.2600002289,
+    "high": 14.6599998474,
+    "low": 13.6000003815,
+    "close": 14.2600002289,
+    "volume": 54520.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.3199996948,
+    "high": 14.3999996185,
+    "low": 13.4600000381,
+    "close": 14.220000267,
+    "volume": 36290.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.1199998856,
+    "high": 14.1199998856,
+    "low": 13.0200004578,
+    "close": 13.220000267,
+    "volume": 33045.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.1999998093,
+    "high": 14.1800003052,
+    "low": 12.6000003815,
+    "close": 14.0799999237,
+    "volume": 61705.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.3199996948,
+    "high": 14.4200000763,
+    "low": 13.8000001907,
+    "close": 14.0,
+    "volume": 31115.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.8199996948,
+    "high": 14.8000001907,
+    "low": 13.3000001907,
+    "close": 14.5200004578,
+    "volume": 45415.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.720000267,
+    "high": 15.6199998856,
+    "low": 14.0,
+    "close": 14.8599996567,
+    "volume": 46150.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.5799999237,
+    "high": 14.5799999237,
+    "low": 13.4799995422,
+    "close": 13.6199998856,
+    "volume": 24490.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.0,
+    "high": 14.3999996185,
+    "low": 13.1999998093,
+    "close": 13.3199996948,
+    "volume": 24125.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,03,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.6000003815,
+    "high": 13.9399995804,
+    "low": 12.4200000763,
+    "close": 13.4399995804,
+    "volume": 29975.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.5200004578,
+    "high": 13.5200004578,
+    "low": 11.5200004578,
+    "close": 12.1199998856,
+    "volume": 30255.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,03,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.0200004578,
+    "high": 12.3999996185,
+    "low": 11.6999998093,
+    "close": 11.6999998093,
+    "volume": 50850.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.8000001907,
+    "high": 11.8000001907,
+    "low": 10.1999998093,
+    "close": 10.3400001526,
+    "volume": 59110.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.1999998093,
+    "high": 11.0600004196,
+    "low": 9.6199998856,
+    "close": 9.6800003052,
+    "volume": 62975.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.8000001907,
+    "high": 12.6800003052,
+    "low": 10.3199996948,
+    "close": 11.6400003433,
+    "volume": 116535.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.9600000381,
+    "high": 12.3999996185,
+    "low": 10.6599998474,
+    "close": 10.6599998474,
+    "volume": 41995.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.6000003815,
+    "high": 11.7600002289,
+    "low": 10.4200000763,
+    "close": 11.5799999237,
+    "volume": 64360.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.6800003052,
+    "high": 11.8999996185,
+    "low": 10.8999996185,
+    "close": 11.1800003052,
+    "volume": 24140.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.1400003433,
+    "high": 11.279999733,
+    "low": 10.5,
+    "close": 10.5,
+    "volume": 27310.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.9600000381,
+    "high": 11.9200000763,
+    "low": 10.8000001907,
+    "close": 11.1599998474,
+    "volume": 35165.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.3599996567,
+    "high": 12.6800003052,
+    "low": 11.3599996567,
+    "close": 11.8800001144,
+    "volume": 39675.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.8199996948,
+    "high": 12.3999996185,
+    "low": 10.7399997711,
+    "close": 10.8199996948,
+    "volume": 30755.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.1999998093,
+    "high": 11.3599996567,
+    "low": 10.3000001907,
+    "close": 10.7600002289,
+    "volume": 43480.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.3999996185,
+    "high": 10.9200000763,
+    "low": 9.6400003433,
+    "close": 9.6800003052,
+    "volume": 33140.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.6400003433,
+    "high": 10.1800003052,
+    "low": 9.6199998856,
+    "close": 10.1400003433,
+    "volume": 30050.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.8199996948,
+    "high": 10.0200004578,
+    "low": 9.220000267,
+    "close": 9.3000001907,
+    "volume": 44420.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.1800003052,
+    "high": 9.9399995804,
+    "low": 8.8000001907,
+    "close": 9.3000001907,
+    "volume": 36195.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.779999733,
+    "high": 9.4600000381,
+    "low": 8.1800003052,
+    "close": 8.9399995804,
+    "volume": 38270.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.0200004578,
+    "high": 9.6800003052,
+    "low": 8.0200004578,
+    "close": 8.2600002289,
+    "volume": 29605.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.1599998474,
+    "high": 9.0399999619,
+    "low": 8.1599998474,
+    "close": 8.8199996948,
+    "volume": 41830.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.5,
+    "high": 8.9799995422,
+    "low": 8.0,
+    "close": 8.3000001907,
+    "volume": 22565.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.3599996567,
+    "high": 8.8000001907,
+    "low": 7.8600001335,
+    "close": 8.779999733,
+    "volume": 48825.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.779999733,
+    "high": 9.0600004196,
+    "low": 8.720000267,
+    "close": 8.8999996185,
+    "volume": 22620.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.9799995422,
+    "high": 10.279999733,
+    "low": 8.5,
+    "close": 9.1800003052,
+    "volume": 48940.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.779999733,
+    "high": 9.1999998093,
+    "low": 8.5799999237,
+    "close": 8.779999733,
+    "volume": 34145.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.6000003815,
+    "high": 9.3400001526,
+    "low": 8.5799999237,
+    "close": 8.6800003052,
+    "volume": 56590.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.6599998474,
+    "high": 9.6000003815,
+    "low": 8.5399999619,
+    "close": 8.7600002289,
+    "volume": 34500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.1999998093,
+    "high": 9.5,
+    "low": 8.6000003815,
+    "close": 9.1999998093,
+    "volume": 23825.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.779999733,
+    "high": 9.779999733,
+    "low": 9.1000003815,
+    "close": 9.5600004196,
+    "volume": 32865.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.6599998474,
+    "high": 9.8000001907,
+    "low": 9.1800003052,
+    "close": 9.3400001526,
+    "volume": 24985.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.1800003052,
+    "high": 9.5600004196,
+    "low": 8.4399995804,
+    "close": 9.0,
+    "volume": 30630.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.9200000763,
+    "high": 9.3800001144,
+    "low": 8.5600004196,
+    "close": 8.8199996948,
+    "volume": 29815.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.6599998474,
+    "high": 9.279999733,
+    "low": 8.4399995804,
+    "close": 8.6400003433,
+    "volume": 22525.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.6000003815,
+    "high": 9.5399999619,
+    "low": 8.2600002289,
+    "close": 9.5,
+    "volume": 51620.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.8599996567,
+    "high": 10.1999998093,
+    "low": 8.8800001144,
+    "close": 9.3999996185,
+    "volume": 32550.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.3999996185,
+    "high": 9.6999998093,
+    "low": 9.1000003815,
+    "close": 9.220000267,
+    "volume": 24585.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.1199998856,
+    "high": 9.3999996185,
+    "low": 8.5399999619,
+    "close": 8.6999998093,
+    "volume": 13385.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.4200000763,
+    "high": 9.1199998856,
+    "low": 8.1400003433,
+    "close": 8.3199996948,
+    "volume": 28820.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.4799995422,
+    "high": 8.720000267,
+    "low": 8.0,
+    "close": 8.4200000763,
+    "volume": 23185.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.1599998474,
+    "high": 8.7399997711,
+    "low": 7.9000000954,
+    "close": 8.5600004196,
+    "volume": 25990.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.3999996185,
+    "high": 8.8199996948,
+    "low": 7.8000001907,
+    "close": 8.0,
+    "volume": 92030.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.1199998856,
+    "high": 8.8599996567,
+    "low": 8.0600004196,
+    "close": 8.4399995804,
+    "volume": 46520.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.3999996185,
+    "high": 8.4600000381,
+    "low": 8.1000003815,
+    "close": 8.1000003815,
+    "volume": 37110.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.0399999619,
+    "high": 8.9200000763,
+    "low": 7.8000001907,
+    "close": 7.8000001907,
+    "volume": 20160.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 7.8200001717,
+    "high": 8.3999996185,
+    "low": 7.8200001717,
+    "close": 8.0399999619,
+    "volume": 33465.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.0,
+    "high": 8.8000001907,
+    "low": 8.0,
+    "close": 8.3000001907,
+    "volume": 39535.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 7.9800000191,
+    "high": 8.3999996185,
+    "low": 7.8000001907,
+    "close": 8.2600002289,
+    "volume": 31810.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.220000267,
+    "high": 8.5,
+    "low": 8.0,
+    "close": 8.4399995804,
+    "volume": 21230.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.220000267,
+    "high": 8.5799999237,
+    "low": 8.0,
+    "close": 8.1999998093,
+    "volume": 24695.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.1999998093,
+    "high": 8.8599996567,
+    "low": 8.1999998093,
+    "close": 8.4399995804,
+    "volume": 30775.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.1999998093,
+    "high": 8.779999733,
+    "low": 8.1999998093,
+    "close": 8.3599996567,
+    "volume": 26355.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.1999998093,
+    "high": 8.4399995804,
+    "low": 8.1999998093,
+    "close": 8.220000267,
+    "volume": 23085.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.6199998856,
+    "high": 8.6199998856,
+    "low": 8.1999998093,
+    "close": 8.1999998093,
+    "volume": 15050.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.3199996948,
+    "high": 8.3999996185,
+    "low": 8.0,
+    "close": 8.0399999619,
+    "volume": 26355.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.3400001526,
+    "high": 8.7399997711,
+    "low": 8.0,
+    "close": 8.7399997711,
+    "volume": 43270.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.1199998856,
+    "high": 10.3000001907,
+    "low": 7.6500000954,
+    "close": 8.220000267,
+    "volume": 397700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.1999998093,
+    "high": 8.4449996948,
+    "low": 7.8200001717,
+    "close": 7.9899997711,
+    "volume": 116100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.0100002289,
+    "high": 13.8000001907,
+    "low": 7.7800002098,
+    "close": 13.470000267,
+    "volume": 1689200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.6199998856,
+    "high": 13.6330003738,
+    "low": 9.6700000763,
+    "close": 11.4600000381,
+    "volume": 786000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.6199998856,
+    "high": 13.7299995422,
+    "low": 10.8699998856,
+    "close": 12.7600002289,
+    "volume": 382510.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.7700996399,
+    "high": 13.5749998093,
+    "low": 11.7459001541,
+    "close": 12.470000267,
+    "volume": 197278.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.4499998093,
+    "high": 12.7299995422,
+    "low": 9.8120002747,
+    "close": 10.8000001907,
+    "volume": 345900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.5200004578,
+    "high": 10.8299999237,
+    "low": 9.1700000763,
+    "close": 9.4099998474,
+    "volume": 187002.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,06,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.2100000381,
+    "high": 10.0349998474,
+    "low": 8.9600000381,
+    "close": 9.7399997711,
+    "volume": 145600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.3999996185,
+    "high": 10.2650003433,
+    "low": 9.1600999832,
+    "close": 9.7399997711,
+    "volume": 75858.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.8299999237,
+    "high": 10.3500003815,
+    "low": 9.2150001526,
+    "close": 10.1700000763,
+    "volume": 115888.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.7100000381,
+    "high": 10.9600000381,
+    "low": 9.2899999619,
+    "close": 9.6999998093,
+    "volume": 141400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,06,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.8000001907,
+    "high": 10.4499998093,
+    "low": 9.4549999237,
+    "close": 9.5799999237,
+    "volume": 109200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.6300001144,
+    "high": 9.8380002975,
+    "low": 8.5200004578,
+    "close": 8.6899995804,
+    "volume": 229000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.7700004578,
+    "high": 9.029999733,
+    "low": 8.5399999619,
+    "close": 8.9899997711,
+    "volume": 110300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.2899999619,
+    "high": 9.8000001907,
+    "low": 9.0349998474,
+    "close": 9.5850000381,
+    "volume": 97200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.6999998093,
+    "high": 9.6999998093,
+    "low": 9.1700000763,
+    "close": 9.2899999619,
+    "volume": 101700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.3000001907,
+    "high": 9.3999996185,
+    "low": 8.779999733,
+    "close": 9.1199998856,
+    "volume": 71500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.0399999619,
+    "high": 9.3500003815,
+    "low": 8.4600000381,
+    "close": 8.9399995804,
+    "volume": 1306500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.0,
+    "high": 9.0,
+    "low": 8.6319999695,
+    "close": 8.8400001526,
+    "volume": 61500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 8.8699998856,
+    "high": 9.6199998856,
+    "low": 8.8699998856,
+    "close": 9.4250001907,
+    "volume": 59300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.4300003052,
+    "high": 9.8400001526,
+    "low": 8.9600000381,
+    "close": 9.4300003052,
+    "volume": 74100.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,07,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.3699998856,
+    "high": 9.8100004196,
+    "low": 9.3699998856,
+    "close": 9.6899995804,
+    "volume": 35800.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,07,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.6400003433,
+    "high": 9.6400003433,
+    "low": 9.1099996567,
+    "close": 9.1499996185,
+    "volume": 67600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.3100004196,
+    "high": 9.4350004196,
+    "low": 9.1450004578,
+    "close": 9.3350000381,
+    "volume": 45400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.3900003433,
+    "high": 10.3699998856,
+    "low": 9.3500003815,
+    "close": 10.2100000381,
+    "volume": 71900.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,07,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.1000003815,
+    "high": 10.4099998474,
+    "low": 9.6300001144,
+    "close": 9.7700004578,
+    "volume": 39100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.8199996948,
+    "high": 9.9499998093,
+    "low": 9.607000351,
+    "close": 9.75,
+    "volume": 23400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.7100000381,
+    "high": 9.8299999237,
+    "low": 9.5799999237,
+    "close": 9.6700000763,
+    "volume": 19200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.6599998474,
+    "high": 9.8299999237,
+    "low": 9.0249996185,
+    "close": 9.1000003815,
+    "volume": 36800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,07,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.1999998093,
+    "high": 9.6400003433,
+    "low": 9.1599998474,
+    "close": 9.529999733,
+    "volume": 29600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.5,
+    "high": 9.8249998093,
+    "low": 9.1099996567,
+    "close": 9.5200004578,
+    "volume": 25800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.6199998856,
+    "high": 9.7530002594,
+    "low": 9.2399997711,
+    "close": 9.2399997711,
+    "volume": 24200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,07,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.3100004196,
+    "high": 9.8100004196,
+    "low": 9.3100004196,
+    "close": 9.4899997711,
+    "volume": 28200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.5600004196,
+    "high": 10.3500003815,
+    "low": 9.5600004196,
+    "close": 10.279999733,
+    "volume": 50400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.3199996948,
+    "high": 11.1099996567,
+    "low": 10.0349998474,
+    "close": 10.9899997711,
+    "volume": 43200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.8500003815,
+    "high": 11.1649999619,
+    "low": 10.2550001144,
+    "close": 10.4099998474,
+    "volume": 35000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.8000001907,
+    "high": 13.0410003662,
+    "low": 11.1099996567,
+    "close": 12.4200000763,
+    "volume": 461800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.5900001526,
+    "high": 14.1829996109,
+    "low": 12.5900001526,
+    "close": 13.7299995422,
+    "volume": 255100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.0100002289,
+    "high": 14.0100002289,
+    "low": 12.6800003052,
+    "close": 12.8699998856,
+    "volume": 110900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.9200000763,
+    "high": 13.1300001144,
+    "low": 12.2399997711,
+    "close": 12.4399995804,
+    "volume": 43100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.4899997711,
+    "high": 12.529999733,
+    "low": 11.5500001907,
+    "close": 11.8100004196,
+    "volume": 40400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.5699996948,
+    "high": 11.6649999619,
+    "low": 11.0200004578,
+    "close": 11.0200004578,
+    "volume": 19800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.0,
+    "high": 11.6999998093,
+    "low": 10.9399995804,
+    "close": 11.3699998856,
+    "volume": 32000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.7100000381,
+    "high": 12.0799999237,
+    "low": 11.4300003052,
+    "close": 11.4300003052,
+    "volume": 28300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.3800001144,
+    "high": 11.7600002289,
+    "low": 10.9300003052,
+    "close": 11.0799999237,
+    "volume": 21900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.8699998856,
+    "high": 11.7399997711,
+    "low": 10.8699998856,
+    "close": 11.3199996948,
+    "volume": 49800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.3599996567,
+    "high": 12.0,
+    "low": 10.8249998093,
+    "close": 10.9799995422,
+    "volume": 34700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,08,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.9600000381,
+    "high": 11.0,
+    "low": 10.0100002289,
+    "close": 10.5799999237,
+    "volume": 53800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.3999996185,
+    "high": 10.7600002289,
+    "low": 10.1149997711,
+    "close": 10.5699996948,
+    "volume": 43400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.279999733,
+    "high": 10.8299999237,
+    "low": 9.279999733,
+    "close": 10.8299999237,
+    "volume": 38700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.5200004578,
+    "high": 10.8000001907,
+    "low": 10.1899995804,
+    "close": 10.7600002289,
+    "volume": 23100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.779999733,
+    "high": 11.2700004578,
+    "low": 10.5799999237,
+    "close": 10.5799999237,
+    "volume": 30700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.6000003815,
+    "high": 10.9790000916,
+    "low": 10.4899997711,
+    "close": 10.8850002289,
+    "volume": 23500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.779999733,
+    "high": 11.0,
+    "low": 10.5,
+    "close": 10.8299999237,
+    "volume": 30200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.8299999237,
+    "high": 10.888999939,
+    "low": 10.5349998474,
+    "close": 10.6499996185,
+    "volume": 15600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.529999733,
+    "high": 10.8000001907,
+    "low": 10.4899997711,
+    "close": 10.6499996185,
+    "volume": 35200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.8299999237,
+    "high": 10.9399995804,
+    "low": 10.5,
+    "close": 10.7600002289,
+    "volume": 21800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.7600002289,
+    "high": 11.470000267,
+    "low": 10.7600002289,
+    "close": 10.970000267,
+    "volume": 27900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.9899997711,
+    "high": 11.388999939,
+    "low": 10.5600004196,
+    "close": 10.9600000381,
+    "volume": 34900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.8000001907,
+    "high": 11.4119997025,
+    "low": 10.8000001907,
+    "close": 11.279999733,
+    "volume": 12500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.3400001526,
+    "high": 11.6700000763,
+    "low": 10.9799995422,
+    "close": 11.1000003815,
+    "volume": 12400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.0,
+    "high": 11.1599998474,
+    "low": 10.9399995804,
+    "close": 11.0799999237,
+    "volume": 21400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.1099996567,
+    "high": 11.4879999161,
+    "low": 10.7629995346,
+    "close": 11.4099998474,
+    "volume": 25800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.5780000687,
+    "high": 11.5799999237,
+    "low": 11.1800003052,
+    "close": 11.4300003052,
+    "volume": 31400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.5,
+    "high": 11.720000267,
+    "low": 11.2100000381,
+    "close": 11.720000267,
+    "volume": 11500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.779999733,
+    "high": 12.2600002289,
+    "low": 11.5129995346,
+    "close": 12.1499996185,
+    "volume": 18400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.220000267,
+    "high": 13.029999733,
+    "low": 12.1499996185,
+    "close": 13.029999733,
+    "volume": 38600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.8000001907,
+    "high": 13.4499998093,
+    "low": 12.529999733,
+    "close": 13.1499996185,
+    "volume": 23600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.029999733,
+    "high": 13.5,
+    "low": 12.8900003433,
+    "close": 13.0699996948,
+    "volume": 24700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.220000267,
+    "high": 13.4899997711,
+    "low": 12.5900001526,
+    "close": 13.3000001907,
+    "volume": 37500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.4099998474,
+    "high": 13.4099998474,
+    "low": 12.6800003052,
+    "close": 12.8199996948,
+    "volume": 32400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.0600004196,
+    "high": 13.3699998856,
+    "low": 12.970000267,
+    "close": 13.1300001144,
+    "volume": 41900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.8500003815,
+    "high": 13.6149997711,
+    "low": 12.4589996338,
+    "close": 13.220000267,
+    "volume": 34300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.7700004578,
+    "high": 13.1800003052,
+    "low": 11.9300003052,
+    "close": 12.3100004196,
+    "volume": 158200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.4200000763,
+    "high": 12.7600002289,
+    "low": 12.3599996567,
+    "close": 12.6400003433,
+    "volume": 53200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.6999998093,
+    "high": 13.220000267,
+    "low": 12.6999998093,
+    "close": 13.0900001526,
+    "volume": 279300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.1300001144,
+    "high": 13.5200004578,
+    "low": 12.8999996185,
+    "close": 13.1700000763,
+    "volume": 163100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.0399999619,
+    "high": 13.4799995422,
+    "low": 13.0399999619,
+    "close": 13.1800003052,
+    "volume": 61100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.3599996567,
+    "high": 13.75,
+    "low": 13.2749996185,
+    "close": 13.4499998093,
+    "volume": 42200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.25,
+    "high": 13.25,
+    "low": 12.720000267,
+    "close": 12.720000267,
+    "volume": 31900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.1999998093,
+    "high": 13.1999998093,
+    "low": 12.3699998856,
+    "close": 12.8299999237,
+    "volume": 54200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.8699998856,
+    "high": 14.970000267,
+    "low": 12.6800003052,
+    "close": 14.970000267,
+    "volume": 64500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.9960002899,
+    "high": 16.25,
+    "low": 14.970000267,
+    "close": 16.2399997711,
+    "volume": 52500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.4599990845,
+    "high": 17.4500007629,
+    "low": 15.7700004578,
+    "close": 16.5499992371,
+    "volume": 74600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.6200008392,
+    "high": 16.875,
+    "low": 15.6199998856,
+    "close": 15.8100004196,
+    "volume": 29500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.8500003815,
+    "high": 17.7600002289,
+    "low": 15.8500003815,
+    "close": 17.75,
+    "volume": 58000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.9699993134,
+    "high": 18.3050003052,
+    "low": 17.3999996185,
+    "close": 17.8500003815,
+    "volume": 36200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.4599990845,
+    "high": 18.4599990845,
+    "low": 17.1700000763,
+    "close": 17.6900005341,
+    "volume": 22700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.8899993896,
+    "high": 18.2700004578,
+    "low": 17.6700000763,
+    "close": 18.2600002289,
+    "volume": 19200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.2900009155,
+    "high": 19.4500007629,
+    "low": 18.0,
+    "close": 18.8700008392,
+    "volume": 43300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.7600002289,
+    "high": 19.4400005341,
+    "low": 16.4500007629,
+    "close": 16.5100002289,
+    "volume": 61700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.8799991608,
+    "high": 17.0100002289,
+    "low": 16.3700008392,
+    "close": 16.8299999237,
+    "volume": 23300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.8299999237,
+    "high": 16.8600006104,
+    "low": 15.6800003052,
+    "close": 16.8600006104,
+    "volume": 30100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.9599990845,
+    "high": 17.6800003052,
+    "low": 16.9599990845,
+    "close": 17.3799991608,
+    "volume": 19600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.2849998474,
+    "high": 18.0799999237,
+    "low": 16.841999054,
+    "close": 17.0,
+    "volume": 48800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.0100002289,
+    "high": 17.2900009155,
+    "low": 16.4449996948,
+    "close": 16.5,
+    "volume": 28400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.7000007629,
+    "high": 18.0400009155,
+    "low": 16.7000007629,
+    "close": 18.0400009155,
+    "volume": 22800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.0900001526,
+    "high": 18.0900001526,
+    "low": 17.0799999237,
+    "close": 17.3199996948,
+    "volume": 24100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.3999996185,
+    "high": 17.3999996185,
+    "low": 16.0,
+    "close": 17.0300006866,
+    "volume": 22500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.0300006866,
+    "high": 18.3199996948,
+    "low": 17.0300006866,
+    "close": 18.3199996948,
+    "volume": 65000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.5100002289,
+    "high": 18.6000003815,
+    "low": 17.5,
+    "close": 17.6399993896,
+    "volume": 19600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.6599998474,
+    "high": 17.6900005341,
+    "low": 16.8799991608,
+    "close": 17.2299995422,
+    "volume": 29300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.1100006104,
+    "high": 17.5900001526,
+    "low": 16.4799995422,
+    "close": 16.7099990845,
+    "volume": 12900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.7099990845,
+    "high": 17.0599994659,
+    "low": 16.4699993134,
+    "close": 16.5900001526,
+    "volume": 12800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.5900001526,
+    "high": 17.0349998474,
+    "low": 16.2900009155,
+    "close": 16.5300006866,
+    "volume": 10100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.3299999237,
+    "high": 16.875,
+    "low": 16.3299999237,
+    "close": 16.6599998474,
+    "volume": 11100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.8700008392,
+    "high": 17.3099994659,
+    "low": 15.9399995804,
+    "close": 16.5499992371,
+    "volume": 21600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.5499992371,
+    "high": 17.75,
+    "low": 15.720000267,
+    "close": 15.9499998093,
+    "volume": 38100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.1499996185,
+    "high": 17.4599990845,
+    "low": 16.1200008392,
+    "close": 16.5400009155,
+    "volume": 19400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.4200000763,
+    "high": 17.9500007629,
+    "low": 16.0,
+    "close": 17.8799991608,
+    "volume": 30500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.4300003052,
+    "high": 17.7250003815,
+    "low": 16.5699996948,
+    "close": 17.5100002289,
+    "volume": 21500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.0799999237,
+    "high": 18.1900005341,
+    "low": 16.0799999237,
+    "close": 17.6800003052,
+    "volume": 38300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.7999992371,
+    "high": 18.6000003815,
+    "low": 16.0900001526,
+    "close": 17.25,
+    "volume": 58800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.3500003815,
+    "high": 17.6499996185,
+    "low": 16.9799995422,
+    "close": 17.6299991608,
+    "volume": 13000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.0,
+    "high": 17.6299991608,
+    "low": 16.9200000763,
+    "close": 17.4099998474,
+    "volume": 21500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.3999996185,
+    "high": 17.6800003052,
+    "low": 16.7700004578,
+    "close": 16.9300003052,
+    "volume": 18300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,11,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.9899997711,
+    "high": 18.7999992371,
+    "low": 16.9899997711,
+    "close": 17.4200000763,
+    "volume": 34500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.2999992371,
+    "high": 18.0650005341,
+    "low": 16.9500007629,
+    "close": 17.9300003052,
+    "volume": 22000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.0,
+    "high": 18.1299991608,
+    "low": 16.9599990845,
+    "close": 17.2199993134,
+    "volume": 22200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.5499992371,
+    "high": 18.0100002289,
+    "low": 17.1000003815,
+    "close": 17.4300003052,
+    "volume": 22500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.7700004578,
+    "high": 19.1299991608,
+    "low": 17.3199996948,
+    "close": 19.1299991608,
+    "volume": 77800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.2700004578,
+    "high": 22.9899997711,
+    "low": 19.1499996185,
+    "close": 22.7199993134,
+    "volume": 92800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.7399997711,
+    "high": 23.6550006866,
+    "low": 22.0300006866,
+    "close": 22.5300006866,
+    "volume": 50900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.8999996185,
+    "high": 24.7999992371,
+    "low": 22.6900005341,
+    "close": 24.4099998474,
+    "volume": 66700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.4099998474,
+    "high": 25.2000007629,
+    "low": 22.5699996948,
+    "close": 24.0,
+    "volume": 53700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.4400005341,
+    "high": 24.6690006256,
+    "low": 22.0100002289,
+    "close": 22.1000003815,
+    "volume": 51600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.1000003815,
+    "high": 22.4899997711,
+    "low": 20.5900001526,
+    "close": 20.8099994659,
+    "volume": 40800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.8199996948,
+    "high": 22.8050003052,
+    "low": 20.8199996948,
+    "close": 22.3099994659,
+    "volume": 53800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.4799995422,
+    "high": 25.5900001526,
+    "low": 21.3899993896,
+    "close": 25.4599990845,
+    "volume": 93500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.3799991608,
+    "high": 25.7399997711,
+    "low": 24.8600006104,
+    "close": 25.25,
+    "volume": 33700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.8700008392,
+    "high": 28.8600006104,
+    "low": 25.5049991608,
+    "close": 28.3600006104,
+    "volume": 59100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 27.0,
+    "close": 29.2700004578,
+    "volume": 115500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 29.0900001526,
+    "high": 32.7999992371,
+    "low": 29.0,
+    "close": 31.2800006866,
+    "volume": 86600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.3999996185,
+    "high": 34.4300003052,
+    "low": 31.1000003815,
+    "close": 33.4099998474,
+    "volume": 92400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.7999992371,
+    "high": 35.1549987793,
+    "low": 32.75,
+    "close": 34.4599990845,
+    "volume": 65000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 34.0600013733,
+    "high": 34.6590003967,
+    "low": 32.3800010681,
+    "close": 32.4000015259,
+    "volume": 64500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.4000015259,
+    "high": 33.6100006104,
+    "low": 32.0,
+    "close": 32.6399993896,
+    "volume": 56700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.6399993896,
+    "high": 34.1650009155,
+    "low": 32.0699996948,
+    "close": 32.0699996948,
+    "volume": 59900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.2999992371,
+    "high": 34.7799987793,
+    "low": 32.2999992371,
+    "close": 32.3800010681,
+    "volume": 58100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 32.0200004578,
+    "high": 33.6699981689,
+    "low": 32.0099983215,
+    "close": 33.3300018311,
+    "volume": 154300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 33.7900009155,
+    "high": 45.0,
+    "low": 32.9300003052,
+    "close": 37.3699989319,
+    "volume": 368300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 37.9399986267,
+    "high": 40.6899986267,
+    "low": 37.0699996948,
+    "close": 37.3300018311,
+    "volume": 287900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.0,
+    "high": 39.0649986267,
+    "low": 37.0,
+    "close": 38.5999984741,
+    "volume": 137400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 38.6300010681,
+    "high": 38.6300010681,
+    "low": 34.5200004578,
+    "close": 35.0900001526,
+    "volume": 127300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 35.0299987793,
+    "high": 37.0,
+    "low": 34.4199981689,
+    "close": 36.0499992371,
+    "volume": 113800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 36.0099983215,
+    "high": 36.0099983215,
+    "low": 30.7600002289,
+    "close": 31.5900001526,
+    "volume": 142300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.2800006866,
+    "high": 32.2750015259,
+    "low": 30.0100002289,
+    "close": 30.7800006866,
+    "volume": 193500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,01,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 31.3199996948,
+    "high": 31.3199996948,
+    "low": 27.2199993134,
+    "close": 28.9799995422,
+    "volume": 133100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 28.9899997711,
+    "high": 29.2099990845,
+    "low": 25.8099994659,
+    "close": 28.0100002289,
+    "volume": 132000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 27.7900009155,
+    "high": 29.1000003815,
+    "low": 25.7000007629,
+    "close": 25.7299995422,
+    "volume": 109000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.9099998474,
+    "high": 26.4899997711,
+    "low": 24.6900005341,
+    "close": 25.0499992371,
+    "volume": 110500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.2000007629,
+    "high": 25.3349990845,
+    "low": 24.2999992371,
+    "close": 24.2999992371,
+    "volume": 117600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.3400001526,
+    "high": 25.75,
+    "low": 24.3400001526,
+    "close": 24.5499992371,
+    "volume": 111600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.5900001526,
+    "high": 24.8500003815,
+    "low": 22.75,
+    "close": 23.7700004578,
+    "volume": 98600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.8799991608,
+    "high": 25.1200008392,
+    "low": 23.0520000458,
+    "close": 23.7099990845,
+    "volume": 95300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.6399993896,
+    "high": 24.3770008087,
+    "low": 23.3799991608,
+    "close": 23.4599990845,
+    "volume": 66200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.5400009155,
+    "high": 23.9899997711,
+    "low": 22.3799991608,
+    "close": 22.9300003052,
+    "volume": 68600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.8999996185,
+    "high": 24.9599990845,
+    "low": 22.8600006104,
+    "close": 23.7600002289,
+    "volume": 152200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.2000007629,
+    "high": 24.3299999237,
+    "low": 22.6700000763,
+    "close": 23.8999996185,
+    "volume": 119200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.9300003052,
+    "high": 25.0,
+    "low": 23.5100002289,
+    "close": 24.1200008392,
+    "volume": 193500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.4099998474,
+    "high": 27.8899993896,
+    "low": 24.2199993134,
+    "close": 25.8400001526,
+    "volume": 80100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.8099994659,
+    "high": 25.9200000763,
+    "low": 24.8700008392,
+    "close": 25.2600002289,
+    "volume": 50000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.0200004578,
+    "high": 25.8349990845,
+    "low": 24.5699996948,
+    "close": 24.8999996185,
+    "volume": 61800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.0249996185,
+    "high": 26.0200004578,
+    "low": 24.7299995422,
+    "close": 25.2800006866,
+    "volume": 45400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.25,
+    "high": 26.0100002289,
+    "low": 24.0300006866,
+    "close": 24.0300006866,
+    "volume": 57200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.0300006866,
+    "high": 25.4099998474,
+    "low": 24.0,
+    "close": 24.8099994659,
+    "volume": 31700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.5200004578,
+    "high": 25.0499992371,
+    "low": 23.0,
+    "close": 24.0,
+    "volume": 75400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.0,
+    "high": 25.4419994354,
+    "low": 23.7870006561,
+    "close": 24.7700004578,
+    "volume": 69600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.5799999237,
+    "high": 26.7600002289,
+    "low": 24.5300006866,
+    "close": 25.7700004578,
+    "volume": 96900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.7600002289,
+    "high": 25.7600002289,
+    "low": 23.7399997711,
+    "close": 24.1800003052,
+    "volume": 114300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.5,
+    "high": 24.9200000763,
+    "low": 22.0,
+    "close": 22.6399993896,
+    "volume": 104300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.6499996185,
+    "high": 23.7299995422,
+    "low": 22.2999992371,
+    "close": 22.7099990845,
+    "volume": 124600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.6000003815,
+    "high": 23.75,
+    "low": 21.0699996948,
+    "close": 23.25,
+    "volume": 76000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.1200008392,
+    "high": 24.9899997711,
+    "low": 22.1499996185,
+    "close": 23.7099990845,
+    "volume": 102800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.5100002289,
+    "high": 25.1800003052,
+    "low": 21.9500007629,
+    "close": 24.3400001526,
+    "volume": 97200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.4200000763,
+    "high": 26.1049995422,
+    "low": 23.2999992371,
+    "close": 25.3799991608,
+    "volume": 63800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.4799995422,
+    "high": 27.25,
+    "low": 25.2000007629,
+    "close": 25.8400001526,
+    "volume": 106200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.9099998474,
+    "high": 26.7390003204,
+    "low": 23.4200000763,
+    "close": 25.3799991608,
+    "volume": 229300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.3899993896,
+    "high": 25.3700008392,
+    "low": 20.3700008392,
+    "close": 24.3899993896,
+    "volume": 171200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.1900005341,
+    "high": 24.7299995422,
+    "low": 20.7999992371,
+    "close": 21.6000003815,
+    "volume": 143100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.25,
+    "high": 22.3199996948,
+    "low": 20.8799991608,
+    "close": 21.3999996185,
+    "volume": 74800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.25,
+    "high": 23.4950008392,
+    "low": 21.25,
+    "close": 22.7099990845,
+    "volume": 247600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.8600006104,
+    "high": 23.4750003815,
+    "low": 22.1499996185,
+    "close": 23.0699996948,
+    "volume": 87600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.3199996948,
+    "high": 23.8799991608,
+    "low": 22.9599990845,
+    "close": 23.4799995422,
+    "volume": 108800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.6399993896,
+    "high": 23.6459999084,
+    "low": 22.2749996185,
+    "close": 23.0100002289,
+    "volume": 75600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.8299999237,
+    "high": 24.5049991608,
+    "low": 22.7800006866,
+    "close": 24.0,
+    "volume": 85700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,03,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.8799991608,
+    "high": 24.8250007629,
+    "low": 23.3099994659,
+    "close": 24.1000003815,
+    "volume": 93700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.7800006866,
+    "high": 23.9599990845,
+    "low": 22.5400009155,
+    "close": 23.3299999237,
+    "volume": 45100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.6000003815,
+    "high": 24.25,
+    "low": 22.7049999237,
+    "close": 23.7999992371,
+    "volume": 108000.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,03,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.6499996185,
+    "high": 23.6499996185,
+    "low": 21.7999992371,
+    "close": 22.0499992371,
+    "volume": 89100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.6100006104,
+    "high": 22.7740001678,
+    "low": 21.6100006104,
+    "close": 22.4599990845,
+    "volume": 42400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.3999996185,
+    "high": 26.6499996185,
+    "low": 22.1399993896,
+    "close": 25.5,
+    "volume": 238000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 26.2900009155,
+    "high": 27.75,
+    "low": 25.4799995422,
+    "close": 25.6299991608,
+    "volume": 117500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.8500003815,
+    "high": 26.5,
+    "low": 24.1299991608,
+    "close": 25.1399993896,
+    "volume": 138300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.6900005341,
+    "high": 25.6200008392,
+    "low": 23.9400005341,
+    "close": 24.7749996185,
+    "volume": 95800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.7800006866,
+    "high": 25.4799995422,
+    "low": 20.8850002289,
+    "close": 21.25,
+    "volume": 141900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.3700008392,
+    "high": 22.6399993896,
+    "low": 20.5249996185,
+    "close": 21.1299991608,
+    "volume": 173400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.1499996185,
+    "high": 21.9599990845,
+    "low": 19.5400009155,
+    "close": 20.1399993896,
+    "volume": 134200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.9899997711,
+    "high": 20.5499992371,
+    "low": 18.8999996185,
+    "close": 20.0599994659,
+    "volume": 86300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.8700008392,
+    "high": 21.0599994659,
+    "low": 19.7999992371,
+    "close": 20.7700004578,
+    "volume": 69500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.2299995422,
+    "high": 21.4799995422,
+    "low": 19.0249996185,
+    "close": 19.1200008392,
+    "volume": 108900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.7700004578,
+    "high": 20.8700008392,
+    "low": 17.3400001526,
+    "close": 19.5499992371,
+    "volume": 109200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.3199996948,
+    "high": 19.8899993896,
+    "low": 18.7250003815,
+    "close": 19.7000007629,
+    "volume": 48500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.5499992371,
+    "high": 21.2000007629,
+    "low": 19.5499992371,
+    "close": 20.1399993896,
+    "volume": 79800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.8999996185,
+    "high": 21.0900001526,
+    "low": 19.8999996185,
+    "close": 20.2199993134,
+    "volume": 49600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.1499996185,
+    "high": 20.2800006866,
+    "low": 18.2999992371,
+    "close": 19.6700000763,
+    "volume": 55900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.4799995422,
+    "high": 20.1599998474,
+    "low": 19.1800003052,
+    "close": 19.2900009155,
+    "volume": 53100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.6200008392,
+    "high": 20.6700000763,
+    "low": 19.5300006866,
+    "close": 20.0599994659,
+    "volume": 112500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.1399993896,
+    "high": 22.0,
+    "low": 19.7600002289,
+    "close": 20.8099994659,
+    "volume": 97700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.3400001526,
+    "high": 21.7000007629,
+    "low": 19.7800006866,
+    "close": 21.2099990845,
+    "volume": 88900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.1599998474,
+    "high": 22.6599998474,
+    "low": 21.1599998474,
+    "close": 21.6900005341,
+    "volume": 60900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.5400009155,
+    "high": 22.7700004578,
+    "low": 21.0300006866,
+    "close": 21.7800006866,
+    "volume": 102000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.5300006866,
+    "high": 23.4899997711,
+    "low": 21.4200000763,
+    "close": 22.9099998474,
+    "volume": 72200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.1200008392,
+    "high": 24.1800003052,
+    "low": 22.8449993134,
+    "close": 23.8500003815,
+    "volume": 121100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.0,
+    "high": 24.2250003815,
+    "low": 22.3700008392,
+    "close": 22.3899993896,
+    "volume": 108600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.7000007629,
+    "high": 25.0,
+    "low": 22.4799995422,
+    "close": 24.7999992371,
+    "volume": 169000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.9899997711,
+    "high": 25.25,
+    "low": 23.1800003052,
+    "close": 23.3700008392,
+    "volume": 131000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.0200004578,
+    "high": 24.2600002289,
+    "low": 23.0200004578,
+    "close": 23.8400001526,
+    "volume": 87000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.8400001526,
+    "high": 24.6000003815,
+    "low": 23.3050003052,
+    "close": 23.7000007629,
+    "volume": 57800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.9300003052,
+    "high": 24.6450004578,
+    "low": 23.75,
+    "close": 24.0100002289,
+    "volume": 94100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.8700008392,
+    "high": 25.0300006866,
+    "low": 23.375,
+    "close": 24.8899993896,
+    "volume": 127400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 25.0,
+    "high": 25.0,
+    "low": 23.3299999237,
+    "close": 23.9050006866,
+    "volume": 76400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.3999996185,
+    "high": 24.7800006866,
+    "low": 23.6499996185,
+    "close": 24.7800006866,
+    "volume": 72000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 24.7600002289,
+    "high": 24.9500007629,
+    "low": 23.1200008392,
+    "close": 23.6000003815,
+    "volume": 80600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 23.2399997711,
+    "high": 23.6700000763,
+    "low": 22.25,
+    "close": 22.4099998474,
+    "volume": 53500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.2600002289,
+    "high": 23.2000007629,
+    "low": 21.8899993896,
+    "close": 22.6200008392,
+    "volume": 65700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 22.5200004578,
+    "high": 23.6800003052,
+    "low": 21.1700000763,
+    "close": 21.4899997711,
+    "volume": 63300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.4799995422,
+    "high": 21.4799995422,
+    "low": 20.375,
+    "close": 20.6000003815,
+    "volume": 56000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.6399993896,
+    "high": 21.5450000763,
+    "low": 19.5900001526,
+    "close": 19.7299995422,
+    "volume": 51600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.0300006866,
+    "high": 21.2049999237,
+    "low": 19.9300003052,
+    "close": 20.8299999237,
+    "volume": 54200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.5699996948,
+    "high": 21.4799995422,
+    "low": 20.5699996948,
+    "close": 20.7199993134,
+    "volume": 50400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.0200004578,
+    "high": 21.1100006104,
+    "low": 20.3199996948,
+    "close": 20.6200008392,
+    "volume": 51900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 20.6700000763,
+    "high": 21.2700004578,
+    "low": 20.2000007629,
+    "close": 20.8500003815,
+    "volume": 36400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 21.2299995422,
+    "high": 21.2299995422,
+    "low": 19.5349998474,
+    "close": 20.0599994659,
+    "volume": 52200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.9300003052,
+    "high": 20.5130004883,
+    "low": 19.1399993896,
+    "close": 19.3299999237,
+    "volume": 62000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.9099998474,
+    "high": 20.7000007629,
+    "low": 18.5499992371,
+    "close": 19.2000007629,
+    "volume": 97100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.0699996948,
+    "high": 19.4899997711,
+    "low": 18.6800003052,
+    "close": 19.25,
+    "volume": 52800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.1000003815,
+    "high": 19.4099998474,
+    "low": 18.6399993896,
+    "close": 19.2399997711,
+    "volume": 39400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 19.25,
+    "high": 19.4899997711,
+    "low": 18.3600006104,
+    "close": 19.0200004578,
+    "volume": 37600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 18.5599994659,
+    "high": 18.7299995422,
+    "low": 17.4300003052,
+    "close": 17.9200000763,
+    "volume": 107600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.8799991608,
+    "high": 18.0,
+    "low": 16.3950004578,
+    "close": 16.5100002289,
+    "volume": 96300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.0,
+    "high": 16.4300003052,
+    "low": 15.4899997711,
+    "close": 16.1299991608,
+    "volume": 119000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.2600002289,
+    "high": 17.2999992371,
+    "low": 16.2299995422,
+    "close": 17.2199993134,
+    "volume": 82100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.9500007629,
+    "high": 17.6900005341,
+    "low": 16.1399993896,
+    "close": 17.2999992371,
+    "volume": 69800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.1900005341,
+    "high": 17.6900005341,
+    "low": 16.8500003815,
+    "close": 17.4599990845,
+    "volume": 54300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.4599990845,
+    "high": 17.6499996185,
+    "low": 16.0900001526,
+    "close": 16.3700008392,
+    "volume": 134000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.5,
+    "high": 17.2099990845,
+    "low": 16.0100002289,
+    "close": 16.7299995422,
+    "volume": 84000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.7700004578,
+    "high": 17.1599998474,
+    "low": 16.3899993896,
+    "close": 16.8299999237,
+    "volume": 57200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.8700008392,
+    "high": 17.4750003815,
+    "low": 16.2999992371,
+    "close": 17.3299999237,
+    "volume": 65600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.2299995422,
+    "high": 17.6499996185,
+    "low": 16.7399997711,
+    "close": 17.1499996185,
+    "volume": 82600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 17.1499996185,
+    "high": 17.1550006866,
+    "low": 14.7049999237,
+    "close": 14.8900003433,
+    "volume": 117900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.8699998856,
+    "high": 14.8699998856,
+    "low": 12.3400001526,
+    "close": 12.5699996948,
+    "volume": 413000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.5900001526,
+    "high": 13.125,
+    "low": 11.9449996948,
+    "close": 13.0500001907,
+    "volume": 127400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.9899997711,
+    "high": 13.5100002289,
+    "low": 11.6999998093,
+    "close": 11.970000267,
+    "volume": 96700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.1999998093,
+    "high": 12.470000267,
+    "low": 11.8500003815,
+    "close": 12.3100004196,
+    "volume": 124800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.5,
+    "high": 13.029999733,
+    "low": 12.1450004578,
+    "close": 12.6999998093,
+    "volume": 99200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.6400003433,
+    "high": 13.3500003815,
+    "low": 12.6400003433,
+    "close": 13.220000267,
+    "volume": 146400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.220000267,
+    "high": 14.1400003433,
+    "low": 12.8299999237,
+    "close": 13.720000267,
+    "volume": 142500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.6700000763,
+    "high": 13.8000001907,
+    "low": 13.0799999237,
+    "close": 13.5,
+    "volume": 99900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.779999733,
+    "high": 13.9600000381,
+    "low": 13.2700004578,
+    "close": 13.5500001907,
+    "volume": 82700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.3599996567,
+    "high": 13.4899997711,
+    "low": 12.029999733,
+    "close": 12.4399995804,
+    "volume": 198600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.4799995422,
+    "high": 13.0200004578,
+    "low": 12.3050003052,
+    "close": 12.5200004578,
+    "volume": 167100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.7299995422,
+    "high": 13.220000267,
+    "low": 12.2449998856,
+    "close": 12.7399997711,
+    "volume": 360100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.8400001526,
+    "high": 13.0699996948,
+    "low": 11.6700000763,
+    "close": 11.970000267,
+    "volume": 184600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.8800001144,
+    "high": 13.0200004578,
+    "low": 11.6599998474,
+    "close": 12.6300001144,
+    "volume": 152500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.6499996185,
+    "high": 13.25,
+    "low": 12.3500003815,
+    "close": 13.0,
+    "volume": 132900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.1300001144,
+    "high": 13.7299995422,
+    "low": 12.3299999237,
+    "close": 12.4899997711,
+    "volume": 127700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.3800001144,
+    "high": 12.6750001907,
+    "low": 11.470000267,
+    "close": 11.6099996567,
+    "volume": 1698400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.8400001526,
+    "high": 13.0799999237,
+    "low": 11.8400001526,
+    "close": 12.75,
+    "volume": 200100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.7899999619,
+    "high": 14.2100000381,
+    "low": 12.4099998474,
+    "close": 14.0500001907,
+    "volume": 359400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.8599996567,
+    "high": 14.1199998856,
+    "low": 12.5600004196,
+    "close": 12.970000267,
+    "volume": 164200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.0500001907,
+    "high": 14.2150001526,
+    "low": 13.0500001907,
+    "close": 14.0500001907,
+    "volume": 219500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.1099996567,
+    "high": 14.6999998093,
+    "low": 13.7449998856,
+    "close": 14.0399999619,
+    "volume": 213800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.9600000381,
+    "high": 16.1499996185,
+    "low": 13.4200000763,
+    "close": 15.9099998474,
+    "volume": 275500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.6599998474,
+    "high": 16.7999992371,
+    "low": 14.6999998093,
+    "close": 15.3999996185,
+    "volume": 270600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.1499996185,
+    "high": 16.0699996948,
+    "low": 14.8299999237,
+    "close": 15.2100000381,
+    "volume": 137400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.1700000763,
+    "high": 15.4499998093,
+    "low": 13.8070001602,
+    "close": 15.0100002289,
+    "volume": 116600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.7899999619,
+    "high": 14.7899999619,
+    "low": 14.1400003433,
+    "close": 14.3299999237,
+    "volume": 133000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.2399997711,
+    "high": 14.2399997711,
+    "low": 13.2299995422,
+    "close": 13.3999996185,
+    "volume": 171300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.5200004578,
+    "high": 14.6000003815,
+    "low": 13.2600002289,
+    "close": 14.2600002289,
+    "volume": 144200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.2399997711,
+    "high": 14.3999996185,
+    "low": 13.2399997711,
+    "close": 13.8900003433,
+    "volume": 140900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.1499996185,
+    "high": 13.8999996185,
+    "low": 13.0600004196,
+    "close": 13.3199996948,
+    "volume": 168700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.3599996567,
+    "high": 13.6000003815,
+    "low": 12.720000267,
+    "close": 12.9200000763,
+    "volume": 125000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.8500003815,
+    "high": 13.3400001526,
+    "low": 12.8050003052,
+    "close": 13.1099996567,
+    "volume": 151300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.6800003052,
+    "high": 14.1400003433,
+    "low": 12.6800003052,
+    "close": 12.8400001526,
+    "volume": 163800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.6300001144,
+    "high": 13.0200004578,
+    "low": 12.4499998093,
+    "close": 12.779999733,
+    "volume": 91400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.8299999237,
+    "high": 12.9549999237,
+    "low": 12.4799995422,
+    "close": 12.6300001144,
+    "volume": 90700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.7700004578,
+    "high": 13.0500001907,
+    "low": 12.6000003815,
+    "close": 12.9600000381,
+    "volume": 110600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.9399995804,
+    "high": 13.0500001907,
+    "low": 12.5600004196,
+    "close": 12.9899997711,
+    "volume": 157100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.8999996185,
+    "high": 13.4899997711,
+    "low": 12.8199996948,
+    "close": 12.970000267,
+    "volume": 198900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.9799995422,
+    "high": 13.7399997711,
+    "low": 12.8199996948,
+    "close": 13.720000267,
+    "volume": 197900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.5,
+    "high": 13.654999733,
+    "low": 12.8800001144,
+    "close": 12.9399995804,
+    "volume": 126700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.0500001907,
+    "high": 13.1499996185,
+    "low": 12.7100000381,
+    "close": 12.8699998856,
+    "volume": 86000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.8699998856,
+    "high": 13.8299999237,
+    "low": 12.8699998856,
+    "close": 13.6000003815,
+    "volume": 186700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.5,
+    "high": 13.9750003815,
+    "low": 13.1999998093,
+    "close": 13.4499998093,
+    "volume": 484700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.0100002289,
+    "high": 15.625,
+    "low": 13.8500003815,
+    "close": 14.2100000381,
+    "volume": 362800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.0,
+    "high": 15.0869998932,
+    "low": 13.9449996948,
+    "close": 14.7100000381,
+    "volume": 111000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.5,
+    "high": 15.0749998093,
+    "low": 14.0900001526,
+    "close": 14.3299999237,
+    "volume": 203000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.3299999237,
+    "high": 15.5150003433,
+    "low": 14.3199996948,
+    "close": 14.8800001144,
+    "volume": 134500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.7700004578,
+    "high": 15.0100002289,
+    "low": 14.0699996948,
+    "close": 14.1700000763,
+    "volume": 98100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.1999998093,
+    "high": 14.4099998474,
+    "low": 13.6999998093,
+    "close": 13.7399997711,
+    "volume": 89000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.7700004578,
+    "high": 14.0200004578,
+    "low": 13.4200000763,
+    "close": 13.9499998093,
+    "volume": 106100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.8599996567,
+    "high": 13.9300003052,
+    "low": 13.3900003433,
+    "close": 13.5500001907,
+    "volume": 132500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.5399999619,
+    "high": 15.8100004196,
+    "low": 13.4600000381,
+    "close": 15.7899999619,
+    "volume": 310900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 16.0200004578,
+    "high": 17.1499996185,
+    "low": 15.6599998474,
+    "close": 15.7600002289,
+    "volume": 171000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.5900001526,
+    "high": 16.0149993896,
+    "low": 14.5249996185,
+    "close": 15.3500003815,
+    "volume": 207600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.5399999619,
+    "high": 16.1599998474,
+    "low": 15.1999998093,
+    "close": 15.529999733,
+    "volume": 104900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.3000001907,
+    "high": 15.4899997711,
+    "low": 14.4600000381,
+    "close": 14.7399997711,
+    "volume": 73200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.0200004578,
+    "high": 15.6800003052,
+    "low": 14.9200000763,
+    "close": 15.4899997711,
+    "volume": 103000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.3400001526,
+    "high": 15.4099998474,
+    "low": 14.6099996567,
+    "close": 14.8000001907,
+    "volume": 87800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.6700000763,
+    "high": 15.0200004578,
+    "low": 14.3299999237,
+    "close": 14.6099996567,
+    "volume": 88400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.5600004196,
+    "high": 14.779999733,
+    "low": 14.0600004196,
+    "close": 14.529999733,
+    "volume": 78100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.5100002289,
+    "high": 14.7100000381,
+    "low": 14.1400003433,
+    "close": 14.3199996948,
+    "volume": 62800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.1400003433,
+    "high": 14.8350000381,
+    "low": 14.0,
+    "close": 14.5249996185,
+    "volume": 67000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.4899997711,
+    "high": 14.970000267,
+    "low": 14.25,
+    "close": 14.9549999237,
+    "volume": 56900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 15.1099996567,
+    "high": 15.1400003433,
+    "low": 14.1899995804,
+    "close": 14.3199996948,
+    "volume": 79100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.2899999619,
+    "high": 14.6800003052,
+    "low": 13.9200000763,
+    "close": 14.3699998856,
+    "volume": 54100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 14.1199998856,
+    "high": 14.1300001144,
+    "low": 13.3699998856,
+    "close": 13.529999733,
+    "volume": 82500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 13.5200004578,
+    "high": 13.8199996948,
+    "low": 12.7100000381,
+    "close": 12.8800001144,
+    "volume": 101600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.6999998093,
+    "high": 12.7100000381,
+    "low": 12.0399999619,
+    "close": 12.1999998093,
+    "volume": 110900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 12.4099998474,
+    "high": 13.0,
+    "low": 11.6999998093,
+    "close": 11.9600000381,
+    "volume": 152200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.970000267,
+    "high": 12.3850002289,
+    "low": 11.2399997711,
+    "close": 11.3299999237,
+    "volume": 104400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.2899999619,
+    "high": 11.2899999619,
+    "low": 10.5500001907,
+    "close": 10.9099998474,
+    "volume": 184100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.8999996185,
+    "high": 10.9799995422,
+    "low": 10.4600000381,
+    "close": 10.7749996185,
+    "volume": 154700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.0100002289,
+    "high": 11.0600004196,
+    "low": 10.6000003815,
+    "close": 10.8000001907,
+    "volume": 133000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.75,
+    "high": 11.0450000763,
+    "low": 10.529999733,
+    "close": 11.0100002289,
+    "volume": 401100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.0200004578,
+    "high": 11.1800003052,
+    "low": 10.6000003815,
+    "close": 10.9300003052,
+    "volume": 142600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.0900001526,
+    "high": 11.2250003815,
+    "low": 10.9449996948,
+    "close": 11.1499996185,
+    "volume": 211500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 11.0500001907,
+    "high": 11.0500001907,
+    "low": 10.3199996948,
+    "close": 10.529999733,
+    "volume": 161500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.4099998474,
+    "high": 10.7629995346,
+    "low": 10.0600004196,
+    "close": 10.1199998856,
+    "volume": 164500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 10.1599998474,
+    "high": 10.1599998474,
+    "low": 9.8100004196,
+    "close": 9.8500003815,
+    "volume": 108900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.8000001907,
+    "high": 9.9600000381,
+    "low": 9.6000003815,
+    "close": 9.7399997711,
+    "volume": 129000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.7399997711,
+    "high": 9.7399997711,
+    "low": 9.4449996948,
+    "close": 9.6300001144,
+    "volume": 140800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.6099996567,
+    "high": 10.0,
+    "low": 9.4250001907,
+    "close": 9.7899999619,
+    "volume": 153900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.8000001907,
+    "high": 9.970000267,
+    "low": 9.3599996567,
+    "close": 9.4099998474,
+    "volume": 115200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.5500001907,
+    "high": 9.5600004196,
+    "low": 9.220000267,
+    "close": 9.2600002289,
+    "volume": 111390.0,
+    "wedge_status": "none"
+  }
+]

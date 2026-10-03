@@ -1,0 +1,7522 @@
+[
+  {
+    "trade_date": "2023,10,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.1849999428,
+    "high": 7.1849999428,
+    "low": 6.6149997711,
+    "close": 6.75,
+    "volume": 3507.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.1100001335,
+    "high": 7.1100001335,
+    "low": 6.6300001144,
+    "close": 6.6900000572,
+    "volume": 3927.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.7950000763,
+    "high": 7.0199999809,
+    "low": 6.6149997711,
+    "close": 6.8400001526,
+    "volume": 567.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.9450001717,
+    "high": 7.0050001144,
+    "low": 6.6750001907,
+    "close": 6.6750001907,
+    "volume": 1060.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.75,
+    "high": 6.9000000954,
+    "low": 6.5999999046,
+    "close": 6.75,
+    "volume": 2307.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.8550000191,
+    "high": 7.3499999046,
+    "low": 6.3899998665,
+    "close": 6.4349999428,
+    "volume": 11447.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.5700001717,
+    "high": 6.9749999046,
+    "low": 6.3000001907,
+    "close": 6.4499998093,
+    "volume": 7527.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.7950000763,
+    "high": 6.7950000763,
+    "low": 6.375,
+    "close": 6.4050002098,
+    "volume": 4433.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.5850000381,
+    "high": 6.8099999428,
+    "low": 6.3000001907,
+    "close": 6.4800000191,
+    "volume": 4553.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.6750001907,
+    "high": 6.9000000954,
+    "low": 6.5999999046,
+    "close": 6.75,
+    "volume": 4967.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.9749999046,
+    "high": 7.0500001907,
+    "low": 6.75,
+    "close": 7.0500001907,
+    "volume": 2513.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,10,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.1399998665,
+    "high": 7.5,
+    "low": 6.8400001526,
+    "close": 6.8400001526,
+    "volume": 2460.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.0500001907,
+    "high": 7.1999998093,
+    "low": 6.8699998856,
+    "close": 6.8699998856,
+    "volume": 2973.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.9299998283,
+    "high": 7.1849999428,
+    "low": 6.6750001907,
+    "close": 6.6750001907,
+    "volume": 4473.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.8699998856,
+    "high": 7.0349998474,
+    "low": 6.75,
+    "close": 6.75,
+    "volume": 2660.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.9600000381,
+    "high": 6.9600000381,
+    "low": 6.5999999046,
+    "close": 6.5999999046,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.5999999046,
+    "high": 7.0349998474,
+    "low": 6.1799998283,
+    "close": 6.75,
+    "volume": 4913.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.75,
+    "high": 6.7649998665,
+    "low": 5.8499999046,
+    "close": 5.8800001144,
+    "volume": 15307.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,10,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.0,
+    "high": 6.1950001717,
+    "low": 5.6550002098,
+    "close": 5.6999998093,
+    "volume": 6520.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 5.7150001526,
+    "high": 5.8350000381,
+    "low": 5.4450001717,
+    "close": 5.7300000191,
+    "volume": 10967.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 5.7150001526,
+    "high": 6.5250000954,
+    "low": 5.5500001907,
+    "close": 6.1199998856,
+    "volume": 13613.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.0,
+    "high": 7.0799999237,
+    "low": 5.8049998283,
+    "close": 6.5250000954,
+    "volume": 8820.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.7350001335,
+    "high": 6.7649998665,
+    "low": 6.3000001907,
+    "close": 6.4349999428,
+    "volume": 9027.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.3899998665,
+    "high": 6.7649998665,
+    "low": 6.2399997711,
+    "close": 6.2550001144,
+    "volume": 2873.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.3000001907,
+    "high": 6.6149997711,
+    "low": 6.3000001907,
+    "close": 6.5250000954,
+    "volume": 4407.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,11,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.5999999046,
+    "high": 6.7199997902,
+    "low": 6.1799998283,
+    "close": 6.3000001907,
+    "volume": 667.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.1799998283,
+    "high": 6.5549998283,
+    "low": 4.5,
+    "close": 4.9650001526,
+    "volume": 35853.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 5.0999999046,
+    "high": 5.4149999619,
+    "low": 5.0999999046,
+    "close": 5.3400001526,
+    "volume": 6133.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 5.0999999046,
+    "high": 5.4600000381,
+    "low": 5.0999999046,
+    "close": 5.4000000954,
+    "volume": 2847.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 5.3850002289,
+    "high": 5.9699997902,
+    "low": 5.2800002098,
+    "close": 5.4000000954,
+    "volume": 5600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 5.5500001907,
+    "high": 6.1500000954,
+    "low": 5.5500001907,
+    "close": 5.6999998093,
+    "volume": 12213.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 5.6100001335,
+    "high": 6.75,
+    "low": 5.6100001335,
+    "close": 6.1500000954,
+    "volume": 6740.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.4499998093,
+    "high": 7.6500000954,
+    "low": 6.4499998093,
+    "close": 6.9000000954,
+    "volume": 11433.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.9749999046,
+    "high": 7.5749998093,
+    "low": 6.6900000572,
+    "close": 7.1849999428,
+    "volume": 11627.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.9749999046,
+    "high": 7.3350000381,
+    "low": 5.6999998093,
+    "close": 6.0300002098,
+    "volume": 15213.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.1500000954,
+    "high": 6.9749999046,
+    "low": 6.0,
+    "close": 6.9000000954,
+    "volume": 4293.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.9000000954,
+    "high": 7.0050001144,
+    "low": 6.4650001526,
+    "close": 6.9000000954,
+    "volume": 2973.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.9450001717,
+    "high": 7.4850001335,
+    "low": 6.7199997902,
+    "close": 6.7199997902,
+    "volume": 2167.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.75,
+    "high": 7.0500001907,
+    "low": 6.75,
+    "close": 6.75,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.8850002289,
+    "high": 7.2300000191,
+    "low": 6.7800002098,
+    "close": 7.0349998474,
+    "volume": 2967.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.0949997902,
+    "high": 7.9200000763,
+    "low": 6.9000000954,
+    "close": 7.1999998093,
+    "volume": 8400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.5,
+    "high": 7.9050002098,
+    "low": 7.1999998093,
+    "close": 7.3499999046,
+    "volume": 8507.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.3499999046,
+    "high": 7.8000001907,
+    "low": 7.3499999046,
+    "close": 7.7249999046,
+    "volume": 5040.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0249996185,
+    "high": 8.2349996567,
+    "low": 7.5,
+    "close": 8.0249996185,
+    "volume": 6067.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.9800000191,
+    "high": 8.1000003815,
+    "low": 7.5749998093,
+    "close": 7.7249999046,
+    "volume": 4180.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.8000001907,
+    "high": 8.25,
+    "low": 7.8000001907,
+    "close": 8.1149997711,
+    "volume": 5407.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.25,
+    "high": 8.9849996567,
+    "low": 7.8000001907,
+    "close": 7.8000001907,
+    "volume": 10640.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.7249999046,
+    "high": 7.7699999809,
+    "low": 7.2750000954,
+    "close": 7.3499999046,
+    "volume": 3840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.6050000191,
+    "high": 7.9949998856,
+    "low": 6.9299998283,
+    "close": 7.0500001907,
+    "volume": 9493.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,12,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.2899999619,
+    "high": 8.1000003815,
+    "low": 7.0050001144,
+    "close": 7.5,
+    "volume": 28913.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.8400001526,
+    "high": 8.2700004578,
+    "low": 7.5,
+    "close": 8.1999998093,
+    "volume": 15800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.029999733,
+    "high": 8.5170001984,
+    "low": 7.8699998856,
+    "close": 8.1899995804,
+    "volume": 29000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6000003815,
+    "high": 8.8800001144,
+    "low": 8.1899995804,
+    "close": 8.1899995804,
+    "volume": 7300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.2100000381,
+    "high": 8.4770002365,
+    "low": 8.1770000458,
+    "close": 8.1770000458,
+    "volume": 6600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0500001907,
+    "high": 8.095000267,
+    "low": 7.8289999962,
+    "close": 7.9800000191,
+    "volume": 6000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0329999924,
+    "high": 8.2790002823,
+    "low": 7.6979999542,
+    "close": 7.8800001144,
+    "volume": 18700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.1359996796,
+    "high": 8.3800001144,
+    "low": 7.8350000381,
+    "close": 8.3800001144,
+    "volume": 5100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6400003433,
+    "high": 8.7899999619,
+    "low": 8.2899999619,
+    "close": 8.720000267,
+    "volume": 9900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.7030000687,
+    "high": 8.767999649,
+    "low": 8.5100002289,
+    "close": 8.5200004578,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.1999998093,
+    "high": 9.1379995346,
+    "low": 8.1800003052,
+    "close": 9.0,
+    "volume": 29500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.9890003204,
+    "high": 10.8199996948,
+    "low": 8.8999996185,
+    "close": 9.3999996185,
+    "volume": 47200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3900003433,
+    "high": 10.5,
+    "low": 9.1260004044,
+    "close": 10.1499996185,
+    "volume": 39800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.4899997711,
+    "high": 10.8009996414,
+    "low": 9.8999996185,
+    "close": 10.1499996185,
+    "volume": 9500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1120004654,
+    "high": 10.6499996185,
+    "low": 10.0600004196,
+    "close": 10.3699998856,
+    "volume": 24100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.4099998474,
+    "high": 10.5880002975,
+    "low": 10.25,
+    "close": 10.529999733,
+    "volume": 9400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0200004578,
+    "high": 10.529999733,
+    "low": 10.0010004044,
+    "close": 10.1599998474,
+    "volume": 15100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3260002136,
+    "high": 10.75,
+    "low": 10.2600002289,
+    "close": 10.6000003815,
+    "volume": 32000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5819997787,
+    "high": 10.6000003815,
+    "low": 10.0520000458,
+    "close": 10.6000003815,
+    "volume": 7500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3100004196,
+    "high": 10.3100004196,
+    "low": 8.9600000381,
+    "close": 9.5500001907,
+    "volume": 23800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3549995422,
+    "high": 9.6700000763,
+    "low": 9.1059999466,
+    "close": 9.5,
+    "volume": 9600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.8000001907,
+    "high": 9.4499998093,
+    "low": 8.8000001907,
+    "close": 9.4099998474,
+    "volume": 24100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.8299999237,
+    "high": 9.3999996185,
+    "low": 8.8299999237,
+    "close": 9.3999996185,
+    "volume": 2900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.5200004578,
+    "high": 9.0900001526,
+    "low": 8.1999998093,
+    "close": 8.8800001144,
+    "volume": 27100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,01,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6400003433,
+    "high": 8.7950000763,
+    "low": 7.75,
+    "close": 8.0200004578,
+    "volume": 27900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3000001907,
+    "high": 8.6999998093,
+    "low": 7.5599999428,
+    "close": 8.2100000381,
+    "volume": 14100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.9000000954,
+    "high": 8.3000001907,
+    "low": 7.6999998093,
+    "close": 8.3000001907,
+    "volume": 12100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0900001526,
+    "high": 8.1499996185,
+    "low": 7.5,
+    "close": 7.6799998283,
+    "volume": 8000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.8200001717,
+    "high": 7.8200001717,
+    "low": 7.8200001717,
+    "close": 7.8200001717,
+    "volume": 300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.9499998093,
+    "high": 7.9499998093,
+    "low": 7.1500000954,
+    "close": 7.5999999046,
+    "volume": 9700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.5999999046,
+    "high": 7.8899998665,
+    "low": 7.2699999809,
+    "close": 7.8899998665,
+    "volume": 9000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0900001526,
+    "high": 8.0900001526,
+    "low": 7.5500001907,
+    "close": 7.7950000763,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.5889997482,
+    "high": 8.5889997482,
+    "low": 7.7899999619,
+    "close": 7.9000000954,
+    "volume": 9200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.1000003815,
+    "high": 8.2650003433,
+    "low": 8.1000003815,
+    "close": 8.25,
+    "volume": 2000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.8099999428,
+    "high": 8.8199996948,
+    "low": 7.8099999428,
+    "close": 8.8000001907,
+    "volume": 9600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.5399999619,
+    "high": 8.75,
+    "low": 7.7100000381,
+    "close": 8.5,
+    "volume": 5100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.1700000763,
+    "high": 9.0900001526,
+    "low": 8.1700000763,
+    "close": 8.8500003815,
+    "volume": 10300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.8999996185,
+    "high": 9.9099998474,
+    "low": 8.6450004578,
+    "close": 9.9099998474,
+    "volume": 18400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.4300003052,
+    "high": 10.4300003052,
+    "low": 8.9300003052,
+    "close": 9.4200000763,
+    "volume": 9200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1099996567,
+    "high": 9.1099996567,
+    "low": 8.5200004578,
+    "close": 8.75,
+    "volume": 5100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.75,
+    "high": 9.6000003815,
+    "low": 8.75,
+    "close": 9.1499996185,
+    "volume": 22700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,02,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0600004196,
+    "high": 10.8299999237,
+    "low": 9.0600004196,
+    "close": 10.3999996185,
+    "volume": 82200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0500001907,
+    "high": 11.4300003052,
+    "low": 10.0500001907,
+    "close": 11.3999996185,
+    "volume": 20300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0100002289,
+    "high": 11.4499998093,
+    "low": 10.0100002289,
+    "close": 11.1350002289,
+    "volume": 4500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8400001526,
+    "high": 11.875,
+    "low": 10.8400001526,
+    "close": 11.875,
+    "volume": 25900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.970000267,
+    "high": 14.2130002975,
+    "low": 11.8900003433,
+    "close": 13.9499998093,
+    "volume": 23800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.6000003815,
+    "high": 13.6999998093,
+    "low": 13.0419998169,
+    "close": 13.6999998093,
+    "volume": 11000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.0500001907,
+    "high": 13.25,
+    "low": 12.0,
+    "close": 12.779999733,
+    "volume": 11200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.5600004196,
+    "high": 12.970000267,
+    "low": 11.3400001526,
+    "close": 12.470000267,
+    "volume": 12500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4399995804,
+    "high": 11.8699998856,
+    "low": 11.2729997635,
+    "close": 11.8699998856,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.0,
+    "high": 12.470000267,
+    "low": 12.0,
+    "close": 12.470000267,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.5200004578,
+    "high": 13.5,
+    "low": 12.5,
+    "close": 13.5,
+    "volume": 21700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.5100002289,
+    "high": 13.5100002289,
+    "low": 12.8240003586,
+    "close": 13.0,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.7250003815,
+    "high": 13.25,
+    "low": 12.7250003815,
+    "close": 13.25,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6999998093,
+    "high": 13.5,
+    "low": 11.6999998093,
+    "close": 13.3999996185,
+    "volume": 11900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.029999733,
+    "high": 13.9399995804,
+    "low": 13.0200004578,
+    "close": 13.513999939,
+    "volume": 7600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.4899997711,
+    "high": 13.5500001907,
+    "low": 13.0100002289,
+    "close": 13.5500001907,
+    "volume": 4300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.0100002289,
+    "high": 13.5500001907,
+    "low": 13.0100002289,
+    "close": 13.5,
+    "volume": 5300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.1510000229,
+    "high": 13.5,
+    "low": 13.0,
+    "close": 13.3500003815,
+    "volume": 4900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.4899997711,
+    "high": 13.5500001907,
+    "low": 12.6700000763,
+    "close": 13.3199996948,
+    "volume": 13600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.3000001907,
+    "high": 13.3999996185,
+    "low": 13.0500001907,
+    "close": 13.3999996185,
+    "volume": 2000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.6999998093,
+    "high": 13.4899997711,
+    "low": 12.6999998093,
+    "close": 13.279999733,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.3809995651,
+    "high": 13.5,
+    "low": 12.5,
+    "close": 13.5,
+    "volume": 4000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.9750003815,
+    "high": 13.1000003815,
+    "low": 12.5100002289,
+    "close": 12.7899999619,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.25,
+    "high": 13.3999996185,
+    "low": 12.7700004578,
+    "close": 13.3249998093,
+    "volume": 5800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.779999733,
+    "high": 13.5500001907,
+    "low": 12.779999733,
+    "close": 13.1899995804,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.4600000381,
+    "high": 14.3999996185,
+    "low": 13.1750001907,
+    "close": 14.25,
+    "volume": 45800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 14.2600002289,
+    "high": 14.3500003815,
+    "low": 13.6610002518,
+    "close": 13.8100004196,
+    "volume": 7200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.5989999771,
+    "high": 13.8000001907,
+    "low": 13.1999998093,
+    "close": 13.8000001907,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.9499998093,
+    "high": 13.9499998093,
+    "low": 13.0500001907,
+    "close": 13.5799999237,
+    "volume": 5300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.5699996948,
+    "high": 13.8999996185,
+    "low": 13.1099996567,
+    "close": 13.6499996185,
+    "volume": 4900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.6499996185,
+    "high": 14.3280000687,
+    "low": 13.6499996185,
+    "close": 14.3280000687,
+    "volume": 5500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 14.8299999237,
+    "high": 16.1900005341,
+    "low": 14.8299999237,
+    "close": 15.7100000381,
+    "volume": 35600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 14.3000001907,
+    "high": 14.9600000381,
+    "low": 9.75,
+    "close": 10.1000003815,
+    "volume": 222300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,04,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0699996948,
+    "high": 10.638999939,
+    "low": 9.0600004196,
+    "close": 9.470000267,
+    "volume": 61200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.9300003052,
+    "high": 10.7569999695,
+    "low": 9.4099998474,
+    "close": 10.7399997711,
+    "volume": 20900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.6700000763,
+    "high": 11.8400001526,
+    "low": 10.6700000763,
+    "close": 11.3299999237,
+    "volume": 27700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8599996567,
+    "high": 11.1300001144,
+    "low": 10.75,
+    "close": 11.1300001144,
+    "volume": 13000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8500003815,
+    "high": 11.3500003815,
+    "low": 10.8500003815,
+    "close": 11.2299995422,
+    "volume": 10100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5900001526,
+    "high": 11.8249998093,
+    "low": 10.0100002289,
+    "close": 11.3500003815,
+    "volume": 62600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.3999996185,
+    "high": 11.4499998093,
+    "low": 10.3240003586,
+    "close": 11.0100002289,
+    "volume": 8900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.3000001907,
+    "high": 11.3000001907,
+    "low": 10.7899999619,
+    "close": 11.0850000381,
+    "volume": 6900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.779999733,
+    "high": 10.8999996185,
+    "low": 10.0100002289,
+    "close": 10.7299995422,
+    "volume": 7500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5799999237,
+    "high": 10.5900001526,
+    "low": 9.079000473,
+    "close": 9.75,
+    "volume": 17900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5399999619,
+    "high": 9.5399999619,
+    "low": 8.9799995422,
+    "close": 9.3199996948,
+    "volume": 12100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.7550001144,
+    "high": 9.8900003433,
+    "low": 8.8900003433,
+    "close": 9.3599996567,
+    "volume": 17600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.4200000763,
+    "high": 10.75,
+    "low": 9.3299999237,
+    "close": 9.3299999237,
+    "volume": 28600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5,
+    "high": 9.5,
+    "low": 9.1999998093,
+    "close": 9.404999733,
+    "volume": 2100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5799999237,
+    "high": 9.75,
+    "low": 8.5600004196,
+    "close": 9.25,
+    "volume": 9300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.25,
+    "high": 9.25,
+    "low": 9.0100002289,
+    "close": 9.0100002289,
+    "volume": 2300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1599998474,
+    "high": 9.8369998932,
+    "low": 8.5900001526,
+    "close": 8.970000267,
+    "volume": 9000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3500003815,
+    "high": 8.8100004196,
+    "low": 8.3500003815,
+    "close": 8.6099996567,
+    "volume": 5100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.1400003433,
+    "high": 8.9799995422,
+    "low": 8.1400003433,
+    "close": 8.9799995422,
+    "volume": 11100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.5,
+    "high": 9.4250001907,
+    "low": 8.5,
+    "close": 9.2899999619,
+    "volume": 10500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0799999237,
+    "high": 11.0,
+    "low": 8.9300003052,
+    "close": 10.7600002289,
+    "volume": 19500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.6379995346,
+    "high": 10.8999996185,
+    "low": 9.5500001907,
+    "close": 9.8900003433,
+    "volume": 9500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.7069997787,
+    "high": 10.3999996185,
+    "low": 9.5500001907,
+    "close": 10.1000003815,
+    "volume": 3100.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,05,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1000003815,
+    "high": 10.1000003815,
+    "low": 10.0,
+    "close": 10.0,
+    "volume": 700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.7299995422,
+    "high": 10.6499996185,
+    "low": 9.7299995422,
+    "close": 10.25,
+    "volume": 5300.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,05,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0100002289,
+    "high": 10.25,
+    "low": 9.5550003052,
+    "close": 9.9600000381,
+    "volume": 14100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8240003586,
+    "high": 10.1999998093,
+    "low": 9.5500001907,
+    "close": 10.1999998093,
+    "volume": 1200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8999996185,
+    "high": 10.4460000992,
+    "low": 9.6099996567,
+    "close": 10.2299995422,
+    "volume": 9600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.7700004578,
+    "high": 10.3999996185,
+    "low": 9.7419996262,
+    "close": 10.3999996185,
+    "volume": 22800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.9350004196,
+    "high": 10.4580001831,
+    "low": 9.7299995422,
+    "close": 10.2899999619,
+    "volume": 22200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.109000206,
+    "high": 10.4499998093,
+    "low": 9.6029996872,
+    "close": 10.4499998093,
+    "volume": 15600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8800001144,
+    "high": 10.5,
+    "low": 9.7700004578,
+    "close": 10.1529998779,
+    "volume": 44000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0900001526,
+    "high": 10.3000001907,
+    "low": 9.3000001907,
+    "close": 10.1499996185,
+    "volume": 24900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.9300003052,
+    "high": 9.9399995804,
+    "low": 9.3000001907,
+    "close": 9.5500001907,
+    "volume": 7700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3000001907,
+    "high": 9.6599998474,
+    "low": 9.3000001907,
+    "close": 9.4600000381,
+    "volume": 3400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.4499998093,
+    "high": 9.7100000381,
+    "low": 9.4499998093,
+    "close": 9.7100000381,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6899995804,
+    "high": 10.5500001907,
+    "low": 9.6899995804,
+    "close": 10.5500001907,
+    "volume": 10700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,05,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1440000534,
+    "high": 10.2899999619,
+    "low": 10.0,
+    "close": 10.2899999619,
+    "volume": 1200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0,
+    "high": 10.4490003586,
+    "low": 9.8299999237,
+    "close": 10.4490003586,
+    "volume": 10800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.9399995804,
+    "high": 10.4300003052,
+    "low": 9.8299999237,
+    "close": 10.4300003052,
+    "volume": 6400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5,
+    "high": 11.1000003815,
+    "low": 10.1199998856,
+    "close": 11.0500001907,
+    "volume": 31800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.1400003433,
+    "high": 11.1400003433,
+    "low": 11.0,
+    "close": 11.0,
+    "volume": 15900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5,
+    "high": 11.25,
+    "low": 10.5,
+    "close": 11.2100000381,
+    "volume": 10000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.9899997711,
+    "high": 11.9899997711,
+    "low": 11.2600002289,
+    "close": 11.4099998474,
+    "volume": 5700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.25,
+    "high": 11.3000001907,
+    "low": 11.1499996185,
+    "close": 11.1499996185,
+    "volume": 1800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8599996567,
+    "high": 11.1400003433,
+    "low": 10.5749998093,
+    "close": 11.0,
+    "volume": 3400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.6999998093,
+    "high": 10.6999998093,
+    "low": 10.0,
+    "close": 10.4250001907,
+    "volume": 6000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,06,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1199998856,
+    "high": 11.1000003815,
+    "low": 10.1199998856,
+    "close": 11.0900001526,
+    "volume": 5300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.1000003815,
+    "high": 11.25,
+    "low": 10.4940004349,
+    "close": 11.1999998093,
+    "volume": 11800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.1000003815,
+    "high": 11.4300003052,
+    "low": 11.1000003815,
+    "close": 11.3800001144,
+    "volume": 3300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8000001907,
+    "high": 11.4300003052,
+    "low": 10.8000001907,
+    "close": 11.4300003052,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.3800001144,
+    "high": 11.3800001144,
+    "low": 10.9099998474,
+    "close": 11.2700004578,
+    "volume": 7300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.0150003433,
+    "high": 11.3319997787,
+    "low": 11.0150003433,
+    "close": 11.1899995804,
+    "volume": 1500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1350002289,
+    "high": 11.1300001144,
+    "low": 9.982000351,
+    "close": 11.0,
+    "volume": 6000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5699996948,
+    "high": 11.0,
+    "low": 10.25,
+    "close": 10.25,
+    "volume": 2400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,06,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3999996185,
+    "high": 10.4200000763,
+    "low": 10.0399999619,
+    "close": 10.0399999619,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8800001144,
+    "high": 10.3400001526,
+    "low": 9.3000001907,
+    "close": 9.6899995804,
+    "volume": 38700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6899995804,
+    "high": 10.1999998093,
+    "low": 9.6899995804,
+    "close": 10.1999998093,
+    "volume": 4400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1800003052,
+    "high": 10.1800003052,
+    "low": 9.1800003052,
+    "close": 9.9499998093,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5600004196,
+    "high": 10.5600004196,
+    "low": 10.5600004196,
+    "close": 10.5600004196,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.4300003052,
+    "high": 10.0,
+    "low": 9.4300003052,
+    "close": 9.9399995804,
+    "volume": 7000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,06,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5500001907,
+    "high": 11.0,
+    "low": 9.470000267,
+    "close": 10.9499998093,
+    "volume": 7700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.0,
+    "high": 11.0,
+    "low": 9.6400003433,
+    "close": 10.6999998093,
+    "volume": 1200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3599996567,
+    "high": 10.6899995804,
+    "low": 10.220000267,
+    "close": 10.220000267,
+    "volume": 2100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.7700004578,
+    "high": 10.9899997711,
+    "low": 9.5500001907,
+    "close": 10.9899997711,
+    "volume": 4100.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,07,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5,
+    "high": 11.0,
+    "low": 9.5,
+    "close": 9.8500003815,
+    "volume": 15200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,07,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.7899999619,
+    "high": 10.4899997711,
+    "low": 9.7899999619,
+    "close": 10.4899997711,
+    "volume": 4600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.4899997711,
+    "high": 10.6800003052,
+    "low": 9.8599996567,
+    "close": 9.8599996567,
+    "volume": 9400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,07,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1099996567,
+    "high": 10.25,
+    "low": 9.6999998093,
+    "close": 9.6999998093,
+    "volume": 13400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.9250001907,
+    "high": 9.9250001907,
+    "low": 9.5100002289,
+    "close": 9.7700004578,
+    "volume": 13300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.654999733,
+    "high": 10.2349996567,
+    "low": 8.8500003815,
+    "close": 9.2299995422,
+    "volume": 26400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3500003815,
+    "high": 9.3500003815,
+    "low": 9.0,
+    "close": 9.3269996643,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5,
+    "high": 9.6000003815,
+    "low": 9.1999998093,
+    "close": 9.5,
+    "volume": 4800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6999998093,
+    "high": 9.9899997711,
+    "low": 9.079000473,
+    "close": 9.3000001907,
+    "volume": 6300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0900001526,
+    "high": 9.6499996185,
+    "low": 9.0,
+    "close": 9.25,
+    "volume": 3300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.029999733,
+    "high": 9.25,
+    "low": 8.8199996948,
+    "close": 9.0,
+    "volume": 3300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0,
+    "high": 9.1049995422,
+    "low": 8.0399999619,
+    "close": 8.4399995804,
+    "volume": 11700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6920003891,
+    "high": 8.8549995422,
+    "low": 8.0,
+    "close": 8.5,
+    "volume": 8000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.4099998474,
+    "high": 8.4200000763,
+    "low": 8.1000003815,
+    "close": 8.3800001144,
+    "volume": 4000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3389997482,
+    "high": 8.9300003052,
+    "low": 8.2100000381,
+    "close": 8.529999733,
+    "volume": 3000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.531999588,
+    "high": 8.8999996185,
+    "low": 8.531999588,
+    "close": 8.5699996948,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.720000267,
+    "high": 8.8900003433,
+    "low": 8.5399999619,
+    "close": 8.6800003052,
+    "volume": 2000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.5810003281,
+    "high": 8.6719999313,
+    "low": 8.5,
+    "close": 8.6199998856,
+    "volume": 4800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6400003433,
+    "high": 8.7299995422,
+    "low": 7.8400001526,
+    "close": 8.0600004196,
+    "volume": 14200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.9099998474,
+    "high": 8.2259998322,
+    "low": 7.8899998665,
+    "close": 8.0799999237,
+    "volume": 2200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.623000145,
+    "high": 7.9499998093,
+    "low": 6.8189997673,
+    "close": 7.6659998894,
+    "volume": 22100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.6999998093,
+    "high": 7.8699998856,
+    "low": 6.8400001526,
+    "close": 7.3400001526,
+    "volume": 10200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.5,
+    "high": 7.6300001144,
+    "low": 6.9800000191,
+    "close": 7.25,
+    "volume": 13400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.9499998093,
+    "high": 7.3000001907,
+    "low": 6.9499998093,
+    "close": 7.1999998093,
+    "volume": 9500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.0500001907,
+    "high": 7.2150001526,
+    "low": 6.9299998283,
+    "close": 7.0999999046,
+    "volume": 2100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.8200001717,
+    "high": 7.1500000954,
+    "low": 6.5900001526,
+    "close": 7.1500000954,
+    "volume": 4800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.3550000191,
+    "high": 7.5100002289,
+    "low": 7.0,
+    "close": 7.3000001907,
+    "volume": 13300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.6599998474,
+    "high": 6.8200001717,
+    "low": 6.0,
+    "close": 6.5599999428,
+    "volume": 41300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.4800000191,
+    "high": 6.5500001907,
+    "low": 6.3099999428,
+    "close": 6.5500001907,
+    "volume": 32600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.6999998093,
+    "high": 7.9000000954,
+    "low": 6.3499999046,
+    "close": 7.1999998093,
+    "volume": 10300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.1199998856,
+    "high": 7.8990001678,
+    "low": 7.1199998856,
+    "close": 7.5549998283,
+    "volume": 14200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.3400001526,
+    "high": 7.8000001907,
+    "low": 7.1399998665,
+    "close": 7.8000001907,
+    "volume": 21700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,08,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.2600002289,
+    "high": 7.6999998093,
+    "low": 7.0500001907,
+    "close": 7.3099999428,
+    "volume": 6600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.5300002098,
+    "high": 7.5300002098,
+    "low": 7.25,
+    "close": 7.3499999046,
+    "volume": 12300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.1399998665,
+    "high": 7.8899998665,
+    "low": 7.1399998665,
+    "close": 7.8899998665,
+    "volume": 15000.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,08,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.8499999046,
+    "high": 8.7399997711,
+    "low": 7.7550001144,
+    "close": 8.5699996948,
+    "volume": 11100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.220000267,
+    "high": 9.779999733,
+    "low": 8.0500001907,
+    "close": 9.1999998093,
+    "volume": 10600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0,
+    "high": 9.3800001144,
+    "low": 8.9499998093,
+    "close": 9.3800001144,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1999998093,
+    "high": 9.4099998474,
+    "low": 9.1999998093,
+    "close": 9.3400001526,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.25,
+    "high": 10.0,
+    "low": 9.029999733,
+    "close": 9.9399995804,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8520002365,
+    "high": 10.75,
+    "low": 9.3500003815,
+    "close": 10.6379995346,
+    "volume": 19400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6099996567,
+    "high": 10.6199998856,
+    "low": 9.6099996567,
+    "close": 10.6199998856,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3500003815,
+    "high": 10.4200000763,
+    "low": 9.8599996567,
+    "close": 10.2399997711,
+    "volume": 5400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8299999237,
+    "high": 10.0590000153,
+    "low": 9.3500003815,
+    "close": 9.7279996872,
+    "volume": 11200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8000001907,
+    "high": 10.1350002289,
+    "low": 9.0,
+    "close": 9.2329998016,
+    "volume": 11700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.2229995728,
+    "high": 9.2700004578,
+    "low": 8.4200000763,
+    "close": 8.5,
+    "volume": 30600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,09,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0,
+    "high": 8.3400001526,
+    "low": 8.0,
+    "close": 8.3299999237,
+    "volume": 1600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3299999237,
+    "high": 8.5,
+    "low": 8.1899995804,
+    "close": 8.3900003433,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3999996185,
+    "high": 8.3999996185,
+    "low": 7.5399999619,
+    "close": 8.3760004044,
+    "volume": 10300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.2899999619,
+    "high": 8.5850000381,
+    "low": 8.0229997635,
+    "close": 8.5799999237,
+    "volume": 8600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3100004196,
+    "high": 8.8000001907,
+    "low": 8.3100004196,
+    "close": 8.6899995804,
+    "volume": 7200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.7060003281,
+    "high": 8.7760000229,
+    "low": 8.029999733,
+    "close": 8.2100000381,
+    "volume": 9800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.1800003052,
+    "high": 8.4849996567,
+    "low": 7.6399998665,
+    "close": 8.0100002289,
+    "volume": 5800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.8099999428,
+    "high": 8.75,
+    "low": 7.5,
+    "close": 8.1499996185,
+    "volume": 16200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0710000992,
+    "high": 8.8699998856,
+    "low": 8.0710000992,
+    "close": 8.8699998856,
+    "volume": 11200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.8999996185,
+    "high": 9.25,
+    "low": 8.2399997711,
+    "close": 9.1999998093,
+    "volume": 7400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5500001907,
+    "high": 10.3400001526,
+    "low": 9.0,
+    "close": 10.0,
+    "volume": 21800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5100002289,
+    "high": 10.2700004578,
+    "low": 9.4099998474,
+    "close": 10.1999998093,
+    "volume": 11500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8100004196,
+    "high": 10.3400001526,
+    "low": 9.4099998474,
+    "close": 10.3299999237,
+    "volume": 16300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.2399997711,
+    "high": 10.279999733,
+    "low": 9.9499998093,
+    "close": 10.25,
+    "volume": 11700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.2899999619,
+    "high": 12.0,
+    "low": 10.279999733,
+    "close": 11.9799995422,
+    "volume": 18500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.8100004196,
+    "high": 12.25,
+    "low": 10.8599996567,
+    "close": 11.0100002289,
+    "volume": 32400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8549995422,
+    "high": 11.0,
+    "low": 9.7790002823,
+    "close": 10.9799995422,
+    "volume": 5700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0,
+    "high": 10.8999996185,
+    "low": 9.9899997711,
+    "close": 10.5,
+    "volume": 18000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1000003815,
+    "high": 11.4099998474,
+    "low": 10.1000003815,
+    "close": 11.3000001907,
+    "volume": 12200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.9610004425,
+    "high": 11.720000267,
+    "low": 10.3699998856,
+    "close": 11.3400001526,
+    "volume": 14900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8999996185,
+    "high": 11.8999996185,
+    "low": 10.8000001907,
+    "close": 11.1700000763,
+    "volume": 15600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.2100000381,
+    "high": 11.8699998856,
+    "low": 10.8000001907,
+    "close": 11.8100004196,
+    "volume": 19400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.0,
+    "high": 11.4469995499,
+    "low": 10.6700000763,
+    "close": 11.2399997711,
+    "volume": 5700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8500003815,
+    "high": 11.0,
+    "low": 10.1780004501,
+    "close": 10.4499998093,
+    "volume": 5800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.6999998093,
+    "high": 11.0,
+    "low": 10.1000003815,
+    "close": 10.75,
+    "volume": 3800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3599996567,
+    "high": 10.9600000381,
+    "low": 10.1000003815,
+    "close": 10.6999998093,
+    "volume": 16200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3599996567,
+    "high": 11.1000003815,
+    "low": 10.1999998093,
+    "close": 10.5,
+    "volume": 27600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5,
+    "high": 10.6820001602,
+    "low": 9.2700004578,
+    "close": 9.7600002289,
+    "volume": 20700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,10,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0,
+    "high": 11.2299995422,
+    "low": 9.75,
+    "close": 9.8800001144,
+    "volume": 13000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1339998245,
+    "high": 9.9149999619,
+    "low": 9.1000003815,
+    "close": 9.3800001144,
+    "volume": 13700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1599998474,
+    "high": 10.3800001144,
+    "low": 9.1000003815,
+    "close": 9.779999733,
+    "volume": 41900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.7580003738,
+    "high": 10.8999996185,
+    "low": 8.8649997711,
+    "close": 10.3999996185,
+    "volume": 88700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0,
+    "high": 10.8900003433,
+    "low": 9.7700004578,
+    "close": 10.1999998093,
+    "volume": 82100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1099996567,
+    "high": 10.8900003433,
+    "low": 9.7600002289,
+    "close": 9.9899997711,
+    "volume": 15800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3400001526,
+    "high": 10.6949996948,
+    "low": 9.5399999619,
+    "close": 9.6999998093,
+    "volume": 19600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0100002289,
+    "high": 9.6499996185,
+    "low": 9.0100002289,
+    "close": 9.5,
+    "volume": 13800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5,
+    "high": 11.6829996109,
+    "low": 9.5,
+    "close": 11.0880002975,
+    "volume": 67400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4600000381,
+    "high": 13.4399995804,
+    "low": 11.4600000381,
+    "close": 13.4399995804,
+    "volume": 62000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.6199998856,
+    "high": 14.1800003052,
+    "low": 12.6400003433,
+    "close": 13.2299995422,
+    "volume": 14800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.6300001144,
+    "high": 13.3400001526,
+    "low": 10.5100002289,
+    "close": 11.8800001144,
+    "volume": 25400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.3199996948,
+    "high": 12.2119998932,
+    "low": 10.6999998093,
+    "close": 10.9399995804,
+    "volume": 10900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5500001907,
+    "high": 11.5500001907,
+    "low": 9.75,
+    "close": 10.3800001144,
+    "volume": 12300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,11,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0100002289,
+    "high": 10.4499998093,
+    "low": 9.4650001526,
+    "close": 10.1899995804,
+    "volume": 13600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.25,
+    "high": 10.3800001144,
+    "low": 9.3999996185,
+    "close": 10.1700000763,
+    "volume": 22100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8900003433,
+    "high": 10.279999733,
+    "low": 9.5,
+    "close": 9.75,
+    "volume": 30200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.470000267,
+    "high": 10.1599998474,
+    "low": 9.3900003433,
+    "close": 9.8900003433,
+    "volume": 16900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5,
+    "high": 9.6190004349,
+    "low": 8.8999996185,
+    "close": 9.1999998093,
+    "volume": 16700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0,
+    "high": 9.5170001984,
+    "low": 8.8699998856,
+    "close": 9.4799995422,
+    "volume": 3800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.4300003052,
+    "high": 9.4300003052,
+    "low": 8.75,
+    "close": 9.0150003433,
+    "volume": 4400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6199998856,
+    "high": 9.0900001526,
+    "low": 8.4300003052,
+    "close": 8.4399995804,
+    "volume": 4500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3999996185,
+    "high": 10.7600002289,
+    "low": 8.1000003815,
+    "close": 10.1599998474,
+    "volume": 196300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3999996185,
+    "high": 10.3800001144,
+    "low": 8.7100000381,
+    "close": 8.8999996185,
+    "volume": 45500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6599998474,
+    "high": 9.75,
+    "low": 8.7899999619,
+    "close": 9.3000001907,
+    "volume": 22700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6049995422,
+    "high": 9.9169998169,
+    "low": 8.779999733,
+    "close": 9.1499996185,
+    "volume": 9300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1400003433,
+    "high": 9.9499998093,
+    "low": 8.9399995804,
+    "close": 9.0900001526,
+    "volume": 86500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3800001144,
+    "high": 10.1700000763,
+    "low": 9.1899995804,
+    "close": 9.3800001144,
+    "volume": 74100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3599996567,
+    "high": 10.8900003433,
+    "low": 9.3100004196,
+    "close": 10.220000267,
+    "volume": 10500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8199996948,
+    "high": 12.2299995422,
+    "low": 10.4399995804,
+    "close": 12.1999998093,
+    "volume": 41900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.0,
+    "high": 12.8800001144,
+    "low": 11.0200004578,
+    "close": 11.3699998856,
+    "volume": 50900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.1999998093,
+    "high": 12.5,
+    "low": 10.2100000381,
+    "close": 11.4460000992,
+    "volume": 250300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.3999996185,
+    "high": 12.0500001907,
+    "low": 10.75,
+    "close": 11.0,
+    "volume": 83600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.361000061,
+    "high": 11.3990001678,
+    "low": 10.3500003815,
+    "close": 10.6800003052,
+    "volume": 12900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.4200000763,
+    "high": 10.8149995804,
+    "low": 10.1400003433,
+    "close": 10.1400003433,
+    "volume": 25600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,12,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.2299995422,
+    "high": 10.8149995804,
+    "low": 9.8999996185,
+    "close": 9.8999996185,
+    "volume": 11800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.6750001907,
+    "high": 10.6750001907,
+    "low": 9.2899999619,
+    "close": 9.3699998856,
+    "volume": 27000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.4099998474,
+    "high": 9.8170003891,
+    "low": 9.1999998093,
+    "close": 9.3000001907,
+    "volume": 20300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.4650001526,
+    "high": 10.0489997864,
+    "low": 9.392999649,
+    "close": 9.7100000381,
+    "volume": 72000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8699998856,
+    "high": 10.2919998169,
+    "low": 9.3999996185,
+    "close": 9.8500003815,
+    "volume": 24800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8000001907,
+    "high": 10.4600000381,
+    "low": 9.5450000763,
+    "close": 10.0,
+    "volume": 35600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.720000267,
+    "high": 11.0550003052,
+    "low": 9.5200004578,
+    "close": 9.5200004578,
+    "volume": 19600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,12,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8100004196,
+    "high": 10.4200000763,
+    "low": 9.5,
+    "close": 9.720000267,
+    "volume": 75800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.9460000992,
+    "high": 11.2700004578,
+    "low": 9.8699998856,
+    "close": 9.8699998856,
+    "volume": 25100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.9099998474,
+    "high": 10.7100000381,
+    "low": 9.6899995804,
+    "close": 10.5649995804,
+    "volume": 24400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3500003815,
+    "high": 12.5050001144,
+    "low": 10.3500003815,
+    "close": 12.2299995422,
+    "volume": 25900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.251999855,
+    "high": 12.4200000763,
+    "low": 11.3999996185,
+    "close": 12.2399997711,
+    "volume": 12200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.0200004578,
+    "high": 14.9139995575,
+    "low": 11.8500003815,
+    "close": 14.779999733,
+    "volume": 42300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 15.0,
+    "high": 15.7399997711,
+    "low": 13.8000001907,
+    "close": 13.8999996185,
+    "volume": 50300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.8000001907,
+    "high": 14.4300003052,
+    "low": 12.845000267,
+    "close": 13.4600000381,
+    "volume": 37000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.2600002289,
+    "high": 14.8199996948,
+    "low": 13.1000003815,
+    "close": 14.3500003815,
+    "volume": 14700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 14.2299995422,
+    "high": 15.5,
+    "low": 14.0,
+    "close": 14.25,
+    "volume": 56300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 16.3500003815,
+    "high": 18.1700000763,
+    "low": 15.75,
+    "close": 17.0200004578,
+    "volume": 252700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 17.7199993134,
+    "high": 18.0,
+    "low": 14.1800003052,
+    "close": 14.2299995422,
+    "volume": 197900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 14.3999996185,
+    "high": 16.3999996185,
+    "low": 12.75,
+    "close": 12.9499998093,
+    "volume": 42600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.7700004578,
+    "high": 14.6879997253,
+    "low": 12.6499996185,
+    "close": 12.8100004196,
+    "volume": 22900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.6899995804,
+    "high": 12.75,
+    "low": 10.0600004196,
+    "close": 11.1499996185,
+    "volume": 29100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,01,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.25,
+    "high": 13.0600004196,
+    "low": 11.1499996185,
+    "close": 11.3199996948,
+    "volume": 49100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6300001144,
+    "high": 11.970000267,
+    "low": 10.1999998093,
+    "close": 11.1899995804,
+    "volume": 55100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.0100002289,
+    "high": 12.5100002289,
+    "low": 11.0100002289,
+    "close": 11.8500003815,
+    "volume": 15600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.3299999237,
+    "high": 12.3299999237,
+    "low": 11.6459999084,
+    "close": 11.8500003815,
+    "volume": 11900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.7600002289,
+    "high": 12.9359998703,
+    "low": 11.7600002289,
+    "close": 12.0799999237,
+    "volume": 32300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.220000267,
+    "high": 13.279999733,
+    "low": 12.1599998474,
+    "close": 12.7700004578,
+    "volume": 27900.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,01,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.75,
+    "high": 12.75,
+    "low": 11.0900001526,
+    "close": 11.6999998093,
+    "volume": 46600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,01,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.9300003052,
+    "high": 12.3199996948,
+    "low": 11.2600002289,
+    "close": 11.5200004578,
+    "volume": 9500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.0,
+    "high": 12.4799995422,
+    "low": 11.25,
+    "close": 11.3000001907,
+    "volume": 24300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.0,
+    "high": 11.8999996185,
+    "low": 10.5500001907,
+    "close": 11.220000267,
+    "volume": 38200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.0500001907,
+    "high": 11.5,
+    "low": 10.6400003433,
+    "close": 10.7700004578,
+    "volume": 13700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.9200000763,
+    "high": 12.2600002289,
+    "low": 10.9099998474,
+    "close": 11.25,
+    "volume": 103900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.1300001144,
+    "high": 12.9899997711,
+    "low": 11.6300001144,
+    "close": 12.0699996948,
+    "volume": 16400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.75,
+    "high": 13.3400001526,
+    "low": 11.6000003815,
+    "close": 11.6000003815,
+    "volume": 16000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.029999733,
+    "high": 11.4899997711,
+    "low": 10.9099998474,
+    "close": 10.9099998474,
+    "volume": 16000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.9499998093,
+    "high": 11.8800001144,
+    "low": 10.6300001144,
+    "close": 11.3100004196,
+    "volume": 70200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.2700004578,
+    "high": 12.0,
+    "low": 11.2700004578,
+    "close": 11.3199996948,
+    "volume": 9500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5900001526,
+    "high": 11.8900003433,
+    "low": 11.1000003815,
+    "close": 11.1000003815,
+    "volume": 12800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5450000763,
+    "high": 11.6499996185,
+    "low": 10.279999733,
+    "close": 10.4099998474,
+    "volume": 16000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1999998093,
+    "high": 10.5810003281,
+    "low": 10.0,
+    "close": 10.0,
+    "volume": 37200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0500001907,
+    "high": 10.1599998474,
+    "low": 9.5,
+    "close": 9.6999998093,
+    "volume": 10800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0100002289,
+    "high": 10.1499996185,
+    "low": 9.6999998093,
+    "close": 9.8299999237,
+    "volume": 24800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8599996567,
+    "high": 11.3000001907,
+    "low": 9.8599996567,
+    "close": 10.6999998093,
+    "volume": 50200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5399999619,
+    "high": 12.3500003815,
+    "low": 10.5399999619,
+    "close": 11.7100000381,
+    "volume": 40600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4200000763,
+    "high": 12.5,
+    "low": 11.3599996567,
+    "close": 11.75,
+    "volume": 19600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5399999619,
+    "high": 12.5500001907,
+    "low": 11.25,
+    "close": 12.0,
+    "volume": 21100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.7700004578,
+    "high": 11.9200000763,
+    "low": 11.5100002289,
+    "close": 11.5500001907,
+    "volume": 10300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4499998093,
+    "high": 12.25,
+    "low": 11.1999998093,
+    "close": 11.1999998093,
+    "volume": 8100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.0900001526,
+    "high": 11.8500003815,
+    "low": 11.0059995651,
+    "close": 11.3400001526,
+    "volume": 4700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,02,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.1400003433,
+    "high": 11.6499996185,
+    "low": 10.6499996185,
+    "close": 11.1000003815,
+    "volume": 40300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6099996567,
+    "high": 12.0249996185,
+    "low": 11.1999998093,
+    "close": 11.9300003052,
+    "volume": 3300.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,02,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5640001297,
+    "high": 11.8400001526,
+    "low": 11.5640001297,
+    "close": 11.8400001526,
+    "volume": 1600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5500001907,
+    "high": 11.9499998093,
+    "low": 11.2139997482,
+    "close": 11.4650001526,
+    "volume": 6900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.25,
+    "high": 11.25,
+    "low": 10.6999998093,
+    "close": 10.6999998093,
+    "volume": 2600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8699998856,
+    "high": 11.5699996948,
+    "low": 10.3100004196,
+    "close": 10.9600000381,
+    "volume": 12200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3100004196,
+    "high": 11.6800003052,
+    "low": 10.3100004196,
+    "close": 11.6800003052,
+    "volume": 9200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4200000763,
+    "high": 11.75,
+    "low": 11.4200000763,
+    "close": 11.75,
+    "volume": 4700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6800003052,
+    "high": 11.9309997559,
+    "low": 11.6800003052,
+    "close": 11.9309997559,
+    "volume": 2100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.1099996567,
+    "high": 12.0,
+    "low": 11.1099996567,
+    "close": 11.7100000381,
+    "volume": 5600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4759998322,
+    "high": 11.8809995651,
+    "low": 11.2299995422,
+    "close": 11.3500003815,
+    "volume": 5500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,03,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.7700004578,
+    "high": 11.9600000381,
+    "low": 11.2299995422,
+    "close": 11.9600000381,
+    "volume": 5700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,03,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5799999237,
+    "high": 12.0,
+    "low": 11.4600000381,
+    "close": 11.8940000534,
+    "volume": 3500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4499998093,
+    "high": 11.8900003433,
+    "low": 11.3599996567,
+    "close": 11.5900001526,
+    "volume": 3300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.3199996948,
+    "high": 11.6000003815,
+    "low": 11.1599998474,
+    "close": 11.6000003815,
+    "volume": 1600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4449996948,
+    "high": 11.4449996948,
+    "low": 10.5,
+    "close": 10.5,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.7419996262,
+    "high": 11.3999996185,
+    "low": 10.7419996262,
+    "close": 11.3199996948,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.9300003052,
+    "high": 11.9300003052,
+    "low": 11.3800001144,
+    "close": 11.7869997025,
+    "volume": 1800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.3000001907,
+    "high": 12.4499998093,
+    "low": 11.3000001907,
+    "close": 12.4499998093,
+    "volume": 2500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.25,
+    "high": 14.0,
+    "low": 11.2100000381,
+    "close": 12.0,
+    "volume": 146200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.1979999542,
+    "high": 12.3699998856,
+    "low": 11.1199998856,
+    "close": 11.5,
+    "volume": 11600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,03,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4949998856,
+    "high": 11.4949998856,
+    "low": 10.0959997177,
+    "close": 10.6599998474,
+    "volume": 11700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.75,
+    "high": 11.4149999619,
+    "low": 10.5900001526,
+    "close": 11.3900003433,
+    "volume": 5800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3409996033,
+    "high": 11.3599996567,
+    "low": 10.3409996033,
+    "close": 11.0100002289,
+    "volume": 5200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.3400001526,
+    "high": 11.7609996796,
+    "low": 10.8999996185,
+    "close": 11.6599998474,
+    "volume": 13600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6599998474,
+    "high": 12.9320001602,
+    "low": 11.1199998856,
+    "close": 11.1199998856,
+    "volume": 8300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6120004654,
+    "high": 12.2399997711,
+    "low": 11.3050003052,
+    "close": 11.8599996567,
+    "volume": 8600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.8500003815,
+    "high": 12.2600002289,
+    "low": 11.3999996185,
+    "close": 11.7399997711,
+    "volume": 5900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.0,
+    "high": 11.5600004196,
+    "low": 10.7349996567,
+    "close": 10.9899997711,
+    "volume": 11400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,04,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5500001907,
+    "high": 10.5500001907,
+    "low": 9.75,
+    "close": 9.8000001907,
+    "volume": 9600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.5500001907,
+    "high": 10.029999733,
+    "low": 9.3299999237,
+    "close": 9.3500003815,
+    "volume": 14700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.9790000916,
+    "high": 10.220000267,
+    "low": 8.8350000381,
+    "close": 9.4499998093,
+    "volume": 9700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3210000992,
+    "high": 9.8500003815,
+    "low": 9.0,
+    "close": 9.1700000763,
+    "volume": 5600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0,
+    "high": 9.0,
+    "low": 9.0,
+    "close": 9.0,
+    "volume": 1800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6700000763,
+    "high": 9.6700000763,
+    "low": 9.4899997711,
+    "close": 9.4899997711,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.7299995422,
+    "high": 9.970000267,
+    "low": 9.529999733,
+    "close": 9.75,
+    "volume": 76700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3000001907,
+    "high": 10.3999996185,
+    "low": 9.6000003815,
+    "close": 9.6000003815,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8680000305,
+    "high": 10.2410001755,
+    "low": 9.5699996948,
+    "close": 9.7469997406,
+    "volume": 4700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.843000412,
+    "high": 10.2700004578,
+    "low": 9.6000003815,
+    "close": 9.6000003815,
+    "volume": 4200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.3669996262,
+    "high": 10.3669996262,
+    "low": 9.9899997711,
+    "close": 9.9899997711,
+    "volume": 1700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0600004196,
+    "high": 10.0799999237,
+    "low": 9.9499998093,
+    "close": 10.0799999237,
+    "volume": 1000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5670003891,
+    "high": 10.5749998093,
+    "low": 9.9499998093,
+    "close": 10.0,
+    "volume": 4200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0,
+    "high": 10.1499996185,
+    "low": 9.5100002289,
+    "close": 10.0290002823,
+    "volume": 18100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.4899997711,
+    "high": 10.4899997711,
+    "low": 9.9499998093,
+    "close": 10.3830003738,
+    "volume": 3300.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,04,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.5,
+    "high": 10.5,
+    "low": 10.1400003433,
+    "close": 10.4379997253,
+    "volume": 3100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.4799995422,
+    "high": 11.5600004196,
+    "low": 10.4499998093,
+    "close": 11.0100002289,
+    "volume": 15700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.1459999084,
+    "high": 11.1459999084,
+    "low": 10.0,
+    "close": 10.4799995422,
+    "volume": 8000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1499996185,
+    "high": 10.9449996948,
+    "low": 9.9600000381,
+    "close": 9.9600000381,
+    "volume": 7800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1999998093,
+    "high": 10.5170001984,
+    "low": 10.1899995804,
+    "close": 10.25,
+    "volume": 2300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1800003052,
+    "high": 10.1800003052,
+    "low": 9.6000003815,
+    "close": 9.8599996567,
+    "volume": 5400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3999996185,
+    "high": 9.8280000687,
+    "low": 9.1099996567,
+    "close": 9.25,
+    "volume": 9200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6780004501,
+    "high": 9.6780004501,
+    "low": 8.4899997711,
+    "close": 8.6890001297,
+    "volume": 19500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.7440004349,
+    "high": 9.6300001144,
+    "low": 8.3000001907,
+    "close": 8.3500003815,
+    "volume": 19600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.5,
+    "high": 9.029999733,
+    "low": 7.9000000954,
+    "close": 8.0,
+    "volume": 16600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.1800003052,
+    "high": 8.1800003052,
+    "low": 7.1500000954,
+    "close": 7.1999998093,
+    "volume": 8800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.1199998856,
+    "high": 7.6599998474,
+    "low": 6.5,
+    "close": 6.5,
+    "volume": 25200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.5500001907,
+    "high": 7.4299998283,
+    "low": 6.3800001144,
+    "close": 6.8499999046,
+    "volume": 12900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 6.2100000381,
+    "high": 7.2729997635,
+    "low": 5.9000000954,
+    "close": 7.0999999046,
+    "volume": 50000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.1100001335,
+    "high": 8.6450004578,
+    "low": 7.1100001335,
+    "close": 8.029999733,
+    "volume": 26500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.9000000954,
+    "high": 8.470000267,
+    "low": 7.9000000954,
+    "close": 8.470000267,
+    "volume": 2600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.5419998169,
+    "high": 7.7399997711,
+    "low": 7.3099999428,
+    "close": 7.3099999428,
+    "volume": 9900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.3099999428,
+    "high": 8.1400003433,
+    "low": 7.3099999428,
+    "close": 8.1400003433,
+    "volume": 7200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.9460000992,
+    "high": 8.0699996948,
+    "low": 7.3680000305,
+    "close": 7.9650001526,
+    "volume": 1600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.6799998283,
+    "high": 7.9499998093,
+    "low": 7.4499998093,
+    "close": 7.6500000954,
+    "volume": 2100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.6999998093,
+    "high": 7.8880000114,
+    "low": 7.6599998474,
+    "close": 7.8880000114,
+    "volume": 1600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.4899997711,
+    "high": 8.5200004578,
+    "low": 8.0050001144,
+    "close": 8.4799995422,
+    "volume": 12600.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,05,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.5999999046,
+    "high": 8.6949996948,
+    "low": 7.5999999046,
+    "close": 8.4899997711,
+    "volume": 17000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 7.8000001907,
+    "high": 8.4899997711,
+    "low": 7.8000001907,
+    "close": 8.1300001144,
+    "volume": 2800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0,
+    "high": 8.3999996185,
+    "low": 7.9530000687,
+    "close": 8.3999996185,
+    "volume": 3000.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,06,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3100004196,
+    "high": 8.3100004196,
+    "low": 8.3100004196,
+    "close": 8.3100004196,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3330001831,
+    "high": 8.6400003433,
+    "low": 8.25,
+    "close": 8.6400003433,
+    "volume": 4600.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,06,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6999998093,
+    "high": 8.6999998093,
+    "low": 8.5,
+    "close": 8.5,
+    "volume": 1200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3109998703,
+    "high": 8.8000001907,
+    "low": 8.2650003433,
+    "close": 8.8000001907,
+    "volume": 17800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0200004578,
+    "high": 9.1800003052,
+    "low": 8.0200004578,
+    "close": 8.9399995804,
+    "volume": 14700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0,
+    "high": 9.2299995422,
+    "low": 8.9200000763,
+    "close": 9.0,
+    "volume": 10500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1300001144,
+    "high": 10.0,
+    "low": 9.0500001907,
+    "close": 9.3999996185,
+    "volume": 12300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.4650001526,
+    "high": 9.5249996185,
+    "low": 9.0,
+    "close": 9.4770002365,
+    "volume": 16600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6300001144,
+    "high": 10.0399999619,
+    "low": 9.3699998856,
+    "close": 9.5399999619,
+    "volume": 12800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.2299995422,
+    "high": 9.8000001907,
+    "low": 9.1499996185,
+    "close": 9.220000267,
+    "volume": 15300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.2100000381,
+    "high": 10.0500001907,
+    "low": 9.2100000381,
+    "close": 9.8999996185,
+    "volume": 17100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8999996185,
+    "high": 10.1000003815,
+    "low": 9.7100000381,
+    "close": 9.9899997711,
+    "volume": 126100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.8100004196,
+    "high": 9.9499998093,
+    "low": 9.0200004578,
+    "close": 9.0200004578,
+    "volume": 8500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,06,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1599998474,
+    "high": 9.6450004578,
+    "low": 8.8350000381,
+    "close": 8.8900003433,
+    "volume": 9000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,06,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6999998093,
+    "high": 8.8999996185,
+    "low": 8.5,
+    "close": 8.6999998093,
+    "volume": 10200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.0450000763,
+    "high": 9.8800001144,
+    "low": 8.0,
+    "close": 8.3500003815,
+    "volume": 84400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.9499998093,
+    "high": 9.5,
+    "low": 8.5,
+    "close": 9.0200004578,
+    "volume": 23800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1660003662,
+    "high": 9.3000001907,
+    "low": 8.3800001144,
+    "close": 8.9399995804,
+    "volume": 59500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.8999996185,
+    "high": 9.1199998856,
+    "low": 8.5600004196,
+    "close": 8.8100004196,
+    "volume": 6300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,07,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6859998703,
+    "high": 8.8999996185,
+    "low": 8.6859998703,
+    "close": 8.7399997711,
+    "volume": 2300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3400001526,
+    "high": 8.9499998093,
+    "low": 8.0030002594,
+    "close": 8.3599996567,
+    "volume": 22900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.0810003281,
+    "high": 8.6899995804,
+    "low": 8.0810003281,
+    "close": 8.3500003815,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.482000351,
+    "high": 8.9399995804,
+    "low": 8.2299995422,
+    "close": 8.2899999619,
+    "volume": 6600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6309995651,
+    "high": 8.6450004578,
+    "low": 8.3199996948,
+    "close": 8.3199996948,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.2899999619,
+    "high": 8.5699996948,
+    "low": 8.2299995422,
+    "close": 8.5699996948,
+    "volume": 4000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.2770004272,
+    "high": 8.7100000381,
+    "low": 8.2770004272,
+    "close": 8.7100000381,
+    "volume": 900.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,07,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3500003815,
+    "high": 8.9799995422,
+    "low": 8.3500003815,
+    "close": 8.6099996567,
+    "volume": 2600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.6800003052,
+    "high": 8.6800003052,
+    "low": 8.25,
+    "close": 8.4149999619,
+    "volume": 5900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3249998093,
+    "high": 8.5,
+    "low": 8.3129997253,
+    "close": 8.3999996185,
+    "volume": 3000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.3100004196,
+    "high": 8.9350004196,
+    "low": 8.3100004196,
+    "close": 8.5,
+    "volume": 5700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.5500001907,
+    "high": 8.5500001907,
+    "low": 8.1999998093,
+    "close": 8.4799995422,
+    "volume": 3300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.9490003586,
+    "high": 8.9799995422,
+    "low": 8.5600004196,
+    "close": 8.6999998093,
+    "volume": 47600.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,07,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.4300003052,
+    "high": 8.9799995422,
+    "low": 8.3249998093,
+    "close": 8.6499996185,
+    "volume": 51700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.8199996948,
+    "high": 8.8199996948,
+    "low": 8.2100000381,
+    "close": 8.6780004501,
+    "volume": 1200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.2100000381,
+    "high": 8.8739995956,
+    "low": 8.2100000381,
+    "close": 8.8249998093,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.9499998093,
+    "high": 8.9499998093,
+    "low": 8.9499998093,
+    "close": 8.9499998093,
+    "volume": 2400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.8800001144,
+    "high": 9.4099998474,
+    "low": 8.75,
+    "close": 9.3100004196,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 8.7399997711,
+    "high": 9.5,
+    "low": 8.7089996338,
+    "close": 9.25,
+    "volume": 12700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.4870004654,
+    "high": 9.4870004654,
+    "low": 8.6999998093,
+    "close": 9.3870000839,
+    "volume": 7200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.3900003433,
+    "high": 10.0,
+    "low": 9.3800001144,
+    "close": 10.0,
+    "volume": 9800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6899995804,
+    "high": 11.4799995422,
+    "low": 9.6899995804,
+    "close": 11.0,
+    "volume": 45100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0399999619,
+    "high": 10.9399995804,
+    "low": 10.0399999619,
+    "close": 10.9399995804,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.8599996567,
+    "high": 10.9499998093,
+    "low": 10.3599996567,
+    "close": 10.3999996185,
+    "volume": 4900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.2600002289,
+    "high": 10.6999998093,
+    "low": 9.2600002289,
+    "close": 10.359000206,
+    "volume": 4600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.0100002289,
+    "high": 10.1499996185,
+    "low": 9.029999733,
+    "close": 9.029999733,
+    "volume": 8500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,08,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.1999998093,
+    "high": 9.9499998093,
+    "low": 9.1099996567,
+    "close": 9.5600004196,
+    "volume": 10300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 9.6400003433,
+    "high": 10.8999996185,
+    "low": 9.5450000763,
+    "close": 9.9849996567,
+    "volume": 15400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1999998093,
+    "high": 10.8999996185,
+    "low": 9.6599998474,
+    "close": 10.6099996567,
+    "volume": 24100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.6000003815,
+    "high": 11.7299995422,
+    "low": 10.0600004196,
+    "close": 10.0600004196,
+    "volume": 16900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1599998474,
+    "high": 11.0539999008,
+    "low": 10.1499996185,
+    "close": 10.8500003815,
+    "volume": 65600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.720000267,
+    "high": 11.3299999237,
+    "low": 10.720000267,
+    "close": 11.1400003433,
+    "volume": 4100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.7049999237,
+    "high": 11.1499996185,
+    "low": 10.579000473,
+    "close": 11.0399999619,
+    "volume": 4900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.1099996567,
+    "high": 11.1499996185,
+    "low": 10.1099996567,
+    "close": 11.1499996185,
+    "volume": 4300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.1300001144,
+    "high": 11.5,
+    "low": 11.1300001144,
+    "close": 11.5,
+    "volume": 3500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.9020004272,
+    "high": 11.7299995422,
+    "low": 10.9020004272,
+    "close": 11.3500003815,
+    "volume": 45800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4499998093,
+    "high": 11.6000003815,
+    "low": 11.2700004578,
+    "close": 11.4899997711,
+    "volume": 7900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4899997711,
+    "high": 11.5500001907,
+    "low": 10.9399995804,
+    "close": 11.5,
+    "volume": 6500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5500001907,
+    "high": 11.8800001144,
+    "low": 11.1000003815,
+    "close": 11.1000003815,
+    "volume": 23500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 10.9200000763,
+    "high": 11.6140003204,
+    "low": 10.7299995422,
+    "close": 11.3999996185,
+    "volume": 13000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.0550003052,
+    "high": 11.75,
+    "low": 11.0500001907,
+    "close": 11.6800003052,
+    "volume": 20500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.595000267,
+    "high": 12.3000001907,
+    "low": 11.3000001907,
+    "close": 12.1850004196,
+    "volume": 33300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.029999733,
+    "high": 12.5,
+    "low": 12.029999733,
+    "close": 12.3199996948,
+    "volume": 5200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.2600002289,
+    "high": 13.3900003433,
+    "low": 12.1999998093,
+    "close": 12.5399999619,
+    "volume": 25200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.904999733,
+    "high": 12.904999733,
+    "low": 12.3249998093,
+    "close": 12.4499998093,
+    "volume": 10500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.25,
+    "high": 13.25,
+    "low": 11.75,
+    "close": 12.1999998093,
+    "volume": 10600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6649999619,
+    "high": 11.9399995804,
+    "low": 11.3599996567,
+    "close": 11.3599996567,
+    "volume": 7000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,09,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5699996948,
+    "high": 11.9639997482,
+    "low": 11.5699996948,
+    "close": 11.7049999237,
+    "volume": 4000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.8400001526,
+    "high": 11.8400001526,
+    "low": 11.8350000381,
+    "close": 11.8350000381,
+    "volume": 5800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5,
+    "high": 12.1099996567,
+    "low": 11.4099998474,
+    "close": 11.4099998474,
+    "volume": 7300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,09,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4519996643,
+    "high": 11.623000145,
+    "low": 11.4099998474,
+    "close": 11.5659999847,
+    "volume": 1700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.7399997711,
+    "high": 11.7399997711,
+    "low": 11.25,
+    "close": 11.6510000229,
+    "volume": 5000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4899997711,
+    "high": 11.6149997711,
+    "low": 11.4499998093,
+    "close": 11.5600004196,
+    "volume": 2900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.4399995804,
+    "high": 11.5699996948,
+    "low": 11.3500003815,
+    "close": 11.5500001907,
+    "volume": 4900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6049995422,
+    "high": 12.1999998093,
+    "low": 11.5500001907,
+    "close": 11.9799995422,
+    "volume": 6500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.5600004196,
+    "high": 12.279999733,
+    "low": 11.5150003433,
+    "close": 12.279999733,
+    "volume": 67300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6999998093,
+    "high": 12.3500003815,
+    "low": 11.6300001144,
+    "close": 12.1999998093,
+    "volume": 47800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.5,
+    "high": 12.5,
+    "low": 11.7899999619,
+    "close": 12.0799999237,
+    "volume": 16400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.0249996185,
+    "high": 12.0249996185,
+    "low": 11.4650001526,
+    "close": 11.75,
+    "volume": 6900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.75,
+    "high": 12.2349996567,
+    "low": 11.7080001831,
+    "close": 11.9250001907,
+    "volume": 61100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6730003357,
+    "high": 11.6800003052,
+    "low": 11.3999996185,
+    "close": 11.5600004196,
+    "volume": 5700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,09,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6400003433,
+    "high": 12.0799999237,
+    "low": 11.4350004196,
+    "close": 11.6599998474,
+    "volume": 33800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.4499998093,
+    "high": 13.0500001907,
+    "low": 11.6999998093,
+    "close": 12.8850002289,
+    "volume": 77400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.9899997711,
+    "high": 13.8800001144,
+    "low": 12.4499998093,
+    "close": 13.6599998474,
+    "volume": 66700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.7100000381,
+    "high": 13.8500003815,
+    "low": 13.5,
+    "close": 13.7700004578,
+    "volume": 25200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.2790002823,
+    "high": 13.7650003433,
+    "low": 13.2790002823,
+    "close": 13.6850004196,
+    "volume": 6700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.0100002289,
+    "high": 15.0600004196,
+    "low": 13.0100002289,
+    "close": 13.8400001526,
+    "volume": 108900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.625,
+    "high": 13.9899997711,
+    "low": 13.5900001526,
+    "close": 13.75,
+    "volume": 29100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.8310003281,
+    "high": 14.0500001907,
+    "low": 13.7600002289,
+    "close": 14.0399999619,
+    "volume": 6600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 14.1000003815,
+    "high": 14.1999998093,
+    "low": 13.6499996185,
+    "close": 13.75,
+    "volume": 61200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.9200000763,
+    "high": 14.0799999237,
+    "low": 13.6499996185,
+    "close": 13.765999794,
+    "volume": 7200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.8000001907,
+    "high": 14.0,
+    "low": 13.720000267,
+    "close": 13.8199996948,
+    "volume": 29800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.5900001526,
+    "high": 13.904999733,
+    "low": 13.5799999237,
+    "close": 13.6400003433,
+    "volume": 9100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.6370000839,
+    "high": 13.8599996567,
+    "low": 13.6370000839,
+    "close": 13.75,
+    "volume": 10000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.8000001907,
+    "high": 13.8000001907,
+    "low": 13.6000003815,
+    "close": 13.6000003815,
+    "volume": 4700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.5,
+    "high": 13.7600002289,
+    "low": 13.1400003433,
+    "close": 13.5799999237,
+    "volume": 30500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.4200000763,
+    "high": 13.8299999237,
+    "low": 13.3900003433,
+    "close": 13.7899999619,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.5,
+    "high": 13.8500003815,
+    "low": 13.5,
+    "close": 13.8500003815,
+    "volume": 15500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.8000001907,
+    "high": 14.3999996185,
+    "low": 13.6000003815,
+    "close": 13.6499996185,
+    "volume": 11800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.5200004578,
+    "high": 13.7100000381,
+    "low": 13.5200004578,
+    "close": 13.7049999237,
+    "volume": 1000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.6899995804,
+    "high": 13.8000001907,
+    "low": 13.6899995804,
+    "close": 13.75,
+    "volume": 6300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.3800001144,
+    "high": 13.9399995804,
+    "low": 13.3800001144,
+    "close": 13.9300003052,
+    "volume": 6600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.8000001907,
+    "high": 13.8000001907,
+    "low": 13.7309999466,
+    "close": 13.7309999466,
+    "volume": 4800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.6099996567,
+    "high": 13.6099996567,
+    "low": 13.5699996948,
+    "close": 13.5900001526,
+    "volume": 2900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.4200000763,
+    "high": 14.0,
+    "low": 13.4200000763,
+    "close": 13.6499996185,
+    "volume": 29300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.6999998093,
+    "high": 14.3800001144,
+    "low": 13.5200004578,
+    "close": 14.0,
+    "volume": 488900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 14.3100004196,
+    "high": 14.3100004196,
+    "low": 12.9799995422,
+    "close": 13.0600004196,
+    "volume": 6200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,11,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.2100000381,
+    "high": 13.5900001526,
+    "low": 12.5900001526,
+    "close": 12.5900001526,
+    "volume": 4700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.8699998856,
+    "high": 12.8699998856,
+    "low": 11.3900003433,
+    "close": 12.4200000763,
+    "volume": 36800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.5,
+    "high": 12.5,
+    "low": 11.9099998474,
+    "close": 12.5,
+    "volume": 800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.6499996185,
+    "high": 12.5,
+    "low": 11.5100002289,
+    "close": 12.1999998093,
+    "volume": 90400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.0,
+    "high": 12.2810001373,
+    "low": 11.6599998474,
+    "close": 11.8000001907,
+    "volume": 15100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 11.8800001144,
+    "high": 12.4899997711,
+    "low": 11.734000206,
+    "close": 12.1169996262,
+    "volume": 361900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.1899995804,
+    "high": 13.25,
+    "low": 12.1899995804,
+    "close": 12.9399995804,
+    "volume": 52900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.3100004196,
+    "high": 13.3100004196,
+    "low": 12.1199998856,
+    "close": 12.1199998856,
+    "volume": 437600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.3100004196,
+    "high": 13.279999733,
+    "low": 12.3100004196,
+    "close": 12.9799995422,
+    "volume": 58400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.5600004196,
+    "high": 12.8950004578,
+    "low": 12.5200004578,
+    "close": 12.7950000763,
+    "volume": 26200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.0200004578,
+    "high": 13.0600004196,
+    "low": 12.75,
+    "close": 12.9499998093,
+    "volume": 47100.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,11,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 12.9499998093,
+    "high": 14.0100002289,
+    "low": 12.8699998856,
+    "close": 13.5,
+    "volume": 38700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.4399995804,
+    "high": 14.1750001907,
+    "low": 13.4399995804,
+    "close": 13.7399997711,
+    "volume": 91300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.4499998093,
+    "high": 13.6199998856,
+    "low": 13.1099996567,
+    "close": 13.1999998093,
+    "volume": 49500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.0600004196,
+    "high": 13.2449998856,
+    "low": 12.7889995575,
+    "close": 13.1000003815,
+    "volume": 49000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 13.0,
+    "high": 16.1499996185,
+    "low": 13.0,
+    "close": 16.0100002289,
+    "volume": 260800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 15.9099998474,
+    "high": 16.75,
+    "low": 15.8800001144,
+    "close": 16.4449996948,
+    "volume": 57900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 16.4500007629,
+    "high": 16.7399997711,
+    "low": 15.6199998856,
+    "close": 16.5799999237,
+    "volume": 33300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 16.4699993134,
+    "high": 16.5,
+    "low": 15.5399999619,
+    "close": 16.1200008392,
+    "volume": 140300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 16.0400009155,
+    "high": 16.3500003815,
+    "low": 15.3800001144,
+    "close": 15.5399999619,
+    "volume": 100300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 16.1200008392,
+    "high": 16.1949996948,
+    "low": 14.9350004196,
+    "close": 15.75,
+    "volume": 71000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 15.7299995422,
+    "high": 18.6499996185,
+    "low": 15.7299995422,
+    "close": 18.2299995422,
+    "volume": 204500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 18.2999992371,
+    "high": 20.4699993134,
+    "low": 18.2900009155,
+    "close": 20.4599990845,
+    "volume": 187100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 20.7399997711,
+    "high": 21.3299999237,
+    "low": 20.3099994659,
+    "close": 20.4699993134,
+    "volume": 110400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.2999992371,
+    "high": 22.6900005341,
+    "low": 20.9400005341,
+    "close": 22.1000003815,
+    "volume": 175700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.3500003815,
+    "high": 24.8549995422,
+    "low": 22.1000003815,
+    "close": 23.9500007629,
+    "volume": 214600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.1900005341,
+    "high": 24.5400009155,
+    "low": 23.1700000763,
+    "close": 23.8099994659,
+    "volume": 136800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.7199993134,
+    "high": 24.9400005341,
+    "low": 23.7199993134,
+    "close": 24.5900001526,
+    "volume": 104600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.8199996948,
+    "high": 24.8199996948,
+    "low": 20.6100006104,
+    "close": 21.6149997711,
+    "volume": 126300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.0499992371,
+    "high": 22.6399993896,
+    "low": 20.9500007629,
+    "close": 22.3600006104,
+    "volume": 120600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.3600006104,
+    "high": 22.5949993134,
+    "low": 20.4300003052,
+    "close": 20.8500003815,
+    "volume": 150400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.0200004578,
+    "high": 21.8799991608,
+    "low": 20.0200004578,
+    "close": 21.4899997711,
+    "volume": 144100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.3999996185,
+    "high": 22.3700008392,
+    "low": 20.7399997711,
+    "close": 21.7600002289,
+    "volume": 68500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.4899997711,
+    "high": 24.0,
+    "low": 21.2399997711,
+    "close": 23.0,
+    "volume": 89200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.8299999237,
+    "high": 23.5400009155,
+    "low": 22.3700008392,
+    "close": 22.9599990845,
+    "volume": 56900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.8400001526,
+    "high": 23.4349994659,
+    "low": 22.3700008392,
+    "close": 22.8950004578,
+    "volume": 12800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.9899997711,
+    "high": 22.9899997711,
+    "low": 21.341999054,
+    "close": 22.2000007629,
+    "volume": 29400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.1599998474,
+    "high": 23.0799999237,
+    "low": 21.3199996948,
+    "close": 21.7700004578,
+    "volume": 78600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.0550003052,
+    "high": 22.4249992371,
+    "low": 21.2849998474,
+    "close": 21.5499992371,
+    "volume": 49500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.6599998474,
+    "high": 23.4200000763,
+    "low": 21.0249996185,
+    "close": 22.6000003815,
+    "volume": 75300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.0,
+    "high": 23.25,
+    "low": 21.4899997711,
+    "close": 21.5499992371,
+    "volume": 27500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.4200000763,
+    "high": 21.7350006104,
+    "low": 19.0499992371,
+    "close": 19.1000003815,
+    "volume": 58800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,01,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 18.9500007629,
+    "high": 20.125,
+    "low": 18.1299991608,
+    "close": 19.6700000763,
+    "volume": 78600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 17.7999992371,
+    "high": 20.6200008392,
+    "low": 17.7999992371,
+    "close": 19.9699993134,
+    "volume": 203100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.8400001526,
+    "high": 19.8999996185,
+    "low": 19.0300006866,
+    "close": 19.0599994659,
+    "volume": 43300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.7299995422,
+    "high": 20.4899997711,
+    "low": 18.4200000763,
+    "close": 18.4899997711,
+    "volume": 84800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 18.4899997711,
+    "high": 18.9099998474,
+    "low": 16.75,
+    "close": 18.0,
+    "volume": 127500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 17.8999996185,
+    "high": 20.9599990845,
+    "low": 17.8999996185,
+    "close": 20.6499996185,
+    "volume": 144900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 20.3600006104,
+    "high": 20.7600002289,
+    "low": 19.75,
+    "close": 20.0,
+    "volume": 41900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 20.0,
+    "high": 20.5,
+    "low": 19.5900001526,
+    "close": 20.0,
+    "volume": 28700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 20.5100002289,
+    "high": 21.3999996185,
+    "low": 20.0,
+    "close": 20.0,
+    "volume": 45000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 20.0,
+    "high": 20.6809997559,
+    "low": 17.9799995422,
+    "close": 17.9799995422,
+    "volume": 64800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,01,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.3799991608,
+    "high": 20.4599990845,
+    "low": 18.7399997711,
+    "close": 19.1700000763,
+    "volume": 58400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.2399997711,
+    "high": 21.1280002594,
+    "low": 19.2399997711,
+    "close": 19.9950008392,
+    "volume": 160300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 20.0,
+    "high": 21.2630004883,
+    "low": 18.7350006104,
+    "close": 19.5949993134,
+    "volume": 48800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.75,
+    "high": 20.8999996185,
+    "low": 19.0,
+    "close": 20.3199996948,
+    "volume": 1339100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 20.3500003815,
+    "high": 24.0650005341,
+    "low": 20.3500003815,
+    "close": 23.0300006866,
+    "volume": 152300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.0,
+    "high": 23.1499996185,
+    "low": 21.2199993134,
+    "close": 21.6849994659,
+    "volume": 63200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.6399993896,
+    "high": 23.9300003052,
+    "low": 21.2399997711,
+    "close": 22.0799999237,
+    "volume": 75700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.8600006104,
+    "high": 22.1200008392,
+    "low": 19.5100002289,
+    "close": 21.5450000763,
+    "volume": 79600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.3999996185,
+    "high": 23.3700008392,
+    "low": 21.3649997711,
+    "close": 22.1000003815,
+    "volume": 90500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.2600002289,
+    "high": 23.3199996948,
+    "low": 21.5,
+    "close": 23.0799999237,
+    "volume": 54100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.0799999237,
+    "high": 23.8999996185,
+    "low": 21.9300003052,
+    "close": 23.6499996185,
+    "volume": 90100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.2299995422,
+    "high": 25.4699993134,
+    "low": 21.2299995422,
+    "close": 21.25,
+    "volume": 237800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.3199996948,
+    "high": 22.9500007629,
+    "low": 21.0699996948,
+    "close": 22.7999992371,
+    "volume": 144500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.9500007629,
+    "high": 23.7800006866,
+    "low": 21.6000003815,
+    "close": 22.1399993896,
+    "volume": 72100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.2099990845,
+    "high": 23.0300006866,
+    "low": 21.7999992371,
+    "close": 22.8349990845,
+    "volume": 73000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.0900001526,
+    "high": 25.0,
+    "low": 22.0200004578,
+    "close": 24.6000003815,
+    "volume": 160600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.9699993134,
+    "high": 25.8449993134,
+    "low": 23.6100006104,
+    "close": 24.8449993134,
+    "volume": 54200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.8999996185,
+    "high": 25.3649997711,
+    "low": 24.2049999237,
+    "close": 24.4799995422,
+    "volume": 53100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.9500007629,
+    "high": 24.9500007629,
+    "low": 23.5499992371,
+    "close": 24.5300006866,
+    "volume": 37100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.7299995422,
+    "high": 26.8400001526,
+    "low": 24.3799991608,
+    "close": 25.0900001526,
+    "volume": 81300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.9599990845,
+    "high": 27.9599990845,
+    "low": 25.6000003815,
+    "close": 26.9300003052,
+    "volume": 102400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.0499992371,
+    "high": 27.0499992371,
+    "low": 25.5,
+    "close": 26.5900001526,
+    "volume": 42400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.5900001526,
+    "high": 27.9099998474,
+    "low": 26.1800003052,
+    "close": 26.5750007629,
+    "volume": 92300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.2299995422,
+    "high": 27.6900005341,
+    "low": 26.0699996948,
+    "close": 27.0,
+    "volume": 40700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.2199993134,
+    "high": 27.2199993134,
+    "low": 25.8999996185,
+    "close": 27.0300006866,
+    "volume": 43600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.2700004578,
+    "high": 27.2700004578,
+    "low": 23.6299991608,
+    "close": 25.75,
+    "volume": 61100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.3199996948,
+    "high": 27.9200000763,
+    "low": 25.3199996948,
+    "close": 27.7999992371,
+    "volume": 47100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.7299995422,
+    "high": 29.1499996185,
+    "low": 26.3670005798,
+    "close": 28.6000003815,
+    "volume": 52800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 28.3099994659,
+    "high": 28.4500007629,
+    "low": 26.0,
+    "close": 26.8500003815,
+    "volume": 67400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.3199996948,
+    "high": 29.5949993134,
+    "low": 26.8600006104,
+    "close": 28.5400009155,
+    "volume": 240100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 28.6900005341,
+    "high": 29.5499992371,
+    "low": 27.4599990845,
+    "close": 28.5900001526,
+    "volume": 157700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.7299995422,
+    "high": 29.4599990845,
+    "low": 26.0249996185,
+    "close": 27.0400009155,
+    "volume": 122500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.3700008392,
+    "high": 27.6700000763,
+    "low": 24.1000003815,
+    "close": 27.3999996185,
+    "volume": 49200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.6700000763,
+    "high": 29.4699993134,
+    "low": 26.1499996185,
+    "close": 27.7399997711,
+    "volume": 101200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 28.4899997711,
+    "high": 28.5699996948,
+    "low": 26.2399997711,
+    "close": 26.9549999237,
+    "volume": 59700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.9500007629,
+    "high": 26.9750003815,
+    "low": 24.5,
+    "close": 25.8999996185,
+    "volume": 67500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.4099998474,
+    "high": 27.8099994659,
+    "low": 23.4300003052,
+    "close": 25.2099990845,
+    "volume": 164000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.4300003052,
+    "high": 25.8600006104,
+    "low": 24.5,
+    "close": 25.5,
+    "volume": 35000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.2800006866,
+    "high": 27.9099998474,
+    "low": 25.2900009155,
+    "close": 25.6000003815,
+    "volume": 94900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.3899993896,
+    "high": 25.9799995422,
+    "low": 25.0,
+    "close": 25.6800003052,
+    "volume": 58000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.5,
+    "high": 26.6299991608,
+    "low": 24.9300003052,
+    "close": 26.6299991608,
+    "volume": 53200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.8199996948,
+    "high": 26.8199996948,
+    "low": 24.6100006104,
+    "close": 25.1499996185,
+    "volume": 66300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.5599994659,
+    "high": 26.0599994659,
+    "low": 24.5,
+    "close": 25.2399997711,
+    "volume": 72100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.2099990845,
+    "high": 25.3500003815,
+    "low": 23.6299991608,
+    "close": 25.0,
+    "volume": 174800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.3899993896,
+    "high": 27.5699996948,
+    "low": 25.3899993896,
+    "close": 26.1399993896,
+    "volume": 47000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.7900009155,
+    "high": 28.5249996185,
+    "low": 26.1700000763,
+    "close": 28.0,
+    "volume": 58100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.7099990845,
+    "high": 28.8999996185,
+    "low": 26.5100002289,
+    "close": 28.8999996185,
+    "volume": 78500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 28.6399993896,
+    "high": 29.4400005341,
+    "low": 27.1200008392,
+    "close": 27.4500007629,
+    "volume": 34300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.8999996185,
+    "high": 29.2299995422,
+    "low": 27.1949996948,
+    "close": 29.1299991608,
+    "volume": 182300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 29.4699993134,
+    "high": 29.9899997711,
+    "low": 27.8799991608,
+    "close": 28.4400005341,
+    "volume": 30900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.8400001526,
+    "high": 28.7199993134,
+    "low": 27.5,
+    "close": 27.8700008392,
+    "volume": 35900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.8700008392,
+    "high": 28.5949993134,
+    "low": 26.9099998474,
+    "close": 27.3999996185,
+    "volume": 67400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.5300006866,
+    "high": 27.7299995422,
+    "low": 25.5300006866,
+    "close": 25.7700004578,
+    "volume": 80000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.5149993896,
+    "high": 26.5149993896,
+    "low": 25.5200004578,
+    "close": 25.9300003052,
+    "volume": 67500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.7700004578,
+    "high": 27.5,
+    "low": 25.1149997711,
+    "close": 27.4500007629,
+    "volume": 86000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.5599994659,
+    "high": 28.4599990845,
+    "low": 26.5,
+    "close": 28.2000007629,
+    "volume": 216000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 28.1499996185,
+    "high": 30.4899997711,
+    "low": 27.3700008392,
+    "close": 29.8600006104,
+    "volume": 262200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 29.8600006104,
+    "high": 31.8999996185,
+    "low": 29.5650005341,
+    "close": 31.8500003815,
+    "volume": 287300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 31.6800003052,
+    "high": 33.2200012207,
+    "low": 30.3549995422,
+    "close": 32.0200004578,
+    "volume": 286400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 32.0,
+    "high": 33.0250015259,
+    "low": 29.875,
+    "close": 30.3199996948,
+    "volume": 89000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 30.5100002289,
+    "high": 31.7000007629,
+    "low": 29.6499996185,
+    "close": 31.5599994659,
+    "volume": 133100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 31.5100002289,
+    "high": 32.4650001526,
+    "low": 31.0,
+    "close": 32.25,
+    "volume": 97300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 32.6699981689,
+    "high": 33.9599990845,
+    "low": 30.9150009155,
+    "close": 31.1000003815,
+    "volume": 116400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 31.0599994659,
+    "high": 33.0499992371,
+    "low": 30.9449996948,
+    "close": 33.0299987793,
+    "volume": 218800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 33.0299987793,
+    "high": 33.0299987793,
+    "low": 30.4500007629,
+    "close": 30.6350002289,
+    "volume": 158100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 30.4699993134,
+    "high": 31.5699996948,
+    "low": 28.0,
+    "close": 28.1399993896,
+    "volume": 111000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 28.0100002289,
+    "high": 30.6700000763,
+    "low": 27.0100002289,
+    "close": 29.9500007629,
+    "volume": 112100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 29.8899993896,
+    "high": 31.5249996185,
+    "low": 29.8899993896,
+    "close": 30.9799995422,
+    "volume": 105500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 30.5599994659,
+    "high": 32.5,
+    "low": 28.9549999237,
+    "close": 31.5599994659,
+    "volume": 129500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 31.6599998474,
+    "high": 33.5999984741,
+    "low": 30.7900009155,
+    "close": 33.4000015259,
+    "volume": 81900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 33.4799995422,
+    "high": 35.0,
+    "low": 32.6450004578,
+    "close": 33.5999984741,
+    "volume": 62000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 33.4599990845,
+    "high": 34.3800010681,
+    "low": 32.0499992371,
+    "close": 32.0699996948,
+    "volume": 169500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 32.8499984741,
+    "high": 33.4169998169,
+    "low": 31.7099990845,
+    "close": 32.6399993896,
+    "volume": 95300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 32.6500015259,
+    "high": 34.4000015259,
+    "low": 31.3299999237,
+    "close": 34.1300010681,
+    "volume": 136300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 35.0,
+    "high": 35.0,
+    "low": 30.5,
+    "close": 30.75,
+    "volume": 77100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 30.9500007629,
+    "high": 30.9500007629,
+    "low": 28.5499992371,
+    "close": 28.9599990845,
+    "volume": 69200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 29.0,
+    "high": 30.7900009155,
+    "low": 28.6499996185,
+    "close": 29.2800006866,
+    "volume": 95500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 29.2999992371,
+    "high": 31.4599990845,
+    "low": 28.6049995422,
+    "close": 30.6599998474,
+    "volume": 84700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 30.7099990845,
+    "high": 31.75,
+    "low": 30.0,
+    "close": 30.1399993896,
+    "volume": 68400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 30.4300003052,
+    "high": 30.9099998474,
+    "low": 29.5209999084,
+    "close": 29.8700008392,
+    "volume": 14900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 29.2700004578,
+    "high": 29.7900009155,
+    "low": 27.3600006104,
+    "close": 28.1499996185,
+    "volume": 71700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 28.1200008392,
+    "high": 28.7199993134,
+    "low": 26.8799991608,
+    "close": 27.4400005341,
+    "volume": 42500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 27.2099990845,
+    "high": 27.5249996185,
+    "low": 25.5,
+    "close": 25.5699996948,
+    "volume": 196300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.0,
+    "high": 27.5200004578,
+    "low": 25.0,
+    "close": 27.0499992371,
+    "volume": 92800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.7000007629,
+    "high": 27.8700008392,
+    "low": 26.4400005341,
+    "close": 27.0900001526,
+    "volume": 46700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.8700008392,
+    "high": 27.4899997711,
+    "low": 26.2199993134,
+    "close": 26.3700008392,
+    "volume": 53100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.5400009155,
+    "high": 27.0,
+    "low": 25.7199993134,
+    "close": 26.1700000763,
+    "volume": 50600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.9899997711,
+    "high": 26.9699993134,
+    "low": 25.5200004578,
+    "close": 26.4599990845,
+    "volume": 38300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.0100002289,
+    "high": 27.0799999237,
+    "low": 25.6499996185,
+    "close": 26.1599998474,
+    "volume": 49300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.2600002289,
+    "high": 26.9300003052,
+    "low": 24.2999992371,
+    "close": 26.2099990845,
+    "volume": 360300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.7700004578,
+    "high": 26.8250007629,
+    "low": 24.0,
+    "close": 24.7099990845,
+    "volume": 88700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.3099994659,
+    "high": 24.9099998474,
+    "low": 22.7099990845,
+    "close": 23.1450004578,
+    "volume": 122600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.2199993134,
+    "high": 24.8600006104,
+    "low": 23.1700000763,
+    "close": 24.5699996948,
+    "volume": 78400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.4400005341,
+    "high": 25.6849994659,
+    "low": 23.6800003052,
+    "close": 24.3799991608,
+    "volume": 77300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.1900005341,
+    "high": 24.8150005341,
+    "low": 21.5100002289,
+    "close": 21.5200004578,
+    "volume": 97000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.6499996185,
+    "high": 22.2800006866,
+    "low": 20.5,
+    "close": 20.6900005341,
+    "volume": 145800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.5100002289,
+    "high": 21.9899997711,
+    "low": 20.6100006104,
+    "close": 21.5,
+    "volume": 82300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.3199996948,
+    "high": 22.6399993896,
+    "low": 21.0149993896,
+    "close": 21.7700004578,
+    "volume": 53400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.2999992371,
+    "high": 23.5799999237,
+    "low": 21.8549995422,
+    "close": 23.3700008392,
+    "volume": 84400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.2099990845,
+    "high": 25.1299991608,
+    "low": 23.0,
+    "close": 23.3899993896,
+    "volume": 71100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.9799995422,
+    "high": 25.1200008392,
+    "low": 23.0,
+    "close": 23.1399993896,
+    "volume": 183200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.1900005341,
+    "high": 23.2099990845,
+    "low": 21.9899997711,
+    "close": 22.75,
+    "volume": 104800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.7800006866,
+    "high": 25.5949993134,
+    "low": 22.1000003815,
+    "close": 24.0400009155,
+    "volume": 246800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.1800003052,
+    "high": 25.3099994659,
+    "low": 22.4899997711,
+    "close": 23.25,
+    "volume": 246500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.3500003815,
+    "high": 23.8250007629,
+    "low": 22.7049999237,
+    "close": 23.6599998474,
+    "volume": 87300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.3500003815,
+    "high": 25.0,
+    "low": 22.7600002289,
+    "close": 24.8600006104,
+    "volume": 127700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.8899993896,
+    "high": 25.7900009155,
+    "low": 23.8600006104,
+    "close": 24.75,
+    "volume": 88100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.0499992371,
+    "high": 25.2900009155,
+    "low": 23.4050006866,
+    "close": 24.5200004578,
+    "volume": 67400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.5200004578,
+    "high": 26.4300003052,
+    "low": 23.7299995422,
+    "close": 25.2199993134,
+    "volume": 1003200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.8700008392,
+    "high": 26.4400005341,
+    "low": 24.8700008392,
+    "close": 25.7199993134,
+    "volume": 162000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.9200000763,
+    "high": 26.6299991608,
+    "low": 25.3999996185,
+    "close": 25.9500007629,
+    "volume": 186500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 26.0799999237,
+    "high": 26.2099990845,
+    "low": 24.5,
+    "close": 25.5200004578,
+    "volume": 92800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.8299999237,
+    "high": 26.8250007629,
+    "low": 24.7099990845,
+    "close": 24.9200000763,
+    "volume": 99800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.9599990845,
+    "high": 25.2999992371,
+    "low": 23.5200004578,
+    "close": 23.6599998474,
+    "volume": 67400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.7900009155,
+    "high": 24.4850006104,
+    "low": 22.0,
+    "close": 23.0100002289,
+    "volume": 199400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.0,
+    "high": 23.5900001526,
+    "low": 21.6499996185,
+    "close": 22.8799991608,
+    "volume": 117500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.1599998474,
+    "high": 23.9200000763,
+    "low": 22.3250007629,
+    "close": 23.5,
+    "volume": 153600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.4500007629,
+    "high": 23.4799995422,
+    "low": 21.7199993134,
+    "close": 23.1900005341,
+    "volume": 148700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.1900005341,
+    "high": 23.7000007629,
+    "low": 21.5400009155,
+    "close": 22.8099994659,
+    "volume": 336600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.0,
+    "high": 23.1499996185,
+    "low": 21.7199993134,
+    "close": 21.8799991608,
+    "volume": 226200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.8600006104,
+    "high": 22.6100006104,
+    "low": 21.5650005341,
+    "close": 21.7900009155,
+    "volume": 139700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.8099994659,
+    "high": 22.4200000763,
+    "low": 20.6299991608,
+    "close": 20.75,
+    "volume": 170900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 20.5100002289,
+    "high": 22.1000003815,
+    "low": 19.9850006104,
+    "close": 21.9599990845,
+    "volume": 144900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.1200008392,
+    "high": 22.4099998474,
+    "low": 20.7700004578,
+    "close": 22.1599998474,
+    "volume": 94100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.2299995422,
+    "high": 23.3999996185,
+    "low": 21.0,
+    "close": 22.9899997711,
+    "volume": 111100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.2199993134,
+    "high": 23.2199993134,
+    "low": 21.2099990845,
+    "close": 21.7199993134,
+    "volume": 378200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.5900001526,
+    "high": 21.9699993134,
+    "low": 21.0,
+    "close": 21.1599998474,
+    "volume": 65900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.2000007629,
+    "high": 21.3899993896,
+    "low": 19.6200008392,
+    "close": 19.7299995422,
+    "volume": 184300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.7299995422,
+    "high": 21.6800003052,
+    "low": 19.0100002289,
+    "close": 19.8099994659,
+    "volume": 143600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.9200000763,
+    "high": 21.0,
+    "low": 19.0100002289,
+    "close": 19.3999996185,
+    "volume": 459000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.5799999237,
+    "high": 19.7299995422,
+    "low": 18.1200008392,
+    "close": 19.2000007629,
+    "volume": 313900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.25,
+    "high": 21.5300006866,
+    "low": 19.0550003052,
+    "close": 20.8299999237,
+    "volume": 1072200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.0,
+    "high": 22.5799999237,
+    "low": 20.75,
+    "close": 22.2099990845,
+    "volume": 304200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.4500007629,
+    "high": 23.1200008392,
+    "low": 21.3549995422,
+    "close": 21.7800006866,
+    "volume": 230400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.1200008392,
+    "high": 22.9500007629,
+    "low": 20.7450008392,
+    "close": 22.0,
+    "volume": 274900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.6499996185,
+    "high": 22.5499992371,
+    "low": 20.7299995422,
+    "close": 21.9500007629,
+    "volume": 333500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.7399997711,
+    "high": 22.3999996185,
+    "low": 21.1499996185,
+    "close": 21.6399993896,
+    "volume": 211700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.8400001526,
+    "high": 27.3199996948,
+    "low": 22.2999992371,
+    "close": 25.6200008392,
+    "volume": 371200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.6000003815,
+    "high": 26.2700004578,
+    "low": 24.8799991608,
+    "close": 25.0900001526,
+    "volume": 134100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.6399993896,
+    "high": 25.6399993896,
+    "low": 24.7199993134,
+    "close": 25.0499992371,
+    "volume": 142000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 25.5,
+    "high": 25.7999992371,
+    "low": 23.9500007629,
+    "close": 24.1900005341,
+    "volume": 271500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.2800006866,
+    "high": 24.9099998474,
+    "low": 23.4799995422,
+    "close": 23.7299995422,
+    "volume": 432900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.8400001526,
+    "high": 24.9500007629,
+    "low": 22.8400001526,
+    "close": 23.9599990845,
+    "volume": 212900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.8500003815,
+    "high": 24.9599990845,
+    "low": 23.25,
+    "close": 23.7800006866,
+    "volume": 163500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.5,
+    "high": 24.6900005341,
+    "low": 23.4300003052,
+    "close": 24.0,
+    "volume": 148600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.4400005341,
+    "high": 24.5,
+    "low": 23.7700004578,
+    "close": 24.0100002289,
+    "volume": 122500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 24.4599990845,
+    "high": 24.4599990845,
+    "low": 23.0849990845,
+    "close": 23.5,
+    "volume": 135300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.7299995422,
+    "high": 25.0100002289,
+    "low": 23.4899997711,
+    "close": 23.9899997711,
+    "volume": 149700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.8099994659,
+    "high": 24.3299999237,
+    "low": 22.7999992371,
+    "close": 23.9699993134,
+    "volume": 163600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.9699993134,
+    "high": 25.0100002289,
+    "low": 23.2900009155,
+    "close": 23.3600006104,
+    "volume": 219000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.5200004578,
+    "high": 24.1599998474,
+    "low": 23.1900005341,
+    "close": 23.7099990845,
+    "volume": 128800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.6900005341,
+    "high": 24.8700008392,
+    "low": 23.0300006866,
+    "close": 24.0100002289,
+    "volume": 340700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.75,
+    "high": 23.75,
+    "low": 22.0799999237,
+    "close": 22.4200000763,
+    "volume": 239400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.2800006866,
+    "high": 22.6200008392,
+    "low": 21.4500007629,
+    "close": 22.0200004578,
+    "volume": 266700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 21.7199993134,
+    "high": 22.4750003815,
+    "low": 21.6509990692,
+    "close": 22.2000007629,
+    "volume": 124600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.3199996948,
+    "high": 23.0049991608,
+    "low": 21.8950004578,
+    "close": 22.6000003815,
+    "volume": 116900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.9200000763,
+    "high": 22.9899997711,
+    "low": 22.2399997711,
+    "close": 22.5400009155,
+    "volume": 200900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.3400001526,
+    "high": 22.8999996185,
+    "low": 21.5349998474,
+    "close": 22.7600002289,
+    "volume": 150200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 22.5699996948,
+    "high": 23.1800003052,
+    "low": 20.6299991608,
+    "close": 20.6800003052,
+    "volume": 202300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 20.5200004578,
+    "high": 20.5200004578,
+    "low": 18.3999996185,
+    "close": 20.0300006866,
+    "volume": 201900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.9500007629,
+    "high": 20.1499996185,
+    "low": 18.9950008392,
+    "close": 19.4500007629,
+    "volume": 277800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.6800003052,
+    "high": 19.7199993134,
+    "low": 18.7099990845,
+    "close": 19.0,
+    "volume": 145300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 19.0300006866,
+    "high": 19.2900009155,
+    "low": 17.6100006104,
+    "close": 17.8400001526,
+    "volume": 198200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 17.8099994659,
+    "high": 18.3400001526,
+    "low": 17.1499996185,
+    "close": 17.7700004578,
+    "volume": 151900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 17.8400001526,
+    "high": 17.8600006104,
+    "low": 16.7800006866,
+    "close": 16.9300003052,
+    "volume": 116700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 17.2700004578,
+    "high": 17.4750003815,
+    "low": 16.4400005341,
+    "close": 16.9400005341,
+    "volume": 268500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 16.9699993134,
+    "high": 17.6800003052,
+    "low": 16.4300003052,
+    "close": 16.5499992371,
+    "volume": 190200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 16.7399997711,
+    "high": 17.4500007629,
+    "low": 16.4400005341,
+    "close": 16.5300006866,
+    "volume": 129000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 16.7800006866,
+    "high": 17.6000003815,
+    "low": 16.5599994659,
+    "close": 17.6000003815,
+    "volume": 89800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 17.5400009155,
+    "high": 17.5400009155,
+    "low": 16.1399993896,
+    "close": 16.1599998474,
+    "volume": 115500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 30.5599994659,
+    "high": 35.8600006104,
+    "low": 29.1000003815,
+    "close": 33.6800003052,
+    "volume": 11527000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 34.7200012207,
+    "high": 37.8300018311,
+    "low": 28.5499992371,
+    "close": 29.5400009155,
+    "volume": 1928700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 29.7099990845,
+    "high": 30.3899993896,
+    "low": 29.0100002289,
+    "close": 29.6399993896,
+    "volume": 409700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 29.8299999237,
+    "high": 32.5449981689,
+    "low": 29.5,
+    "close": 31.9799995422,
+    "volume": 558000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 32.1549987793,
+    "high": 33.3800010681,
+    "low": 30.9750003815,
+    "close": 32.1800003052,
+    "volume": 1656600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 31.6000003815,
+    "high": 32.0,
+    "low": 29.7199993134,
+    "close": 30.0,
+    "volume": 438400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 30.5699996948,
+    "high": 30.6800003052,
+    "low": 28.9300003052,
+    "close": 29.3199996948,
+    "volume": 645977.0,
+    "wedge_status": "none"
+  }
+]

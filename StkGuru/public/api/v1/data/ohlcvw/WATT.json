@@ -1,0 +1,7522 @@
+[
+  {
+    "trade_date": "2023,10,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 48.0,
+    "high": 49.2000007629,
+    "low": 46.5,
+    "close": 49.0499992371,
+    "volume": 537.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 48.0,
+    "high": 48.9000015259,
+    "low": 45.2999992371,
+    "close": 47.0999984741,
+    "volume": 570.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 47.7000007629,
+    "high": 47.7000007629,
+    "low": 46.5,
+    "close": 46.7999992371,
+    "volume": 253.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 47.7000007629,
+    "high": 49.5,
+    "low": 47.0999984741,
+    "close": 49.5,
+    "volume": 467.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 48.5999984741,
+    "high": 58.7999992371,
+    "low": 48.5999984741,
+    "close": 54.9000015259,
+    "volume": 3383.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.0999984741,
+    "high": 57.3300018311,
+    "low": 51.0900001526,
+    "close": 53.4000015259,
+    "volume": 817.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.7000007629,
+    "high": 56.7000007629,
+    "low": 53.4000015259,
+    "close": 53.7000007629,
+    "volume": 837.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.0999984741,
+    "high": 56.0999984741,
+    "low": 52.2000007629,
+    "close": 52.7999992371,
+    "volume": 693.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 55.7999992371,
+    "high": 56.0999984741,
+    "low": 51.4500007629,
+    "close": 52.5,
+    "volume": 1493.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 51.5999984741,
+    "high": 54.4500007629,
+    "low": 51.5400009155,
+    "close": 53.7000007629,
+    "volume": 507.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,10,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 53.0999984741,
+    "high": 53.7000007629,
+    "low": 51.9000015259,
+    "close": 52.2000007629,
+    "volume": 283.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.2000007629,
+    "high": 54.1500015259,
+    "low": 52.2000007629,
+    "close": 53.0400009155,
+    "volume": 490.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,10,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 54.2999992371,
+    "high": 54.2999992371,
+    "low": 51.5999984741,
+    "close": 52.0499992371,
+    "volume": 403.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 51.5999984741,
+    "high": 51.9000015259,
+    "low": 50.2200012207,
+    "close": 50.4000015259,
+    "volume": 630.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 51.0,
+    "high": 51.9000015259,
+    "low": 49.7999992371,
+    "close": 51.2999992371,
+    "volume": 310.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 51.2999992371,
+    "high": 55.5,
+    "low": 49.5,
+    "close": 49.7999992371,
+    "volume": 1623.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 49.5,
+    "high": 52.2000007629,
+    "low": 49.5,
+    "close": 49.7999992371,
+    "volume": 187.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 49.5,
+    "high": 51.9000015259,
+    "low": 48.5999984741,
+    "close": 48.5999984741,
+    "volume": 577.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 50.7000007629,
+    "high": 51.9000015259,
+    "low": 48.2999992371,
+    "close": 48.5999984741,
+    "volume": 770.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 48.9000015259,
+    "high": 52.2000007629,
+    "low": 48.5999984741,
+    "close": 50.1599998474,
+    "volume": 907.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 49.2000007629,
+    "high": 54.9000015259,
+    "low": 49.2000007629,
+    "close": 51.9000015259,
+    "volume": 1090.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 55.5,
+    "high": 65.4000015259,
+    "low": 54.9000015259,
+    "close": 60.5999984741,
+    "volume": 7623.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.5,
+    "high": 67.1999969482,
+    "low": 59.6100006104,
+    "close": 63.0,
+    "volume": 3290.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 63.2999992371,
+    "high": 66.3000030518,
+    "low": 60.2999992371,
+    "close": 62.7000007629,
+    "volume": 1197.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 63.0,
+    "high": 67.5,
+    "low": 61.4399986267,
+    "close": 66.3000030518,
+    "volume": 1607.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 67.1999969482,
+    "high": 80.0999984741,
+    "low": 62.4000015259,
+    "close": 76.6500015259,
+    "volume": 10643.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 78.0,
+    "high": 79.3799972534,
+    "low": 71.8499984741,
+    "close": 73.8000030518,
+    "volume": 1840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 73.8000030518,
+    "high": 73.8000030518,
+    "low": 54.2999992371,
+    "close": 54.5999984741,
+    "volume": 4003.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,11,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.0,
+    "high": 57.0,
+    "low": 54.2999992371,
+    "close": 54.2999992371,
+    "volume": 1027.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 54.2999992371,
+    "high": 55.5,
+    "low": 51.5999984741,
+    "close": 52.5,
+    "volume": 1680.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.5,
+    "high": 61.8899993896,
+    "low": 52.3199996948,
+    "close": 57.9000015259,
+    "volume": 3107.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 63.0,
+    "high": 65.3700027466,
+    "low": 58.2000007629,
+    "close": 58.5,
+    "volume": 2207.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 59.4000015259,
+    "high": 60.9000015259,
+    "low": 55.5,
+    "close": 59.3400001526,
+    "volume": 2120.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 62.0999984741,
+    "high": 66.3000030518,
+    "low": 59.0999984741,
+    "close": 59.0999984741,
+    "volume": 3303.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 59.4000015259,
+    "high": 60.5999984741,
+    "low": 58.2000007629,
+    "close": 58.7999992371,
+    "volume": 473.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.9000015259,
+    "high": 66.5999984741,
+    "low": 56.4000015259,
+    "close": 62.7000007629,
+    "volume": 1380.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,11,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.5,
+    "high": 63.9000015259,
+    "low": 59.4000015259,
+    "close": 59.8499984741,
+    "volume": 1573.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.2000007629,
+    "high": 64.8300018311,
+    "low": 60.2999992371,
+    "close": 62.7000007629,
+    "volume": 2243.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 68.0999984741,
+    "high": 68.0999984741,
+    "low": 60.0,
+    "close": 62.7000007629,
+    "volume": 1687.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 63.0,
+    "high": 63.0,
+    "low": 59.0999984741,
+    "close": 61.2000007629,
+    "volume": 1200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 62.6100006104,
+    "high": 62.6100006104,
+    "low": 57.0,
+    "close": 60.5999984741,
+    "volume": 1297.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 59.5499992371,
+    "high": 61.0499992371,
+    "low": 58.3499984741,
+    "close": 59.0999984741,
+    "volume": 900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,12,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 58.2000007629,
+    "high": 60.0,
+    "low": 58.2000007629,
+    "close": 60.0,
+    "volume": 653.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 58.2000007629,
+    "high": 60.0,
+    "low": 58.2000007629,
+    "close": 58.6500015259,
+    "volume": 500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,12,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 60.0,
+    "high": 63.0,
+    "low": 57.5999984741,
+    "close": 60.0,
+    "volume": 1123.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 60.0,
+    "high": 61.5,
+    "low": 58.7999992371,
+    "close": 60.2999992371,
+    "volume": 333.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 60.0,
+    "high": 61.5,
+    "low": 59.4000015259,
+    "close": 60.0,
+    "volume": 673.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 60.5999984741,
+    "high": 60.5999984741,
+    "low": 57.2999992371,
+    "close": 57.9900016785,
+    "volume": 870.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,12,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.9000015259,
+    "high": 58.7999992371,
+    "low": 54.5999984741,
+    "close": 55.7999992371,
+    "volume": 540.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.0,
+    "high": 63.9000015259,
+    "low": 52.5,
+    "close": 62.4000015259,
+    "volume": 2307.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 63.9000015259,
+    "high": 68.4000015259,
+    "low": 59.4599990845,
+    "close": 62.25,
+    "volume": 2397.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 62.0999984741,
+    "high": 65.3099975586,
+    "low": 58.7999992371,
+    "close": 61.5,
+    "volume": 1040.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 60.2999992371,
+    "high": 62.3699989319,
+    "low": 58.7999992371,
+    "close": 60.0,
+    "volume": 1007.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 59.7000007629,
+    "high": 63.5999984741,
+    "low": 59.7000007629,
+    "close": 62.1599998474,
+    "volume": 1943.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.5,
+    "high": 63.0,
+    "low": 60.0,
+    "close": 60.2999992371,
+    "volume": 877.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.2000007629,
+    "high": 63.0,
+    "low": 61.2000007629,
+    "close": 62.0999984741,
+    "volume": 343.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,12,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.7999992371,
+    "high": 62.0999984741,
+    "low": 59.4000015259,
+    "close": 60.5999984741,
+    "volume": 1590.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 60.9000015259,
+    "high": 61.7999992371,
+    "low": 58.5,
+    "close": 61.7999992371,
+    "volume": 2113.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 60.2999992371,
+    "high": 62.25,
+    "low": 56.7000007629,
+    "close": 57.9000015259,
+    "volume": 3850.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,12,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 58.5,
+    "high": 59.7000007629,
+    "low": 57.75,
+    "close": 58.0499992371,
+    "volume": 2763.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 60.5999984741,
+    "high": 60.5999984741,
+    "low": 54.2999992371,
+    "close": 54.9000015259,
+    "volume": 3617.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 54.2999992371,
+    "high": 54.2999992371,
+    "low": 48.9000015259,
+    "close": 48.9000015259,
+    "volume": 3737.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 51.0,
+    "high": 51.0,
+    "low": 47.7000007629,
+    "close": 48.0,
+    "volume": 1267.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 48.5999984741,
+    "high": 52.7999992371,
+    "low": 48.2999992371,
+    "close": 50.7000007629,
+    "volume": 1743.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 51.2999992371,
+    "high": 51.2999992371,
+    "low": 48.0,
+    "close": 48.9000015259,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 49.2000007629,
+    "high": 50.0999984741,
+    "low": 48.0,
+    "close": 49.5,
+    "volume": 1150.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 49.2000007629,
+    "high": 49.7999992371,
+    "low": 47.7000007629,
+    "close": 49.2000007629,
+    "volume": 857.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 50.4000015259,
+    "high": 52.2000007629,
+    "low": 48.0,
+    "close": 51.9000015259,
+    "volume": 1677.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 51.9000015259,
+    "high": 52.5,
+    "low": 49.5,
+    "close": 49.7999992371,
+    "volume": 597.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.5,
+    "high": 52.5,
+    "low": 51.0,
+    "close": 52.2000007629,
+    "volume": 1430.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.2000007629,
+    "high": 56.0999984741,
+    "low": 49.9500007629,
+    "close": 50.0999984741,
+    "volume": 3070.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 50.4000015259,
+    "high": 50.4000015259,
+    "low": 48.2999992371,
+    "close": 48.5999984741,
+    "volume": 640.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 49.2000007629,
+    "high": 52.5,
+    "low": 49.2000007629,
+    "close": 52.5,
+    "volume": 787.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 54.0,
+    "high": 54.2999992371,
+    "low": 51.2999992371,
+    "close": 54.0,
+    "volume": 937.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,01,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 53.0999984741,
+    "high": 55.5,
+    "low": 52.2000007629,
+    "close": 54.5999984741,
+    "volume": 917.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 55.2900009155,
+    "high": 55.5,
+    "low": 53.0999984741,
+    "close": 55.2000007629,
+    "volume": 547.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 55.5,
+    "high": 55.5,
+    "low": 54.0,
+    "close": 54.0,
+    "volume": 400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 54.5999984741,
+    "high": 58.7999992371,
+    "low": 52.2000007629,
+    "close": 55.7999992371,
+    "volume": 2807.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.0999984741,
+    "high": 57.0,
+    "low": 54.2999992371,
+    "close": 56.4000015259,
+    "volume": 457.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 55.5,
+    "high": 56.0999984741,
+    "low": 54.2999992371,
+    "close": 55.2000007629,
+    "volume": 793.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.0999984741,
+    "high": 56.7000007629,
+    "low": 54.5999984741,
+    "close": 54.75,
+    "volume": 757.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 54.9000015259,
+    "high": 56.7000007629,
+    "low": 52.7999992371,
+    "close": 53.0999984741,
+    "volume": 1383.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,02,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 53.4000015259,
+    "high": 53.4000015259,
+    "low": 51.5999984741,
+    "close": 51.9000015259,
+    "volume": 940.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.5,
+    "high": 52.5,
+    "low": 49.5,
+    "close": 49.7999992371,
+    "volume": 887.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 49.7999992371,
+    "high": 50.25,
+    "low": 48.0,
+    "close": 48.5999984741,
+    "volume": 920.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 50.4000015259,
+    "high": 50.4000015259,
+    "low": 49.0499992371,
+    "close": 49.5,
+    "volume": 440.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 50.7000007629,
+    "high": 50.7000007629,
+    "low": 49.2000007629,
+    "close": 50.25,
+    "volume": 657.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 50.7000007629,
+    "high": 52.0200004578,
+    "low": 49.5,
+    "close": 50.4000015259,
+    "volume": 1260.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 51.0299987793,
+    "high": 52.5,
+    "low": 50.6399993896,
+    "close": 52.2000007629,
+    "volume": 847.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,02,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.2000007629,
+    "high": 57.0,
+    "low": 52.0499992371,
+    "close": 56.7000007629,
+    "volume": 1580.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.7000007629,
+    "high": 57.2999992371,
+    "low": 54.75,
+    "close": 54.9000015259,
+    "volume": 650.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.0,
+    "high": 58.2000007629,
+    "low": 55.5,
+    "close": 58.0499992371,
+    "volume": 1597.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 58.2000007629,
+    "high": 82.5,
+    "low": 58.2000007629,
+    "close": 76.8000030518,
+    "volume": 26867.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 63.9000015259,
+    "high": 77.4000015259,
+    "low": 63.0,
+    "close": 72.5999984741,
+    "volume": 12180.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 75.3000030518,
+    "high": 77.3700027466,
+    "low": 65.4000015259,
+    "close": 68.0999984741,
+    "volume": 3380.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 69.0,
+    "high": 73.1999969482,
+    "low": 62.7000007629,
+    "close": 65.4000015259,
+    "volume": 1743.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 67.8000030518,
+    "high": 69.5999984741,
+    "low": 60.9000015259,
+    "close": 60.9000015259,
+    "volume": 2167.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 62.0999984741,
+    "high": 63.9000015259,
+    "low": 56.4000015259,
+    "close": 60.1500015259,
+    "volume": 1723.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.5,
+    "high": 67.1999969482,
+    "low": 61.5,
+    "close": 65.25,
+    "volume": 1730.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 66.0,
+    "high": 66.0,
+    "low": 62.4000015259,
+    "close": 64.1999969482,
+    "volume": 1507.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 65.4000015259,
+    "high": 65.4000015259,
+    "low": 60.2999992371,
+    "close": 64.5,
+    "volume": 1053.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 64.8000030518,
+    "high": 67.5,
+    "low": 63.0,
+    "close": 63.0,
+    "volume": 1917.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 62.7000007629,
+    "high": 65.25,
+    "low": 60.5999984741,
+    "close": 61.5,
+    "volume": 1673.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.5,
+    "high": 62.7000007629,
+    "low": 57.9000015259,
+    "close": 59.4000015259,
+    "volume": 1773.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,03,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 59.7000007629,
+    "high": 59.7000007629,
+    "low": 54.2999992371,
+    "close": 57.2999992371,
+    "volume": 1807.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.2999992371,
+    "high": 62.4000015259,
+    "low": 57.2999992371,
+    "close": 60.0,
+    "volume": 1543.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.5,
+    "high": 62.9399986267,
+    "low": 60.0,
+    "close": 60.5999984741,
+    "volume": 1257.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 60.2999992371,
+    "high": 63.0,
+    "low": 59.4000015259,
+    "close": 59.7000007629,
+    "volume": 1973.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,03,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 59.7000007629,
+    "high": 65.6999969482,
+    "low": 58.8300018311,
+    "close": 61.7999992371,
+    "volume": 2427.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.2000007629,
+    "high": 62.7000007629,
+    "low": 57.2999992371,
+    "close": 57.9000015259,
+    "volume": 3713.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,03,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.5999984741,
+    "high": 59.9700012207,
+    "low": 55.7999992371,
+    "close": 55.7999992371,
+    "volume": 1330.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.7000007629,
+    "high": 59.4000015259,
+    "low": 52.2000007629,
+    "close": 54.0,
+    "volume": 1523.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.2000007629,
+    "high": 53.9399986267,
+    "low": 49.7999992371,
+    "close": 49.7999992371,
+    "volume": 3727.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 49.5,
+    "high": 52.4099998474,
+    "low": 49.2000007629,
+    "close": 51.0,
+    "volume": 1623.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 51.0,
+    "high": 51.75,
+    "low": 48.2999992371,
+    "close": 49.5,
+    "volume": 2040.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 50.4000015259,
+    "high": 50.7000007629,
+    "low": 48.2999992371,
+    "close": 50.7000007629,
+    "volume": 1577.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.2000007629,
+    "high": 57.9000015259,
+    "low": 52.0200004578,
+    "close": 54.5999984741,
+    "volume": 4210.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 54.9000015259,
+    "high": 54.9000015259,
+    "low": 52.2000007629,
+    "close": 53.4000015259,
+    "volume": 1087.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.7999992371,
+    "high": 55.9799995422,
+    "low": 51.2999992371,
+    "close": 52.7999992371,
+    "volume": 1007.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 53.0999984741,
+    "high": 55.2000007629,
+    "low": 52.9799995422,
+    "close": 54.0,
+    "volume": 1533.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 55.2000007629,
+    "high": 63.0,
+    "low": 54.0,
+    "close": 58.5,
+    "volume": 4383.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 61.5,
+    "high": 63.0,
+    "low": 58.7999992371,
+    "close": 60.9000015259,
+    "volume": 10547.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 58.5,
+    "high": 62.7000007629,
+    "low": 52.5,
+    "close": 54.5999984741,
+    "volume": 4447.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 55.5,
+    "high": 56.0999984741,
+    "low": 54.0,
+    "close": 55.5,
+    "volume": 1240.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 55.2000007629,
+    "high": 56.4000015259,
+    "low": 54.2999992371,
+    "close": 55.7999992371,
+    "volume": 1323.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.5999984741,
+    "high": 61.3499984741,
+    "low": 56.5499992371,
+    "close": 60.2999992371,
+    "volume": 2917.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,04,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.9000015259,
+    "high": 60.6899986267,
+    "low": 57.1500015259,
+    "close": 57.2999992371,
+    "volume": 1630.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 57.5999984741,
+    "high": 57.5999984741,
+    "low": 55.5,
+    "close": 56.4000015259,
+    "volume": 623.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.7000007629,
+    "high": 56.7000007629,
+    "low": 54.2999992371,
+    "close": 55.5,
+    "volume": 753.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.0999984741,
+    "high": 56.4000015259,
+    "low": 52.5,
+    "close": 53.7000007629,
+    "volume": 1027.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 56.4000015259,
+    "high": 56.4000015259,
+    "low": 50.8499984741,
+    "close": 51.5999984741,
+    "volume": 1613.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 54.0,
+    "high": 54.0,
+    "low": 49.5,
+    "close": 50.0999984741,
+    "volume": 1697.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 52.7999992371,
+    "high": 52.7999992371,
+    "low": 46.5,
+    "close": 46.6500015259,
+    "volume": 2983.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 48.2999992371,
+    "high": 48.2999992371,
+    "low": 45.6300010681,
+    "close": 47.4000015259,
+    "volume": 2787.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 48.8699989319,
+    "high": 48.8699989319,
+    "low": 42.5999984741,
+    "close": 42.75,
+    "volume": 3430.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.9000015259,
+    "high": 44.4000015259,
+    "low": 42.9000015259,
+    "close": 44.0999984741,
+    "volume": 1043.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 45.0,
+    "high": 45.0,
+    "low": 40.7999992371,
+    "close": 41.0999984741,
+    "volume": 1647.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.9000015259,
+    "high": 43.7999992371,
+    "low": 39.2999992371,
+    "close": 40.5,
+    "volume": 2773.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 40.2000007629,
+    "high": 41.0999984741,
+    "low": 39.9000015259,
+    "close": 40.7999992371,
+    "volume": 750.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 41.4000015259,
+    "high": 42.9900016785,
+    "low": 41.4000015259,
+    "close": 42.0,
+    "volume": 600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 41.0999984741,
+    "high": 42.0,
+    "low": 39.0,
+    "close": 40.5,
+    "volume": 2040.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 39.75,
+    "high": 41.7000007629,
+    "low": 39.0,
+    "close": 40.7999992371,
+    "volume": 877.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 40.7999992371,
+    "high": 42.5999984741,
+    "low": 39.9000015259,
+    "close": 42.0,
+    "volume": 537.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 41.0999984741,
+    "high": 42.6300010681,
+    "low": 39.9599990845,
+    "close": 41.7000007629,
+    "volume": 880.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 40.5,
+    "high": 42.0,
+    "low": 39.9000015259,
+    "close": 40.5,
+    "volume": 273.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 41.7000007629,
+    "high": 46.5,
+    "low": 41.1300010681,
+    "close": 43.5,
+    "volume": 2737.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 46.2000007629,
+    "high": 46.2000007629,
+    "low": 43.5,
+    "close": 44.0999984741,
+    "volume": 977.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 46.2000007629,
+    "high": 47.8499984741,
+    "low": 45.0,
+    "close": 47.0999984741,
+    "volume": 2490.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,05,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 45.9000015259,
+    "high": 47.0999984741,
+    "low": 45.0,
+    "close": 46.2000007629,
+    "volume": 497.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 46.2000007629,
+    "high": 47.1899986267,
+    "low": 45.4500007629,
+    "close": 45.9000015259,
+    "volume": 477.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 45.3899993896,
+    "high": 46.4099998474,
+    "low": 43.5,
+    "close": 45.0,
+    "volume": 400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 44.5499992371,
+    "high": 44.5499992371,
+    "low": 42.0,
+    "close": 43.2000007629,
+    "volume": 640.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 43.2000007629,
+    "high": 46.2000007629,
+    "low": 42.9000015259,
+    "close": 45.2999992371,
+    "volume": 1167.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 47.0999984741,
+    "high": 48.0,
+    "low": 42.5999984741,
+    "close": 46.7999992371,
+    "volume": 1467.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 45.9000015259,
+    "high": 48.0,
+    "low": 44.4000015259,
+    "close": 48.0,
+    "volume": 1140.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 48.5999984741,
+    "high": 48.5999984741,
+    "low": 42.0,
+    "close": 46.2000007629,
+    "volume": 1413.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 46.5,
+    "high": 48.9000015259,
+    "low": 45.5400009155,
+    "close": 46.7999992371,
+    "volume": 977.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 45.2999992371,
+    "high": 46.5,
+    "low": 45.0,
+    "close": 45.5999984741,
+    "volume": 1120.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 45.5999984741,
+    "high": 45.5999984741,
+    "low": 43.5,
+    "close": 44.7000007629,
+    "volume": 1063.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 45.5999984741,
+    "high": 45.9000015259,
+    "low": 43.7999992371,
+    "close": 43.7999992371,
+    "volume": 580.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 43.2000007629,
+    "high": 45.0,
+    "low": 42.2999992371,
+    "close": 42.2999992371,
+    "volume": 597.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.2999992371,
+    "high": 43.5,
+    "low": 42.0,
+    "close": 42.0,
+    "volume": 940.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.5999984741,
+    "high": 44.6699981689,
+    "low": 40.5,
+    "close": 42.0,
+    "volume": 947.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.0,
+    "high": 42.9000015259,
+    "low": 40.7999992371,
+    "close": 42.9000015259,
+    "volume": 773.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.0,
+    "high": 42.9300003052,
+    "low": 40.5,
+    "close": 41.0999984741,
+    "volume": 780.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.2999992371,
+    "high": 42.9000015259,
+    "low": 41.4000015259,
+    "close": 42.0,
+    "volume": 887.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.2999992371,
+    "high": 43.1699981689,
+    "low": 40.7999992371,
+    "close": 41.7000007629,
+    "volume": 710.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.9000015259,
+    "high": 43.2000007629,
+    "low": 41.0999984741,
+    "close": 42.2999992371,
+    "volume": 767.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 41.7000007629,
+    "high": 43.5,
+    "low": 41.4000015259,
+    "close": 43.2000007629,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.0,
+    "high": 43.7999992371,
+    "low": 41.25,
+    "close": 42.1500015259,
+    "volume": 530.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 41.7000007629,
+    "high": 42.9000015259,
+    "low": 41.4000015259,
+    "close": 42.2999992371,
+    "volume": 367.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.2999992371,
+    "high": 42.9000015259,
+    "low": 40.5,
+    "close": 41.4000015259,
+    "volume": 1183.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 42.0,
+    "high": 43.2000007629,
+    "low": 40.7999992371,
+    "close": 42.0,
+    "volume": 1013.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 41.7000007629,
+    "high": 42.0,
+    "low": 40.7999992371,
+    "close": 40.7999992371,
+    "volume": 733.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 40.5,
+    "high": 41.4000015259,
+    "low": 33.8400001526,
+    "close": 36.0,
+    "volume": 2490.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 38.7000007629,
+    "high": 38.7000007629,
+    "low": 28.2000007629,
+    "close": 33.0,
+    "volume": 3000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 36.0,
+    "high": 37.4399986267,
+    "low": 30.6000003815,
+    "close": 32.4000015259,
+    "volume": 1737.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 34.7999992371,
+    "high": 34.7999992371,
+    "low": 29.4899997711,
+    "close": 30.8999996185,
+    "volume": 1687.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 31.5,
+    "high": 33.0,
+    "low": 31.5,
+    "close": 32.4000015259,
+    "volume": 1030.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 32.7000007629,
+    "high": 34.2000007629,
+    "low": 32.7000007629,
+    "close": 33.2999992371,
+    "volume": 1713.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 32.7000007629,
+    "high": 33.5999984741,
+    "low": 32.0999984741,
+    "close": 32.4000015259,
+    "volume": 683.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 32.0999984741,
+    "high": 33.2999992371,
+    "low": 32.0999984741,
+    "close": 32.7000007629,
+    "volume": 780.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 32.7000007629,
+    "high": 33.4799995422,
+    "low": 32.0999984741,
+    "close": 33.4799995422,
+    "volume": 693.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 33.2999992371,
+    "high": 34.2000007629,
+    "low": 32.7000007629,
+    "close": 33.5999984741,
+    "volume": 670.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 33.9000015259,
+    "high": 33.9000015259,
+    "low": 32.0999984741,
+    "close": 32.7000007629,
+    "volume": 700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 33.2999992371,
+    "high": 33.2999992371,
+    "low": 31.5,
+    "close": 32.7000007629,
+    "volume": 687.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 32.7000007629,
+    "high": 33.2999992371,
+    "low": 31.7999992371,
+    "close": 31.7999992371,
+    "volume": 837.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 31.7999992371,
+    "high": 33.0,
+    "low": 31.2000007629,
+    "close": 33.0,
+    "volume": 813.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 33.2999992371,
+    "high": 33.2999992371,
+    "low": 31.2000007629,
+    "close": 32.4000015259,
+    "volume": 573.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 31.5,
+    "high": 32.0999984741,
+    "low": 28.7700004578,
+    "close": 31.2000007629,
+    "volume": 1837.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 30.0,
+    "high": 30.6000003815,
+    "low": 28.7999992371,
+    "close": 30.2999992371,
+    "volume": 1283.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 30.2999992371,
+    "high": 30.6000003815,
+    "low": 28.5,
+    "close": 30.6000003815,
+    "volume": 937.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 30.8999996185,
+    "high": 32.0999984741,
+    "low": 29.3999996185,
+    "close": 31.5,
+    "volume": 1130.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 31.5,
+    "high": 32.7000007629,
+    "low": 28.7999992371,
+    "close": 31.2000007629,
+    "volume": 1480.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 31.2000007629,
+    "high": 32.7900009155,
+    "low": 29.25,
+    "close": 32.0999984741,
+    "volume": 1240.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 32.7000007629,
+    "high": 32.7000007629,
+    "low": 30.0,
+    "close": 32.7000007629,
+    "volume": 687.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 30.0,
+    "high": 33.2999992371,
+    "low": 27.0,
+    "close": 30.0,
+    "volume": 4670.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 30.0,
+    "high": 31.5,
+    "low": 29.3999996185,
+    "close": 30.0,
+    "volume": 1263.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 30.0,
+    "high": 30.6000003815,
+    "low": 18.8999996185,
+    "close": 26.0699996948,
+    "volume": 24763.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 25.7999992371,
+    "high": 28.5599994659,
+    "low": 24.8999996185,
+    "close": 26.3999996185,
+    "volume": 3050.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.3999996185,
+    "high": 27.0,
+    "low": 24.3899993896,
+    "close": 25.7999992371,
+    "volume": 6063.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.0100002289,
+    "high": 26.5499992371,
+    "low": 23.8500003815,
+    "close": 24.2999992371,
+    "volume": 1423.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.2999992371,
+    "high": 24.8999996185,
+    "low": 23.3999996185,
+    "close": 23.8199996948,
+    "volume": 1470.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.0,
+    "high": 28.5,
+    "low": 24.0,
+    "close": 27.75,
+    "volume": 8690.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.7000007629,
+    "high": 28.2000007629,
+    "low": 26.7000007629,
+    "close": 27.4500007629,
+    "volume": 1983.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.4500007629,
+    "high": 28.5,
+    "low": 26.7000007629,
+    "close": 27.9300003052,
+    "volume": 1103.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 28.5,
+    "high": 28.5,
+    "low": 26.7000007629,
+    "close": 27.3600006104,
+    "volume": 850.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.8999996185,
+    "high": 28.7999992371,
+    "low": 26.5799999237,
+    "close": 28.6499996185,
+    "volume": 5843.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.6000003815,
+    "high": 29.3999996185,
+    "low": 25.7999992371,
+    "close": 26.7299995422,
+    "volume": 1357.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.4300003052,
+    "high": 32.7000007629,
+    "low": 21.0599994659,
+    "close": 26.25,
+    "volume": 20163.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.25,
+    "high": 28.2000007629,
+    "low": 25.2299995422,
+    "close": 27.0,
+    "volume": 2103.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.0,
+    "high": 27.8999996185,
+    "low": 24.0599994659,
+    "close": 26.9400005341,
+    "volume": 2997.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.0,
+    "high": 28.5,
+    "low": 25.2000007629,
+    "close": 25.8600006104,
+    "volume": 1113.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.6000003815,
+    "high": 27.6000003815,
+    "low": 24.0,
+    "close": 24.4200000763,
+    "volume": 1307.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 25.0200004578,
+    "high": 28.5,
+    "low": 24.2999992371,
+    "close": 24.2999992371,
+    "volume": 1000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.2999992371,
+    "high": 25.2000007629,
+    "low": 24.2999992371,
+    "close": 24.2999992371,
+    "volume": 1943.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.9099998474,
+    "high": 24.0300006866,
+    "low": 21.0,
+    "close": 21.1800003052,
+    "volume": 3290.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 21.3299999237,
+    "high": 22.5599994659,
+    "low": 21.3299999237,
+    "close": 21.7800006866,
+    "volume": 1507.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 21.9899997711,
+    "high": 22.8299999237,
+    "low": 21.9899997711,
+    "close": 22.3799991608,
+    "volume": 1170.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.3999996185,
+    "high": 23.3999996185,
+    "low": 22.5,
+    "close": 23.1900005341,
+    "volume": 820.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.9400005341,
+    "high": 24.0,
+    "low": 22.4400005341,
+    "close": 22.5,
+    "volume": 963.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 22.8600006104,
+    "high": 24.0,
+    "low": 22.7999992371,
+    "close": 23.3999996185,
+    "volume": 877.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.2800006866,
+    "high": 24.5400009155,
+    "low": 23.2800006866,
+    "close": 24.2999992371,
+    "volume": 893.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.6000003815,
+    "high": 29.1000003815,
+    "low": 24.2999992371,
+    "close": 27.8999996185,
+    "volume": 2167.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.0,
+    "high": 27.9899997711,
+    "low": 26.6700000763,
+    "close": 27.8999996185,
+    "volume": 1673.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 28.2000007629,
+    "high": 29.7000007629,
+    "low": 27.8999996185,
+    "close": 28.3500003815,
+    "volume": 1687.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 28.5,
+    "high": 29.9699993134,
+    "low": 26.3999996185,
+    "close": 26.7000007629,
+    "volume": 9000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.0,
+    "high": 27.6000003815,
+    "low": 23.5200004578,
+    "close": 24.6000003815,
+    "volume": 3370.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,08,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 25.0499992371,
+    "high": 27.4500007629,
+    "low": 25.0499992371,
+    "close": 26.5499992371,
+    "volume": 2113.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.0900001526,
+    "high": 27.2999992371,
+    "low": 25.4699993134,
+    "close": 25.4699993134,
+    "volume": 450.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.8999996185,
+    "high": 26.4899997711,
+    "low": 24.0300006866,
+    "close": 24.9599990845,
+    "volume": 1307.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.9300003052,
+    "high": 24.9300003052,
+    "low": 23.4300003052,
+    "close": 23.4300003052,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.9599990845,
+    "high": 24.9599990845,
+    "low": 23.2199993134,
+    "close": 23.7000007629,
+    "volume": 1183.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.1000003815,
+    "high": 26.1000003815,
+    "low": 23.4599990845,
+    "close": 23.5499992371,
+    "volume": 1013.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.5499992371,
+    "high": 24.2999992371,
+    "low": 23.5499992371,
+    "close": 23.5799999237,
+    "volume": 237.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.7600002289,
+    "high": 24.8400001526,
+    "low": 22.9500007629,
+    "close": 23.3999996185,
+    "volume": 1250.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.5699996948,
+    "high": 24.6000003815,
+    "low": 23.1000003815,
+    "close": 23.1900005341,
+    "volume": 750.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.1900005341,
+    "high": 23.8500003815,
+    "low": 22.9799995422,
+    "close": 23.1000003815,
+    "volume": 1047.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.3999996185,
+    "high": 23.7000007629,
+    "low": 22.7999992371,
+    "close": 23.1000003815,
+    "volume": 877.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.25,
+    "high": 23.7000007629,
+    "low": 22.5,
+    "close": 22.5,
+    "volume": 108683.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 21.4500007629,
+    "high": 21.4500007629,
+    "low": 18.6599998474,
+    "close": 19.0499992371,
+    "volume": 28977.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 19.7399997711,
+    "high": 19.7399997711,
+    "low": 16.7999992371,
+    "close": 17.1900005341,
+    "volume": 14140.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.5799999237,
+    "high": 18.0900001526,
+    "low": 17.0400009155,
+    "close": 17.7900009155,
+    "volume": 7683.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.6000003815,
+    "high": 18.6000003815,
+    "low": 16.5300006866,
+    "close": 17.0699996948,
+    "volume": 2603.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.9699993134,
+    "high": 18.0,
+    "low": 16.5,
+    "close": 17.1000003815,
+    "volume": 4543.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.1000003815,
+    "high": 17.4599990845,
+    "low": 16.7999992371,
+    "close": 17.4599990845,
+    "volume": 2170.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.3999996185,
+    "high": 19.5,
+    "low": 17.1000003815,
+    "close": 18.7199993134,
+    "volume": 10297.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.8999996185,
+    "high": 19.5,
+    "low": 18.6000003815,
+    "close": 19.3199996948,
+    "volume": 6390.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 19.3199996948,
+    "high": 19.6499996185,
+    "low": 17.1900005341,
+    "close": 17.7299995422,
+    "volume": 3153.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.7299995422,
+    "high": 18.0,
+    "low": 16.5,
+    "close": 16.7999992371,
+    "volume": 3553.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.8799991608,
+    "high": 17.8799991608,
+    "low": 16.2000007629,
+    "close": 16.5,
+    "volume": 4130.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.9500007629,
+    "high": 18.0,
+    "low": 16.2299995422,
+    "close": 16.3500003815,
+    "volume": 2407.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.0699996948,
+    "high": 17.25,
+    "low": 16.3500003815,
+    "close": 16.7999992371,
+    "volume": 1090.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.0100002289,
+    "high": 17.1000003815,
+    "low": 16.5,
+    "close": 16.7700004578,
+    "volume": 1440.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.6700000763,
+    "high": 19.2000007629,
+    "low": 17.0699996948,
+    "close": 17.7000007629,
+    "volume": 7560.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.9699993134,
+    "high": 18.0,
+    "low": 16.7999992371,
+    "close": 17.0400009155,
+    "volume": 4103.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.3999996185,
+    "high": 18.0,
+    "low": 16.5,
+    "close": 16.7700004578,
+    "volume": 3317.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.1000003815,
+    "high": 18.0,
+    "low": 16.6499996185,
+    "close": 17.8500003815,
+    "volume": 4020.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.1299991608,
+    "high": 17.9099998474,
+    "low": 16.8299999237,
+    "close": 17.3400001526,
+    "volume": 1903.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.2800006866,
+    "high": 17.3099994659,
+    "low": 16.3199996948,
+    "close": 16.8299999237,
+    "volume": 12590.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.9500007629,
+    "high": 17.7000007629,
+    "low": 16.7999992371,
+    "close": 17.6700000763,
+    "volume": 2483.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.9099998474,
+    "high": 18.2999992371,
+    "low": 17.1000003815,
+    "close": 17.1000003815,
+    "volume": 3393.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 16.7999992371,
+    "close": 17.3999996185,
+    "volume": 6910.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.0,
+    "high": 18.2999992371,
+    "low": 17.7000007629,
+    "close": 18.2999992371,
+    "volume": 7070.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,10,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.9400005341,
+    "high": 18.6000003815,
+    "low": 17.7000007629,
+    "close": 18.2999992371,
+    "volume": 1923.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.2999992371,
+    "high": 18.4500007629,
+    "low": 17.7000007629,
+    "close": 18.0,
+    "volume": 1160.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.7000007629,
+    "high": 19.5,
+    "low": 17.7000007629,
+    "close": 18.0,
+    "volume": 8333.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.2099990845,
+    "high": 18.2099990845,
+    "low": 17.0400009155,
+    "close": 17.6100006104,
+    "volume": 3873.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.1000003815,
+    "high": 18.1499996185,
+    "low": 17.0100002289,
+    "close": 17.3999996185,
+    "volume": 5013.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.7000007629,
+    "high": 18.6000003815,
+    "low": 17.5499992371,
+    "close": 18.4500007629,
+    "volume": 54763.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,10,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.25,
+    "high": 18.0,
+    "low": 16.6200008392,
+    "close": 17.8199996948,
+    "volume": 7027.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.4300003052,
+    "high": 17.7299995422,
+    "low": 16.8299999237,
+    "close": 17.25,
+    "volume": 3340.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,11,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.4300003052,
+    "high": 18.0,
+    "low": 16.7999992371,
+    "close": 17.3999996185,
+    "volume": 3263.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.7000007629,
+    "high": 17.8500003815,
+    "low": 16.7999992371,
+    "close": 16.9200000763,
+    "volume": 3270.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.1000003815,
+    "high": 17.3999996185,
+    "low": 16.3199996948,
+    "close": 16.3199996948,
+    "volume": 3447.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.5499992371,
+    "high": 17.5499992371,
+    "low": 16.3500003815,
+    "close": 16.6499996185,
+    "volume": 3427.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.5,
+    "high": 17.1000003815,
+    "low": 16.3199996948,
+    "close": 16.5,
+    "volume": 4063.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.5,
+    "high": 17.3999996185,
+    "low": 16.5,
+    "close": 16.7700004578,
+    "volume": 4730.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.3999996185,
+    "high": 17.3999996185,
+    "low": 16.1100006104,
+    "close": 16.3500003815,
+    "volume": 4207.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.7999992371,
+    "high": 17.25,
+    "low": 16.2000007629,
+    "close": 16.7999992371,
+    "volume": 6603.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.1599998474,
+    "high": 17.4300003052,
+    "low": 16.2000007629,
+    "close": 16.2299995422,
+    "volume": 4747.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.5,
+    "high": 16.5,
+    "low": 15.029999733,
+    "close": 15.779999733,
+    "volume": 4600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.8999996185,
+    "high": 16.5,
+    "low": 15.3000001907,
+    "close": 15.5699996948,
+    "volume": 3220.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.6000003815,
+    "high": 15.8999996185,
+    "low": 14.0100002289,
+    "close": 14.0399999619,
+    "volume": 7083.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.1000003815,
+    "high": 15.3000001907,
+    "low": 13.9200000763,
+    "close": 14.6999998093,
+    "volume": 1817.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.0,
+    "high": 15.0,
+    "low": 13.8900003433,
+    "close": 14.25,
+    "volume": 2550.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.3999996185,
+    "high": 15.0,
+    "low": 13.5,
+    "close": 13.9499998093,
+    "volume": 5550.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.7700004578,
+    "high": 14.5500001907,
+    "low": 13.6499996185,
+    "close": 13.8000001907,
+    "volume": 2017.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.8000001907,
+    "high": 14.3999996185,
+    "low": 13.5900001526,
+    "close": 14.1000003815,
+    "volume": 5273.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.3999996185,
+    "high": 14.6999998093,
+    "low": 14.1000003815,
+    "close": 14.1000003815,
+    "volume": 3323.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.1000003815,
+    "high": 14.9399995804,
+    "low": 13.7700004578,
+    "close": 14.1300001144,
+    "volume": 2270.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.25,
+    "high": 15.8400001526,
+    "low": 14.25,
+    "close": 15.2700004578,
+    "volume": 1263.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.3000001907,
+    "high": 15.779999733,
+    "low": 14.3999996185,
+    "close": 14.3999996185,
+    "volume": 3563.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.5699996948,
+    "high": 15.5699996948,
+    "low": 14.1000003815,
+    "close": 14.1000003815,
+    "volume": 8967.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.5200004578,
+    "high": 14.5200004578,
+    "low": 12.8999996185,
+    "close": 13.1999998093,
+    "volume": 7180.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.1999998093,
+    "high": 13.5,
+    "low": 12.6300001144,
+    "close": 12.8999996185,
+    "volume": 8743.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.1999998093,
+    "high": 13.6800003052,
+    "low": 12.3000001907,
+    "close": 12.6000003815,
+    "volume": 5523.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.0500001907,
+    "high": 13.1999998093,
+    "low": 11.1000003815,
+    "close": 11.3400001526,
+    "volume": 17220.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.3699998856,
+    "high": 11.5200004578,
+    "low": 10.3500003815,
+    "close": 10.5,
+    "volume": 9190.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.6499996185,
+    "high": 10.9200000763,
+    "low": 9.6599998474,
+    "close": 9.8999996185,
+    "volume": 47020.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.8999996185,
+    "high": 10.1099996567,
+    "low": 9.029999733,
+    "close": 9.3299999237,
+    "volume": 14090.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.8400001526,
+    "high": 10.470000267,
+    "low": 9.6000003815,
+    "close": 9.6000003815,
+    "volume": 16137.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.2899999619,
+    "high": 10.3500003815,
+    "low": 9.2399997711,
+    "close": 9.3299999237,
+    "volume": 11793.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.1999998093,
+    "high": 10.4099998474,
+    "low": 9.0,
+    "close": 9.3000001907,
+    "volume": 24700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.779999733,
+    "high": 10.1099996567,
+    "low": 9.3000001907,
+    "close": 9.3000001907,
+    "volume": 12583.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.8999996185,
+    "high": 10.1999998093,
+    "low": 8.4300003052,
+    "close": 8.8800001144,
+    "volume": 17610.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.3000001907,
+    "high": 9.5399999619,
+    "low": 8.3999996185,
+    "close": 8.7299995422,
+    "volume": 14797.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.1199998856,
+    "high": 9.6000003815,
+    "low": 8.6999998093,
+    "close": 9.029999733,
+    "volume": 5397.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.2100000381,
+    "high": 11.25,
+    "low": 9.0,
+    "close": 10.7100000381,
+    "volume": 14307.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.0,
+    "high": 12.8400001526,
+    "low": 10.1400003433,
+    "close": 12.1499996185,
+    "volume": 537480.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.8999996185,
+    "high": 12.8999996185,
+    "low": 11.25,
+    "close": 12.1499996185,
+    "volume": 101593.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 37.5,
+    "high": 81.0,
+    "low": 30.8999996185,
+    "close": 79.5,
+    "volume": 7540473.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 46.5,
+    "high": 56.4000015259,
+    "low": 30.0,
+    "close": 30.2999992371,
+    "volume": 977927.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 31.5,
+    "high": 36.9000015259,
+    "low": 29.1000003815,
+    "close": 29.1599998474,
+    "volume": 336537.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 28.4699993134,
+    "high": 28.5,
+    "low": 21.8999996185,
+    "close": 23.5499992371,
+    "volume": 252273.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.6000003815,
+    "high": 43.2000007629,
+    "low": 24.2099990845,
+    "close": 36.9000015259,
+    "volume": 1470907.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 31.5,
+    "high": 34.5,
+    "low": 26.1299991608,
+    "close": 28.3799991608,
+    "volume": 267587.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.1000003815,
+    "high": 27.4799995422,
+    "low": 22.7999992371,
+    "close": 23.9099998474,
+    "volume": 158247.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.2999992371,
+    "high": 24.8999996185,
+    "low": 22.2000007629,
+    "close": 22.5,
+    "volume": 113800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,01,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 22.2000007629,
+    "high": 22.2000007629,
+    "low": 19.2000007629,
+    "close": 19.7999992371,
+    "volume": 71880.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 19.9500007629,
+    "high": 20.3700008392,
+    "low": 16.5599994659,
+    "close": 17.5499992371,
+    "volume": 86597.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.7000007629,
+    "high": 19.6499996185,
+    "low": 17.25,
+    "close": 17.3999996185,
+    "volume": 84033.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.0,
+    "high": 18.4500007629,
+    "low": 14.6999998093,
+    "close": 15.75,
+    "volume": 98320.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.1000003815,
+    "high": 17.1000003815,
+    "low": 15.0,
+    "close": 15.3000001907,
+    "volume": 63570.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.6000003815,
+    "high": 16.2000007629,
+    "low": 14.6999998093,
+    "close": 15.1499996185,
+    "volume": 48403.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.720000267,
+    "high": 15.720000267,
+    "low": 13.8000001907,
+    "close": 14.4600000381,
+    "volume": 60397.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.9399995804,
+    "high": 14.970000267,
+    "low": 13.2600002289,
+    "close": 13.6499996185,
+    "volume": 61407.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.5,
+    "high": 14.8800001144,
+    "low": 13.5,
+    "close": 13.8000001907,
+    "volume": 45490.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.3000001907,
+    "high": 15.6000003815,
+    "low": 13.5,
+    "close": 13.8000001907,
+    "volume": 61120.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.7700004578,
+    "high": 14.1899995804,
+    "low": 12.9300003052,
+    "close": 13.8000001907,
+    "volume": 45743.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.7700004578,
+    "high": 14.1599998474,
+    "low": 13.5,
+    "close": 13.8000001907,
+    "volume": 20990.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.529999733,
+    "high": 14.25,
+    "low": 13.1999998093,
+    "close": 13.529999733,
+    "volume": 16170.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.5,
+    "high": 15.3900003433,
+    "low": 12.9600000381,
+    "close": 14.1000003815,
+    "volume": 50063.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.8000001907,
+    "high": 13.8599996567,
+    "low": 12.9899997711,
+    "close": 13.5,
+    "volume": 29803.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.7100000381,
+    "high": 14.4899997711,
+    "low": 13.5600004196,
+    "close": 14.1000003815,
+    "volume": 37527.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.8299999237,
+    "high": 14.25,
+    "low": 12.9600000381,
+    "close": 13.3500003815,
+    "volume": 27560.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.1999998093,
+    "high": 13.8000001907,
+    "low": 12.6000003815,
+    "close": 12.75,
+    "volume": 25370.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.6000003815,
+    "high": 12.75,
+    "low": 11.6999998093,
+    "close": 12.0,
+    "volume": 31317.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.0900001526,
+    "high": 12.720000267,
+    "low": 12.0600004196,
+    "close": 12.3000001907,
+    "volume": 19507.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.6000003815,
+    "high": 13.1099996567,
+    "low": 12.0,
+    "close": 12.9899997711,
+    "volume": 32503.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.8100004196,
+    "high": 14.1000003815,
+    "low": 12.0,
+    "close": 13.8599996567,
+    "volume": 31743.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.1000003815,
+    "high": 14.6999998093,
+    "low": 12.779999733,
+    "close": 13.9799995422,
+    "volume": 43817.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.6000003815,
+    "high": 13.6199998856,
+    "low": 12.6000003815,
+    "close": 13.2600002289,
+    "volume": 23817.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.6499996185,
+    "high": 14.5500001907,
+    "low": 12.75,
+    "close": 13.8000001907,
+    "volume": 34477.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.5,
+    "high": 13.8000001907,
+    "low": 12.8999996185,
+    "close": 13.1999998093,
+    "volume": 11307.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.4099998474,
+    "high": 13.5,
+    "low": 12.3900003433,
+    "close": 12.8999996185,
+    "volume": 15407.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.6000003815,
+    "high": 12.8999996185,
+    "low": 12.029999733,
+    "close": 12.6000003815,
+    "volume": 14630.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.3000001907,
+    "high": 12.3000001907,
+    "low": 11.1000003815,
+    "close": 11.4600000381,
+    "volume": 25133.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.3999996185,
+    "high": 11.5200004578,
+    "low": 10.1999998093,
+    "close": 10.3199996948,
+    "volume": 24313.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.7100000381,
+    "high": 11.1599998474,
+    "low": 10.5600004196,
+    "close": 10.8000001907,
+    "volume": 14427.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.3100004196,
+    "high": 12.2700004578,
+    "low": 10.5,
+    "close": 11.0699996948,
+    "volume": 25650.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.8000001907,
+    "high": 11.6999998093,
+    "low": 10.5,
+    "close": 10.7700004578,
+    "volume": 16143.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.279999733,
+    "high": 11.3699998856,
+    "low": 9.6000003815,
+    "close": 9.75,
+    "volume": 25743.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.5100002289,
+    "high": 9.75,
+    "low": 9.3599996567,
+    "close": 9.4499998093,
+    "volume": 14163.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.3900003433,
+    "high": 10.1099996567,
+    "low": 9.3599996567,
+    "close": 9.8400001526,
+    "volume": 9283.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.2299995422,
+    "high": 10.5,
+    "low": 9.3299999237,
+    "close": 9.6000003815,
+    "volume": 10827.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.8999996185,
+    "high": 10.2899999619,
+    "low": 9.0600004196,
+    "close": 9.3000001907,
+    "volume": 11443.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.3000001907,
+    "high": 9.75,
+    "low": 8.3999996185,
+    "close": 8.6400003433,
+    "volume": 21163.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.3000001907,
+    "high": 9.8400001526,
+    "low": 8.25,
+    "close": 8.8500003815,
+    "volume": 101790.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.8500003815,
+    "high": 8.9399995804,
+    "low": 7.7399997711,
+    "close": 8.5500001907,
+    "volume": 42023.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.6400003433,
+    "high": 9.5699996948,
+    "low": 8.1300001144,
+    "close": 9.3299999237,
+    "volume": 32397.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.6899995804,
+    "high": 10.0799999237,
+    "low": 8.3999996185,
+    "close": 10.0500001907,
+    "volume": 29930.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.1700000763,
+    "high": 10.8000001907,
+    "low": 9.9600000381,
+    "close": 10.5,
+    "volume": 25240.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.6199998856,
+    "high": 10.7100000381,
+    "low": 9.720000267,
+    "close": 10.0500001907,
+    "volume": 11827.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.2899999619,
+    "high": 10.2899999619,
+    "low": 9.6000003815,
+    "close": 9.75,
+    "volume": 5680.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.8999996185,
+    "high": 10.0500001907,
+    "low": 9.1199998856,
+    "close": 9.4200000763,
+    "volume": 13517.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.5399999619,
+    "high": 9.5399999619,
+    "low": 8.6999998093,
+    "close": 8.9099998474,
+    "volume": 17900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.2700004578,
+    "high": 9.2700004578,
+    "low": 8.6999998093,
+    "close": 8.7899999619,
+    "volume": 14103.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.0,
+    "high": 9.3000001907,
+    "low": 8.6099996567,
+    "close": 8.7299995422,
+    "volume": 11533.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.6700000763,
+    "high": 8.970000267,
+    "low": 8.4600000381,
+    "close": 8.5500001907,
+    "volume": 13800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.5200004578,
+    "high": 8.6099996567,
+    "low": 8.1000003815,
+    "close": 8.3100004196,
+    "volume": 9453.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1000003815,
+    "high": 8.5500001907,
+    "low": 7.8299999237,
+    "close": 8.4600000381,
+    "volume": 9853.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1899995804,
+    "high": 8.3400001526,
+    "low": 7.9800000191,
+    "close": 8.1899995804,
+    "volume": 7040.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.8500003815,
+    "low": 8.25,
+    "close": 8.6400003433,
+    "volume": 10303.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.6400003433,
+    "high": 9.3900003433,
+    "low": 8.3999996185,
+    "close": 9.1499996185,
+    "volume": 15897.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.4300003052,
+    "high": 8.6999998093,
+    "low": 8.279999733,
+    "close": 8.4899997711,
+    "volume": 22990.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3100004196,
+    "high": 8.4899997711,
+    "low": 7.6500000954,
+    "close": 8.0100002289,
+    "volume": 17303.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.5,
+    "high": 8.0100002289,
+    "low": 3.6600000858,
+    "close": 7.0199999809,
+    "volume": 81823.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.1999998093,
+    "high": 7.1999998093,
+    "low": 6.5700001717,
+    "close": 6.8699998856,
+    "volume": 12443.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.75,
+    "high": 8.220000267,
+    "low": 6.3000001907,
+    "close": 7.7399997711,
+    "volume": 28117.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.4099998474,
+    "high": 8.25,
+    "low": 7.2899999619,
+    "close": 8.1300001144,
+    "volume": 15083.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.25,
+    "high": 8.8500003815,
+    "low": 8.1599998474,
+    "close": 8.5200004578,
+    "volume": 21660.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.0,
+    "high": 9.0,
+    "low": 8.0399999619,
+    "close": 8.3999996185,
+    "volume": 9080.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.3999996185,
+    "low": 8.0100002289,
+    "close": 8.1599998474,
+    "volume": 5283.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.3800001144,
+    "high": 8.4899997711,
+    "low": 7.3200001717,
+    "close": 8.0100002289,
+    "volume": 217403.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.8600001335,
+    "high": 8.0100002289,
+    "low": 7.4400000572,
+    "close": 7.8600001335,
+    "volume": 16757.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6799998283,
+    "high": 7.8899998665,
+    "low": 7.4699997902,
+    "close": 7.5300002098,
+    "volume": 30487.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.5599999428,
+    "high": 8.3999996185,
+    "low": 7.5300002098,
+    "close": 8.3400001526,
+    "volume": 17367.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,04,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.6400003433,
+    "high": 8.7899999619,
+    "low": 8.279999733,
+    "close": 8.5200004578,
+    "volume": 14977.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,04,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.7299995422,
+    "high": 9.0,
+    "low": 8.3999996185,
+    "close": 9.0,
+    "volume": 24793.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.0,
+    "high": 9.1499996185,
+    "low": 8.6099996567,
+    "close": 8.8500003815,
+    "volume": 16567.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.8800001144,
+    "high": 9.0600004196,
+    "low": 8.5500001907,
+    "close": 8.6099996567,
+    "volume": 8817.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.7899999619,
+    "high": 9.0,
+    "low": 8.1000003815,
+    "close": 8.3999996185,
+    "volume": 10547.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.7600002289,
+    "low": 8.1899995804,
+    "close": 8.5500001907,
+    "volume": 7253.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.8800001144,
+    "high": 9.1800003052,
+    "low": 8.5799999237,
+    "close": 8.6999998093,
+    "volume": 19470.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.970000267,
+    "high": 8.970000267,
+    "low": 8.3699998856,
+    "close": 8.6099996567,
+    "volume": 10430.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.2700004578,
+    "high": 9.2700004578,
+    "low": 8.4300003052,
+    "close": 8.5500001907,
+    "volume": 6523.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.7600002289,
+    "high": 8.7600002289,
+    "low": 8.279999733,
+    "close": 8.5500001907,
+    "volume": 13567.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.4300003052,
+    "high": 8.6700000763,
+    "low": 7.6199998856,
+    "close": 8.279999733,
+    "volume": 11673.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.279999733,
+    "high": 8.6700000763,
+    "low": 8.1000003815,
+    "close": 8.3999996185,
+    "volume": 9447.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.5799999237,
+    "high": 8.9099998474,
+    "low": 8.3999996185,
+    "close": 8.5200004578,
+    "volume": 11843.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.0,
+    "high": 9.0,
+    "low": 8.1599998474,
+    "close": 8.4300003052,
+    "volume": 28307.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 9.8999996185,
+    "low": 8.3999996185,
+    "close": 8.7600002289,
+    "volume": 31643.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.25,
+    "high": 8.3999996185,
+    "low": 7.4699997902,
+    "close": 8.279999733,
+    "volume": 981677.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.8000001907,
+    "high": 8.1000003815,
+    "low": 7.5,
+    "close": 7.9499998093,
+    "volume": 49327.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.9499998093,
+    "high": 8.4600000381,
+    "low": 7.5900001526,
+    "close": 8.0399999619,
+    "volume": 33397.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6500000954,
+    "high": 8.1599998474,
+    "low": 7.6500000954,
+    "close": 8.0399999619,
+    "volume": 19807.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1000003815,
+    "high": 8.5799999237,
+    "low": 7.8299999237,
+    "close": 8.3999996185,
+    "volume": 31540.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,05,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.25,
+    "high": 8.25,
+    "low": 7.8299999237,
+    "close": 7.8899998665,
+    "volume": 20907.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6799998283,
+    "high": 8.5500001907,
+    "low": 7.6799998283,
+    "close": 8.220000267,
+    "volume": 20950.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.9200000763,
+    "high": 8.4600000381,
+    "low": 7.7399997711,
+    "close": 8.3999996185,
+    "volume": 14760.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.8500003815,
+    "low": 8.279999733,
+    "close": 8.5200004578,
+    "volume": 20043.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.4600000381,
+    "high": 8.6700000763,
+    "low": 8.1300001144,
+    "close": 8.4899997711,
+    "volume": 12953.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3699998856,
+    "high": 8.6999998093,
+    "low": 8.3100004196,
+    "close": 8.4899997711,
+    "volume": 15087.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.5799999237,
+    "low": 8.0100002289,
+    "close": 8.4600000381,
+    "volume": 11447.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1899995804,
+    "high": 8.6400003433,
+    "low": 8.1599998474,
+    "close": 8.3999996185,
+    "volume": 17427.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.5200004578,
+    "high": 8.6700000763,
+    "low": 8.1899995804,
+    "close": 8.5200004578,
+    "volume": 17773.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.5200004578,
+    "high": 8.6700000763,
+    "low": 8.220000267,
+    "close": 8.3999996185,
+    "volume": 17617.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.6099996567,
+    "low": 8.25,
+    "close": 8.3400001526,
+    "volume": 18347.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,06,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.25,
+    "high": 8.5799999237,
+    "low": 8.25,
+    "close": 8.5500001907,
+    "volume": 18400.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,06,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.970000267,
+    "high": 9.0,
+    "low": 8.25,
+    "close": 8.7299995422,
+    "volume": 33813.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.5500001907,
+    "high": 8.8800001144,
+    "low": 8.5500001907,
+    "close": 8.7899999619,
+    "volume": 27317.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.9399995804,
+    "high": 8.9399995804,
+    "low": 8.279999733,
+    "close": 8.3999996185,
+    "volume": 20620.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.4899997711,
+    "high": 8.6099996567,
+    "low": 8.1899995804,
+    "close": 8.3999996185,
+    "volume": 19430.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1300001144,
+    "high": 8.3699998856,
+    "low": 7.8299999237,
+    "close": 8.0699996948,
+    "volume": 23647.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.8000001907,
+    "high": 8.0100002289,
+    "low": 7.5300002098,
+    "close": 7.8600001335,
+    "volume": 25883.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6199998856,
+    "high": 8.0399999619,
+    "low": 7.5,
+    "close": 7.8000001907,
+    "volume": 11333.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.8000001907,
+    "high": 8.0399999619,
+    "low": 7.8000001907,
+    "close": 7.8899998665,
+    "volume": 5570.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.0699996948,
+    "high": 8.0699996948,
+    "low": 7.5599999428,
+    "close": 7.5599999428,
+    "volume": 15933.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.5599999428,
+    "high": 8.3400001526,
+    "low": 7.5300002098,
+    "close": 8.1599998474,
+    "volume": 18990.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.4300003052,
+    "low": 8.1000003815,
+    "close": 8.3999996185,
+    "volume": 18157.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3400001526,
+    "high": 8.7299995422,
+    "low": 8.1000003815,
+    "close": 8.3999996185,
+    "volume": 31667.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.5500001907,
+    "high": 8.6099996567,
+    "low": 8.1899995804,
+    "close": 8.3999996185,
+    "volume": 18260.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.3999996185,
+    "low": 8.0699996948,
+    "close": 8.279999733,
+    "volume": 13593.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.220000267,
+    "high": 8.6700000763,
+    "low": 7.9800000191,
+    "close": 8.1899995804,
+    "volume": 14713.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1000003815,
+    "high": 8.3699998856,
+    "low": 7.8899998665,
+    "close": 8.220000267,
+    "volume": 11860.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3100004196,
+    "high": 8.8500003815,
+    "low": 8.0100002289,
+    "close": 8.3100004196,
+    "volume": 36193.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.5500001907,
+    "low": 8.3100004196,
+    "close": 8.3100004196,
+    "volume": 12447.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1300001144,
+    "high": 8.6400003433,
+    "low": 8.1300001144,
+    "close": 8.3999996185,
+    "volume": 19963.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.6700000763,
+    "low": 8.3999996185,
+    "close": 8.5500001907,
+    "volume": 30470.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.8500003815,
+    "high": 9.4499998093,
+    "low": 8.5799999237,
+    "close": 9.3000001907,
+    "volume": 97780.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.9300003052,
+    "high": 11.6999998093,
+    "low": 9.8999996185,
+    "close": 11.1000003815,
+    "volume": 232450.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.8500003815,
+    "high": 12.6000003815,
+    "low": 10.5,
+    "close": 11.7299995422,
+    "volume": 137900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.8500003815,
+    "high": 12.8100004196,
+    "low": 10.5,
+    "close": 12.8100004196,
+    "volume": 67150.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.0799999237,
+    "high": 13.0799999237,
+    "low": 11.7299995422,
+    "close": 12.3599996567,
+    "volume": 42190.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.2700004578,
+    "high": 12.3900003433,
+    "low": 11.3999996185,
+    "close": 11.7299995422,
+    "volume": 41990.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.6999998093,
+    "high": 12.1499996185,
+    "low": 11.5500001907,
+    "close": 12.0600004196,
+    "volume": 38537.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.1499996185,
+    "high": 15.75,
+    "low": 12.1499996185,
+    "close": 15.6000003815,
+    "volume": 198703.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.6399993896,
+    "high": 18.3600006104,
+    "low": 16.2299995422,
+    "close": 16.3500003815,
+    "volume": 167207.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.3500003815,
+    "high": 16.4400005341,
+    "low": 11.1000003815,
+    "close": 15.9300003052,
+    "volume": 115077.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.6300001144,
+    "high": 17.1000003815,
+    "low": 15.4499998093,
+    "close": 16.2900009155,
+    "volume": 51830.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.7999992371,
+    "high": 17.1000003815,
+    "low": 12.6000003815,
+    "close": 14.1300001144,
+    "volume": 103933.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.3999996185,
+    "high": 15.0,
+    "low": 14.1300001144,
+    "close": 14.6700000763,
+    "volume": 46607.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.0,
+    "high": 15.0,
+    "low": 12.6000003815,
+    "close": 13.3500003815,
+    "volume": 64403.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.3400001526,
+    "high": 14.5200004578,
+    "low": 12.6899995804,
+    "close": 13.1999998093,
+    "volume": 36583.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.3800001144,
+    "high": 13.5900001526,
+    "low": 11.3999996185,
+    "close": 11.3999996185,
+    "volume": 40487.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,07,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.6999998093,
+    "high": 12.2399997711,
+    "low": 11.4899997711,
+    "close": 12.0,
+    "volume": 43487.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.8500003815,
+    "high": 11.8800001144,
+    "low": 10.5,
+    "close": 11.6999998093,
+    "volume": 39320.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.4899997711,
+    "high": 12.8999996185,
+    "low": 11.1000003815,
+    "close": 12.8999996185,
+    "volume": 25367.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.779999733,
+    "high": 12.8999996185,
+    "low": 12.029999733,
+    "close": 12.6899995804,
+    "volume": 25330.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.5,
+    "high": 10.5,
+    "low": 8.5500001907,
+    "close": 8.5500001907,
+    "volume": 149100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,08,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.4600000381,
+    "high": 9.2399997711,
+    "low": 8.1899995804,
+    "close": 8.5500001907,
+    "volume": 61907.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.8199996948,
+    "high": 9.0600004196,
+    "low": 8.6099996567,
+    "close": 8.7299995422,
+    "volume": 49153.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.4200000763,
+    "high": 8.4200000763,
+    "low": 6.5100002289,
+    "close": 7.4200000763,
+    "volume": 214200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.5900001526,
+    "high": 7.8280000687,
+    "low": 7.0,
+    "close": 7.2199997902,
+    "volume": 66200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.0,
+    "high": 8.2150001526,
+    "low": 6.9899997711,
+    "close": 8.1000003815,
+    "volume": 91000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3000001907,
+    "high": 8.404999733,
+    "low": 7.7699999809,
+    "close": 8.0900001526,
+    "volume": 54200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.0699996948,
+    "high": 8.1529998779,
+    "low": 7.5999999046,
+    "close": 7.7100000381,
+    "volume": 21600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.7199997902,
+    "high": 8.1400003433,
+    "low": 7.3699998856,
+    "close": 7.75,
+    "volume": 45700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.75,
+    "high": 7.9200000763,
+    "low": 7.3639998436,
+    "close": 7.4699997902,
+    "volume": 22200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.3899998665,
+    "high": 7.4499998093,
+    "low": 7.0399999619,
+    "close": 7.4499998093,
+    "volume": 20800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.2899999619,
+    "high": 7.9899997711,
+    "low": 7.0700001717,
+    "close": 7.8499999046,
+    "volume": 35900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.8099999428,
+    "high": 8.25,
+    "low": 7.3899998665,
+    "close": 8.0200004578,
+    "volume": 39300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.2899999619,
+    "high": 8.3900003433,
+    "low": 7.9600000381,
+    "close": 8.1000003815,
+    "volume": 32200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1999998093,
+    "high": 8.470000267,
+    "low": 8.142999649,
+    "close": 8.1599998474,
+    "volume": 35300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1499996185,
+    "high": 8.470000267,
+    "low": 8.0,
+    "close": 8.0699996948,
+    "volume": 29200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.0699996948,
+    "high": 8.3699998856,
+    "low": 7.7230000496,
+    "close": 7.8899998665,
+    "volume": 38900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.8099999428,
+    "high": 7.8099999428,
+    "low": 7.3400001526,
+    "close": 7.4650001526,
+    "volume": 18400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.5599999428,
+    "high": 7.8150000572,
+    "low": 7.1100001335,
+    "close": 7.25,
+    "volume": 26100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.3499999046,
+    "high": 7.7960000038,
+    "low": 7.0,
+    "close": 7.1799998283,
+    "volume": 25400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.3499999046,
+    "high": 7.3499999046,
+    "low": 6.6100001335,
+    "close": 6.7600002289,
+    "volume": 48600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.9299998283,
+    "high": 6.9299998283,
+    "low": 6.6050000191,
+    "close": 6.7899999619,
+    "volume": 23100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.8400001526,
+    "high": 9.267999649,
+    "low": 6.7199997902,
+    "close": 8.8100004196,
+    "volume": 205700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.470000267,
+    "high": 9.484000206,
+    "low": 8.2700004578,
+    "close": 9.4010000229,
+    "volume": 68300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.529999733,
+    "high": 10.5030002594,
+    "low": 7.5,
+    "close": 7.7600002289,
+    "volume": 169300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.7399997711,
+    "high": 8.3050003052,
+    "low": 7.5,
+    "close": 7.6599998474,
+    "volume": 31800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6900000572,
+    "high": 7.9299998283,
+    "low": 7.5999999046,
+    "close": 7.75,
+    "volume": 37400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6700000763,
+    "high": 7.7199997902,
+    "low": 6.8600001335,
+    "close": 7.0549998283,
+    "volume": 45500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.3499999046,
+    "high": 7.4310002327,
+    "low": 7.0,
+    "close": 7.1799998283,
+    "volume": 32500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.0900001526,
+    "high": 7.5949997902,
+    "low": 7.0,
+    "close": 7.1999998093,
+    "volume": 35600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.1999998093,
+    "high": 7.6199998856,
+    "low": 7.0,
+    "close": 7.5,
+    "volume": 29300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.3699998856,
+    "high": 7.6399998665,
+    "low": 7.1069998741,
+    "close": 7.6300001144,
+    "volume": 46500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.5,
+    "high": 8.3999996185,
+    "low": 7.5,
+    "close": 8.0100002289,
+    "volume": 67900.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,09,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1400003433,
+    "high": 8.9350004196,
+    "low": 7.7699999809,
+    "close": 7.9699997902,
+    "volume": 58600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.8800001144,
+    "high": 8.1899995804,
+    "low": 7.7930002213,
+    "close": 8.0900001526,
+    "volume": 22400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.0799999237,
+    "high": 8.5240001678,
+    "low": 7.7839999199,
+    "close": 8.1999998093,
+    "volume": 64600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.0500001907,
+    "high": 8.4899997711,
+    "low": 7.7100000381,
+    "close": 7.9149999619,
+    "volume": 30700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.0100002289,
+    "high": 8.0100002289,
+    "low": 7.6999998093,
+    "close": 7.8299999237,
+    "volume": 14100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6799998283,
+    "high": 8.0399999619,
+    "low": 7.5700001717,
+    "close": 7.7199997902,
+    "volume": 24900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.5700001717,
+    "high": 8.0100002289,
+    "low": 7.5640001297,
+    "close": 7.8000001907,
+    "volume": 57600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.8000001907,
+    "high": 8.2849998474,
+    "low": 7.5199999809,
+    "close": 7.8299999237,
+    "volume": 62200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.9000000954,
+    "high": 8.3500003815,
+    "low": 7.8109998703,
+    "close": 8.1700000763,
+    "volume": 75100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.2299995422,
+    "high": 8.7899999619,
+    "low": 8.2299995422,
+    "close": 8.4099998474,
+    "volume": 70700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3100004196,
+    "high": 8.5799999237,
+    "low": 7.7600002289,
+    "close": 7.9000000954,
+    "volume": 35500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1000003815,
+    "high": 8.4200000763,
+    "low": 7.8000001907,
+    "close": 8.2700004578,
+    "volume": 96000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.1899995804,
+    "high": 8.3500003815,
+    "low": 7.8600001335,
+    "close": 7.8899998665,
+    "volume": 33700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.7699999809,
+    "high": 7.9770002365,
+    "low": 7.0700001717,
+    "close": 7.1500000954,
+    "volume": 70500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.4099998474,
+    "high": 7.736000061,
+    "low": 7.1700000763,
+    "close": 7.7199997902,
+    "volume": 64700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6300001144,
+    "high": 7.6700000763,
+    "low": 7.25,
+    "close": 7.5100002289,
+    "volume": 139900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6599998474,
+    "high": 9.7700004578,
+    "low": 7.6599998474,
+    "close": 8.8999996185,
+    "volume": 237200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.8699998856,
+    "high": 14.5100002289,
+    "low": 9.7299995422,
+    "close": 10.1999998093,
+    "volume": 2578000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.7600002289,
+    "high": 10.4370002747,
+    "low": 9.4099998474,
+    "close": 9.8199996948,
+    "volume": 155900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.8199996948,
+    "high": 10.6300001144,
+    "low": 9.4899997711,
+    "close": 10.3199996948,
+    "volume": 116100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.029999733,
+    "high": 10.1999998093,
+    "low": 8.2899999619,
+    "close": 8.470000267,
+    "volume": 168500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3999996185,
+    "high": 8.9250001907,
+    "low": 8.0699996948,
+    "close": 8.279999733,
+    "volume": 65800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3500003815,
+    "high": 8.5699996948,
+    "low": 8.0719995499,
+    "close": 8.3000001907,
+    "volume": 65400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.5,
+    "high": 8.6899995804,
+    "low": 8.0640001297,
+    "close": 8.4600000381,
+    "volume": 67400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.5,
+    "high": 8.8199996948,
+    "low": 8.1000003815,
+    "close": 8.5100002289,
+    "volume": 58700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.5600004196,
+    "high": 8.6400003433,
+    "low": 8.1149997711,
+    "close": 8.3599996567,
+    "volume": 41800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,10,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.3599996567,
+    "high": 8.779999733,
+    "low": 7.75,
+    "close": 7.7800002098,
+    "volume": 80900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6900000572,
+    "high": 8.220000267,
+    "low": 7.3499999046,
+    "close": 7.6300001144,
+    "volume": 67600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.4000000954,
+    "high": 7.8099999428,
+    "low": 7.2890000343,
+    "close": 7.5199999809,
+    "volume": 30100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.5199999809,
+    "high": 7.8499999046,
+    "low": 7.3200001717,
+    "close": 7.3200001717,
+    "volume": 19700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.0500001907,
+    "high": 7.4899997711,
+    "low": 6.9200000763,
+    "close": 7.0799999237,
+    "volume": 54700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6100001335,
+    "high": 7.7699999809,
+    "low": 7.0999999046,
+    "close": 7.6799998283,
+    "volume": 41600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.6999998093,
+    "high": 7.8400001526,
+    "low": 7.2800002098,
+    "close": 7.4000000954,
+    "volume": 39200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.1999998093,
+    "high": 7.4200000763,
+    "low": 6.9200000763,
+    "close": 7.2100000381,
+    "volume": 50100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.2699999809,
+    "high": 7.6700000763,
+    "low": 7.2100000381,
+    "close": 7.5,
+    "volume": 31500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.5,
+    "high": 7.7829999924,
+    "low": 7.0999999046,
+    "close": 7.1300001144,
+    "volume": 37900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.25,
+    "high": 8.2700004578,
+    "low": 7.3099999428,
+    "close": 7.3099999428,
+    "volume": 122600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.2600002289,
+    "high": 7.5,
+    "low": 6.6999998093,
+    "close": 6.8499999046,
+    "volume": 71300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.6900000572,
+    "high": 7.1399998665,
+    "low": 6.5999999046,
+    "close": 6.8299999237,
+    "volume": 66800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.6999998093,
+    "high": 6.9600000381,
+    "low": 6.4699997902,
+    "close": 6.5799999237,
+    "volume": 37900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.4600000381,
+    "high": 6.8819999695,
+    "low": 6.25,
+    "close": 6.6999998093,
+    "volume": 52900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.6500000954,
+    "high": 6.9380002022,
+    "low": 6.3899998665,
+    "close": 6.5999999046,
+    "volume": 51000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.5799999237,
+    "high": 6.7890000343,
+    "low": 6.0199999809,
+    "close": 6.0700001717,
+    "volume": 24500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.0100002289,
+    "high": 6.4600000381,
+    "low": 5.9229998589,
+    "close": 6.2899999619,
+    "volume": 35700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.3800001144,
+    "high": 6.5300002098,
+    "low": 6.0,
+    "close": 6.0100002289,
+    "volume": 53800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.1599998474,
+    "high": 6.2600002289,
+    "low": 5.8099999428,
+    "close": 5.8800001144,
+    "volume": 39500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.9200000763,
+    "high": 6.3369998932,
+    "low": 5.8099999428,
+    "close": 6.0799999237,
+    "volume": 27100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.1199998856,
+    "high": 6.3899998665,
+    "low": 6.1199998856,
+    "close": 6.2550001144,
+    "volume": 11800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.2800002098,
+    "high": 6.4000000954,
+    "low": 6.0,
+    "close": 6.1599998474,
+    "volume": 34900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.1999998093,
+    "high": 6.3699998856,
+    "low": 6.0,
+    "close": 6.0199999809,
+    "volume": 23900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.0,
+    "high": 6.2600002289,
+    "low": 6.0,
+    "close": 6.0900001526,
+    "volume": 29200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.0590000153,
+    "high": 6.7199997902,
+    "low": 6.0100002289,
+    "close": 6.6300001144,
+    "volume": 102900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.5100002289,
+    "high": 6.7740001678,
+    "low": 6.2600002289,
+    "close": 6.2600002289,
+    "volume": 22300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.2600002289,
+    "high": 6.3220000267,
+    "low": 5.8600001335,
+    "close": 5.9699997902,
+    "volume": 45100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.9499998093,
+    "high": 6.0650000572,
+    "low": 5.6700000763,
+    "close": 5.7649998665,
+    "volume": 19700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.6999998093,
+    "high": 5.8000001907,
+    "low": 5.498000145,
+    "close": 5.5599999428,
+    "volume": 30500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.4800000191,
+    "high": 5.5500001907,
+    "low": 5.2399997711,
+    "close": 5.3800001144,
+    "volume": 33100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.3800001144,
+    "high": 5.6700000763,
+    "low": 5.2550001144,
+    "close": 5.3499999046,
+    "volume": 22800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.3299999237,
+    "high": 5.3299999237,
+    "low": 5.0,
+    "close": 5.0100002289,
+    "volume": 13500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.8400001526,
+    "high": 5.8400001526,
+    "low": 4.5,
+    "close": 4.6100001335,
+    "volume": 596900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.4800000191,
+    "high": 4.7899999619,
+    "low": 4.2199997902,
+    "close": 4.3200001717,
+    "volume": 110100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.2699999809,
+    "high": 4.3800001144,
+    "low": 3.9100000858,
+    "close": 3.9849998951,
+    "volume": 193700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.1300001144,
+    "high": 4.3499999046,
+    "low": 4.0700001717,
+    "close": 4.2199997902,
+    "volume": 56600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.25,
+    "high": 4.7399997711,
+    "low": 4.125,
+    "close": 4.2699999809,
+    "volume": 207900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.25,
+    "high": 4.2600002289,
+    "low": 3.9700000286,
+    "close": 4.0300002098,
+    "volume": 50300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.0,
+    "high": 4.0770001411,
+    "low": 3.9300000668,
+    "close": 4.0,
+    "volume": 26800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.0,
+    "high": 4.0,
+    "low": 3.6199998856,
+    "close": 3.7550001144,
+    "volume": 48500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 3.7400000095,
+    "high": 4.1799998283,
+    "low": 3.6400001049,
+    "close": 4.1199998856,
+    "volume": 75300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.1500000954,
+    "high": 4.25,
+    "low": 3.9800000191,
+    "close": 4.0900001526,
+    "volume": 67200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.0999999046,
+    "high": 4.1560001373,
+    "low": 3.9500000477,
+    "close": 3.9900000095,
+    "volume": 32600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.0900001526,
+    "high": 4.5799999237,
+    "low": 4.0749998093,
+    "close": 4.3200001717,
+    "volume": 254900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.3099999428,
+    "high": 4.4400000572,
+    "low": 4.0999999046,
+    "close": 4.2199997902,
+    "volume": 125600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.3400001526,
+    "high": 5.3400001526,
+    "low": 4.2899999619,
+    "close": 4.9699997902,
+    "volume": 135200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.3000001907,
+    "high": 5.6599998474,
+    "low": 4.8150000572,
+    "close": 4.8850002289,
+    "volume": 105200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 4.9099998474,
+    "high": 5.3699998856,
+    "low": 4.6399998665,
+    "close": 5.0900001526,
+    "volume": 55400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.3000001907,
+    "high": 5.3699998856,
+    "low": 5.0,
+    "close": 5.1100001335,
+    "volume": 42100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.1700000763,
+    "high": 5.5700001717,
+    "low": 5.0900001526,
+    "close": 5.5300002098,
+    "volume": 47500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.8299999237,
+    "high": 8.1999998093,
+    "low": 4.8000001907,
+    "close": 5.1900000572,
+    "volume": 5922800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.0700001717,
+    "high": 5.5,
+    "low": 5.0700001717,
+    "close": 5.1599998474,
+    "volume": 245300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.1700000763,
+    "high": 5.1700000763,
+    "low": 4.6199998856,
+    "close": 5.0599999428,
+    "volume": 173500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.0,
+    "high": 5.7399997711,
+    "low": 5.0,
+    "close": 5.5,
+    "volume": 416100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 5.5999999046,
+    "high": 6.3800001144,
+    "low": 5.5199999809,
+    "close": 6.3000001907,
+    "volume": 389100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.25,
+    "high": 6.7600002289,
+    "low": 6.1420001984,
+    "close": 6.6500000954,
+    "volume": 362100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.6900000572,
+    "high": 7.0900001526,
+    "low": 6.5999999046,
+    "close": 7.0300002098,
+    "volume": 293000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.1500000954,
+    "high": 7.3400001526,
+    "low": 6.7100000381,
+    "close": 7.0599999428,
+    "volume": 179500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.9299998283,
+    "high": 7.0199999809,
+    "low": 6.5,
+    "close": 6.5799999237,
+    "volume": 134200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.5100002289,
+    "high": 6.9499998093,
+    "low": 6.3499999046,
+    "close": 6.9000000954,
+    "volume": 107200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.9000000954,
+    "high": 7.2100000381,
+    "low": 6.8099999428,
+    "close": 6.9899997711,
+    "volume": 350300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 6.9800000191,
+    "high": 7.9699997902,
+    "low": 6.75,
+    "close": 7.9000000954,
+    "volume": 309000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.7800002098,
+    "high": 8.0450000763,
+    "low": 7.5199999809,
+    "close": 7.9000000954,
+    "volume": 131800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.8800001144,
+    "high": 9.6199998856,
+    "low": 8.5900001526,
+    "close": 9.1499996185,
+    "volume": 697100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.3500003815,
+    "high": 9.4399995804,
+    "low": 8.2299995422,
+    "close": 9.1300001144,
+    "volume": 371100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.1300001144,
+    "high": 9.3400001526,
+    "low": 8.0600004196,
+    "close": 8.8299999237,
+    "volume": 268000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.6099996567,
+    "high": 9.0900001526,
+    "low": 8.3699998856,
+    "close": 8.5500001907,
+    "volume": 176600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 8.779999733,
+    "high": 9.3009996414,
+    "low": 8.6619997025,
+    "close": 9.0500001907,
+    "volume": 161000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.1800003052,
+    "high": 9.6999998093,
+    "low": 8.6599998474,
+    "close": 9.6199998856,
+    "volume": 326200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.970000267,
+    "high": 10.5799999237,
+    "low": 9.6800003052,
+    "close": 10.0500001907,
+    "volume": 664300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.8500003815,
+    "high": 10.1400003433,
+    "low": 8.9420003891,
+    "close": 9.9300003052,
+    "volume": 292200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 9.9300003052,
+    "high": 10.1929998398,
+    "low": 9.5,
+    "close": 10.1000003815,
+    "volume": 197800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.25,
+    "high": 12.2399997711,
+    "low": 10.1999998093,
+    "close": 11.3800001144,
+    "volume": 588600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.6499996185,
+    "high": 11.8199996948,
+    "low": 10.3599996567,
+    "close": 10.6099996567,
+    "volume": 249300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.6000003815,
+    "high": 11.8999996185,
+    "low": 10.25,
+    "close": 10.7899999619,
+    "volume": 341300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.6800003052,
+    "high": 12.0900001526,
+    "low": 10.1499996185,
+    "close": 12.0,
+    "volume": 524300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.9499998093,
+    "high": 12.0399999619,
+    "low": 10.9300003052,
+    "close": 11.1800003052,
+    "volume": 195100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.9499998093,
+    "high": 11.1599998474,
+    "low": 10.4899997711,
+    "close": 10.8199996948,
+    "volume": 93800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.7100000381,
+    "high": 11.7299995422,
+    "low": 10.7100000381,
+    "close": 11.5699996948,
+    "volume": 232800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.7899999619,
+    "high": 12.5500001907,
+    "low": 11.5699996948,
+    "close": 12.25,
+    "volume": 183700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.0699996948,
+    "high": 12.3900003433,
+    "low": 11.75,
+    "close": 12.3000001907,
+    "volume": 158300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.4799995422,
+    "high": 12.4799995422,
+    "low": 11.8100004196,
+    "close": 11.8199996948,
+    "volume": 152500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.6199998856,
+    "high": 12.0799999237,
+    "low": 11.5,
+    "close": 11.5100002289,
+    "volume": 82100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.1099996567,
+    "high": 11.7700004578,
+    "low": 10.279999733,
+    "close": 11.2899999619,
+    "volume": 168600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.5,
+    "high": 11.8900003433,
+    "low": 10.9899997711,
+    "close": 11.029999733,
+    "volume": 164000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.1000003815,
+    "high": 11.75,
+    "low": 9.75,
+    "close": 10.6000003815,
+    "volume": 249200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.279999733,
+    "high": 11.8470001221,
+    "low": 10.279999733,
+    "close": 11.0,
+    "volume": 284100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.4499998093,
+    "high": 11.6999998093,
+    "low": 10.0,
+    "close": 11.4600000381,
+    "volume": 306100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.4499998093,
+    "high": 12.8800001144,
+    "low": 11.4499998093,
+    "close": 12.4600000381,
+    "volume": 434300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.4499998093,
+    "high": 13.6199998856,
+    "low": 12.095000267,
+    "close": 13.5500001907,
+    "volume": 777500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.5799999237,
+    "high": 13.8339996338,
+    "low": 12.1049995422,
+    "close": 12.9799995422,
+    "volume": 359900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.1599998474,
+    "high": 13.4399995804,
+    "low": 12.0600004196,
+    "close": 12.1800003052,
+    "volume": 265100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.6099996567,
+    "high": 13.9499998093,
+    "low": 12.3000001907,
+    "close": 13.6999998093,
+    "volume": 623200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.8000001907,
+    "high": 13.9399995804,
+    "low": 12.8500003815,
+    "close": 13.5,
+    "volume": 380700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.5,
+    "high": 14.1099996567,
+    "low": 12.4899997711,
+    "close": 12.6149997711,
+    "volume": 337500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.2700004578,
+    "high": 14.470000267,
+    "low": 12.0,
+    "close": 14.279999733,
+    "volume": 535500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.9600000381,
+    "high": 18.1000003815,
+    "low": 13.7159996033,
+    "close": 18.0400009155,
+    "volume": 1534300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.7099990845,
+    "high": 19.5,
+    "low": 17.0,
+    "close": 18.8199996948,
+    "volume": 858000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.8099994659,
+    "high": 20.3099994659,
+    "low": 15.8000001907,
+    "close": 18.1100006104,
+    "volume": 918300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.8899993896,
+    "high": 20.4799995422,
+    "low": 15.7650003433,
+    "close": 17.2000007629,
+    "volume": 1249900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.7000007629,
+    "high": 17.9619998932,
+    "low": 15.3599996567,
+    "close": 16.1100006104,
+    "volume": 508400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.6350002289,
+    "high": 15.7600002289,
+    "low": 13.6700000763,
+    "close": 14.5,
+    "volume": 802700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.8299999237,
+    "high": 15.3000001907,
+    "low": 13.3000001907,
+    "close": 13.779999733,
+    "volume": 576300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.1099996567,
+    "high": 15.8599996567,
+    "low": 13.6599998474,
+    "close": 15.6899995804,
+    "volume": 348400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.5100002289,
+    "high": 16.1800003052,
+    "low": 14.6199998856,
+    "close": 14.9399995804,
+    "volume": 216300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.4499998093,
+    "high": 15.9799995422,
+    "low": 14.1000003815,
+    "close": 15.7399997711,
+    "volume": 306900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.8100004196,
+    "high": 16.75,
+    "low": 14.9799995422,
+    "close": 16.1399993896,
+    "volume": 378900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.0,
+    "high": 16.0,
+    "low": 14.6999998093,
+    "close": 15.0699996948,
+    "volume": 255500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.8000001907,
+    "high": 16.6100006104,
+    "low": 14.970000267,
+    "close": 15.1899995804,
+    "volume": 335800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.2100000381,
+    "high": 18.9899997711,
+    "low": 15.2100000381,
+    "close": 18.9699993134,
+    "volume": 575700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.7700004578,
+    "high": 19.4599990845,
+    "low": 17.2099990845,
+    "close": 17.75,
+    "volume": 397200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.6000003815,
+    "high": 17.9699993134,
+    "low": 15.8599996567,
+    "close": 16.8299999237,
+    "volume": 343500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.1200008392,
+    "high": 17.4419994354,
+    "low": 16.1100006104,
+    "close": 16.3999996185,
+    "volume": 328400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 19.0,
+    "high": 23.6499996185,
+    "low": 18.8999996185,
+    "close": 22.1299991608,
+    "volume": 1975600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 21.8199996948,
+    "high": 25.0,
+    "low": 21.2099990845,
+    "close": 23.8799991608,
+    "volume": 808100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.3999996185,
+    "high": 25.4899997711,
+    "low": 23.5,
+    "close": 24.7299995422,
+    "volume": 382600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.3600006104,
+    "high": 27.1550006866,
+    "low": 23.9099998474,
+    "close": 26.0699996948,
+    "volume": 456400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.2000007629,
+    "high": 26.3199996948,
+    "low": 23.2700004578,
+    "close": 23.5300006866,
+    "volume": 417400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.2700004578,
+    "high": 24.8999996185,
+    "low": 23.0,
+    "close": 24.4699993134,
+    "volume": 229100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.7700004578,
+    "high": 24.5450000763,
+    "low": 22.7000007629,
+    "close": 23.4099998474,
+    "volume": 288400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.7399997711,
+    "high": 28.2900009155,
+    "low": 23.5,
+    "close": 28.1900005341,
+    "volume": 483300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 29.0,
+    "high": 32.6300010681,
+    "low": 27.0300006866,
+    "close": 31.3299999237,
+    "volume": 776900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 30.9799995422,
+    "high": 34.4599990845,
+    "low": 29.0699996948,
+    "close": 32.9399986267,
+    "volume": 890900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 32.9599990845,
+    "high": 33.9500007629,
+    "low": 31.0,
+    "close": 32.3199996948,
+    "volume": 437600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 33.4000015259,
+    "high": 36.9799995422,
+    "low": 31.8150005341,
+    "close": 35.3300018311,
+    "volume": 487900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 34.9099998474,
+    "high": 35.3300018311,
+    "low": 33.0400009155,
+    "close": 34.25,
+    "volume": 296800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 34.1599998474,
+    "high": 34.3880004883,
+    "low": 27.6499996185,
+    "close": 28.2199993134,
+    "volume": 838200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 28.2099990845,
+    "high": 28.9099998474,
+    "low": 25.1000003815,
+    "close": 27.3600006104,
+    "volume": 815500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.7900009155,
+    "high": 28.1599998474,
+    "low": 26.0,
+    "close": 27.8899993896,
+    "volume": 397800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.9300003052,
+    "high": 28.0,
+    "low": 24.6299991608,
+    "close": 25.5100002289,
+    "volume": 285900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 25.7999992371,
+    "high": 27.8899993896,
+    "low": 25.4200000763,
+    "close": 27.6000003815,
+    "volume": 432000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 28.3099994659,
+    "high": 28.8700008392,
+    "low": 25.5149993896,
+    "close": 25.6900005341,
+    "volume": 484000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 25.6000003815,
+    "high": 26.4400005341,
+    "low": 24.25,
+    "close": 25.8600006104,
+    "volume": 342200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.3500003815,
+    "high": 26.5,
+    "low": 23.6100006104,
+    "close": 23.6200008392,
+    "volume": 707300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.9099998474,
+    "high": 29.0,
+    "low": 22.4400005341,
+    "close": 26.3899993896,
+    "volume": 837900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.8999996185,
+    "high": 25.3600006104,
+    "low": 23.3099994659,
+    "close": 24.5200004578,
+    "volume": 386900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.5200004578,
+    "high": 25.5249996185,
+    "low": 21.4099998474,
+    "close": 23.7600002289,
+    "volume": 494000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.1900005341,
+    "high": 24.5300006866,
+    "low": 22.3400001526,
+    "close": 22.7600002289,
+    "volume": 222000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 22.8099994659,
+    "high": 25.4400005341,
+    "low": 22.6210002899,
+    "close": 25.2700004578,
+    "volume": 238700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 25.0900001526,
+    "high": 29.0300006866,
+    "low": 24.3369998932,
+    "close": 28.8400001526,
+    "volume": 367800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 28.8600006104,
+    "high": 29.5,
+    "low": 27.8299999237,
+    "close": 29.2399997711,
+    "volume": 258000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 29.5400009155,
+    "high": 32.0,
+    "low": 28.0499992371,
+    "close": 28.2199993134,
+    "volume": 389300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 28.2199993134,
+    "high": 28.4200000763,
+    "low": 25.8010005951,
+    "close": 26.3700008392,
+    "volume": 199900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.1499996185,
+    "high": 27.6399993896,
+    "low": 25.5,
+    "close": 27.4500007629,
+    "volume": 162500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 28.9899997711,
+    "high": 29.9500007629,
+    "low": 27.2800006866,
+    "close": 28.0,
+    "volume": 320200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.9300003052,
+    "high": 30.6200008392,
+    "low": 27.4799995422,
+    "close": 29.6599998474,
+    "volume": 288800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 30.5799999237,
+    "high": 31.5,
+    "low": 29.4400005341,
+    "close": 31.2700004578,
+    "volume": 324100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 30.5,
+    "high": 30.5,
+    "low": 28.4099998474,
+    "close": 28.4400005341,
+    "volume": 163200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.0499992371,
+    "high": 28.9799995422,
+    "low": 26.5599994659,
+    "close": 28.0300006866,
+    "volume": 338700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.6499996185,
+    "high": 27.6499996185,
+    "low": 24.5799999237,
+    "close": 25.4899997711,
+    "volume": 212300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 25.5400009155,
+    "high": 26.5,
+    "low": 25.2299995422,
+    "close": 25.8099994659,
+    "volume": 113700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 25.9099998474,
+    "high": 26.75,
+    "low": 22.7000007629,
+    "close": 23.9200000763,
+    "volume": 241500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.0499992371,
+    "high": 25.0,
+    "low": 22.8600006104,
+    "close": 22.9200000763,
+    "volume": 170900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.3700008392,
+    "high": 24.5,
+    "low": 22.8700008392,
+    "close": 24.1700000763,
+    "volume": 162600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.9500007629,
+    "high": 25.0499992371,
+    "low": 23.1599998474,
+    "close": 23.7099990845,
+    "volume": 238100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.5,
+    "high": 26.0599994659,
+    "low": 24.2999992371,
+    "close": 24.5400009155,
+    "volume": 173600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.8600006104,
+    "high": 28.2999992371,
+    "low": 24.8600006104,
+    "close": 27.6800003052,
+    "volume": 376200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 27.3299999237,
+    "high": 28.8700008392,
+    "low": 26.5599994659,
+    "close": 26.9599990845,
+    "volume": 245500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 26.6299991608,
+    "high": 27.7000007629,
+    "low": 24.5,
+    "close": 25.2299995422,
+    "volume": 460000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 25.6100006104,
+    "high": 25.8400001526,
+    "low": 24.2999992371,
+    "close": 25.7900009155,
+    "volume": 227400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.5400009155,
+    "high": 25.1800003052,
+    "low": 23.7999992371,
+    "close": 24.6000003815,
+    "volume": 174000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.4500007629,
+    "high": 24.4500007629,
+    "low": 22.6599998474,
+    "close": 23.0499992371,
+    "volume": 170900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.5,
+    "high": 24.8299999237,
+    "low": 23.4300003052,
+    "close": 23.9899997711,
+    "volume": 122800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.5,
+    "high": 24.7900009155,
+    "low": 21.3719997406,
+    "close": 23.0400009155,
+    "volume": 953700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.4599990845,
+    "high": 24.3099994659,
+    "low": 22.2299995422,
+    "close": 23.75,
+    "volume": 299400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.7199993134,
+    "high": 25.1000003815,
+    "low": 23.1599998474,
+    "close": 24.0499992371,
+    "volume": 163800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.7800006866,
+    "high": 24.3299999237,
+    "low": 22.5300006866,
+    "close": 23.8899993896,
+    "volume": 218200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 23.8799991608,
+    "high": 26.0,
+    "low": 22.5739994049,
+    "close": 24.0900001526,
+    "volume": 386300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 24.1000003815,
+    "high": 25.6000003815,
+    "low": 18.6100006104,
+    "close": 19.5200004578,
+    "volume": 726400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 19.5300006866,
+    "high": 19.7900009155,
+    "low": 18.2900009155,
+    "close": 18.5100002289,
+    "volume": 316100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.0900001526,
+    "high": 18.5849990845,
+    "low": 17.1100006104,
+    "close": 17.9599990845,
+    "volume": 276700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.2999992371,
+    "high": 19.5300006866,
+    "low": 18.2999992371,
+    "close": 19.0,
+    "volume": 190700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 19.1299991608,
+    "high": 19.1399993896,
+    "low": 17.9300003052,
+    "close": 17.9899997711,
+    "volume": 150700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.7700004578,
+    "high": 18.2549991608,
+    "low": 16.75,
+    "close": 16.8799991608,
+    "volume": 206200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.8899993896,
+    "high": 17.7199993134,
+    "low": 16.5400009155,
+    "close": 17.1900005341,
+    "volume": 146800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.1900005341,
+    "high": 17.4099998474,
+    "low": 16.3999996185,
+    "close": 16.8799991608,
+    "volume": 124700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.5,
+    "high": 16.7000007629,
+    "low": 14.8000001907,
+    "close": 15.1599998474,
+    "volume": 343500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.6599998474,
+    "high": 15.5489997864,
+    "low": 14.2299995422,
+    "close": 15.1000003815,
+    "volume": 264500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.1899995804,
+    "high": 15.6599998474,
+    "low": 14.6120004654,
+    "close": 15.1499996185,
+    "volume": 117200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.2100000381,
+    "high": 16.8199996948,
+    "low": 15.2100000381,
+    "close": 16.5400009155,
+    "volume": 193600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.0300006866,
+    "high": 16.3400001526,
+    "low": 15.3500003815,
+    "close": 15.4099998474,
+    "volume": 95000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.1099996567,
+    "high": 16.2700004578,
+    "low": 14.9899997711,
+    "close": 15.1000003815,
+    "volume": 183200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.9099998474,
+    "high": 15.3400001526,
+    "low": 14.2600002289,
+    "close": 14.5900001526,
+    "volume": 205000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.6599998474,
+    "high": 14.8409996033,
+    "low": 13.8500003815,
+    "close": 14.3000001907,
+    "volume": 151900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.1800003052,
+    "high": 14.3950004578,
+    "low": 13.0399999619,
+    "close": 13.2299995422,
+    "volume": 200000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.5699996948,
+    "high": 14.279999733,
+    "low": 12.970000267,
+    "close": 13.0500001907,
+    "volume": 170800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.5600004196,
+    "high": 14.279999733,
+    "low": 13.529999733,
+    "close": 14.029999733,
+    "volume": 82800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.2899999619,
+    "high": 14.6099996567,
+    "low": 13.5900001526,
+    "close": 14.1099996567,
+    "volume": 117600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.5799999237,
+    "high": 16.4699993134,
+    "low": 14.5799999237,
+    "close": 16.0900001526,
+    "volume": 379000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 16.1200008392,
+    "high": 18.1800003052,
+    "low": 16.1200008392,
+    "close": 17.8500003815,
+    "volume": 317900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.8500003815,
+    "high": 18.2000007629,
+    "low": 17.3349990845,
+    "close": 17.8799991608,
+    "volume": 99700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.5200004578,
+    "high": 18.7080001831,
+    "low": 17.0900001526,
+    "close": 17.9099998474,
+    "volume": 111700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.0499992371,
+    "high": 19.0,
+    "low": 17.9599990845,
+    "close": 18.4899997711,
+    "volume": 90000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.5200004578,
+    "high": 19.2099990845,
+    "low": 18.3500003815,
+    "close": 18.5499992371,
+    "volume": 117600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 18.6900005341,
+    "high": 19.2800006866,
+    "low": 18.0,
+    "close": 18.6599998474,
+    "volume": 135600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 19.0,
+    "high": 19.2099990845,
+    "low": 16.2399997711,
+    "close": 16.9799995422,
+    "volume": 422800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 17.0100002289,
+    "high": 20.0,
+    "low": 14.7899999619,
+    "close": 14.904999733,
+    "volume": 712500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.9799995422,
+    "high": 15.6899995804,
+    "low": 14.6999998093,
+    "close": 15.5600004196,
+    "volume": 131900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 15.75,
+    "high": 15.75,
+    "low": 14.5799999237,
+    "close": 14.75,
+    "volume": 199800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.3800001144,
+    "high": 14.9799995422,
+    "low": 13.8760004044,
+    "close": 14.2299995422,
+    "volume": 155600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 14.3000001907,
+    "high": 14.6149997711,
+    "low": 12.595000267,
+    "close": 12.7600002289,
+    "volume": 237800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.5,
+    "high": 12.7790002823,
+    "low": 11.7600002289,
+    "close": 12.3199996948,
+    "volume": 200900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.4899997711,
+    "high": 13.0500001907,
+    "low": 12.2100000381,
+    "close": 12.6300001144,
+    "volume": 173800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.3400001526,
+    "high": 12.4899997711,
+    "low": 11.5150003433,
+    "close": 11.6000003815,
+    "volume": 191200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.8000001907,
+    "high": 12.0,
+    "low": 11.25,
+    "close": 11.2700004578,
+    "volume": 173100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.2600002289,
+    "high": 11.75,
+    "low": 11.25,
+    "close": 11.3100004196,
+    "volume": 157100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.4499998093,
+    "high": 11.9099998474,
+    "low": 11.4499998093,
+    "close": 11.8299999237,
+    "volume": 101600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.5100002289,
+    "high": 11.6999998093,
+    "low": 11.0749998093,
+    "close": 11.1000003815,
+    "volume": 156200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.0600004196,
+    "high": 11.25,
+    "low": 10.8800001144,
+    "close": 11.0799999237,
+    "volume": 152400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.8999996185,
+    "high": 11.0,
+    "low": 10.3800001144,
+    "close": 10.3800001144,
+    "volume": 210400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.4499998093,
+    "high": 10.7390003204,
+    "low": 10.2700004578,
+    "close": 10.4799995422,
+    "volume": 144100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.5799999237,
+    "high": 10.9729995728,
+    "low": 10.3800001144,
+    "close": 10.6499996185,
+    "volume": 108700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.720000267,
+    "high": 11.1479997635,
+    "low": 10.6450004578,
+    "close": 10.7299995422,
+    "volume": 76000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.720000267,
+    "high": 11.1999998093,
+    "low": 10.720000267,
+    "close": 10.9499998093,
+    "volume": 129700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.8999996185,
+    "high": 11.6199998856,
+    "low": 10.8999996185,
+    "close": 11.3699998856,
+    "volume": 170000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.1199998856,
+    "high": 11.7700004578,
+    "low": 11.1199998856,
+    "close": 11.2299995422,
+    "volume": 99500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.3100004196,
+    "high": 11.720000267,
+    "low": 11.2159996033,
+    "close": 11.3299999237,
+    "volume": 116000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 10.9399995804,
+    "high": 11.1999998093,
+    "low": 10.8000001907,
+    "close": 10.9899997711,
+    "volume": 135100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.0699996948,
+    "high": 11.1999998093,
+    "low": 10.5799999237,
+    "close": 10.8699998856,
+    "volume": 165900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.0500001907,
+    "high": 11.1000003815,
+    "low": 10.5,
+    "close": 10.9499998093,
+    "volume": 98800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.0600004196,
+    "high": 11.7399997711,
+    "low": 11.0600004196,
+    "close": 11.6599998474,
+    "volume": 159300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 11.6400003433,
+    "high": 12.3599996567,
+    "low": 11.6099996567,
+    "close": 12.2100000381,
+    "volume": 143600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.2299995422,
+    "high": 13.0699996948,
+    "low": 12.1450004578,
+    "close": 12.9300003052,
+    "volume": 139500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.9600000381,
+    "high": 13.1000003815,
+    "low": 12.5600004196,
+    "close": 12.970000267,
+    "volume": 130300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.8599996567,
+    "high": 13.8699998856,
+    "low": 12.6499996185,
+    "close": 12.9799995422,
+    "volume": 409900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.6999998093,
+    "high": 13.3100004196,
+    "low": 12.529999733,
+    "close": 13.1599998474,
+    "volume": 79800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.1700000763,
+    "high": 14.1599998474,
+    "low": 13.0100002289,
+    "close": 13.9499998093,
+    "volume": 208100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.6800003052,
+    "high": 13.6800003052,
+    "low": 12.6800003052,
+    "close": 12.7399997711,
+    "volume": 226600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.779999733,
+    "high": 13.2700004578,
+    "low": 12.5799999237,
+    "close": 13.1700000763,
+    "volume": 129100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.2899999619,
+    "high": 13.9499998093,
+    "low": 13.1099996567,
+    "close": 13.1400003433,
+    "volume": 118000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 13.1400003433,
+    "high": 13.1400003433,
+    "low": 12.5500001907,
+    "close": 12.8599996567,
+    "volume": 134800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 12.8900003433,
+    "high": 13.6300001144,
+    "low": 12.8149995804,
+    "close": 13.3400001526,
+    "volume": 111236.0,
+    "wedge_status": "none"
+  }
+]

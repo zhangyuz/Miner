@@ -7498,5 +7498,15 @@
     "close": 8.1000003815,
     "volume": 508264.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "CRNC",
+    "open": 8.3000001907,
+    "high": 8.3000001907,
+    "low": 8.0,
+    "close": 8.0900001526,
+    "volume": 450378.0,
+    "wedge_status": "none"
   }
 ]

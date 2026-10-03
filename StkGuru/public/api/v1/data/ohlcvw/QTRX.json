@@ -7498,5 +7498,15 @@
     "close": 3.4100000858,
     "volume": 628982.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "QTRX",
+    "open": 3.4600000381,
+    "high": 3.6900000572,
+    "low": 3.4600000381,
+    "close": 3.6400001049,
+    "volume": 590301.0,
+    "wedge_status": "none"
   }
 ]

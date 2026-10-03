@@ -1,0 +1,7522 @@
+[
+  {
+    "trade_date": "2023,10,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.25,
+    "high": 16.25,
+    "low": 15.25,
+    "close": 15.75,
+    "volume": 7236.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.7749996185,
+    "high": 17.125,
+    "low": 15.25,
+    "close": 16.0249996185,
+    "volume": 12540.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.0249996185,
+    "high": 17.2000007629,
+    "low": 15.7250003815,
+    "close": 16.6749992371,
+    "volume": 11660.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.5249996185,
+    "high": 16.5249996185,
+    "low": 15.625,
+    "close": 15.875,
+    "volume": 14240.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5500001907,
+    "high": 16.6499996185,
+    "low": 15.5500001907,
+    "close": 16.2000007629,
+    "volume": 2684.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.1000003815,
+    "high": 17.25,
+    "low": 16.0,
+    "close": 16.8250007629,
+    "volume": 22220.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,10,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.3250007629,
+    "high": 17.3250007629,
+    "low": 15.5500001907,
+    "close": 15.75,
+    "volume": 15000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.125,
+    "high": 16.1749992371,
+    "low": 15.25,
+    "close": 15.4499998093,
+    "volume": 7960.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.75,
+    "high": 17.625,
+    "low": 15.0749998093,
+    "close": 16.8999996185,
+    "volume": 43664.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.75,
+    "high": 16.75,
+    "low": 15.6999998093,
+    "close": 15.6999998093,
+    "volume": 15268.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.625,
+    "high": 16.1749992371,
+    "low": 15.125,
+    "close": 15.125,
+    "volume": 12212.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.125,
+    "high": 15.8000001907,
+    "low": 14.8999996185,
+    "close": 14.9499998093,
+    "volume": 9756.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.9750003815,
+    "high": 15.5500001907,
+    "low": 13.8500003815,
+    "close": 14.1750001907,
+    "volume": 19568.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.5,
+    "high": 15.125,
+    "low": 13.75,
+    "close": 14.25,
+    "volume": 17720.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.25,
+    "high": 14.3999996185,
+    "low": 13.8000001907,
+    "close": 14.1499996185,
+    "volume": 14992.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.4750003815,
+    "high": 14.5,
+    "low": 12.75,
+    "close": 14.25,
+    "volume": 13356.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.125,
+    "high": 14.3500003815,
+    "low": 13.25,
+    "close": 13.75,
+    "volume": 15256.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.75,
+    "high": 14.3500003815,
+    "low": 13.0249996185,
+    "close": 13.3500003815,
+    "volume": 7140.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.625,
+    "high": 14.0500001907,
+    "low": 12.75,
+    "close": 13.3999996185,
+    "volume": 9088.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.25,
+    "high": 13.9750003815,
+    "low": 12.75,
+    "close": 13.25,
+    "volume": 3160.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.25,
+    "high": 14.0249996185,
+    "low": 12.5,
+    "close": 13.0249996185,
+    "volume": 6132.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.2749996185,
+    "high": 13.75,
+    "low": 12.8249998093,
+    "close": 13.5,
+    "volume": 6356.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.75,
+    "high": 15.0,
+    "low": 12.5749998093,
+    "close": 14.5749998093,
+    "volume": 18996.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.6499996185,
+    "high": 15.6999998093,
+    "low": 14.6499996185,
+    "close": 15.6000003815,
+    "volume": 13128.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.75,
+    "high": 17.5,
+    "low": 15.3500003815,
+    "close": 16.75,
+    "volume": 17528.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.25,
+    "high": 17.25,
+    "low": 15.0249996185,
+    "close": 15.625,
+    "volume": 7292.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.3999996185,
+    "high": 16.25,
+    "low": 14.6999998093,
+    "close": 14.9250001907,
+    "volume": 8196.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.9250001907,
+    "high": 15.6750001907,
+    "low": 13.375,
+    "close": 14.5,
+    "volume": 10428.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.6000003815,
+    "high": 14.9750003815,
+    "low": 13.6000003815,
+    "close": 14.375,
+    "volume": 5480.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.1000003815,
+    "high": 15.4750003815,
+    "low": 14.0,
+    "close": 15.0,
+    "volume": 8996.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.2250003815,
+    "high": 15.875,
+    "low": 15.0249996185,
+    "close": 15.3249998093,
+    "volume": 5572.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.0,
+    "high": 15.6000003815,
+    "low": 14.75,
+    "close": 14.875,
+    "volume": 1520.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.9750003815,
+    "high": 15.9499998093,
+    "low": 14.9750003815,
+    "close": 15.3000001907,
+    "volume": 5404.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.8000001907,
+    "high": 15.6000003815,
+    "low": 14.5,
+    "close": 14.75,
+    "volume": 3712.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.0,
+    "high": 15.0,
+    "low": 14.0,
+    "close": 14.125,
+    "volume": 5604.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.1750001907,
+    "high": 16.0249996185,
+    "low": 14.1750001907,
+    "close": 14.75,
+    "volume": 4244.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.0,
+    "high": 15.625,
+    "low": 14.75,
+    "close": 15.0500001907,
+    "volume": 2196.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5500001907,
+    "high": 15.5500001907,
+    "low": 13.8999996185,
+    "close": 14.5,
+    "volume": 5080.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.0,
+    "high": 15.75,
+    "low": 14.1499996185,
+    "close": 15.0,
+    "volume": 6416.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.0,
+    "high": 15.5,
+    "low": 14.875,
+    "close": 14.875,
+    "volume": 5508.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.5,
+    "high": 15.75,
+    "low": 14.5,
+    "close": 15.75,
+    "volume": 3712.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.2749996185,
+    "high": 16.5750007629,
+    "low": 15.0,
+    "close": 15.0,
+    "volume": 20608.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.4499998093,
+    "high": 16.75,
+    "low": 15.0,
+    "close": 15.5749998093,
+    "volume": 4920.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5,
+    "high": 16.0750007629,
+    "low": 14.5,
+    "close": 15.5,
+    "volume": 10380.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5749998093,
+    "high": 16.5,
+    "low": 15.5,
+    "close": 16.5,
+    "volume": 5736.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.5,
+    "high": 16.6499996185,
+    "low": 15.7749996185,
+    "close": 16.6499996185,
+    "volume": 2192.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.75,
+    "high": 16.75,
+    "low": 15.25,
+    "close": 16.0249996185,
+    "volume": 2220.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.75,
+    "high": 15.9499998093,
+    "low": 14.6499996185,
+    "close": 15.1750001907,
+    "volume": 6288.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,12,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.1750001907,
+    "high": 15.5,
+    "low": 14.5,
+    "close": 15.125,
+    "volume": 12668.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.25,
+    "high": 15.7250003815,
+    "low": 14.25,
+    "close": 15.25,
+    "volume": 11292.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.6999998093,
+    "high": 15.75,
+    "low": 14.6999998093,
+    "close": 15.625,
+    "volume": 3452.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.375,
+    "high": 15.875,
+    "low": 15.0,
+    "close": 15.1999998093,
+    "volume": 4236.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,12,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.2250003815,
+    "high": 15.875,
+    "low": 15.2250003815,
+    "close": 15.6999998093,
+    "volume": 3740.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5,
+    "high": 16.5,
+    "low": 15.5,
+    "close": 16.375,
+    "volume": 7684.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.5,
+    "high": 16.5,
+    "low": 14.0,
+    "close": 15.25,
+    "volume": 5728.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.25,
+    "high": 16.4500007629,
+    "low": 15.0,
+    "close": 15.5,
+    "volume": 195668.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.0,
+    "high": 17.25,
+    "low": 14.5249996185,
+    "close": 15.875,
+    "volume": 121300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5,
+    "high": 17.0,
+    "low": 15.0249996185,
+    "close": 16.5750007629,
+    "volume": 28120.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.875,
+    "high": 18.2000007629,
+    "low": 15.5,
+    "close": 17.8500003815,
+    "volume": 26752.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.3999996185,
+    "high": 20.5,
+    "low": 16.8250007629,
+    "close": 19.5,
+    "volume": 48092.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.6749992371,
+    "high": 20.375,
+    "low": 17.9500007629,
+    "close": 18.0,
+    "volume": 11052.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.0,
+    "high": 18.5,
+    "low": 17.25,
+    "close": 17.875,
+    "volume": 5244.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.5,
+    "high": 17.75,
+    "low": 16.5,
+    "close": 16.8250007629,
+    "volume": 9332.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.5,
+    "high": 18.0,
+    "low": 16.0,
+    "close": 17.6000003815,
+    "volume": 14364.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.7999992371,
+    "high": 20.0,
+    "low": 17.2749996185,
+    "close": 17.6749992371,
+    "volume": 9124.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.75,
+    "high": 18.25,
+    "low": 16.5249996185,
+    "close": 18.0,
+    "volume": 23384.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.25,
+    "high": 19.4750003815,
+    "low": 18.25,
+    "close": 18.75,
+    "volume": 20476.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.5,
+    "high": 19.5,
+    "low": 17.7749996185,
+    "close": 18.2250003815,
+    "volume": 7696.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.0249996185,
+    "high": 18.2250003815,
+    "low": 17.0249996185,
+    "close": 17.875,
+    "volume": 24332.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.9750003815,
+    "high": 18.25,
+    "low": 16.7999992371,
+    "close": 17.2000007629,
+    "volume": 9360.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,01,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.2999992371,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 17.0249996185,
+    "volume": 6520.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,01,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.75,
+    "high": 17.5,
+    "low": 16.75,
+    "close": 17.125,
+    "volume": 3764.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.7250003815,
+    "high": 17.25,
+    "low": 15.8249998093,
+    "close": 16.8999996185,
+    "volume": 7004.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.25,
+    "high": 16.9500007629,
+    "low": 15.5249996185,
+    "close": 16.5,
+    "volume": 3820.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.0750007629,
+    "high": 17.375,
+    "low": 15.7749996185,
+    "close": 16.4750003815,
+    "volume": 3984.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.0,
+    "high": 16.75,
+    "low": 15.625,
+    "close": 16.0,
+    "volume": 2900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.0,
+    "high": 16.25,
+    "low": 15.2749996185,
+    "close": 15.6999998093,
+    "volume": 5912.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.75,
+    "high": 16.25,
+    "low": 15.0500001907,
+    "close": 15.8249998093,
+    "volume": 5444.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.125,
+    "high": 17.25,
+    "low": 15.125,
+    "close": 16.75,
+    "volume": 22120.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.875,
+    "high": 17.4750003815,
+    "low": 16.2749996185,
+    "close": 17.25,
+    "volume": 5300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.5,
+    "high": 17.0750007629,
+    "low": 15.2749996185,
+    "close": 16.0499992371,
+    "volume": 7744.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.75,
+    "high": 16.625,
+    "low": 15.25,
+    "close": 15.3000001907,
+    "volume": 14020.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5,
+    "high": 16.4249992371,
+    "low": 15.5,
+    "close": 15.8999996185,
+    "volume": 4408.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5,
+    "high": 16.6749992371,
+    "low": 15.125,
+    "close": 15.5249996185,
+    "volume": 7284.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.2749996185,
+    "high": 16.1000003815,
+    "low": 14.0249996185,
+    "close": 15.0,
+    "volume": 15972.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.5,
+    "high": 15.6999998093,
+    "low": 14.375,
+    "close": 14.9750003815,
+    "volume": 6072.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.7749996185,
+    "high": 15.6499996185,
+    "low": 14.7749996185,
+    "close": 15.375,
+    "volume": 3660.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.625,
+    "high": 16.25,
+    "low": 15.0249996185,
+    "close": 15.2749996185,
+    "volume": 7356.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.75,
+    "high": 15.75,
+    "low": 15.0500001907,
+    "close": 15.5,
+    "volume": 5932.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.7250003815,
+    "high": 17.25,
+    "low": 15.6000003815,
+    "close": 16.1749992371,
+    "volume": 11788.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,02,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.25,
+    "high": 17.25,
+    "low": 15.0749998093,
+    "close": 15.4499998093,
+    "volume": 7472.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.25,
+    "high": 17.6749992371,
+    "low": 16.0,
+    "close": 17.2999992371,
+    "volume": 15508.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 17.0,
+    "volume": 6344.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.2250003815,
+    "high": 17.75,
+    "low": 16.5750007629,
+    "close": 17.5249996185,
+    "volume": 8724.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.7250003815,
+    "high": 17.75,
+    "low": 16.6749992371,
+    "close": 17.4750003815,
+    "volume": 6312.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.2250003815,
+    "high": 17.5,
+    "low": 16.1749992371,
+    "close": 17.5,
+    "volume": 9368.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.2250003815,
+    "high": 17.5,
+    "low": 16.1749992371,
+    "close": 16.4500007629,
+    "volume": 5120.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.625,
+    "high": 17.0750007629,
+    "low": 16.0,
+    "close": 16.6000003815,
+    "volume": 2484.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.75,
+    "high": 16.875,
+    "low": 15.75,
+    "close": 16.625,
+    "volume": 2768.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.5,
+    "high": 17.75,
+    "low": 16.3250007629,
+    "close": 17.0,
+    "volume": 8028.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.25,
+    "high": 17.75,
+    "low": 16.5,
+    "close": 17.5249996185,
+    "volume": 5984.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.5,
+    "high": 19.5499992371,
+    "low": 16.875,
+    "close": 18.0,
+    "volume": 21724.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.5,
+    "high": 21.2250003815,
+    "low": 17.0,
+    "close": 20.5,
+    "volume": 51480.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.5,
+    "high": 23.0,
+    "low": 20.0,
+    "close": 21.75,
+    "volume": 35700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.5,
+    "high": 22.0,
+    "low": 19.625,
+    "close": 20.125,
+    "volume": 17112.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.25,
+    "high": 22.875,
+    "low": 19.5,
+    "close": 22.2749996185,
+    "volume": 15648.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.25,
+    "high": 22.5,
+    "low": 19.25,
+    "close": 21.2250003815,
+    "volume": 14384.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.375,
+    "high": 23.5,
+    "low": 21.0249996185,
+    "close": 21.75,
+    "volume": 15104.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.75,
+    "high": 22.125,
+    "low": 18.8999996185,
+    "close": 19.75,
+    "volume": 10364.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.75,
+    "high": 20.375,
+    "low": 18.3999996185,
+    "close": 20.1749992371,
+    "volume": 13104.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.25,
+    "high": 20.75,
+    "low": 18.7749996185,
+    "close": 18.7749996185,
+    "volume": 8060.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,03,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.5,
+    "high": 19.6000003815,
+    "low": 18.1749992371,
+    "close": 19.4249992371,
+    "volume": 10388.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.75,
+    "high": 20.5,
+    "low": 18.75,
+    "close": 20.4500007629,
+    "volume": 3716.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.5,
+    "high": 20.5,
+    "low": 19.2999992371,
+    "close": 19.2999992371,
+    "volume": 2508.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.4750003815,
+    "high": 20.375,
+    "low": 18.9249992371,
+    "close": 19.0,
+    "volume": 6424.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,03,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.25,
+    "high": 20.0,
+    "low": 19.25,
+    "close": 19.7250003815,
+    "volume": 2012.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.0,
+    "high": 19.7250003815,
+    "low": 18.7749996185,
+    "close": 19.1499996185,
+    "volume": 2720.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,03,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.1499996185,
+    "high": 19.75,
+    "low": 18.6000003815,
+    "close": 19.6000003815,
+    "volume": 2712.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.5249996185,
+    "high": 19.5249996185,
+    "low": 18.5,
+    "close": 18.5499992371,
+    "volume": 5064.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,03,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.5499992371,
+    "high": 19.25,
+    "low": 18.5249996185,
+    "close": 18.875,
+    "volume": 1556.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.9750003815,
+    "high": 21.0499992371,
+    "low": 18.5,
+    "close": 19.5,
+    "volume": 30716.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.375,
+    "high": 20.5,
+    "low": 19.375,
+    "close": 19.5,
+    "volume": 5172.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.0,
+    "high": 20.25,
+    "low": 18.5,
+    "close": 18.625,
+    "volume": 6524.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,04,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.5,
+    "high": 19.5,
+    "low": 18.5,
+    "close": 19.125,
+    "volume": 3600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.75,
+    "high": 19.5,
+    "low": 18.2000007629,
+    "close": 18.2999992371,
+    "volume": 4996.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.2000007629,
+    "high": 19.375,
+    "low": 18.2000007629,
+    "close": 18.25,
+    "volume": 3168.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.2000007629,
+    "high": 19.75,
+    "low": 17.75,
+    "close": 19.0,
+    "volume": 12704.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.7000007629,
+    "high": 19.7000007629,
+    "low": 15.0,
+    "close": 17.7749996185,
+    "volume": 15872.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,04,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.7999992371,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 17.8500003815,
+    "volume": 2688.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.75,
+    "high": 17.75,
+    "low": 16.3500003815,
+    "close": 17.0,
+    "volume": 6964.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.0,
+    "high": 18.375,
+    "low": 16.5,
+    "close": 17.5,
+    "volume": 3888.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.875,
+    "high": 18.125,
+    "low": 17.0,
+    "close": 17.0249996185,
+    "volume": 9376.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.0,
+    "high": 17.25,
+    "low": 15.9250001907,
+    "close": 17.1749992371,
+    "volume": 4488.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.9249992371,
+    "high": 17.1749992371,
+    "low": 16.0,
+    "close": 17.1749992371,
+    "volume": 1136.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.5,
+    "high": 17.1499996185,
+    "low": 16.2749996185,
+    "close": 16.8500003815,
+    "volume": 2408.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.375,
+    "high": 18.0,
+    "low": 16.375,
+    "close": 18.0,
+    "volume": 4296.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.5,
+    "high": 17.9249992371,
+    "low": 17.0249996185,
+    "close": 17.0499992371,
+    "volume": 3064.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.25,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 17.0249996185,
+    "volume": 2456.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.875,
+    "high": 17.6000003815,
+    "low": 16.875,
+    "close": 17.5249996185,
+    "volume": 4280.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.5,
+    "high": 17.75,
+    "low": 16.25,
+    "close": 16.7749996185,
+    "volume": 3024.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.5,
+    "high": 17.5,
+    "low": 16.3250007629,
+    "close": 16.7250003815,
+    "volume": 1052.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.9249992371,
+    "high": 17.6749992371,
+    "low": 16.3250007629,
+    "close": 17.625,
+    "volume": 4776.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 16.75,
+    "close": 17.5499992371,
+    "volume": 3868.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.5,
+    "high": 17.5,
+    "low": 16.3999996185,
+    "close": 16.8999996185,
+    "volume": 5800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.875,
+    "high": 17.3500003815,
+    "low": 16.5,
+    "close": 17.0,
+    "volume": 1888.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.25,
+    "high": 18.2999992371,
+    "low": 17.0,
+    "close": 17.9249992371,
+    "volume": 11936.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,05,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.2749996185,
+    "high": 18.5,
+    "low": 17.5,
+    "close": 17.5,
+    "volume": 996.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.2000007629,
+    "high": 18.2000007629,
+    "low": 17.5,
+    "close": 17.75,
+    "volume": 4144.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,05,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.75,
+    "high": 18.5,
+    "low": 17.5750007629,
+    "close": 17.75,
+    "volume": 4736.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.75,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 17.625,
+    "volume": 2676.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.25,
+    "high": 17.8500003815,
+    "low": 17.1499996185,
+    "close": 17.5,
+    "volume": 488.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.2999992371,
+    "high": 17.875,
+    "low": 16.875,
+    "close": 17.0,
+    "volume": 3476.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,05,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.0,
+    "high": 17.5,
+    "low": 16.75,
+    "close": 17.0,
+    "volume": 5956.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.75,
+    "high": 17.25,
+    "low": 16.5,
+    "close": 17.0,
+    "volume": 8400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.9750003815,
+    "high": 17.0,
+    "low": 15.3000001907,
+    "close": 15.8000001907,
+    "volume": 16940.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.0,
+    "high": 16.125,
+    "low": 15.3000001907,
+    "close": 15.75,
+    "volume": 4432.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.75,
+    "high": 15.75,
+    "low": 15.3999996185,
+    "close": 15.5249996185,
+    "volume": 1764.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5249996185,
+    "high": 16.125,
+    "low": 15.5,
+    "close": 15.8999996185,
+    "volume": 2840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.75,
+    "high": 16.0,
+    "low": 15.3000001907,
+    "close": 15.3249998093,
+    "volume": 2984.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.8249998093,
+    "high": 16.125,
+    "low": 15.25,
+    "close": 15.4499998093,
+    "volume": 3428.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.25,
+    "high": 16.0,
+    "low": 15.25,
+    "close": 15.625,
+    "volume": 4052.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.6499996185,
+    "high": 15.875,
+    "low": 15.3000001907,
+    "close": 15.75,
+    "volume": 4020.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5,
+    "high": 15.6999998093,
+    "low": 15.3249998093,
+    "close": 15.5749998093,
+    "volume": 2148.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.3249998093,
+    "high": 15.5500001907,
+    "low": 15.0500001907,
+    "close": 15.125,
+    "volume": 5220.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5249996185,
+    "high": 15.5249996185,
+    "low": 15.0749998093,
+    "close": 15.25,
+    "volume": 5652.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5249996185,
+    "high": 15.5249996185,
+    "low": 15.0,
+    "close": 15.1999998093,
+    "volume": 2876.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.0249996185,
+    "high": 15.5,
+    "low": 15.0,
+    "close": 15.4750003815,
+    "volume": 5320.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.5,
+    "high": 15.5,
+    "low": 12.7250003815,
+    "close": 13.375,
+    "volume": 48072.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.5,
+    "high": 15.0,
+    "low": 12.9499998093,
+    "close": 13.8249998093,
+    "volume": 14424.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.75,
+    "high": 14.1750001907,
+    "low": 13.25,
+    "close": 13.4250001907,
+    "volume": 8464.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.0249996185,
+    "high": 13.75,
+    "low": 12.5500001907,
+    "close": 12.875,
+    "volume": 23832.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.1499996185,
+    "high": 13.75,
+    "low": 13.0,
+    "close": 13.5,
+    "volume": 4656.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.5,
+    "high": 14.0,
+    "low": 13.125,
+    "close": 13.3000001907,
+    "volume": 3256.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.5,
+    "high": 14.1750001907,
+    "low": 13.25,
+    "close": 13.25,
+    "volume": 964.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.125,
+    "high": 13.75,
+    "low": 13.0,
+    "close": 13.625,
+    "volume": 2600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.75,
+    "high": 14.0,
+    "low": 13.0249996185,
+    "close": 13.25,
+    "volume": 1272.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.5,
+    "high": 13.5,
+    "low": 12.5749998093,
+    "close": 12.625,
+    "volume": 2732.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.625,
+    "high": 13.1000003815,
+    "low": 12.125,
+    "close": 12.2749996185,
+    "volume": 9484.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.2749996185,
+    "high": 12.75,
+    "low": 11.8000001907,
+    "close": 12.2749996185,
+    "volume": 10744.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.75,
+    "high": 12.75,
+    "low": 12.0,
+    "close": 12.4499998093,
+    "volume": 5084.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.6000003815,
+    "high": 13.75,
+    "low": 12.6000003815,
+    "close": 13.125,
+    "volume": 6272.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.25,
+    "high": 13.5500001907,
+    "low": 12.2749996185,
+    "close": 12.2749996185,
+    "volume": 5964.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.5,
+    "high": 12.7250003815,
+    "low": 12.25,
+    "close": 12.25,
+    "volume": 1468.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.0249996185,
+    "high": 13.0,
+    "low": 12.0249996185,
+    "close": 12.5749998093,
+    "volume": 2356.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.25,
+    "high": 12.75,
+    "low": 11.8500003815,
+    "close": 11.8500003815,
+    "volume": 5660.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.7749996185,
+    "high": 12.5,
+    "low": 11.6000003815,
+    "close": 11.6499996185,
+    "volume": 6904.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.5,
+    "high": 12.5,
+    "low": 11.5,
+    "close": 11.5500001907,
+    "volume": 2360.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.8000001907,
+    "high": 13.5,
+    "low": 11.6499996185,
+    "close": 12.6750001907,
+    "volume": 8608.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.375,
+    "high": 13.375,
+    "low": 12.25,
+    "close": 12.3999996185,
+    "volume": 4980.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.4499998093,
+    "high": 13.375,
+    "low": 12.1999998093,
+    "close": 12.6999998093,
+    "volume": 7624.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.0749998093,
+    "high": 13.1000003815,
+    "low": 12.6499996185,
+    "close": 12.6499996185,
+    "volume": 3600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.0,
+    "high": 13.0,
+    "low": 12.5,
+    "close": 12.5249996185,
+    "volume": 3260.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.125,
+    "high": 13.4750003815,
+    "low": 12.875,
+    "close": 12.875,
+    "volume": 9304.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,07,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.3500003815,
+    "high": 14.0,
+    "low": 13.0500001907,
+    "close": 13.625,
+    "volume": 4736.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.5,
+    "high": 16.0750007629,
+    "low": 13.5,
+    "close": 14.7749996185,
+    "volume": 19448.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.75,
+    "high": 15.5,
+    "low": 13.75,
+    "close": 14.25,
+    "volume": 5404.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.5,
+    "high": 15.1499996185,
+    "low": 13.875,
+    "close": 14.1750001907,
+    "volume": 3164.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.25,
+    "high": 14.75,
+    "low": 13.875,
+    "close": 14.4750003815,
+    "volume": 4224.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.5,
+    "high": 14.625,
+    "low": 13.7250003815,
+    "close": 13.8999996185,
+    "volume": 3716.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.6750001907,
+    "high": 14.4499998093,
+    "low": 12.6750001907,
+    "close": 13.25,
+    "volume": 12764.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,07,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.375,
+    "high": 14.7250003815,
+    "low": 13.375,
+    "close": 13.6499996185,
+    "volume": 1736.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.9250001907,
+    "high": 14.6999998093,
+    "low": 13.75,
+    "close": 13.875,
+    "volume": 6556.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.0500001907,
+    "high": 14.5,
+    "low": 13.75,
+    "close": 14.0,
+    "volume": 4556.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.4250001907,
+    "high": 14.6750001907,
+    "low": 14.0,
+    "close": 14.3249998093,
+    "volume": 2364.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.25,
+    "high": 14.625,
+    "low": 14.0,
+    "close": 14.0,
+    "volume": 4968.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.25,
+    "high": 14.4499998093,
+    "low": 13.8999996185,
+    "close": 14.0249996185,
+    "volume": 1992.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.875,
+    "high": 14.4750003815,
+    "low": 13.75,
+    "close": 14.1000003815,
+    "volume": 4920.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.75,
+    "high": 14.3000001907,
+    "low": 13.75,
+    "close": 13.7749996185,
+    "volume": 4036.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.75,
+    "high": 14.0,
+    "low": 12.9750003815,
+    "close": 13.1000003815,
+    "volume": 5372.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,08,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.1499996185,
+    "high": 12.8000001907,
+    "low": 12.0,
+    "close": 12.5,
+    "volume": 5448.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.2749996185,
+    "high": 13.1750001907,
+    "low": 11.7749996185,
+    "close": 12.1999998093,
+    "volume": 6132.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.1999998093,
+    "high": 12.6999998093,
+    "low": 11.7749996185,
+    "close": 12.0,
+    "volume": 4688.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.1999998093,
+    "high": 12.5249996185,
+    "low": 11.625,
+    "close": 12.125,
+    "volume": 8252.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.1499996185,
+    "high": 13.1750001907,
+    "low": 12.1499996185,
+    "close": 13.0,
+    "volume": 4700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.1750001907,
+    "high": 13.25,
+    "low": 12.5,
+    "close": 12.7250003815,
+    "volume": 2492.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.0,
+    "high": 13.75,
+    "low": 13.0,
+    "close": 13.5249996185,
+    "volume": 9752.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,08,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.25,
+    "high": 13.75,
+    "low": 13.0500001907,
+    "close": 13.5,
+    "volume": 2444.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.5,
+    "high": 14.5500001907,
+    "low": 13.1750001907,
+    "close": 14.0749998093,
+    "volume": 7384.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.6750001907,
+    "high": 14.75,
+    "low": 14.1750001907,
+    "close": 14.5,
+    "volume": 2468.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.3249998093,
+    "high": 15.125,
+    "low": 12.8500003815,
+    "close": 14.0,
+    "volume": 17280.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.125,
+    "high": 14.75,
+    "low": 14.0,
+    "close": 14.5500001907,
+    "volume": 2432.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.6750001907,
+    "high": 14.875,
+    "low": 13.8000001907,
+    "close": 14.875,
+    "volume": 2608.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.875,
+    "high": 14.875,
+    "low": 13.8249998093,
+    "close": 13.8249998093,
+    "volume": 4456.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.1499996185,
+    "high": 14.375,
+    "low": 13.0249996185,
+    "close": 13.5,
+    "volume": 4876.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,08,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.25,
+    "high": 14.25,
+    "low": 13.5,
+    "close": 13.8249998093,
+    "volume": 1072.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.5749998093,
+    "high": 14.2250003815,
+    "low": 13.5749998093,
+    "close": 13.9250001907,
+    "volume": 4736.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.7749996185,
+    "high": 14.2250003815,
+    "low": 12.5,
+    "close": 13.0,
+    "volume": 56436.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,08,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.25,
+    "high": 14.4750003815,
+    "low": 11.5,
+    "close": 12.125,
+    "volume": 243048.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.6700000763,
+    "high": 13.6800003052,
+    "low": 11.6499996185,
+    "close": 11.9499998093,
+    "volume": 130400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.2600002289,
+    "high": 11.7100000381,
+    "low": 10.6099996567,
+    "close": 11.1000003815,
+    "volume": 120900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 10.8800001144,
+    "high": 11.8850002289,
+    "low": 10.6800003052,
+    "close": 11.5699996948,
+    "volume": 94100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.4600000381,
+    "high": 11.8900003433,
+    "low": 11.359000206,
+    "close": 11.4940004349,
+    "volume": 40600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.4200000763,
+    "high": 11.6999998093,
+    "low": 10.8500003815,
+    "close": 11.1599998474,
+    "volume": 38800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.1199998856,
+    "high": 11.5900001526,
+    "low": 11.0200004578,
+    "close": 11.4300003052,
+    "volume": 30400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.3900003433,
+    "high": 11.8999996185,
+    "low": 11.3900003433,
+    "close": 11.7849998474,
+    "volume": 30000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.75,
+    "high": 13.3299999237,
+    "low": 11.75,
+    "close": 13.1199998856,
+    "volume": 48400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.029999733,
+    "high": 14.3199996948,
+    "low": 13.029999733,
+    "close": 14.1499996185,
+    "volume": 55700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 14.3199996948,
+    "high": 14.8199996948,
+    "low": 12.8000001907,
+    "close": 12.9300003052,
+    "volume": 119900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.8500003815,
+    "high": 12.8999996185,
+    "low": 12.3599996567,
+    "close": 12.7600002289,
+    "volume": 48200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.7600002289,
+    "high": 14.3629999161,
+    "low": 12.7600002289,
+    "close": 14.0900001526,
+    "volume": 84500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.9399995804,
+    "high": 14.5600004196,
+    "low": 13.6000003815,
+    "close": 13.7299995422,
+    "volume": 32500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.7399997711,
+    "high": 14.25,
+    "low": 13.5,
+    "close": 13.8000001907,
+    "volume": 24700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.8500003815,
+    "high": 14.1219997406,
+    "low": 13.1999998093,
+    "close": 13.2600002289,
+    "volume": 24900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.25,
+    "high": 13.2700004578,
+    "low": 12.0,
+    "close": 12.0200004578,
+    "volume": 56800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,09,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.029999733,
+    "high": 12.3100004196,
+    "low": 11.5,
+    "close": 11.7399997711,
+    "volume": 40600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.75,
+    "high": 12.1400003433,
+    "low": 11.3999996185,
+    "close": 11.5699996948,
+    "volume": 39600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.6000003815,
+    "high": 12.1499996185,
+    "low": 11.529999733,
+    "close": 11.6300001144,
+    "volume": 11600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.7100000381,
+    "high": 12.2220001221,
+    "low": 11.6400003433,
+    "close": 11.7100000381,
+    "volume": 16400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.6300001144,
+    "high": 12.3999996185,
+    "low": 11.6300001144,
+    "close": 12.1499996185,
+    "volume": 61400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.7650003433,
+    "high": 11.779999733,
+    "low": 11.3999996185,
+    "close": 11.6700000763,
+    "volume": 20400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.529999733,
+    "high": 11.7399997711,
+    "low": 11.2899999619,
+    "close": 11.3999996185,
+    "volume": 12800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.4899997711,
+    "high": 11.8500003815,
+    "low": 11.4200000763,
+    "close": 11.8400001526,
+    "volume": 6900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.0,
+    "high": 12.0900001526,
+    "low": 11.3999996185,
+    "close": 11.6800003052,
+    "volume": 11600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 9.3000001907,
+    "high": 9.3000001907,
+    "low": 8.2399997711,
+    "close": 8.4650001526,
+    "volume": 236200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 8.4600000381,
+    "high": 8.4600000381,
+    "low": 7.25,
+    "close": 7.4899997711,
+    "volume": 122100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.5100002289,
+    "high": 7.5100002289,
+    "low": 7.0199999809,
+    "close": 7.1599998474,
+    "volume": 26100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.0799999237,
+    "high": 7.2699999809,
+    "low": 6.6799998283,
+    "close": 6.9200000763,
+    "volume": 63700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.9400000572,
+    "high": 7.5,
+    "low": 6.8099999428,
+    "close": 7.2699999809,
+    "volume": 68100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.1700000763,
+    "high": 7.3920001984,
+    "low": 6.8099999428,
+    "close": 7.0500001907,
+    "volume": 30900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.1100001335,
+    "high": 7.1100001335,
+    "low": 6.6100001335,
+    "close": 6.7300000191,
+    "volume": 23600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.7100000381,
+    "high": 7.0,
+    "low": 6.6199998856,
+    "close": 6.7100000381,
+    "volume": 12000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.6999998093,
+    "high": 6.9400000572,
+    "low": 6.5,
+    "close": 6.7300000191,
+    "volume": 21300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.9400000572,
+    "high": 7.1199998856,
+    "low": 6.9400000572,
+    "close": 7.1199998856,
+    "volume": 23900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.0799999237,
+    "high": 7.0799999237,
+    "low": 6.8400001526,
+    "close": 7.0300002098,
+    "volume": 8200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.7699999809,
+    "high": 7.0,
+    "low": 6.7699999809,
+    "close": 6.8600001335,
+    "volume": 6700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.8000001907,
+    "high": 7.0,
+    "low": 6.8000001907,
+    "close": 6.8550000191,
+    "volume": 21600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.8800001144,
+    "high": 7.25,
+    "low": 6.8099999428,
+    "close": 7.25,
+    "volume": 16900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.25,
+    "high": 7.3200001717,
+    "low": 7.0900001526,
+    "close": 7.2699999809,
+    "volume": 9000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.3400001526,
+    "high": 7.4000000954,
+    "low": 7.2600002289,
+    "close": 7.2600002289,
+    "volume": 7200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.2600002289,
+    "high": 7.3000001907,
+    "low": 7.0599999428,
+    "close": 7.0799999237,
+    "volume": 5900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.1999998093,
+    "high": 7.5900001526,
+    "low": 7.0999999046,
+    "close": 7.3099999428,
+    "volume": 32900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.3200001717,
+    "high": 7.3299999237,
+    "low": 6.8000001907,
+    "close": 6.8499999046,
+    "volume": 6800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.8899998665,
+    "high": 7.1020002365,
+    "low": 6.6599998474,
+    "close": 6.75,
+    "volume": 16000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.75,
+    "high": 7.0500001907,
+    "low": 6.5500001907,
+    "close": 6.7300000191,
+    "volume": 68000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.7800002098,
+    "high": 7.1399998665,
+    "low": 6.7800002098,
+    "close": 6.8600001335,
+    "volume": 13800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.9200000763,
+    "high": 7.2899999619,
+    "low": 6.8499999046,
+    "close": 6.9899997711,
+    "volume": 39500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.1050000191,
+    "high": 7.2600002289,
+    "low": 6.9800000191,
+    "close": 7.2600002289,
+    "volume": 17700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.0999999046,
+    "high": 7.0999999046,
+    "low": 6.8499999046,
+    "close": 7.0900001526,
+    "volume": 11800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.9670000076,
+    "high": 7.0900001526,
+    "low": 6.9670000076,
+    "close": 7.0799999237,
+    "volume": 6400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.0500001907,
+    "high": 7.0500001907,
+    "low": 6.8099999428,
+    "close": 7.0,
+    "volume": 12000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.8880000114,
+    "high": 6.8899998665,
+    "low": 6.6900000572,
+    "close": 6.8899998665,
+    "volume": 4200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.7800002098,
+    "high": 6.9400000572,
+    "low": 6.7800002098,
+    "close": 6.9200000763,
+    "volume": 3400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.7600002289,
+    "high": 6.7600002289,
+    "low": 6.3550000191,
+    "close": 6.3550000191,
+    "volume": 9100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.2199997902,
+    "high": 6.5,
+    "low": 5.6220002174,
+    "close": 6.0300002098,
+    "volume": 48400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.992000103,
+    "high": 6.2600002289,
+    "low": 5.7800002098,
+    "close": 5.9000000954,
+    "volume": 14400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.0199999809,
+    "high": 6.0199999809,
+    "low": 5.7699999809,
+    "close": 5.8099999428,
+    "volume": 2800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.8439998627,
+    "high": 6.0170001984,
+    "low": 5.75,
+    "close": 5.8449997902,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.9400000572,
+    "high": 6.1900000572,
+    "low": 5.5199999809,
+    "close": 5.6199998856,
+    "volume": 37000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.75,
+    "high": 5.9499998093,
+    "low": 5.7100000381,
+    "close": 5.7300000191,
+    "volume": 20300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.8550000191,
+    "high": 5.8550000191,
+    "low": 5.5100002289,
+    "close": 5.5500001907,
+    "volume": 13300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.6500000954,
+    "high": 5.9800000191,
+    "low": 5.5100002289,
+    "close": 5.5100002289,
+    "volume": 12100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.5100002289,
+    "high": 5.7800002098,
+    "low": 5.3000001907,
+    "close": 5.3000001907,
+    "volume": 29100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.6599998474,
+    "high": 5.8299999237,
+    "low": 5.3499999046,
+    "close": 5.6700000763,
+    "volume": 38400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.6999998093,
+    "high": 6.1119999886,
+    "low": 5.6999998093,
+    "close": 5.7600002289,
+    "volume": 8200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.8499999046,
+    "high": 6.1799998283,
+    "low": 5.6199998856,
+    "close": 5.7600002289,
+    "volume": 21700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.8699998856,
+    "high": 5.9800000191,
+    "low": 5.6500000954,
+    "close": 5.6599998474,
+    "volume": 10500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.8000001907,
+    "high": 5.8099999428,
+    "low": 5.6199998856,
+    "close": 5.6199998856,
+    "volume": 10500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.6300001144,
+    "high": 5.8699998856,
+    "low": 5.5,
+    "close": 5.5300002098,
+    "volume": 29700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.6799998283,
+    "high": 5.6799998283,
+    "low": 5.6199998856,
+    "close": 5.6599998474,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.7399997711,
+    "high": 5.7399997711,
+    "low": 5.2600002289,
+    "close": 5.3699998856,
+    "volume": 22600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.3000001907,
+    "high": 5.5380001068,
+    "low": 5.2199997902,
+    "close": 5.3299999237,
+    "volume": 33800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.1799998283,
+    "high": 5.25,
+    "low": 5.0799999237,
+    "close": 5.0799999237,
+    "volume": 11200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.1700000763,
+    "high": 5.3569998741,
+    "low": 5.0199999809,
+    "close": 5.1849999428,
+    "volume": 8200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.1799998283,
+    "high": 5.3200001717,
+    "low": 4.8499999046,
+    "close": 5.2399997711,
+    "volume": 18400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.3400001526,
+    "high": 5.4149999619,
+    "low": 4.7800002098,
+    "close": 4.7899999619,
+    "volume": 20900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.8699998856,
+    "high": 5.0819997787,
+    "low": 4.4010000229,
+    "close": 4.6599998474,
+    "volume": 42600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.6999998093,
+    "high": 4.8600001335,
+    "low": 4.6599998474,
+    "close": 4.6999998093,
+    "volume": 16800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.7100000381,
+    "high": 4.9000000954,
+    "low": 4.7100000381,
+    "close": 4.7210001945,
+    "volume": 11700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.75,
+    "high": 4.8600001335,
+    "low": 4.7399997711,
+    "close": 4.8600001335,
+    "volume": 5000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.75,
+    "high": 5.4200000763,
+    "low": 4.748000145,
+    "close": 5.4200000763,
+    "volume": 18500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.4499998093,
+    "high": 5.4499998093,
+    "low": 5.0110001564,
+    "close": 5.1500000954,
+    "volume": 25000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.1100001335,
+    "high": 5.1100001335,
+    "low": 4.5999999046,
+    "close": 4.5999999046,
+    "volume": 29200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.5999999046,
+    "high": 4.8899998665,
+    "low": 4.5999999046,
+    "close": 4.6500000954,
+    "volume": 16000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.7800002098,
+    "high": 5.75,
+    "low": 4.6999998093,
+    "close": 5.6999998093,
+    "volume": 49600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.75,
+    "high": 5.8550000191,
+    "low": 5.4739999771,
+    "close": 5.6999998093,
+    "volume": 14000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.7100000381,
+    "high": 5.9800000191,
+    "low": 5.5300002098,
+    "close": 5.5399999619,
+    "volume": 15600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.5999999046,
+    "high": 5.6430001259,
+    "low": 5.5,
+    "close": 5.5,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.390999794,
+    "high": 5.4800000191,
+    "low": 5.1510000229,
+    "close": 5.2800002098,
+    "volume": 12900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.2699999809,
+    "high": 5.3800001144,
+    "low": 5.1300001144,
+    "close": 5.1300001144,
+    "volume": 10800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.1300001144,
+    "high": 5.3099999428,
+    "low": 4.9899997711,
+    "close": 5.0900001526,
+    "volume": 8900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.0999999046,
+    "high": 5.0999999046,
+    "low": 4.6999998093,
+    "close": 4.7699999809,
+    "volume": 7600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.8499999046,
+    "high": 4.8499999046,
+    "low": 4.7100000381,
+    "close": 4.8200001717,
+    "volume": 2400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.6999998093,
+    "high": 4.6999998093,
+    "low": 4.5999999046,
+    "close": 4.6300001144,
+    "volume": 7400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.6300001144,
+    "high": 5.4590001106,
+    "low": 4.6300001144,
+    "close": 5.1290001869,
+    "volume": 72800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.5199999809,
+    "high": 5.8000001907,
+    "low": 5.0999999046,
+    "close": 5.7600002289,
+    "volume": 88900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.75,
+    "high": 5.8499999046,
+    "low": 5.4000000954,
+    "close": 5.5,
+    "volume": 19100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.5749998093,
+    "high": 5.5749998093,
+    "low": 5.25,
+    "close": 5.5,
+    "volume": 17500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.4899997711,
+    "high": 5.623000145,
+    "low": 5.3000001907,
+    "close": 5.623000145,
+    "volume": 10600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.3949999809,
+    "high": 5.5599999428,
+    "low": 5.0999999046,
+    "close": 5.1999998093,
+    "volume": 16800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.4910001755,
+    "high": 5.4910001755,
+    "low": 5.0199999809,
+    "close": 5.3000001907,
+    "volume": 2500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.25,
+    "high": 5.25,
+    "low": 5.0029997826,
+    "close": 5.0949997902,
+    "volume": 6500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,01,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.0900001526,
+    "high": 5.1199998856,
+    "low": 4.7699999809,
+    "close": 4.9299998283,
+    "volume": 12800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.0539999008,
+    "high": 5.3499999046,
+    "low": 4.9000000954,
+    "close": 4.9600000381,
+    "volume": 8100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.9380002022,
+    "high": 4.9380002022,
+    "low": 4.6999998093,
+    "close": 4.8699998856,
+    "volume": 16300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.8000001907,
+    "high": 4.9889998436,
+    "low": 4.8000001907,
+    "close": 4.9499998093,
+    "volume": 2600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.0,
+    "high": 5.1100001335,
+    "low": 4.8000001907,
+    "close": 5.0999999046,
+    "volume": 11800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.1100001335,
+    "high": 5.25,
+    "low": 4.8639998436,
+    "close": 4.9499998093,
+    "volume": 11200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.9499998093,
+    "high": 4.9499998093,
+    "low": 4.5,
+    "close": 4.5500001907,
+    "volume": 17300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.75,
+    "high": 4.9000000954,
+    "low": 4.4349999428,
+    "close": 4.4800000191,
+    "volume": 52800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.5399999619,
+    "high": 4.6100001335,
+    "low": 4.2399997711,
+    "close": 4.5549998283,
+    "volume": 24200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.4800000191,
+    "high": 4.6529998779,
+    "low": 4.4800000191,
+    "close": 4.6100001335,
+    "volume": 12500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.6399998665,
+    "high": 4.6399998665,
+    "low": 4.4850001335,
+    "close": 4.5799999237,
+    "volume": 10300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.5199999809,
+    "high": 4.8179998398,
+    "low": 4.5199999809,
+    "close": 4.7810001373,
+    "volume": 10400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.6999998093,
+    "high": 5.0,
+    "low": 4.6999998093,
+    "close": 4.8150000572,
+    "volume": 16900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.8000001907,
+    "high": 4.8189997673,
+    "low": 4.5,
+    "close": 4.8099999428,
+    "volume": 15200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.5720000267,
+    "high": 4.8400001526,
+    "low": 4.3930001259,
+    "close": 4.8400001526,
+    "volume": 24000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.6900000572,
+    "high": 4.6900000572,
+    "low": 4.5100002289,
+    "close": 4.5100002289,
+    "volume": 11100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.5199999809,
+    "high": 4.6900000572,
+    "low": 4.3200001717,
+    "close": 4.5,
+    "volume": 35600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.5,
+    "high": 4.6599998474,
+    "low": 4.3299999237,
+    "close": 4.6300001144,
+    "volume": 70100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.4299998283,
+    "high": 4.4800000191,
+    "low": 4.3299999237,
+    "close": 4.4400000572,
+    "volume": 6100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.3949999809,
+    "high": 4.4800000191,
+    "low": 4.1900000572,
+    "close": 4.1999998093,
+    "volume": 27200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.3000001907,
+    "high": 4.4450001717,
+    "low": 4.2950000763,
+    "close": 4.3800001144,
+    "volume": 17400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.4600000381,
+    "high": 4.4600000381,
+    "low": 3.8399999142,
+    "close": 4.0100002289,
+    "volume": 21300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.1890001297,
+    "high": 4.1900000572,
+    "low": 4.0120000839,
+    "close": 4.0700001717,
+    "volume": 4200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.25,
+    "high": 4.3649997711,
+    "low": 4.25,
+    "close": 4.3299999237,
+    "volume": 3400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.3800001144,
+    "high": 4.3800001144,
+    "low": 4.1399998665,
+    "close": 4.1399998665,
+    "volume": 3800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.1399998665,
+    "high": 4.2699999809,
+    "low": 4.0399999619,
+    "close": 4.0599999428,
+    "volume": 2800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.2100000381,
+    "high": 4.2399997711,
+    "low": 4.0399999619,
+    "close": 4.0399999619,
+    "volume": 5300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.0,
+    "high": 4.1599998474,
+    "low": 3.7599999905,
+    "close": 4.0100002289,
+    "volume": 41400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.9049999714,
+    "high": 4.2100000381,
+    "low": 3.9049999714,
+    "close": 4.0500001907,
+    "volume": 7400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.1399998665,
+    "high": 4.1399998665,
+    "low": 3.9600000381,
+    "close": 3.9700000286,
+    "volume": 5000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.9849998951,
+    "high": 4.2300000191,
+    "low": 3.9849998951,
+    "close": 4.0500001907,
+    "volume": 15400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.3299999237,
+    "high": 4.3299999237,
+    "low": 4.021999836,
+    "close": 4.0799999237,
+    "volume": 2800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.1599998474,
+    "high": 4.2899999619,
+    "low": 4.0700001717,
+    "close": 4.2899999619,
+    "volume": 18500.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,03,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.3699998856,
+    "high": 4.3699998856,
+    "low": 4.1999998093,
+    "close": 4.2300000191,
+    "volume": 2600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.1560001373,
+    "high": 4.1599998474,
+    "low": 4.0500001907,
+    "close": 4.1399998665,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.1449999809,
+    "high": 7.3000001907,
+    "low": 4.1449999809,
+    "close": 6.0999999046,
+    "volume": 10710900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.7100000381,
+    "high": 7.0999999046,
+    "low": 6.1799998283,
+    "close": 6.6999998093,
+    "volume": 2406600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.5999999046,
+    "high": 6.6199998856,
+    "low": 4.0,
+    "close": 4.9000000954,
+    "volume": 626200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.3299999237,
+    "high": 4.4899997711,
+    "low": 3.9100000858,
+    "close": 3.9400000572,
+    "volume": 201800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,03,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.9100000858,
+    "high": 4.0300002098,
+    "low": 3.3399999142,
+    "close": 3.4300000668,
+    "volume": 85100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2999999523,
+    "high": 3.5299999714,
+    "low": 3.0,
+    "close": 3.4200000763,
+    "volume": 65900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3900001049,
+    "high": 3.3900001049,
+    "low": 3.0999999046,
+    "close": 3.0999999046,
+    "volume": 40100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0599999428,
+    "high": 3.2599999905,
+    "low": 2.7899999619,
+    "close": 2.8199999332,
+    "volume": 49500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.8099999428,
+    "high": 3.3800001144,
+    "low": 2.8099999428,
+    "close": 3.2300000191,
+    "volume": 105800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0299999714,
+    "high": 3.1300001144,
+    "low": 2.75,
+    "close": 2.8599998951,
+    "volume": 32700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.7699999809,
+    "high": 2.7799999714,
+    "low": 2.5,
+    "close": 2.5399999619,
+    "volume": 40300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.5299999714,
+    "high": 2.8190000057,
+    "low": 2.2599999905,
+    "close": 2.5499999523,
+    "volume": 43700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.7999999523,
+    "high": 2.7999999523,
+    "low": 2.1700000763,
+    "close": 2.2400000095,
+    "volume": 43000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.2400000095,
+    "high": 2.4600000381,
+    "low": 2.0099999905,
+    "close": 2.4400000572,
+    "volume": 76400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.4300000668,
+    "high": 2.4300000668,
+    "low": 2.0599999428,
+    "close": 2.2200000286,
+    "volume": 20200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.2200000286,
+    "high": 2.3199999332,
+    "low": 2.1400001049,
+    "close": 2.3199999332,
+    "volume": 19000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.5,
+    "high": 2.5499999523,
+    "low": 2.3299999237,
+    "close": 2.4900000095,
+    "volume": 20600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.4900000095,
+    "high": 2.6300001144,
+    "low": 2.4900000095,
+    "close": 2.5699999332,
+    "volume": 8400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.5299999714,
+    "high": 2.5499999523,
+    "low": 2.3499999046,
+    "close": 2.3800001144,
+    "volume": 11700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.3800001144,
+    "high": 2.4649999142,
+    "low": 2.3800001144,
+    "close": 2.4300000668,
+    "volume": 4400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.4300000668,
+    "high": 2.4630000591,
+    "low": 2.3599998951,
+    "close": 2.4200000763,
+    "volume": 15600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.5899999142,
+    "high": 2.7999999523,
+    "low": 2.5,
+    "close": 2.6800000668,
+    "volume": 89400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.6500000954,
+    "high": 2.8619999886,
+    "low": 2.6099998951,
+    "close": 2.75,
+    "volume": 34000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.6900000572,
+    "high": 2.8499999046,
+    "low": 2.6099998951,
+    "close": 2.8499999046,
+    "volume": 14500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.8800001144,
+    "high": 3.2249999046,
+    "low": 2.8099999428,
+    "close": 2.9000000954,
+    "volume": 41700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.8499999046,
+    "high": 2.9000000954,
+    "low": 2.5899999142,
+    "close": 2.6800000668,
+    "volume": 159000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.6700000763,
+    "high": 2.7799999714,
+    "low": 2.6500000954,
+    "close": 2.6800000668,
+    "volume": 29900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.6800000668,
+    "high": 2.9500000477,
+    "low": 2.6800000668,
+    "close": 2.7999999523,
+    "volume": 19400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.9400000572,
+    "high": 3.0599999428,
+    "low": 2.8699998856,
+    "close": 3.0,
+    "volume": 45300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0299999714,
+    "high": 3.1099998951,
+    "low": 2.9300000668,
+    "close": 2.9900000095,
+    "volume": 16800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.9200000763,
+    "high": 3.0999999046,
+    "low": 2.9200000763,
+    "close": 3.0399999619,
+    "volume": 5700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.9400000572,
+    "high": 3.0899999142,
+    "low": 2.8940000534,
+    "close": 2.9800000191,
+    "volume": 6900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.9600000381,
+    "high": 2.9600000381,
+    "low": 2.7009999752,
+    "close": 2.7009999752,
+    "volume": 12100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.7300000191,
+    "high": 2.9500000477,
+    "low": 2.7290000916,
+    "close": 2.8399999142,
+    "volume": 24800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.8399999142,
+    "high": 2.8399999142,
+    "low": 2.7200000286,
+    "close": 2.7449998856,
+    "volume": 8000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.8099999428,
+    "high": 2.9000000954,
+    "low": 2.6500000954,
+    "close": 2.7699999809,
+    "volume": 21700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.8199999332,
+    "high": 2.8199999332,
+    "low": 2.6900000572,
+    "close": 2.7899999619,
+    "volume": 12300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.7899999619,
+    "high": 2.8199999332,
+    "low": 2.7049999237,
+    "close": 2.7260000706,
+    "volume": 3800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.75,
+    "high": 2.9949998856,
+    "low": 2.75,
+    "close": 2.9149999619,
+    "volume": 120800.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,05,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.9000000954,
+    "high": 3.2999999523,
+    "low": 2.7599999905,
+    "close": 2.8800001144,
+    "volume": 1123100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.7300000191,
+    "high": 3.0799999237,
+    "low": 2.6649999619,
+    "close": 3.0699999332,
+    "volume": 99200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0,
+    "high": 3.1700000763,
+    "low": 2.9049999714,
+    "close": 3.0599999428,
+    "volume": 53500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0599999428,
+    "high": 3.1489999294,
+    "low": 2.9300000668,
+    "close": 2.9600000381,
+    "volume": 16600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.9200000763,
+    "high": 3.0499999523,
+    "low": 2.7200000286,
+    "close": 2.9619998932,
+    "volume": 21900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.9000000954,
+    "high": 3.0980000496,
+    "low": 2.8619999886,
+    "close": 2.9900000095,
+    "volume": 15700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0499999523,
+    "high": 3.0999999046,
+    "low": 2.9600000381,
+    "close": 2.9800000191,
+    "volume": 6500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0299999714,
+    "high": 3.0899999142,
+    "low": 2.9200000763,
+    "close": 3.0,
+    "volume": 11700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.1500000954,
+    "high": 3.3800001144,
+    "low": 3.0769999027,
+    "close": 3.2200000286,
+    "volume": 60300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2100000381,
+    "high": 3.2100000381,
+    "low": 3.0520000458,
+    "close": 3.0699999332,
+    "volume": 12000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0899999142,
+    "high": 3.2999999523,
+    "low": 3.0899999142,
+    "close": 3.2000000477,
+    "volume": 16600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.1500000954,
+    "high": 3.3599998951,
+    "low": 3.0899999142,
+    "close": 3.2999999523,
+    "volume": 32100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2899999619,
+    "high": 3.3599998951,
+    "low": 3.1199998856,
+    "close": 3.2999999523,
+    "volume": 16200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2699999809,
+    "high": 3.4900000095,
+    "low": 3.1500000954,
+    "close": 3.2699999809,
+    "volume": 52600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2799999714,
+    "high": 3.2950000763,
+    "low": 3.0,
+    "close": 3.2899999619,
+    "volume": 28000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3199999332,
+    "high": 3.4000000954,
+    "low": 3.118999958,
+    "close": 3.2899999619,
+    "volume": 11000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2750000954,
+    "high": 3.4500000477,
+    "low": 3.2599999905,
+    "close": 3.3599998951,
+    "volume": 44300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3299999237,
+    "high": 3.4900000095,
+    "low": 3.1540000439,
+    "close": 3.3900001049,
+    "volume": 10100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3199999332,
+    "high": 3.4400000572,
+    "low": 3.2799999714,
+    "close": 3.3499999046,
+    "volume": 7600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.25,
+    "high": 3.4500000477,
+    "low": 3.2300000191,
+    "close": 3.3499999046,
+    "volume": 29500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3050000668,
+    "high": 3.3299999237,
+    "low": 3.1159999371,
+    "close": 3.3150000572,
+    "volume": 11000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.1700000763,
+    "high": 3.2790000439,
+    "low": 3.1600000858,
+    "close": 3.2200000286,
+    "volume": 4100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.1500000954,
+    "high": 3.3299999237,
+    "low": 3.0680000782,
+    "close": 3.3299999237,
+    "volume": 17300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3699998856,
+    "high": 3.4049999714,
+    "low": 3.2000000477,
+    "close": 3.3699998856,
+    "volume": 7200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2699999809,
+    "high": 3.4700000286,
+    "low": 3.2000000477,
+    "close": 3.3699998856,
+    "volume": 23900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.1900000572,
+    "high": 3.6300001144,
+    "low": 3.1900000572,
+    "close": 3.4019999504,
+    "volume": 22500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.4800000191,
+    "high": 3.5480000973,
+    "low": 3.3499999046,
+    "close": 3.4300000668,
+    "volume": 5900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.4100000858,
+    "high": 3.5,
+    "low": 3.3900001049,
+    "close": 3.5,
+    "volume": 9500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.6099998951,
+    "high": 3.6099998951,
+    "low": 3.3499999046,
+    "close": 3.4200000763,
+    "volume": 13400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0999999046,
+    "high": 3.4300000668,
+    "low": 3.0999999046,
+    "close": 3.4100000858,
+    "volume": 23900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3599998951,
+    "high": 3.6500000954,
+    "low": 3.2799999714,
+    "close": 3.4100000858,
+    "volume": 4200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.4600000381,
+    "high": 3.5399999619,
+    "low": 3.4000000954,
+    "close": 3.5399999619,
+    "volume": 7900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.4990000725,
+    "high": 3.5450000763,
+    "low": 3.4990000725,
+    "close": 3.5399999619,
+    "volume": 2200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.4400000572,
+    "high": 3.5999999046,
+    "low": 3.2400000095,
+    "close": 3.25,
+    "volume": 38100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,07,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3099999428,
+    "high": 3.4800000191,
+    "low": 3.2699999809,
+    "close": 3.3199999332,
+    "volume": 12200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.4500000477,
+    "high": 3.4900000095,
+    "low": 3.3650000095,
+    "close": 3.4000000954,
+    "volume": 9100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3299999237,
+    "high": 3.6099998951,
+    "low": 3.3199999332,
+    "close": 3.4700000286,
+    "volume": 14500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.4100000858,
+    "high": 3.8129999638,
+    "low": 3.263999939,
+    "close": 3.5350000858,
+    "volume": 48700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.5199999809,
+    "high": 4.0999999046,
+    "low": 3.5,
+    "close": 3.9000000954,
+    "volume": 101000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.8199999332,
+    "high": 4.0900001526,
+    "low": 3.5539999008,
+    "close": 3.5539999008,
+    "volume": 38900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.75,
+    "high": 3.9600000381,
+    "low": 3.5,
+    "close": 3.5,
+    "volume": 31100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.6449999809,
+    "high": 3.6559998989,
+    "low": 3.5799999237,
+    "close": 3.6500000954,
+    "volume": 5600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.7550001144,
+    "high": 3.9600000381,
+    "low": 3.4000000954,
+    "close": 3.5869998932,
+    "volume": 60100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.6199998856,
+    "high": 4.0700001717,
+    "low": 3.5950000286,
+    "close": 3.5950000286,
+    "volume": 90500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.5999999046,
+    "high": 3.7599999905,
+    "low": 3.5999999046,
+    "close": 3.6400001049,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.6400001049,
+    "high": 3.9000000954,
+    "low": 3.6199998856,
+    "close": 3.7950000763,
+    "volume": 10000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.7000000477,
+    "high": 3.8020000458,
+    "low": 3.7000000477,
+    "close": 3.8020000458,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.7999999523,
+    "high": 3.9400000572,
+    "low": 3.7400000095,
+    "close": 3.75,
+    "volume": 4300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.8310000896,
+    "high": 3.9000000954,
+    "low": 3.7599999905,
+    "close": 3.7699999809,
+    "volume": 6700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.75,
+    "high": 3.7999999523,
+    "low": 3.4639999866,
+    "close": 3.5899999142,
+    "volume": 7600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,07,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.4600000381,
+    "high": 3.4600000381,
+    "low": 3.1199998856,
+    "close": 3.3199999332,
+    "volume": 18400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2230000496,
+    "high": 3.6500000954,
+    "low": 3.0999999046,
+    "close": 3.2899999619,
+    "volume": 91800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2599999905,
+    "high": 3.2599999905,
+    "low": 3.1400001049,
+    "close": 3.2049999237,
+    "volume": 4400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3800001144,
+    "high": 3.5499999523,
+    "low": 3.3459999561,
+    "close": 3.3849999905,
+    "volume": 103000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3900001049,
+    "high": 3.4000000954,
+    "low": 3.3580000401,
+    "close": 3.4000000954,
+    "volume": 58500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2249999046,
+    "high": 3.4000000954,
+    "low": 3.2249999046,
+    "close": 3.4000000954,
+    "volume": 4500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3900001049,
+    "high": 3.3900001049,
+    "low": 3.2300000191,
+    "close": 3.2599999905,
+    "volume": 1200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2599999905,
+    "high": 3.4000000954,
+    "low": 3.2569999695,
+    "close": 3.3800001144,
+    "volume": 10000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3900001049,
+    "high": 3.3900001049,
+    "low": 3.3199999332,
+    "close": 3.3800001144,
+    "volume": 4000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3099999428,
+    "high": 3.3599998951,
+    "low": 3.2000000477,
+    "close": 3.2820000648,
+    "volume": 8400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3099999428,
+    "high": 3.4500000477,
+    "low": 3.1700000763,
+    "close": 3.3599998951,
+    "volume": 27700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.1700000763,
+    "high": 3.4400000572,
+    "low": 3.1700000763,
+    "close": 3.4330000877,
+    "volume": 13800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.4100000858,
+    "high": 3.4900000095,
+    "low": 3.3800001144,
+    "close": 3.3800001144,
+    "volume": 3800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2899999619,
+    "high": 3.5,
+    "low": 3.2899999619,
+    "close": 3.3699998856,
+    "volume": 2500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2799999714,
+    "high": 3.3699998856,
+    "low": 3.2799999714,
+    "close": 3.3699998856,
+    "volume": 2900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2599999905,
+    "high": 3.4800000191,
+    "low": 3.2599999905,
+    "close": 3.3800001144,
+    "volume": 11100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3299999237,
+    "high": 3.3800001144,
+    "low": 3.2820000648,
+    "close": 3.3800001144,
+    "volume": 6600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3900001049,
+    "high": 3.3900001049,
+    "low": 3.2999999523,
+    "close": 3.3399999142,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3399999142,
+    "high": 3.4100000858,
+    "low": 3.3199999332,
+    "close": 3.4000000954,
+    "volume": 8300.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,08,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3699998856,
+    "high": 3.4140000343,
+    "low": 3.3499999046,
+    "close": 3.3570001125,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3740000725,
+    "high": 3.4319999218,
+    "low": 3.3599998951,
+    "close": 3.3599998951,
+    "volume": 3500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.3489999771,
+    "high": 3.3489999771,
+    "low": 3.1800000668,
+    "close": 3.2200000286,
+    "volume": 6300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2200000286,
+    "high": 3.2520000935,
+    "low": 3.1449999809,
+    "close": 3.1800000668,
+    "volume": 7000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.2000000477,
+    "high": 3.2799999714,
+    "low": 3.0,
+    "close": 3.0,
+    "volume": 23100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0,
+    "high": 3.0,
+    "low": 2.9500000477,
+    "close": 2.9700000286,
+    "volume": 6700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0,
+    "high": 3.0,
+    "low": 2.9700000286,
+    "close": 3.0,
+    "volume": 5100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.0099999905,
+    "high": 3.0099999905,
+    "low": 2.9600000381,
+    "close": 3.0099999905,
+    "volume": 7300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.9800000191,
+    "high": 3.1979999542,
+    "low": 2.9010000229,
+    "close": 3.0899999142,
+    "volume": 2082800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.6500000954,
+    "high": 2.7000000477,
+    "low": 2.4500000477,
+    "close": 2.5799999237,
+    "volume": 359400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.6099998951,
+    "high": 3.9900000095,
+    "low": 2.5799999237,
+    "close": 2.9800000191,
+    "volume": 1939800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.8699998856,
+    "high": 3.3900001049,
+    "low": 2.7000000477,
+    "close": 2.7999999523,
+    "volume": 271000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.7200000286,
+    "high": 3.0899999142,
+    "low": 2.7079999447,
+    "close": 2.8699998856,
+    "volume": 108200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.5599999428,
+    "high": 2.9200000763,
+    "low": 2.5299999714,
+    "close": 2.8299999237,
+    "volume": 108400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.8199999332,
+    "high": 2.9200000763,
+    "low": 2.7239999771,
+    "close": 2.75,
+    "volume": 30900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.75,
+    "high": 2.9900000095,
+    "low": 2.7300000191,
+    "close": 2.8499999046,
+    "volume": 82200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.9400000572,
+    "high": 2.9500000477,
+    "low": 2.7999999523,
+    "close": 2.8699998856,
+    "volume": 14900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.7999999523,
+    "high": 2.9500000477,
+    "low": 2.7690000534,
+    "close": 2.8699998856,
+    "volume": 34800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 2.8699998856,
+    "high": 3.0,
+    "low": 2.8699998856,
+    "close": 3.0,
+    "volume": 18000.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,09,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.5900001526,
+    "high": 5.0199999809,
+    "low": 3.8099999428,
+    "close": 4.2199997902,
+    "volume": 54188200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.1199998856,
+    "high": 4.3099999428,
+    "low": 3.611000061,
+    "close": 4.2600002289,
+    "volume": 532500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.9100000858,
+    "high": 4.5100002289,
+    "low": 3.9059998989,
+    "close": 4.4499998093,
+    "volume": 2480100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.3299999237,
+    "high": 4.9600000381,
+    "low": 4.1900000572,
+    "close": 4.4099998474,
+    "volume": 219300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.0199999809,
+    "high": 4.1479997635,
+    "low": 3.7999999523,
+    "close": 3.7999999523,
+    "volume": 172000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.6800000668,
+    "high": 3.8550000191,
+    "low": 3.6700000763,
+    "close": 3.7200000286,
+    "volume": 103900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.6400001049,
+    "high": 3.7200000286,
+    "low": 3.5,
+    "close": 3.5199999809,
+    "volume": 71000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.5,
+    "high": 4.1300001144,
+    "low": 3.5,
+    "close": 3.9500000477,
+    "volume": 322800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 3.9400000572,
+    "high": 4.0700001717,
+    "low": 3.756000042,
+    "close": 3.7899999619,
+    "volume": 738000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 4.0100002289,
+    "high": 4.0100002289,
+    "low": 3.6400001049,
+    "close": 3.7100000381,
+    "volume": 155800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.8899993896,
+    "high": 31.7000007629,
+    "low": 16.3999996185,
+    "close": 17.9200000763,
+    "volume": 77432200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 10.5,
+    "high": 11.6599998474,
+    "low": 9.8809995651,
+    "close": 10.6499996185,
+    "volume": 1977600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.3100004196,
+    "high": 18.4500007629,
+    "low": 13.3999996185,
+    "close": 14.75,
+    "volume": 12818500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 13.7100000381,
+    "high": 14.75,
+    "low": 12.1899995804,
+    "close": 12.6599998474,
+    "volume": 595400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.779999733,
+    "high": 13.0600004196,
+    "low": 12.4099998474,
+    "close": 12.75,
+    "volume": 169300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 12.3500003815,
+    "high": 12.6700000763,
+    "low": 11.2399997711,
+    "close": 11.3500003815,
+    "volume": 215000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 10.8299999237,
+    "high": 12.3100004196,
+    "low": 10.529999733,
+    "close": 11.6750001907,
+    "volume": 163500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 11.8599996567,
+    "high": 12.970000267,
+    "low": 10.6999998093,
+    "close": 10.9899997711,
+    "volume": 215700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 10.1999998093,
+    "high": 10.5649995804,
+    "low": 9.5100002289,
+    "close": 9.5799999237,
+    "volume": 90500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 9.3100004196,
+    "high": 9.75,
+    "low": 9.2299995422,
+    "close": 9.4300003052,
+    "volume": 94900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 9.2100000381,
+    "high": 9.3500003815,
+    "low": 8.4300003052,
+    "close": 8.529999733,
+    "volume": 78500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,10,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 8.1899995804,
+    "high": 8.3900003433,
+    "low": 7.7300000191,
+    "close": 7.7300000191,
+    "volume": 98700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.5,
+    "high": 8.3950004578,
+    "low": 7.5,
+    "close": 8.2899999619,
+    "volume": 122200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 8.0200004578,
+    "high": 8.6099996567,
+    "low": 8.0200004578,
+    "close": 8.4300003052,
+    "volume": 174900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 8.2600002289,
+    "high": 8.3549995422,
+    "low": 7.2249999046,
+    "close": 7.3449997902,
+    "volume": 66800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.1199998856,
+    "high": 7.4299998283,
+    "low": 7.0199999809,
+    "close": 7.1599998474,
+    "volume": 58100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.0399999619,
+    "high": 7.5,
+    "low": 7.0399999619,
+    "close": 7.4699997902,
+    "volume": 111100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.1999998093,
+    "high": 7.5399999619,
+    "low": 7.0700001717,
+    "close": 7.3499999046,
+    "volume": 75700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.1999998093,
+    "high": 7.5300002098,
+    "low": 7.1799998283,
+    "close": 7.3200001717,
+    "volume": 31800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 7.2199997902,
+    "high": 7.6399998665,
+    "low": 6.6599998474,
+    "close": 6.6999998093,
+    "volume": 94600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 6.1599998474,
+    "high": 6.2319998741,
+    "low": 5.8439998627,
+    "close": 5.9600000381,
+    "volume": 43400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.8000001907,
+    "high": 6.0999999046,
+    "low": 5.8000001907,
+    "close": 5.9400000572,
+    "volume": 21700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.8499999046,
+    "high": 5.9699997902,
+    "low": 5.6999998093,
+    "close": 5.8200001717,
+    "volume": 20300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 5.0700001717,
+    "high": 5.4749999046,
+    "low": 4.9499998093,
+    "close": 4.9499998093,
+    "volume": 41200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.4400005341,
+    "high": 25.8799991608,
+    "low": 15.0600004196,
+    "close": 17.25,
+    "volume": 43784000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.2000007629,
+    "high": 33.5999984741,
+    "low": 15.0,
+    "close": 23.5799999237,
+    "volume": 14401300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.0,
+    "high": 28.2000007629,
+    "low": 20.7199993134,
+    "close": 23.6000003815,
+    "volume": 4506600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.4799995422,
+    "high": 29.0300006866,
+    "low": 22.0,
+    "close": 27.8400001526,
+    "volume": 2001800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.0100002289,
+    "high": 28.2950000763,
+    "low": 25.9099998474,
+    "close": 26.8299999237,
+    "volume": 707800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.8500003815,
+    "high": 27.8500003815,
+    "low": 21.25,
+    "close": 22.8500003815,
+    "volume": 423600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.9349994659,
+    "high": 22.3899993896,
+    "low": 18.5100002289,
+    "close": 20.8700008392,
+    "volume": 305300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.8400001526,
+    "high": 20.7999992371,
+    "low": 18.5960006714,
+    "close": 20.3299999237,
+    "volume": 283900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 19.2999992371,
+    "high": 19.7999992371,
+    "low": 16.8199996948,
+    "close": 17.3500003815,
+    "volume": 202800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.9699993134,
+    "high": 17.9500007629,
+    "low": 16.0300006866,
+    "close": 16.7700004578,
+    "volume": 117500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.3500003815,
+    "high": 17.0200004578,
+    "low": 15.9600000381,
+    "close": 16.3099994659,
+    "volume": 210300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 15.7600002289,
+    "high": 17.0799999237,
+    "low": 15.7600002289,
+    "close": 16.5799999237,
+    "volume": 40200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.5499992371,
+    "high": 17.4750003815,
+    "low": 16.4169998169,
+    "close": 17.3899993896,
+    "volume": 162600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.7299995422,
+    "high": 18.0699996948,
+    "low": 16.8600006104,
+    "close": 17.7800006866,
+    "volume": 150800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.0699996948,
+    "high": 19.0429992676,
+    "low": 17.0400009155,
+    "close": 17.7700004578,
+    "volume": 163100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 16.75,
+    "high": 19.4099998474,
+    "low": 16.7000007629,
+    "close": 19.3400001526,
+    "volume": 143600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 18.2900009155,
+    "high": 22.1900005341,
+    "low": 17.7520008087,
+    "close": 22.1399993896,
+    "volume": 120600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.3999996185,
+    "high": 23.7380008698,
+    "low": 21.1700000763,
+    "close": 22.8899993896,
+    "volume": 262000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.1700000763,
+    "high": 27.8500003815,
+    "low": 22.1700000763,
+    "close": 27.4599990845,
+    "volume": 132200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.4599990845,
+    "high": 28.0,
+    "low": 24.6000003815,
+    "close": 25.7299995422,
+    "volume": 151200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.7299995422,
+    "high": 28.3899993896,
+    "low": 24.6599998474,
+    "close": 27.7900009155,
+    "volume": 169500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.5400009155,
+    "high": 29.9699993134,
+    "low": 26.5400009155,
+    "close": 29.4500007629,
+    "volume": 270000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.2900009155,
+    "high": 29.1000003815,
+    "low": 25.6000003815,
+    "close": 29.0100002289,
+    "volume": 166200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.4599990845,
+    "high": 32.2000007629,
+    "low": 27.2999992371,
+    "close": 32.0,
+    "volume": 105100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.7800006866,
+    "high": 31.8999996185,
+    "low": 29.5,
+    "close": 31.6000003815,
+    "volume": 62800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.3999996185,
+    "high": 32.5499992371,
+    "low": 28.1100006104,
+    "close": 30.0,
+    "volume": 62000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.5599994659,
+    "high": 33.3100013733,
+    "low": 25.0,
+    "close": 26.3299999237,
+    "volume": 114500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.5,
+    "high": 27.0100002289,
+    "low": 24.5300006866,
+    "close": 26.0,
+    "volume": 37000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.75,
+    "high": 29.0499992371,
+    "low": 26.75,
+    "close": 27.1700000763,
+    "volume": 49700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.4200000763,
+    "high": 30.0300006866,
+    "low": 27.4200000763,
+    "close": 28.9200000763,
+    "volume": 27900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.0,
+    "high": 29.8400001526,
+    "low": 27.5,
+    "close": 29.0799999237,
+    "volume": 33400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.8349990845,
+    "high": 30.0,
+    "low": 28.8349990845,
+    "close": 29.4899997711,
+    "volume": 18100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.9699993134,
+    "high": 38.3250007629,
+    "low": 29.3600006104,
+    "close": 34.1399993896,
+    "volume": 231900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 33.4599990845,
+    "high": 35.0999984741,
+    "low": 29.6100006104,
+    "close": 29.6100006104,
+    "volume": 82200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.5100002289,
+    "high": 29.8299999237,
+    "low": 21.5599994659,
+    "close": 22.3099994659,
+    "volume": 142800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.0,
+    "high": 24.75,
+    "low": 22.3299999237,
+    "close": 23.0100002289,
+    "volume": 33300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.4200000763,
+    "high": 24.4200000763,
+    "low": 21.0799999237,
+    "close": 21.8199996948,
+    "volume": 49300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.8199996948,
+    "high": 22.6000003815,
+    "low": 20.7849998474,
+    "close": 21.2600002289,
+    "volume": 38300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.1499996185,
+    "high": 22.9500007629,
+    "low": 20.6200008392,
+    "close": 21.8400001526,
+    "volume": 23300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.5599994659,
+    "high": 23.8500003815,
+    "low": 20.8199996948,
+    "close": 21.0,
+    "volume": 33900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.9300003052,
+    "high": 21.5599994659,
+    "low": 19.4200000763,
+    "close": 20.3700008392,
+    "volume": 18800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.4099998474,
+    "high": 21.3589992523,
+    "low": 19.8400001526,
+    "close": 20.5,
+    "volume": 13600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.2099990845,
+    "high": 22.6000003815,
+    "low": 20.2099990845,
+    "close": 21.8199996948,
+    "volume": 28200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.1100006104,
+    "high": 23.8700008392,
+    "low": 21.216999054,
+    "close": 23.2999992371,
+    "volume": 30200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.75,
+    "high": 24.9899997711,
+    "low": 22.5100002289,
+    "close": 24.9899997711,
+    "volume": 19300.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,01,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.0,
+    "high": 24.4869995117,
+    "low": 23.8600006104,
+    "close": 23.9500007629,
+    "volume": 15600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.1399993896,
+    "high": 26.2999992371,
+    "low": 23.7700004578,
+    "close": 24.9750003815,
+    "volume": 34000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.1700000763,
+    "high": 29.3799991608,
+    "low": 22.1800003052,
+    "close": 27.9249992371,
+    "volume": 42500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.0499992371,
+    "high": 29.7199993134,
+    "low": 26.5799999237,
+    "close": 28.1700000763,
+    "volume": 32300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.3600006104,
+    "high": 32.0,
+    "low": 28.7700004578,
+    "close": 29.5799999237,
+    "volume": 37200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.1800003052,
+    "high": 28.25,
+    "low": 25.75,
+    "close": 25.7600002289,
+    "volume": 46500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.0400009155,
+    "high": 25.7600002289,
+    "low": 24.7299995422,
+    "close": 24.9599990845,
+    "volume": 19500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,01,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.6599998474,
+    "high": 27.75,
+    "low": 24.6599998474,
+    "close": 25.5599994659,
+    "volume": 14700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.5,
+    "high": 25.6450004578,
+    "low": 23.9099998474,
+    "close": 24.4500007629,
+    "volume": 18300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.5499992371,
+    "high": 26.3600006104,
+    "low": 23.8500003815,
+    "close": 25.1000003815,
+    "volume": 35900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.0,
+    "high": 26.8299999237,
+    "low": 24.0,
+    "close": 26.2350006104,
+    "volume": 47000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.6000003815,
+    "high": 27.8600006104,
+    "low": 24.6749992371,
+    "close": 27.3600006104,
+    "volume": 30900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.1599998474,
+    "high": 28.3999996185,
+    "low": 25.204000473,
+    "close": 25.6100006104,
+    "volume": 26900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.2299995422,
+    "high": 25.6000003815,
+    "low": 23.0949993134,
+    "close": 23.7800006866,
+    "volume": 38400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.7999992371,
+    "high": 24.25,
+    "low": 21.8150005341,
+    "close": 22.6299991608,
+    "volume": 50500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.1000003815,
+    "high": 26.1000003815,
+    "low": 23.1000003815,
+    "close": 25.2600002289,
+    "volume": 48900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.6399993896,
+    "high": 25.8150005341,
+    "low": 23.1800003052,
+    "close": 24.0,
+    "volume": 47800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,02,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.6700000763,
+    "high": 23.8299999237,
+    "low": 21.4969997406,
+    "close": 21.5200004578,
+    "volume": 57300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.2000007629,
+    "high": 22.25,
+    "low": 19.8500003815,
+    "close": 21.7999992371,
+    "volume": 2174900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.8899993896,
+    "high": 30.0300006866,
+    "low": 21.8899993896,
+    "close": 30.0300006866,
+    "volume": 1495500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.8999996185,
+    "high": 32.5600013733,
+    "low": 28.1100006104,
+    "close": 29.1200008392,
+    "volume": 707800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.5200004578,
+    "high": 32.0,
+    "low": 28.8999996185,
+    "close": 29.9099998474,
+    "volume": 217100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.1200008392,
+    "high": 31.0,
+    "low": 29.5650005341,
+    "close": 30.5,
+    "volume": 395000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.0799999237,
+    "high": 31.6000003815,
+    "low": 29.6000003815,
+    "close": 30.4599990845,
+    "volume": 340900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.9400005341,
+    "high": 30.7649993896,
+    "low": 29.4300003052,
+    "close": 30.0,
+    "volume": 105600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.6100006104,
+    "high": 30.6800003052,
+    "low": 28.8700008392,
+    "close": 29.7800006866,
+    "volume": 262100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.8899993896,
+    "high": 33.9900016785,
+    "low": 29.8899993896,
+    "close": 31.75,
+    "volume": 863100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 32.3899993896,
+    "high": 33.7200012207,
+    "low": 32.0,
+    "close": 32.2999992371,
+    "volume": 376300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 32.2999992371,
+    "high": 32.6150016785,
+    "low": 29.6200008392,
+    "close": 29.7800006866,
+    "volume": 160000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.9799995422,
+    "high": 31.8600006104,
+    "low": 28.6299991608,
+    "close": 29.5799999237,
+    "volume": 171500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.2600002289,
+    "high": 30.8899993896,
+    "low": 27.7549991608,
+    "close": 30.0499992371,
+    "volume": 183100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.1499996185,
+    "high": 30.2950000763,
+    "low": 27.8899993896,
+    "close": 28.0799999237,
+    "volume": 102900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.8799991608,
+    "high": 30.3449993134,
+    "low": 27.8799991608,
+    "close": 29.6800003052,
+    "volume": 204300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.8099994659,
+    "high": 30.7999992371,
+    "low": 28.3600006104,
+    "close": 28.3600006104,
+    "volume": 262400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.3099994659,
+    "high": 29.5550003052,
+    "low": 27.1000003815,
+    "close": 28.9099998474,
+    "volume": 132600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.75,
+    "high": 30.3899993896,
+    "low": 26.4249992371,
+    "close": 28.6900005341,
+    "volume": 231400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.9899997711,
+    "high": 29.2199993134,
+    "low": 25.0,
+    "close": 25.5100002289,
+    "volume": 216600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.2099990845,
+    "high": 26.7399997711,
+    "low": 21.9799995422,
+    "close": 26.3700008392,
+    "volume": 478900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.5599994659,
+    "high": 27.4099998474,
+    "low": 23.3500003815,
+    "close": 26.3700008392,
+    "volume": 252200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.7900009155,
+    "high": 27.6000003815,
+    "low": 25.5629997253,
+    "close": 26.3299999237,
+    "volume": 181700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.7800006866,
+    "high": 27.1499996185,
+    "low": 24.5300006866,
+    "close": 24.9799995422,
+    "volume": 150900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.9899997711,
+    "high": 25.2250003815,
+    "low": 22.0049991608,
+    "close": 24.0100002289,
+    "volume": 313900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.2999992371,
+    "high": 23.6849994659,
+    "low": 20.0499992371,
+    "close": 21.1499996185,
+    "volume": 476900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.1299991608,
+    "high": 22.0400009155,
+    "low": 17.9799995422,
+    "close": 19.2000007629,
+    "volume": 422500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.1900005341,
+    "high": 20.4449996948,
+    "low": 16.5,
+    "close": 18.1399993896,
+    "volume": 967500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 17.8099994659,
+    "high": 23.1800003052,
+    "low": 17.6550006866,
+    "close": 23.0499992371,
+    "volume": 337900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.4099998474,
+    "high": 24.0799999237,
+    "low": 20.4500007629,
+    "close": 23.9200000763,
+    "volume": 357000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.6299991608,
+    "high": 26.1100006104,
+    "low": 23.5400009155,
+    "close": 25.0499992371,
+    "volume": 143400.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.0499992371,
+    "high": 27.6800003052,
+    "low": 24.7849998474,
+    "close": 25.6299991608,
+    "volume": 260500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.0200004578,
+    "high": 25.9599990845,
+    "low": 22.9200000763,
+    "close": 25.5,
+    "volume": 171800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.8299999237,
+    "high": 26.1700000763,
+    "low": 23.4099998474,
+    "close": 24.2700004578,
+    "volume": 241000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.8299999237,
+    "high": 26.8600006104,
+    "low": 24.4850006104,
+    "close": 25.8999996185,
+    "volume": 245200.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.4500007629,
+    "high": 26.7199993134,
+    "low": 24.5799999237,
+    "close": 25.0799999237,
+    "volume": 166300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.1200008392,
+    "high": 27.0100002289,
+    "low": 24.0,
+    "close": 25.0900001526,
+    "volume": 237900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.8099994659,
+    "high": 26.1399993896,
+    "low": 24.3500003815,
+    "close": 24.5699996948,
+    "volume": 167100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.1100006104,
+    "high": 26.3299999237,
+    "low": 23.2199993134,
+    "close": 24.3999996185,
+    "volume": 200900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.1700000763,
+    "high": 27.2900009155,
+    "low": 25.1700000763,
+    "close": 25.6000003815,
+    "volume": 151300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.9599990845,
+    "high": 26.9899997711,
+    "low": 24.9449996948,
+    "close": 26.6900005341,
+    "volume": 337200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.0900001526,
+    "high": 27.8799991608,
+    "low": 25.5499992371,
+    "close": 25.8199996948,
+    "volume": 287200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.6800003052,
+    "high": 26.6499996185,
+    "low": 24.7999992371,
+    "close": 26.4300003052,
+    "volume": 238500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.0,
+    "high": 28.5699996948,
+    "low": 25.7999992371,
+    "close": 26.7299995422,
+    "volume": 325500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.75,
+    "high": 27.1849994659,
+    "low": 25.9200000763,
+    "close": 26.6100006104,
+    "volume": 293200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.7900009155,
+    "high": 28.1800003052,
+    "low": 26.2849998474,
+    "close": 27.0,
+    "volume": 483200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.8500003815,
+    "high": 27.9249992371,
+    "low": 26.2900009155,
+    "close": 26.6000003815,
+    "volume": 388900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.5900001526,
+    "high": 28.5400009155,
+    "low": 26.1800003052,
+    "close": 26.4300003052,
+    "volume": 205400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.4300003052,
+    "high": 27.0750007629,
+    "low": 25.7700004578,
+    "close": 26.8199996948,
+    "volume": 189500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.0900001526,
+    "high": 28.7590007782,
+    "low": 25.6900005341,
+    "close": 25.8999996185,
+    "volume": 153700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.0400009155,
+    "high": 26.920999527,
+    "low": 25.1599998474,
+    "close": 25.4200000763,
+    "volume": 119500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.8500003815,
+    "high": 25.8850002289,
+    "low": 24.0200004578,
+    "close": 24.75,
+    "volume": 166900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.4899997711,
+    "high": 26.2299995422,
+    "low": 24.3999996185,
+    "close": 25.5,
+    "volume": 267500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.5,
+    "high": 26.0900001526,
+    "low": 24.1700000763,
+    "close": 24.2299995422,
+    "volume": 111700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.2900009155,
+    "high": 25.3299999237,
+    "low": 22.8999996185,
+    "close": 23.9300003052,
+    "volume": 118100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.3799991608,
+    "high": 26.2900009155,
+    "low": 24.2700004578,
+    "close": 25.6599998474,
+    "volume": 204200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.5,
+    "high": 26.2929992676,
+    "low": 25.2600002289,
+    "close": 25.3600006104,
+    "volume": 228100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.0699996948,
+    "high": 26.9899997711,
+    "low": 24.0699996948,
+    "close": 25.9300003052,
+    "volume": 306500.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.1399993896,
+    "high": 25.9549999237,
+    "low": 24.7700004578,
+    "close": 24.8700008392,
+    "volume": 142500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.9300003052,
+    "high": 26.3150005341,
+    "low": 24.5900001526,
+    "close": 24.6900005341,
+    "volume": 125400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.5,
+    "high": 26.0300006866,
+    "low": 24.1499996185,
+    "close": 24.9899997711,
+    "volume": 1874400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.0100002289,
+    "high": 25.2999992371,
+    "low": 23.9599990845,
+    "close": 24.1599998474,
+    "volume": 171300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.2600002289,
+    "high": 25.3050003052,
+    "low": 23.7950000763,
+    "close": 24.3600006104,
+    "volume": 250700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.0300006866,
+    "high": 24.9449996948,
+    "low": 22.0100002289,
+    "close": 23.0900001526,
+    "volume": 528500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.1900005341,
+    "high": 24.7099990845,
+    "low": 22.625,
+    "close": 24.1599998474,
+    "volume": 392400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.8099994659,
+    "high": 24.5300006866,
+    "low": 23.3999996185,
+    "close": 23.8799991608,
+    "volume": 194400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.4099998474,
+    "high": 25.3899993896,
+    "low": 23.4099998474,
+    "close": 24.6000003815,
+    "volume": 439300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.6499996185,
+    "high": 25.5100002289,
+    "low": 24.375,
+    "close": 24.8999996185,
+    "volume": 523000.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.6900005341,
+    "high": 25.2000007629,
+    "low": 23.7800006866,
+    "close": 24.0400009155,
+    "volume": 249500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.0,
+    "high": 24.8299999237,
+    "low": 24.0,
+    "close": 24.1499996185,
+    "volume": 180000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.25,
+    "high": 25.3859996796,
+    "low": 24.25,
+    "close": 24.8600006104,
+    "volume": 255200.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.0200004578,
+    "high": 26.2250003815,
+    "low": 24.8600006104,
+    "close": 25.2999992371,
+    "volume": 166300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.1900005341,
+    "high": 26.1000003815,
+    "low": 24.5750007629,
+    "close": 25.8899993896,
+    "volume": 346100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.0,
+    "high": 26.4799995422,
+    "low": 24.6100006104,
+    "close": 25.2099990845,
+    "volume": 222400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.6399993896,
+    "high": 25.6399993896,
+    "low": 24.75,
+    "close": 24.8400001526,
+    "volume": 303000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.6399993896,
+    "high": 26.0200004578,
+    "low": 24.6399993896,
+    "close": 24.8799991608,
+    "volume": 846800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.75,
+    "high": 25.8899993896,
+    "low": 24.0400009155,
+    "close": 24.8500003815,
+    "volume": 307400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.4200000763,
+    "high": 25.4500007629,
+    "low": 22.9200000763,
+    "close": 22.9500007629,
+    "volume": 288700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.1599998474,
+    "high": 23.2800006866,
+    "low": 22.1299991608,
+    "close": 22.3299999237,
+    "volume": 318600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.2600002289,
+    "high": 23.5400009155,
+    "low": 20.0900001526,
+    "close": 22.3099994659,
+    "volume": 458600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.8099994659,
+    "high": 22.5100002289,
+    "low": 20.4799995422,
+    "close": 21.0100002289,
+    "volume": 523500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.6399993896,
+    "high": 22.1599998474,
+    "low": 20.3199996948,
+    "close": 20.9099998474,
+    "volume": 302100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.9699993134,
+    "high": 22.2199993134,
+    "low": 20.1000003815,
+    "close": 20.9599990845,
+    "volume": 462100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.9799995422,
+    "high": 21.6200008392,
+    "low": 18.5900001526,
+    "close": 20.1499996185,
+    "volume": 531800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.75,
+    "high": 21.7099990845,
+    "low": 20.0249996185,
+    "close": 21.3600006104,
+    "volume": 313200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.4099998474,
+    "high": 21.8899993896,
+    "low": 20.4899997711,
+    "close": 20.7800006866,
+    "volume": 207200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.0799999237,
+    "high": 21.7700004578,
+    "low": 19.4300003052,
+    "close": 20.0699996948,
+    "volume": 629000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.2600002289,
+    "high": 21.0249996185,
+    "low": 19.4920005798,
+    "close": 20.5900001526,
+    "volume": 397100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.6499996185,
+    "high": 21.7900009155,
+    "low": 20.1399993896,
+    "close": 21.4200000763,
+    "volume": 259100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.7099990845,
+    "high": 22.3600006104,
+    "low": 21.0400009155,
+    "close": 21.2299995422,
+    "volume": 1747100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.5100002289,
+    "high": 25.8999996185,
+    "low": 21.5100002289,
+    "close": 23.8850002289,
+    "volume": 554500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.2099990845,
+    "high": 24.5300006866,
+    "low": 22.8099994659,
+    "close": 22.9400005341,
+    "volume": 325700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.9699993134,
+    "high": 24.5400009155,
+    "low": 21.9099998474,
+    "close": 22.0,
+    "volume": 412100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.2900009155,
+    "high": 23.9599990845,
+    "low": 21.6900005341,
+    "close": 22.5699996948,
+    "volume": 380500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.4599990845,
+    "high": 25.5,
+    "low": 22.0499992371,
+    "close": 25.3600006104,
+    "volume": 8623800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.3600006104,
+    "high": 25.75,
+    "low": 23.3099994659,
+    "close": 24.2099990845,
+    "volume": 523400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.4599990845,
+    "high": 26.6299991608,
+    "low": 24.4400005341,
+    "close": 26.0100002289,
+    "volume": 569200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 26.1000003815,
+    "high": 28.4349994659,
+    "low": 25.7600002289,
+    "close": 27.0900001526,
+    "volume": 580900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.0900001526,
+    "high": 30.1849994659,
+    "low": 26.2900009155,
+    "close": 29.9799995422,
+    "volume": 760900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.6800003052,
+    "high": 30.75,
+    "low": 28.4899997711,
+    "close": 29.7999992371,
+    "volume": 725300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.0200004578,
+    "high": 30.5249996185,
+    "low": 29.0499992371,
+    "close": 30.0,
+    "volume": 588500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.7099990845,
+    "high": 30.3500003815,
+    "low": 27.1800003052,
+    "close": 27.5300006866,
+    "volume": 678900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.2900009155,
+    "high": 31.3500003815,
+    "low": 27.2900009155,
+    "close": 30.7800006866,
+    "volume": 845700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.7800006866,
+    "high": 31.2999992371,
+    "low": 28.3950004578,
+    "close": 28.5300006866,
+    "volume": 312600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.5300006866,
+    "high": 28.9050006866,
+    "low": 26.2900009155,
+    "close": 28.0,
+    "volume": 269800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.9599990845,
+    "high": 31.0499992371,
+    "low": 26.8799991608,
+    "close": 30.9899997711,
+    "volume": 528400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.9899997711,
+    "high": 31.7649993896,
+    "low": 29.888999939,
+    "close": 30.9500007629,
+    "volume": 622600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 31.0,
+    "high": 31.3199996948,
+    "low": 29.6399993896,
+    "close": 30.2399997711,
+    "volume": 356000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.5200004578,
+    "high": 31.8700008392,
+    "low": 29.5200004578,
+    "close": 31.4799995422,
+    "volume": 489000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 31.4799995422,
+    "high": 34.8899993896,
+    "low": 31.4799995422,
+    "close": 32.9900016785,
+    "volume": 350600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 32.6800003052,
+    "high": 34.7449989319,
+    "low": 31.9400005341,
+    "close": 32.9900016785,
+    "volume": 436600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 32.6300010681,
+    "high": 33.2900009155,
+    "low": 29.5400009155,
+    "close": 29.9899997711,
+    "volume": 587300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.2800006866,
+    "high": 30.75,
+    "low": 28.25,
+    "close": 29.1700000763,
+    "volume": 489000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.7900009155,
+    "high": 30.0049991608,
+    "low": 28.4799995422,
+    "close": 28.8199996948,
+    "volume": 564900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.9799995422,
+    "high": 30.8999996185,
+    "low": 29.0200004578,
+    "close": 29.4400005341,
+    "volume": 547200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.5300006866,
+    "high": 30.4400005341,
+    "low": 28.3999996185,
+    "close": 29.4200000763,
+    "volume": 305500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.4200000763,
+    "high": 30.0499992371,
+    "low": 28.1599998474,
+    "close": 28.3299999237,
+    "volume": 323100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.0499992371,
+    "high": 30.0200004578,
+    "low": 28.7099990845,
+    "close": 29.2099990845,
+    "volume": 334000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.2099990845,
+    "high": 30.2700004578,
+    "low": 28.6499996185,
+    "close": 28.9899997711,
+    "volume": 314500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.6700000763,
+    "high": 29.8999996185,
+    "low": 28.4150009155,
+    "close": 28.5599994659,
+    "volume": 227800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.8500003815,
+    "high": 30.5799999237,
+    "low": 28.4769992828,
+    "close": 30.0200004578,
+    "volume": 551100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.5499992371,
+    "high": 31.7700004578,
+    "low": 29.0499992371,
+    "close": 30.8299999237,
+    "volume": 607300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.4400005341,
+    "high": 31.1000003815,
+    "low": 29.3899993896,
+    "close": 29.8799991608,
+    "volume": 696400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.1100006104,
+    "high": 30.6550006866,
+    "low": 29.0900001526,
+    "close": 29.9200000763,
+    "volume": 197400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.7199993134,
+    "high": 30.3099994659,
+    "low": 29.2150001526,
+    "close": 29.5400009155,
+    "volume": 216200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.8899993896,
+    "high": 30.7800006866,
+    "low": 29.1399993896,
+    "close": 30.3600006104,
+    "volume": 234900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.2900009155,
+    "high": 31.5499992371,
+    "low": 29.8899993896,
+    "close": 31.0,
+    "volume": 314300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 31.1299991608,
+    "high": 31.1299991608,
+    "low": 30.1599998474,
+    "close": 30.7299995422,
+    "volume": 227800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.3700008392,
+    "high": 31.5200004578,
+    "low": 29.5,
+    "close": 31.0400009155,
+    "volume": 260700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 31.1000003815,
+    "high": 31.7900009155,
+    "low": 30.8099994659,
+    "close": 31.0900001526,
+    "volume": 362700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.7399997711,
+    "high": 32.1699981689,
+    "low": 30.2900009155,
+    "close": 31.7999992371,
+    "volume": 485700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 32.4300003052,
+    "high": 33.5600013733,
+    "low": 31.4099998474,
+    "close": 32.4399986267,
+    "volume": 486700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 31.8400001526,
+    "high": 32.0699996948,
+    "low": 30.1200008392,
+    "close": 30.3099994659,
+    "volume": 226500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.4500007629,
+    "high": 31.3799991608,
+    "low": 30.1450004578,
+    "close": 30.8199996948,
+    "volume": 159900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.6700000763,
+    "high": 31.4939994812,
+    "low": 29.7000007629,
+    "close": 30.3099994659,
+    "volume": 319800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.5499992371,
+    "high": 31.6399993896,
+    "low": 30.5400009155,
+    "close": 30.6200008392,
+    "volume": 205700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.4799995422,
+    "high": 30.8799991608,
+    "low": 30.1000003815,
+    "close": 30.3899993896,
+    "volume": 185900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.1800003052,
+    "high": 31.1100006104,
+    "low": 29.8700008392,
+    "close": 30.6000003815,
+    "volume": 171300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 30.3799991608,
+    "high": 30.7099990845,
+    "low": 28.4150009155,
+    "close": 29.0,
+    "volume": 371700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.9300003052,
+    "high": 28.9300003052,
+    "low": 26.5249996185,
+    "close": 28.1800003052,
+    "volume": 497000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.1000003815,
+    "high": 28.4500007629,
+    "low": 27.1200008392,
+    "close": 28.1399993896,
+    "volume": 272700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.3600006104,
+    "high": 29.3799991608,
+    "low": 27.8150005341,
+    "close": 28.1800003052,
+    "volume": 462900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.5200004578,
+    "high": 28.5949993134,
+    "low": 27.3999996185,
+    "close": 28.0,
+    "volume": 328200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.4899997711,
+    "high": 30.3500003815,
+    "low": 27.3899993896,
+    "close": 30.0599994659,
+    "volume": 295800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 29.6599998474,
+    "high": 30.7399997711,
+    "low": 28.8899993896,
+    "close": 29.1700000763,
+    "volume": 560000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.7700004578,
+    "high": 29.2900009155,
+    "low": 26.2549991608,
+    "close": 26.2700004578,
+    "volume": 500100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 25.8700008392,
+    "high": 27.7749996185,
+    "low": 25.6299991608,
+    "close": 26.8400001526,
+    "volume": 639800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 27.3199996948,
+    "high": 28.5300006866,
+    "low": 26.8700008392,
+    "close": 28.1000003815,
+    "volume": 525400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.4200000763,
+    "high": 29.1800003052,
+    "low": 28.0,
+    "close": 28.3899993896,
+    "volume": 372100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 28.0,
+    "high": 28.1650009155,
+    "low": 24.1350002289,
+    "close": 24.75,
+    "volume": 1677900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.8799991608,
+    "high": 25.2649993896,
+    "low": 23.9099998474,
+    "close": 24.5300006866,
+    "volume": 1241800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 24.9599990845,
+    "high": 25.4899997711,
+    "low": 22.7399997711,
+    "close": 22.7800006866,
+    "volume": 605100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.9400005341,
+    "high": 23.4400005341,
+    "low": 22.0200004578,
+    "close": 22.5900001526,
+    "volume": 3316800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.7999992371,
+    "high": 23.3299999237,
+    "low": 22.0100002289,
+    "close": 22.8500003815,
+    "volume": 618200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 23.2099990845,
+    "high": 23.4300003052,
+    "low": 21.9449996948,
+    "close": 22.4099998474,
+    "volume": 355200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 22.1200008392,
+    "high": 22.1200008392,
+    "low": 19.9599990845,
+    "close": 20.4400005341,
+    "volume": 1067200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.3799991608,
+    "high": 20.7299995422,
+    "low": 19.3899993896,
+    "close": 20.2700004578,
+    "volume": 875200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.7999992371,
+    "high": 20.7999992371,
+    "low": 19.7999992371,
+    "close": 20.6599998474,
+    "volume": 1431800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.2600002289,
+    "high": 21.5849990845,
+    "low": 19.8299999237,
+    "close": 20.75,
+    "volume": 514900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.6700000763,
+    "high": 20.8199996948,
+    "low": 20.1599998474,
+    "close": 20.6599998474,
+    "volume": 376400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.7800006866,
+    "high": 21.8500003815,
+    "low": 20.3099994659,
+    "close": 21.2800006866,
+    "volume": 563000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.5119991302,
+    "high": 21.25,
+    "low": 20.2000007629,
+    "close": 20.2299995422,
+    "volume": 354600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 20.5499992371,
+    "high": 20.7649993896,
+    "low": 19.6100006104,
+    "close": 20.6499996185,
+    "volume": 692887.0,
+    "wedge_status": "none"
+  }
+]

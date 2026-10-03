@@ -7508,5 +7508,15 @@
     "close": 47.0200004578,
     "volume": 2498219.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "ARE",
+    "open": 47.3100013733,
+    "high": 48.2200012207,
+    "low": 47.0,
+    "close": 47.3699989319,
+    "volume": 2065308.0,
+    "wedge_status": "none"
   }
 ]

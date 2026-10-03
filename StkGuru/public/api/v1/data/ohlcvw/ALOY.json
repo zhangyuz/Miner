@@ -1,0 +1,7522 @@
+[
+  {
+    "trade_date": "2023,10,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5,
+    "high": 2.6199998856,
+    "low": 2.4100000858,
+    "close": 2.5499999523,
+    "volume": 8600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5699999332,
+    "high": 2.5899999142,
+    "low": 2.4600000381,
+    "close": 2.4600000381,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5399999619,
+    "high": 2.5399999619,
+    "low": 2.4820001125,
+    "close": 2.5199999809,
+    "volume": 2300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5699999332,
+    "high": 2.5699999332,
+    "low": 2.4300000668,
+    "close": 2.4400000572,
+    "volume": 1700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4000000954,
+    "high": 2.6099998951,
+    "low": 2.4000000954,
+    "close": 2.5199999809,
+    "volume": 2600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5199999809,
+    "high": 2.5199999809,
+    "low": 2.5199999809,
+    "close": 2.5199999809,
+    "volume": 300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7000000477,
+    "high": 2.7999999523,
+    "low": 2.4400000572,
+    "close": 2.5799999237,
+    "volume": 6500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5799999237,
+    "high": 2.5799999237,
+    "low": 2.5799999237,
+    "close": 2.5799999237,
+    "volume": 200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5750000477,
+    "high": 2.5750000477,
+    "low": 2.0999999046,
+    "close": 2.1400001049,
+    "volume": 17500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,10,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3499999046,
+    "high": 2.4500000477,
+    "low": 2.2999999523,
+    "close": 2.3499999046,
+    "volume": 3100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1600000858,
+    "high": 2.3900001049,
+    "low": 2.1600000858,
+    "close": 2.3900001049,
+    "volume": 2500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3800001144,
+    "high": 2.3880000114,
+    "low": 2.25,
+    "close": 2.3699998856,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3800001144,
+    "high": 2.3800001144,
+    "low": 2.2000000477,
+    "close": 2.2000000477,
+    "volume": 2000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2349998951,
+    "high": 2.2699999809,
+    "low": 2.2349998951,
+    "close": 2.2699999809,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2599999905,
+    "high": 2.2899999619,
+    "low": 2.1400001049,
+    "close": 2.2899999619,
+    "volume": 3500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2100000381,
+    "high": 2.2599999905,
+    "low": 2.1500000954,
+    "close": 2.25,
+    "volume": 2400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.25,
+    "high": 2.25,
+    "low": 2.25,
+    "close": 2.25,
+    "volume": 400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1400001049,
+    "high": 2.242000103,
+    "low": 2.1400001049,
+    "close": 2.1600000858,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0980000496,
+    "high": 2.0980000496,
+    "low": 2.0980000496,
+    "close": 2.0980000496,
+    "volume": 1700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0599999428,
+    "high": 2.2999999523,
+    "low": 1.7100000381,
+    "close": 1.9500000477,
+    "volume": 38500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0099999905,
+    "high": 2.1570000648,
+    "low": 1.8999999762,
+    "close": 1.9839999676,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.9400000572,
+    "high": 1.9450000525,
+    "low": 1.7599999905,
+    "close": 1.7599999905,
+    "volume": 12000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.75,
+    "high": 1.8600000143,
+    "low": 1.75,
+    "close": 1.7899999619,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8150000572,
+    "high": 1.8200000525,
+    "low": 1.7899999619,
+    "close": 1.7999999523,
+    "volume": 2500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8300000429,
+    "high": 1.8300000429,
+    "low": 1.7599999905,
+    "close": 1.7899999619,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8500000238,
+    "high": 1.8500000238,
+    "low": 1.7000000477,
+    "close": 1.7339999676,
+    "volume": 9500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.7000000477,
+    "high": 1.7699999809,
+    "low": 1.7000000477,
+    "close": 1.7699999809,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.6599999666,
+    "high": 1.75,
+    "low": 1.6499999762,
+    "close": 1.75,
+    "volume": 3300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.6000000238,
+    "high": 1.7130000591,
+    "low": 1.6000000238,
+    "close": 1.7130000591,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.6499999762,
+    "high": 1.6499999762,
+    "low": 1.6499999762,
+    "close": 1.6499999762,
+    "volume": 600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.6499999762,
+    "high": 2.2400000095,
+    "low": 1.6000000238,
+    "close": 1.9700000286,
+    "volume": 33700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8999999762,
+    "high": 2.3499999046,
+    "low": 1.8999999762,
+    "close": 2.2699999809,
+    "volume": 17500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4000000954,
+    "high": 2.5399999619,
+    "low": 2.3499999046,
+    "close": 2.5299999714,
+    "volume": 6300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5899999142,
+    "high": 3.3499999046,
+    "low": 2.5899999142,
+    "close": 3.3499999046,
+    "volume": 36200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2899999619,
+    "high": 3.6040000916,
+    "low": 2.9609999657,
+    "close": 3.5399999619,
+    "volume": 25800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.6500000954,
+    "high": 3.9500000477,
+    "low": 3.1500000954,
+    "close": 3.7000000477,
+    "volume": 63300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.7100000381,
+    "high": 3.9000000954,
+    "low": 3.7100000381,
+    "close": 3.7999999523,
+    "volume": 2500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.5999999046,
+    "high": 3.9800000191,
+    "low": 3.5999999046,
+    "close": 3.9000000954,
+    "volume": 11400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.0,
+    "high": 4.0,
+    "low": 3.75,
+    "close": 3.7999999523,
+    "volume": 19600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.9000000954,
+    "high": 4.0500001907,
+    "low": 3.75,
+    "close": 4.0,
+    "volume": 21300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.0100002289,
+    "high": 4.0250000954,
+    "low": 3.9000000954,
+    "close": 3.9700000286,
+    "volume": 10700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.9300000668,
+    "high": 4.0399999619,
+    "low": 3.75,
+    "close": 3.7799999714,
+    "volume": 12900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.9400000572,
+    "high": 3.9400000572,
+    "low": 3.6819999218,
+    "close": 3.8399999142,
+    "volume": 13800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.7300000191,
+    "high": 3.8800001144,
+    "low": 3.6949999332,
+    "close": 3.8800001144,
+    "volume": 10300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.8800001144,
+    "high": 3.8800001144,
+    "low": 3.7650001049,
+    "close": 3.8090000153,
+    "volume": 2200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.7899999619,
+    "high": 3.8499999046,
+    "low": 3.7000000477,
+    "close": 3.8499999046,
+    "volume": 1200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.7799999714,
+    "high": 3.9700000286,
+    "low": 3.746999979,
+    "close": 3.9609999657,
+    "volume": 12500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.9700000286,
+    "high": 4.1459999084,
+    "low": 3.6019999981,
+    "close": 3.9000000954,
+    "volume": 16400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.7690000534,
+    "high": 3.9000000954,
+    "low": 3.75,
+    "close": 3.8499999046,
+    "volume": 7000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3499999046,
+    "high": 3.5999999046,
+    "low": 2.3499999046,
+    "close": 2.9400000572,
+    "volume": 175100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,12,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0,
+    "high": 3.0,
+    "low": 2.5,
+    "close": 2.9000000954,
+    "volume": 30800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5399999619,
+    "high": 2.8699998856,
+    "low": 2.5399999619,
+    "close": 2.8299999237,
+    "volume": 22600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7400000095,
+    "high": 2.8190000057,
+    "low": 2.6809999943,
+    "close": 2.75,
+    "volume": 17400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8499999046,
+    "high": 2.8849999905,
+    "low": 2.6600000858,
+    "close": 2.7799999714,
+    "volume": 11800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7799999714,
+    "high": 2.7799999714,
+    "low": 2.5550000668,
+    "close": 2.7000000477,
+    "volume": 14500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7000000477,
+    "high": 2.8900001049,
+    "low": 2.7000000477,
+    "close": 2.7200000286,
+    "volume": 9300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7409999371,
+    "high": 2.8199999332,
+    "low": 2.7290000916,
+    "close": 2.7999999523,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.7999999523,
+    "low": 2.6400001049,
+    "close": 2.7200000286,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.9800000191,
+    "low": 2.7699999809,
+    "close": 2.9700000286,
+    "volume": 10100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9330000877,
+    "high": 2.9330000877,
+    "low": 2.8099999428,
+    "close": 2.9100000858,
+    "volume": 5600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8099999428,
+    "high": 2.8320000172,
+    "low": 2.7249999046,
+    "close": 2.8199999332,
+    "volume": 7600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6649999619,
+    "high": 2.9400000572,
+    "low": 2.6600000858,
+    "close": 2.8399999142,
+    "volume": 2300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.8540000916,
+    "low": 2.5599999428,
+    "close": 2.7730000019,
+    "volume": 3800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7699999809,
+    "high": 2.8599998951,
+    "low": 2.7699999809,
+    "close": 2.8269999027,
+    "volume": 2500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8650000095,
+    "high": 2.9300000668,
+    "low": 2.8050000668,
+    "close": 2.9000000954,
+    "volume": 11600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8849999905,
+    "high": 2.9000000954,
+    "low": 2.7999999523,
+    "close": 2.8650000095,
+    "volume": 4500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8410000801,
+    "high": 2.8410000801,
+    "low": 2.8269999027,
+    "close": 2.8269999027,
+    "volume": 1000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.871999979,
+    "high": 2.8770000935,
+    "low": 2.7799999714,
+    "close": 2.8199999332,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7400000095,
+    "high": 2.8699998856,
+    "low": 2.7000000477,
+    "close": 2.8199999332,
+    "volume": 3000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8199999332,
+    "high": 2.8199999332,
+    "low": 2.8199999332,
+    "close": 2.8199999332,
+    "volume": 300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7249999046,
+    "high": 2.9000000954,
+    "low": 2.5699999332,
+    "close": 2.7130000591,
+    "volume": 2500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5950000286,
+    "high": 2.7869999409,
+    "low": 2.5,
+    "close": 2.5,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5250000954,
+    "high": 2.7219998837,
+    "low": 2.4800000191,
+    "close": 2.4800000191,
+    "volume": 3800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.631000042,
+    "high": 2.7100000381,
+    "low": 2.5599999428,
+    "close": 2.6700000763,
+    "volume": 4800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.8599998951,
+    "low": 2.739000082,
+    "close": 2.7880001068,
+    "volume": 2800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7699999809,
+    "high": 2.9319999218,
+    "low": 2.7699999809,
+    "close": 2.9089999199,
+    "volume": 8600.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,01,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9500000477,
+    "high": 3.2400000095,
+    "low": 2.9100000858,
+    "close": 3.0,
+    "volume": 11400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1099998951,
+    "high": 3.2000000477,
+    "low": 3.0499999523,
+    "close": 3.2000000477,
+    "volume": 11300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2599999905,
+    "high": 3.4500000477,
+    "low": 3.2599999905,
+    "close": 3.3399999142,
+    "volume": 21500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3399999142,
+    "high": 3.4000000954,
+    "low": 2.8299999237,
+    "close": 3.3199999332,
+    "volume": 11200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0699999332,
+    "high": 3.25,
+    "low": 3.0699999332,
+    "close": 3.25,
+    "volume": 15000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0099999905,
+    "high": 3.2400000095,
+    "low": 2.9030001163,
+    "close": 3.2400000095,
+    "volume": 13000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1199998856,
+    "high": 3.1600000858,
+    "low": 2.5,
+    "close": 2.6300001144,
+    "volume": 1253200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,02,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6700000763,
+    "high": 3.3800001144,
+    "low": 2.5299999714,
+    "close": 2.8699998856,
+    "volume": 132600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8099999428,
+    "high": 2.8099999428,
+    "low": 2.5199999809,
+    "close": 2.6800000668,
+    "volume": 18300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7249999046,
+    "high": 2.7249999046,
+    "low": 2.5659999847,
+    "close": 2.6199998856,
+    "volume": 6400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6300001144,
+    "high": 2.8099999428,
+    "low": 2.6089999676,
+    "close": 2.6600000858,
+    "volume": 10700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6559998989,
+    "high": 2.6559998989,
+    "low": 2.3800001144,
+    "close": 2.5999999046,
+    "volume": 18200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5099999905,
+    "high": 2.5099999905,
+    "low": 2.3900001049,
+    "close": 2.5,
+    "volume": 9900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4300000668,
+    "high": 2.5599999428,
+    "low": 2.3499999046,
+    "close": 2.5510001183,
+    "volume": 8500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6319999695,
+    "high": 2.6319999695,
+    "low": 2.4000000954,
+    "close": 2.4739999771,
+    "volume": 7800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4400000572,
+    "high": 2.5450000763,
+    "low": 2.0799999237,
+    "close": 2.5450000763,
+    "volume": 6000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4700000286,
+    "high": 2.5950000286,
+    "low": 2.4700000286,
+    "close": 2.5399999619,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6099998951,
+    "high": 2.6099998951,
+    "low": 2.4210000038,
+    "close": 2.5099999905,
+    "volume": 6900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.9790000916,
+    "low": 2.6470000744,
+    "close": 2.9500000477,
+    "volume": 49100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8800001144,
+    "high": 2.9600000381,
+    "low": 2.7200000286,
+    "close": 2.8900001049,
+    "volume": 18900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9549999237,
+    "high": 2.9549999237,
+    "low": 2.6860001087,
+    "close": 2.7699999809,
+    "volume": 5800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8199999332,
+    "high": 2.9700000286,
+    "low": 2.6649999619,
+    "close": 2.9700000286,
+    "volume": 8000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7000000477,
+    "high": 2.9700000286,
+    "low": 2.6600000858,
+    "close": 2.9500000477,
+    "volume": 23600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7300000191,
+    "high": 2.9279999733,
+    "low": 2.6900000572,
+    "close": 2.6900000572,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7520000935,
+    "high": 2.8599998951,
+    "low": 2.5999999046,
+    "close": 2.7100000381,
+    "volume": 18400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7100000381,
+    "high": 2.9230000973,
+    "low": 2.6400001049,
+    "close": 2.6700000763,
+    "volume": 2200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0420000553,
+    "high": 3.0420000553,
+    "low": 2.5799999237,
+    "close": 2.6800000668,
+    "volume": 8500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8099999428,
+    "high": 2.8099999428,
+    "low": 2.6410000324,
+    "close": 2.7300000191,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8350000381,
+    "high": 2.8350000381,
+    "low": 2.7000000477,
+    "close": 2.7109999657,
+    "volume": 1600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7309999466,
+    "high": 2.75,
+    "low": 2.7200000286,
+    "close": 2.7200000286,
+    "volume": 3500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7200000286,
+    "high": 2.7200000286,
+    "low": 2.5999999046,
+    "close": 2.5999999046,
+    "volume": 4600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6199998856,
+    "high": 2.7899999619,
+    "low": 2.5999999046,
+    "close": 2.6649999619,
+    "volume": 3800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7200000286,
+    "high": 2.8499999046,
+    "low": 2.5499999523,
+    "close": 2.5599999428,
+    "volume": 4700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6400001049,
+    "high": 2.6600000858,
+    "low": 2.5999999046,
+    "close": 2.5999999046,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6900000572,
+    "high": 2.8499999046,
+    "low": 2.6700000763,
+    "close": 2.6700000763,
+    "volume": 2800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6700000763,
+    "high": 2.6700000763,
+    "low": 2.5699999332,
+    "close": 2.625,
+    "volume": 4900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6440000534,
+    "high": 2.6500000954,
+    "low": 2.5199999809,
+    "close": 2.6400001049,
+    "volume": 4900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7000000477,
+    "high": 2.7249999046,
+    "low": 2.7000000477,
+    "close": 2.7000000477,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6400001049,
+    "high": 2.7249999046,
+    "low": 2.5499999523,
+    "close": 2.5999999046,
+    "volume": 2600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.75,
+    "low": 2.75,
+    "close": 2.75,
+    "volume": 400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5099999905,
+    "high": 2.6800000668,
+    "low": 2.5099999905,
+    "close": 2.5699999332,
+    "volume": 1300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.75,
+    "low": 2.5999999046,
+    "close": 2.7300000191,
+    "volume": 2400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5199999809,
+    "high": 2.736000061,
+    "low": 2.5099999905,
+    "close": 2.5899999142,
+    "volume": 2200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4300000668,
+    "high": 2.6500000954,
+    "low": 2.4300000668,
+    "close": 2.6500000954,
+    "volume": 13300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5199999809,
+    "high": 2.5999999046,
+    "low": 2.5199999809,
+    "close": 2.5499999523,
+    "volume": 2200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5920000076,
+    "high": 2.5920000076,
+    "low": 2.5,
+    "close": 2.5199999809,
+    "volume": 2300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7000000477,
+    "high": 2.7000000477,
+    "low": 2.6400001049,
+    "close": 2.6400001049,
+    "volume": 3100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7000000477,
+    "high": 2.7999999523,
+    "low": 2.5750000477,
+    "close": 2.7000000477,
+    "volume": 17900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8399999142,
+    "high": 2.9600000381,
+    "low": 2.5,
+    "close": 2.7720000744,
+    "volume": 5300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.7999999523,
+    "low": 2.7750000954,
+    "close": 2.7750000954,
+    "volume": 900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7000000477,
+    "high": 2.8499999046,
+    "low": 2.7000000477,
+    "close": 2.7699999809,
+    "volume": 3000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6500000954,
+    "high": 2.7969999313,
+    "low": 2.5309998989,
+    "close": 2.7969999313,
+    "volume": 900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5699999332,
+    "high": 2.8499999046,
+    "low": 2.5499999523,
+    "close": 2.8499999046,
+    "volume": 2100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.8099999428,
+    "low": 2.5499999523,
+    "close": 2.5499999523,
+    "volume": 4200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,04,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5529999733,
+    "high": 2.7000000477,
+    "low": 2.5020000935,
+    "close": 2.7000000477,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5099999905,
+    "high": 2.7100000381,
+    "low": 2.5,
+    "close": 2.7100000381,
+    "volume": 2400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6449999809,
+    "high": 2.7000000477,
+    "low": 2.5,
+    "close": 2.7000000477,
+    "volume": 4300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6099998951,
+    "high": 2.6099998951,
+    "low": 2.5199999809,
+    "close": 2.5750000477,
+    "volume": 1100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,04,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5099999905,
+    "high": 2.5999999046,
+    "low": 2.5099999905,
+    "close": 2.5999999046,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6500000954,
+    "high": 2.6500000954,
+    "low": 2.3699998856,
+    "close": 2.6010000706,
+    "volume": 2100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5299999714,
+    "high": 2.7999999523,
+    "low": 2.4100000858,
+    "close": 2.7750000954,
+    "volume": 10800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6099998951,
+    "high": 2.6099998951,
+    "low": 2.1800000668,
+    "close": 2.6099998951,
+    "volume": 13100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7400000095,
+    "high": 2.75,
+    "low": 2.5499999523,
+    "close": 2.5499999523,
+    "volume": 1700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.7999999523,
+    "low": 2.6700000763,
+    "close": 2.6700000763,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6199998856,
+    "high": 2.6600000858,
+    "low": 2.5299999714,
+    "close": 2.6600000858,
+    "volume": 1800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7000000477,
+    "high": 2.7000000477,
+    "low": 2.7000000477,
+    "close": 2.7000000477,
+    "volume": 500.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,04,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6050000191,
+    "high": 2.6099998951,
+    "low": 2.4500000477,
+    "close": 2.4500000477,
+    "volume": 3900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,04,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4500000477,
+    "high": 2.7699999809,
+    "low": 2.4500000477,
+    "close": 2.5999999046,
+    "volume": 12200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6199998856,
+    "high": 2.7999999523,
+    "low": 2.6199998856,
+    "close": 2.6900000572,
+    "volume": 6600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.757999897,
+    "high": 2.8340001106,
+    "low": 2.6600000858,
+    "close": 2.7790000439,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8099999428,
+    "high": 2.8099999428,
+    "low": 2.8099999428,
+    "close": 2.8099999428,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6600000858,
+    "high": 2.8800001144,
+    "low": 2.6300001144,
+    "close": 2.7899999619,
+    "volume": 9900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7000000477,
+    "high": 2.7750000954,
+    "low": 2.6400001049,
+    "close": 2.6400001049,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.9749999046,
+    "low": 2.7999999523,
+    "close": 2.9749999046,
+    "volume": 1300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8499999046,
+    "high": 3.0,
+    "low": 2.75,
+    "close": 2.8629999161,
+    "volume": 9000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.986000061,
+    "high": 2.986000061,
+    "low": 2.5,
+    "close": 2.6500000954,
+    "volume": 9000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,05,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6900000572,
+    "high": 2.6900000572,
+    "low": 2.5639998913,
+    "close": 2.5650000572,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.611000061,
+    "high": 2.7309999466,
+    "low": 2.5,
+    "close": 2.7300000191,
+    "volume": 13700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6199998856,
+    "high": 2.7300000191,
+    "low": 2.6099998951,
+    "close": 2.6600000858,
+    "volume": 5800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,05,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6800000668,
+    "high": 3.1099998951,
+    "low": 2.6800000668,
+    "close": 3.0840001106,
+    "volume": 36800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0,
+    "high": 3.0499999523,
+    "low": 2.9800000191,
+    "close": 3.0439999104,
+    "volume": 4500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9900000095,
+    "high": 3.0169999599,
+    "low": 2.9200000763,
+    "close": 2.9300000668,
+    "volume": 6700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9289999008,
+    "high": 3.0,
+    "low": 2.871999979,
+    "close": 2.9760000706,
+    "volume": 7000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8800001144,
+    "high": 3.0550000668,
+    "low": 2.7200000286,
+    "close": 3.0299999714,
+    "volume": 9700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9200000763,
+    "high": 3.0,
+    "low": 2.7799999714,
+    "close": 2.9990000725,
+    "volume": 11300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9600000381,
+    "high": 3.0390000343,
+    "low": 2.9149999619,
+    "close": 2.9149999619,
+    "volume": 5700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9500000477,
+    "high": 2.9500000477,
+    "low": 2.8699998856,
+    "close": 2.9000000954,
+    "volume": 1500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9200000763,
+    "high": 2.9309999943,
+    "low": 2.7000000477,
+    "close": 2.9309999943,
+    "volume": 4500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.875,
+    "high": 2.9300000668,
+    "low": 2.875,
+    "close": 2.9300000668,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8699998856,
+    "high": 3.0999999046,
+    "low": 2.8299999237,
+    "close": 2.9600000381,
+    "volume": 12400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8900001049,
+    "high": 3.0299999714,
+    "low": 2.8900001049,
+    "close": 2.9900000095,
+    "volume": 4700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0650000572,
+    "high": 3.1800000668,
+    "low": 3.0499999523,
+    "close": 3.1099998951,
+    "volume": 12600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0910000801,
+    "high": 3.0910000801,
+    "low": 3.0,
+    "close": 3.0399999619,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2000000477,
+    "high": 3.2999999523,
+    "low": 3.0399999619,
+    "close": 3.0499999523,
+    "volume": 17600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0639998913,
+    "high": 3.1199998856,
+    "low": 2.9700000286,
+    "close": 3.0850000381,
+    "volume": 9200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3299999237,
+    "high": 3.3589999676,
+    "low": 3.0780000687,
+    "close": 3.0929999352,
+    "volume": 7600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0,
+    "high": 3.0199999809,
+    "low": 2.8599998951,
+    "close": 2.9240000248,
+    "volume": 4700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,06,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9240000248,
+    "high": 2.9240000248,
+    "low": 2.9240000248,
+    "close": 2.9240000248,
+    "volume": 500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8499999046,
+    "high": 2.8499999046,
+    "low": 2.8499999046,
+    "close": 2.8499999046,
+    "volume": 400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1670000553,
+    "high": 3.1670000553,
+    "low": 2.9900000095,
+    "close": 2.9900000095,
+    "volume": 1400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8499999046,
+    "high": 2.8699998856,
+    "low": 2.8499999046,
+    "close": 2.8699998856,
+    "volume": 900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,06,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8499999046,
+    "high": 3.0499999523,
+    "low": 2.8099999428,
+    "close": 3.0499999523,
+    "volume": 5300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0,
+    "high": 3.2000000477,
+    "low": 3.0,
+    "close": 3.0199999809,
+    "volume": 6600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0199999809,
+    "high": 3.1500000954,
+    "low": 3.0,
+    "close": 3.1500000954,
+    "volume": 1600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0599999428,
+    "high": 3.0850000381,
+    "low": 3.0169999599,
+    "close": 3.0610001087,
+    "volume": 3600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8399999142,
+    "high": 2.8399999142,
+    "low": 2.8399999142,
+    "close": 2.8399999142,
+    "volume": 400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,06,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9300000668,
+    "high": 2.9300000668,
+    "low": 2.8399999142,
+    "close": 2.8699998856,
+    "volume": 5000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8399999142,
+    "high": 2.8900001049,
+    "low": 2.8099999428,
+    "close": 2.8280000687,
+    "volume": 6800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8099999428,
+    "high": 2.8599998951,
+    "low": 2.5,
+    "close": 2.7000000477,
+    "volume": 13500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7799999714,
+    "high": 3.1800000668,
+    "low": 2.5099999905,
+    "close": 2.9949998856,
+    "volume": 5800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1800000668,
+    "high": 3.1800000668,
+    "low": 2.7599999905,
+    "close": 2.8849999905,
+    "volume": 38700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8599998951,
+    "high": 3.0,
+    "low": 2.8499999046,
+    "close": 2.8499999046,
+    "volume": 16600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0599999428,
+    "high": 3.0599999428,
+    "low": 2.8900001049,
+    "close": 2.8900001049,
+    "volume": 5000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9700000286,
+    "high": 2.9749999046,
+    "low": 2.9100000858,
+    "close": 2.9479999542,
+    "volume": 3500.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,07,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9400000572,
+    "high": 2.9400000572,
+    "low": 2.8499999046,
+    "close": 2.8499999046,
+    "volume": 4000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8800001144,
+    "high": 2.8800001144,
+    "low": 2.8800001144,
+    "close": 2.8800001144,
+    "volume": 500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.9500000477,
+    "low": 2.6700000763,
+    "close": 2.8399999142,
+    "volume": 14800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.7999999523,
+    "low": 2.6099998951,
+    "close": 2.6900000572,
+    "volume": 4800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6700000763,
+    "high": 2.6700000763,
+    "low": 2.3900001049,
+    "close": 2.5699999332,
+    "volume": 29000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6600000858,
+    "high": 2.6670000553,
+    "low": 2.375,
+    "close": 2.4000000954,
+    "volume": 10800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3299999237,
+    "high": 2.4990000725,
+    "low": 2.3299999237,
+    "close": 2.4990000725,
+    "volume": 4300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4800000191,
+    "high": 2.5599999428,
+    "low": 2.3699998856,
+    "close": 2.3699998856,
+    "volume": 3800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4000000954,
+    "high": 2.5399999619,
+    "low": 2.3599998951,
+    "close": 2.3599998951,
+    "volume": 2300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3599998951,
+    "high": 2.3900001049,
+    "low": 2.3599998951,
+    "close": 2.3900001049,
+    "volume": 600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6600000858,
+    "high": 2.6600000858,
+    "low": 2.5,
+    "close": 2.6600000858,
+    "volume": 8200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5399999619,
+    "high": 2.6449999809,
+    "low": 2.4900000095,
+    "close": 2.5,
+    "volume": 9300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4849998951,
+    "high": 2.5899999142,
+    "low": 2.4579999447,
+    "close": 2.5399999619,
+    "volume": 6600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5,
+    "high": 2.6199998856,
+    "low": 2.4279999733,
+    "close": 2.4279999733,
+    "volume": 3000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4279999733,
+    "high": 2.4279999733,
+    "low": 2.4279999733,
+    "close": 2.4279999733,
+    "volume": 0.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4300000668,
+    "high": 2.4700000286,
+    "low": 2.1800000668,
+    "close": 2.1800000668,
+    "volume": 7600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1150000095,
+    "high": 2.1800000668,
+    "low": 1.9800000191,
+    "close": 2.1770000458,
+    "volume": 9500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1900000572,
+    "high": 2.5,
+    "low": 2.1349999905,
+    "close": 2.5,
+    "volume": 28100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4500000477,
+    "high": 2.5999999046,
+    "low": 2.4360001087,
+    "close": 2.5550000668,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5,
+    "high": 2.5899999142,
+    "low": 2.5,
+    "close": 2.5199999809,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5,
+    "high": 2.5,
+    "low": 2.5,
+    "close": 2.5,
+    "volume": 2200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5799999237,
+    "high": 3.0,
+    "low": 2.5,
+    "close": 2.7400000095,
+    "volume": 12400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9749999046,
+    "high": 2.9749999046,
+    "low": 2.6540000439,
+    "close": 2.8399999142,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7200000286,
+    "high": 2.7300000191,
+    "low": 2.6700000763,
+    "close": 2.6700000763,
+    "volume": 1200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5499999523,
+    "high": 2.6559998989,
+    "low": 2.5,
+    "close": 2.6300001144,
+    "volume": 11100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6500000954,
+    "high": 2.6500000954,
+    "low": 2.5899999142,
+    "close": 2.6500000954,
+    "volume": 2000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7300000191,
+    "high": 2.7300000191,
+    "low": 2.5199999809,
+    "close": 2.5199999809,
+    "volume": 2300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,08,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.75,
+    "low": 2.4200000763,
+    "close": 2.5899999142,
+    "volume": 5300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5099999905,
+    "high": 2.6019999981,
+    "low": 2.4500000477,
+    "close": 2.6019999981,
+    "volume": 1600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6500000954,
+    "high": 2.6500000954,
+    "low": 2.6500000954,
+    "close": 2.6500000954,
+    "volume": 200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5280001163,
+    "high": 2.5280001163,
+    "low": 2.0539999008,
+    "close": 2.4400000572,
+    "volume": 17200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,08,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0099999905,
+    "high": 2.4700000286,
+    "low": 2.0099999905,
+    "close": 2.2599999905,
+    "volume": 13200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4449999332,
+    "high": 2.4449999332,
+    "low": 2.25,
+    "close": 2.25,
+    "volume": 9800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3599998951,
+    "high": 2.3599998951,
+    "low": 2.2699999809,
+    "close": 2.2699999809,
+    "volume": 800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2599999905,
+    "high": 2.375,
+    "low": 2.25,
+    "close": 2.2630000114,
+    "volume": 2200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2200000286,
+    "high": 2.2699999809,
+    "low": 2.0099999905,
+    "close": 2.0899999142,
+    "volume": 7600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1900000572,
+    "high": 2.1900000572,
+    "low": 2.0099999905,
+    "close": 2.0099999905,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0309998989,
+    "high": 2.2899999619,
+    "low": 2.0299999714,
+    "close": 2.1649999619,
+    "volume": 4600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2850000858,
+    "high": 2.2850000858,
+    "low": 2.2850000858,
+    "close": 2.2850000858,
+    "volume": 500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0299999714,
+    "high": 2.1099998951,
+    "low": 1.8099999428,
+    "close": 1.9700000286,
+    "volume": 18800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,09,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8930000067,
+    "high": 2.2249999046,
+    "low": 1.7899999619,
+    "close": 2.1900000572,
+    "volume": 24100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3699998856,
+    "high": 2.3699998856,
+    "low": 2.0899999142,
+    "close": 2.0899999142,
+    "volume": 21800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3220000267,
+    "high": 2.3220000267,
+    "low": 2.0999999046,
+    "close": 2.0999999046,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2100000381,
+    "high": 2.2400000095,
+    "low": 2.1500000954,
+    "close": 2.1700000763,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0399999619,
+    "high": 2.4470000267,
+    "low": 2.0199999809,
+    "close": 2.2400000095,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2799999714,
+    "high": 2.4400000572,
+    "low": 2.1500000954,
+    "close": 2.2799999714,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1600000858,
+    "high": 2.3299999237,
+    "low": 2.0299999714,
+    "close": 2.0399999619,
+    "volume": 12100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0499999523,
+    "high": 2.2890000343,
+    "low": 2.0499999523,
+    "close": 2.2249999046,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0899999142,
+    "high": 2.2899999619,
+    "low": 2.0320000648,
+    "close": 2.2809998989,
+    "volume": 1800.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,09,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2809998989,
+    "high": 2.2809998989,
+    "low": 2.2809998989,
+    "close": 2.2809998989,
+    "volume": 0.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2000000477,
+    "high": 2.2000000477,
+    "low": 2.0099999905,
+    "close": 2.0099999905,
+    "volume": 1100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,09,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2850000858,
+    "high": 2.2850000858,
+    "low": 2.1119999886,
+    "close": 2.1119999886,
+    "volume": 2000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2699999809,
+    "high": 2.2999999523,
+    "low": 2.1500000954,
+    "close": 2.1500000954,
+    "volume": 2500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1500000954,
+    "high": 2.4249999523,
+    "low": 2.0,
+    "close": 2.2999999523,
+    "volume": 23500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3039999008,
+    "high": 2.5999999046,
+    "low": 2.2999999523,
+    "close": 2.5999999046,
+    "volume": 17100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5999999046,
+    "high": 2.7249999046,
+    "low": 2.5999999046,
+    "close": 2.6500000954,
+    "volume": 6800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.9500000477,
+    "low": 2.5,
+    "close": 2.5,
+    "volume": 52800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5499999523,
+    "high": 2.8299999237,
+    "low": 2.5199999809,
+    "close": 2.5199999809,
+    "volume": 12100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7699999809,
+    "high": 2.7699999809,
+    "low": 2.4800000191,
+    "close": 2.5,
+    "volume": 24400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6080000401,
+    "high": 2.75,
+    "low": 2.5299999714,
+    "close": 2.6099998951,
+    "volume": 12700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5199999809,
+    "high": 2.7000000477,
+    "low": 2.5199999809,
+    "close": 2.5999999046,
+    "volume": 12900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5699999332,
+    "high": 2.7000000477,
+    "low": 2.5699999332,
+    "close": 2.7000000477,
+    "volume": 1000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6600000858,
+    "high": 2.7000000477,
+    "low": 2.6600000858,
+    "close": 2.7000000477,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5299999714,
+    "high": 2.7219998837,
+    "low": 2.5299999714,
+    "close": 2.5999999046,
+    "volume": 12100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6949999332,
+    "high": 2.7899999619,
+    "low": 2.5999999046,
+    "close": 2.7630000114,
+    "volume": 12600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5999999046,
+    "high": 2.7899999619,
+    "low": 2.5499999523,
+    "close": 2.7100000381,
+    "volume": 18400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6500000954,
+    "high": 2.7799999714,
+    "low": 2.5699999332,
+    "close": 2.75,
+    "volume": 14500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.7999999523,
+    "low": 2.6849999428,
+    "close": 2.7999999523,
+    "volume": 3400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.8180000782,
+    "low": 2.7999999523,
+    "close": 2.7999999523,
+    "volume": 3600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8299999237,
+    "high": 2.9200000763,
+    "low": 2.7999999523,
+    "close": 2.8450000286,
+    "volume": 22000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9279999733,
+    "high": 2.9279999733,
+    "low": 2.7999999523,
+    "close": 2.7999999523,
+    "volume": 1700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9019999504,
+    "high": 2.9200000763,
+    "low": 2.8099999428,
+    "close": 2.9000000954,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9100000858,
+    "high": 3.0999999046,
+    "low": 2.9100000858,
+    "close": 3.0099999905,
+    "volume": 23000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0,
+    "high": 3.0399999619,
+    "low": 2.9600000381,
+    "close": 3.0099999905,
+    "volume": 8700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9460000992,
+    "high": 3.0299999714,
+    "low": 2.9460000992,
+    "close": 3.013999939,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0399999619,
+    "high": 3.0399999619,
+    "low": 2.9500000477,
+    "close": 2.9500000477,
+    "volume": 5000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9000000954,
+    "high": 3.25,
+    "low": 2.9000000954,
+    "close": 3.0699999332,
+    "volume": 36000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9500000477,
+    "high": 3.0720000267,
+    "low": 2.9019999504,
+    "close": 2.9600000381,
+    "volume": 3400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0,
+    "high": 3.1500000954,
+    "low": 2.8800001144,
+    "close": 2.8800001144,
+    "volume": 5900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0299999714,
+    "high": 3.0299999714,
+    "low": 2.8199999332,
+    "close": 2.9619998932,
+    "volume": 1100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8599998951,
+    "high": 2.9739999771,
+    "low": 2.8099999428,
+    "close": 2.9330000877,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8059999943,
+    "high": 2.8499999046,
+    "low": 2.7079999447,
+    "close": 2.7079999447,
+    "volume": 8400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,11,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9600000381,
+    "high": 2.9600000381,
+    "low": 2.7100000381,
+    "close": 2.7799999714,
+    "volume": 8800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 2.7999999523,
+    "low": 2.7100000381,
+    "close": 2.75,
+    "volume": 8400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.7999999523,
+    "low": 2.75,
+    "close": 2.7999999523,
+    "volume": 9300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7699999809,
+    "high": 2.9500000477,
+    "low": 2.75,
+    "close": 2.8659999371,
+    "volume": 1900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7790000439,
+    "high": 2.7790000439,
+    "low": 2.75,
+    "close": 2.75,
+    "volume": 9000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,11,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.75,
+    "low": 2.75,
+    "close": 2.75,
+    "volume": 1700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7300000191,
+    "high": 2.8210000992,
+    "low": 2.7300000191,
+    "close": 2.7599999905,
+    "volume": 6400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7599999905,
+    "high": 2.8629999161,
+    "low": 2.75,
+    "close": 2.75,
+    "volume": 9700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7599999905,
+    "high": 2.7799999714,
+    "low": 2.7599999905,
+    "close": 2.7699999809,
+    "volume": 1300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7899999619,
+    "high": 2.7899999619,
+    "low": 2.7699999809,
+    "close": 2.7699999809,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7699999809,
+    "high": 2.7899999619,
+    "low": 2.75,
+    "close": 2.7599999905,
+    "volume": 4400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7300000191,
+    "high": 2.9500000477,
+    "low": 2.7300000191,
+    "close": 2.7599999905,
+    "volume": 3600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7300000191,
+    "high": 2.8299999237,
+    "low": 2.7300000191,
+    "close": 2.75,
+    "volume": 3500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.75,
+    "high": 2.8900001049,
+    "low": 2.5899999142,
+    "close": 2.6800000668,
+    "volume": 16200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6730000973,
+    "high": 2.7400000095,
+    "low": 2.5629999638,
+    "close": 2.7100000381,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6559998989,
+    "high": 2.75,
+    "low": 2.5840001106,
+    "close": 2.6549999714,
+    "volume": 1800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7599999905,
+    "high": 2.7599999905,
+    "low": 2.5599999428,
+    "close": 2.5999999046,
+    "volume": 5300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6400001049,
+    "high": 2.7000000477,
+    "low": 2.6199998856,
+    "close": 2.6199998856,
+    "volume": 5900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6300001144,
+    "high": 2.6710000038,
+    "low": 2.5750000477,
+    "close": 2.6099998951,
+    "volume": 1700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5559999943,
+    "high": 2.6099998951,
+    "low": 2.5499999523,
+    "close": 2.5499999523,
+    "volume": 3600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7599999905,
+    "high": 2.7599999905,
+    "low": 2.5499999523,
+    "close": 2.6199998856,
+    "volume": 26700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5699999332,
+    "high": 2.7200000286,
+    "low": 2.5499999523,
+    "close": 2.6199998856,
+    "volume": 4200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5599999428,
+    "high": 2.5599999428,
+    "low": 2.5599999428,
+    "close": 2.5599999428,
+    "volume": 200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5499999523,
+    "high": 2.5499999523,
+    "low": 2.5499999523,
+    "close": 2.5499999523,
+    "volume": 700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5499999523,
+    "high": 2.6349999905,
+    "low": 2.5099999905,
+    "close": 2.5099999905,
+    "volume": 11800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5499999523,
+    "high": 2.7149999142,
+    "low": 2.5399999619,
+    "close": 2.6700000763,
+    "volume": 6900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6429998875,
+    "high": 2.6429998875,
+    "low": 2.5399999619,
+    "close": 2.5399999619,
+    "volume": 9600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5499999523,
+    "high": 2.5610001087,
+    "low": 2.5,
+    "close": 2.5,
+    "volume": 12000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5,
+    "high": 2.5499999523,
+    "low": 2.3199999332,
+    "close": 2.3849999905,
+    "volume": 30800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3800001144,
+    "high": 2.3800001144,
+    "low": 2.0999999046,
+    "close": 2.0999999046,
+    "volume": 3700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2400000095,
+    "high": 2.2400000095,
+    "low": 2.2400000095,
+    "close": 2.2400000095,
+    "volume": 1500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1270000935,
+    "high": 2.2149999142,
+    "low": 2.0899999142,
+    "close": 2.0899999142,
+    "volume": 7400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0599999428,
+    "high": 2.0699999332,
+    "low": 2.0599999428,
+    "close": 2.0599999428,
+    "volume": 3200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1549999714,
+    "high": 2.1549999714,
+    "low": 1.9950000048,
+    "close": 1.9950000048,
+    "volume": 15900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.9600000381,
+    "high": 1.9900000095,
+    "low": 1.8400000334,
+    "close": 1.9900000095,
+    "volume": 2700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.9900000095,
+    "high": 1.9900000095,
+    "low": 1.7949999571,
+    "close": 1.8300000429,
+    "volume": 20600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8300000429,
+    "high": 1.8300000429,
+    "low": 1.7819999456,
+    "close": 1.7899999619,
+    "volume": 3900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.75,
+    "high": 1.7949999571,
+    "low": 1.6849999428,
+    "close": 1.7250000238,
+    "volume": 23900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.7000000477,
+    "high": 1.7719999552,
+    "low": 1.5099999905,
+    "close": 1.6699999571,
+    "volume": 15700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.6900000572,
+    "high": 4.0999999046,
+    "low": 1.6900000572,
+    "close": 2.6700000763,
+    "volume": 3067400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.4900000095,
+    "high": 2.5999999046,
+    "low": 2.0499999523,
+    "close": 2.2000000477,
+    "volume": 413500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.3900001049,
+    "high": 2.5,
+    "low": 2.1740000248,
+    "close": 2.3599998951,
+    "volume": 102400.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,01,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.2799999714,
+    "high": 2.4300000668,
+    "low": 2.1300001144,
+    "close": 2.2000000477,
+    "volume": 75600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.1900000572,
+    "high": 2.1900000572,
+    "low": 1.9700000286,
+    "close": 2.0999999046,
+    "volume": 56400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0399999619,
+    "high": 2.1500000954,
+    "low": 1.9299999475,
+    "close": 2.0599999428,
+    "volume": 24600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.0099999905,
+    "high": 2.0099999905,
+    "low": 1.6900000572,
+    "close": 1.8700000048,
+    "volume": 41800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8200000525,
+    "high": 1.9299999475,
+    "low": 1.7999999523,
+    "close": 1.8899999857,
+    "volume": 17100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.9900000095,
+    "high": 1.9900000095,
+    "low": 1.8300000429,
+    "close": 1.8600000143,
+    "volume": 21100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8500000238,
+    "high": 1.9500000477,
+    "low": 1.8300000429,
+    "close": 1.9049999714,
+    "volume": 21500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.9049999714,
+    "high": 1.9500000477,
+    "low": 1.8600000143,
+    "close": 1.9099999666,
+    "volume": 6200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8500000238,
+    "high": 1.9650000334,
+    "low": 1.8220000267,
+    "close": 1.9400000572,
+    "volume": 16000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.9400000572,
+    "high": 1.9589999914,
+    "low": 1.7999999523,
+    "close": 1.8099999428,
+    "volume": 65800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 1.8200000525,
+    "high": 1.8200000525,
+    "low": 1.6100000143,
+    "close": 1.6900000572,
+    "volume": 50500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3299999237,
+    "high": 6.0,
+    "low": 2.6800000668,
+    "close": 5.5199999809,
+    "volume": 237548100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.2300000191,
+    "high": 5.5199999809,
+    "low": 3.5799999237,
+    "close": 3.9500000477,
+    "volume": 5836600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.8900001049,
+    "high": 4.4400000572,
+    "low": 3.75,
+    "close": 3.9600000381,
+    "volume": 1207200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.8800001144,
+    "high": 4.0460000038,
+    "low": 3.3800001144,
+    "close": 3.8399999142,
+    "volume": 421100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.9800000191,
+    "high": 5.8000001907,
+    "low": 3.6700000763,
+    "close": 3.8699998856,
+    "volume": 2289000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.8099999428,
+    "high": 4.3499999046,
+    "low": 3.7999999523,
+    "close": 4.0799999237,
+    "volume": 220300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.9800000191,
+    "high": 4.0710000992,
+    "low": 3.3900001049,
+    "close": 3.3900001049,
+    "volume": 283900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.6099998951,
+    "high": 3.6300001144,
+    "low": 2.8980000019,
+    "close": 3.0599999428,
+    "volume": 169000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9700000286,
+    "high": 3.0499999523,
+    "low": 2.9400000572,
+    "close": 2.9500000477,
+    "volume": 47400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,02,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9100000858,
+    "high": 3.4990000725,
+    "low": 2.8199999332,
+    "close": 3.3099999428,
+    "volume": 173600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.4200000763,
+    "high": 3.5999999046,
+    "low": 3.1800000668,
+    "close": 3.4600000381,
+    "volume": 428300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3900001049,
+    "high": 3.4100000858,
+    "low": 2.9100000858,
+    "close": 2.9900000095,
+    "volume": 267400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,02,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9700000286,
+    "high": 3.4500000477,
+    "low": 2.9700000286,
+    "close": 3.2699999809,
+    "volume": 145100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2699999809,
+    "high": 3.4400000572,
+    "low": 3.2100000381,
+    "close": 3.3900001049,
+    "volume": 51700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3199999332,
+    "high": 3.3800001144,
+    "low": 3.25,
+    "close": 3.3399999142,
+    "volume": 117300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2699999809,
+    "high": 3.4000000954,
+    "low": 3.1500000954,
+    "close": 3.2300000191,
+    "volume": 54700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1700000763,
+    "high": 3.2799999714,
+    "low": 3.1600000858,
+    "close": 3.2699999809,
+    "volume": 88200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2000000477,
+    "high": 3.3499999046,
+    "low": 3.2000000477,
+    "close": 3.2799999714,
+    "volume": 69800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2100000381,
+    "high": 3.6199998856,
+    "low": 3.2000000477,
+    "close": 3.4000000954,
+    "volume": 276400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3699998856,
+    "high": 3.5999999046,
+    "low": 3.3499999046,
+    "close": 3.5999999046,
+    "volume": 117000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.5399999619,
+    "high": 3.5989999771,
+    "low": 3.3699998856,
+    "close": 3.4200000763,
+    "volume": 54000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3900001049,
+    "high": 3.5799999237,
+    "low": 3.1700000763,
+    "close": 3.3599998951,
+    "volume": 97000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2899999619,
+    "high": 3.2999999523,
+    "low": 3.0999999046,
+    "close": 3.2799999714,
+    "volume": 63400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.25,
+    "high": 3.382999897,
+    "low": 3.1199998856,
+    "close": 3.2699999809,
+    "volume": 49800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2000000477,
+    "high": 3.2400000095,
+    "low": 3.0,
+    "close": 3.1300001144,
+    "volume": 47800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0699999332,
+    "high": 3.2999999523,
+    "low": 2.7899999619,
+    "close": 3.1500000954,
+    "volume": 81800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0299999714,
+    "high": 3.1649999619,
+    "low": 2.9210000038,
+    "close": 3.1199998856,
+    "volume": 12900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0599999428,
+    "high": 3.1800000668,
+    "low": 2.9000000954,
+    "close": 2.9800000191,
+    "volume": 15000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9200000763,
+    "high": 3.1700000763,
+    "low": 2.9010000229,
+    "close": 3.1199998856,
+    "volume": 39700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0599999428,
+    "high": 3.4200000763,
+    "low": 2.8900001049,
+    "close": 3.4000000954,
+    "volume": 55300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3299999237,
+    "high": 3.5099999905,
+    "low": 3.25,
+    "close": 3.4100000858,
+    "volume": 35900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3900001049,
+    "high": 3.75,
+    "low": 3.2999999523,
+    "close": 3.4600000381,
+    "volume": 85300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9019999504,
+    "high": 3.3399999142,
+    "low": 2.4800000191,
+    "close": 3.0599999428,
+    "volume": 3222900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,03,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6400001049,
+    "high": 2.9800000191,
+    "low": 2.6199998856,
+    "close": 2.7400000095,
+    "volume": 387200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.5599999428,
+    "high": 3.25,
+    "low": 2.5599999428,
+    "close": 3.0,
+    "volume": 172500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.9500000477,
+    "high": 3.2300000191,
+    "low": 2.8299999237,
+    "close": 3.0999999046,
+    "volume": 119900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0999999046,
+    "high": 3.4130001068,
+    "low": 3.0,
+    "close": 3.2699999809,
+    "volume": 77900.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,03,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2699999809,
+    "high": 3.5499999523,
+    "low": 3.1800000668,
+    "close": 3.5499999523,
+    "volume": 72400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.5799999237,
+    "high": 3.8699998856,
+    "low": 3.3599998951,
+    "close": 3.7100000381,
+    "volume": 65500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.8199999332,
+    "high": 3.8800001144,
+    "low": 3.3459999561,
+    "close": 3.6600000858,
+    "volume": 39400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.5399999619,
+    "high": 3.8599998951,
+    "low": 3.4049999714,
+    "close": 3.7999999523,
+    "volume": 58100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.7400000095,
+    "high": 4.0199999809,
+    "low": 3.6540000439,
+    "close": 4.0199999809,
+    "volume": 93100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.0999999046,
+    "high": 4.1100001335,
+    "low": 3.6900000572,
+    "close": 4.0799999237,
+    "volume": 81600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.9800000191,
+    "high": 3.9800000191,
+    "low": 3.5099999905,
+    "close": 3.7300000191,
+    "volume": 46600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.6300001144,
+    "high": 3.6600000858,
+    "low": 3.3110001087,
+    "close": 3.3499999046,
+    "volume": 41800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,03,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.4240000248,
+    "high": 3.7000000477,
+    "low": 3.4240000248,
+    "close": 3.7000000477,
+    "volume": 11700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.7000000477,
+    "high": 3.7000000477,
+    "low": 3.2999999523,
+    "close": 3.4900000095,
+    "volume": 28900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,03,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3800001144,
+    "high": 3.5599999428,
+    "low": 3.0699999332,
+    "close": 3.4000000954,
+    "volume": 65500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3199999332,
+    "high": 3.8399999142,
+    "low": 3.0999999046,
+    "close": 3.7300000191,
+    "volume": 55400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.5699999332,
+    "high": 3.7899999619,
+    "low": 3.3039999008,
+    "close": 3.4900000095,
+    "volume": 126900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,04,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3199999332,
+    "high": 3.4839999676,
+    "low": 3.0799999237,
+    "close": 3.1500000954,
+    "volume": 24600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0799999237,
+    "high": 3.1940000057,
+    "low": 2.9000000954,
+    "close": 2.9000000954,
+    "volume": 29400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.7999999523,
+    "high": 3.0899999142,
+    "low": 2.7300000191,
+    "close": 2.7999999523,
+    "volume": 101000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8499999046,
+    "high": 2.8499999046,
+    "low": 2.5999999046,
+    "close": 2.6099998951,
+    "volume": 73600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.6099998951,
+    "high": 3.0,
+    "low": 2.6099998951,
+    "close": 2.8399999142,
+    "volume": 97000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0260000229,
+    "high": 3.0260000229,
+    "low": 2.7300000191,
+    "close": 2.8900001049,
+    "volume": 58700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8299999237,
+    "high": 3.0,
+    "low": 2.8299999237,
+    "close": 2.8800001144,
+    "volume": 6900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 2.8199999332,
+    "high": 3.2899999619,
+    "low": 2.8199999332,
+    "close": 3.0999999046,
+    "volume": 28200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0999999046,
+    "high": 3.4400000572,
+    "low": 3.0499999523,
+    "close": 3.2599999905,
+    "volume": 94900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3599998951,
+    "high": 3.4000000954,
+    "low": 3.2980000973,
+    "close": 3.3199999332,
+    "volume": 7700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3699998856,
+    "high": 3.4000000954,
+    "low": 3.2699999809,
+    "close": 3.3900001049,
+    "volume": 9600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2999999523,
+    "high": 3.3039999008,
+    "low": 3.0499999523,
+    "close": 3.2379999161,
+    "volume": 14000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1400001049,
+    "high": 3.2899999619,
+    "low": 3.0499999523,
+    "close": 3.2300000191,
+    "volume": 101100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1099998951,
+    "high": 3.2899999619,
+    "low": 3.0999999046,
+    "close": 3.1800000668,
+    "volume": 12600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1700000763,
+    "high": 3.2999999523,
+    "low": 3.1099998951,
+    "close": 3.2899999619,
+    "volume": 11700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2829999924,
+    "high": 3.2839999199,
+    "low": 3.1099998951,
+    "close": 3.25,
+    "volume": 9900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1400001049,
+    "high": 3.5,
+    "low": 3.1400001049,
+    "close": 3.2200000286,
+    "volume": 71300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1500000954,
+    "high": 3.4200000763,
+    "low": 3.0,
+    "close": 3.2200000286,
+    "volume": 21500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2000000477,
+    "high": 3.3059999943,
+    "low": 3.1510000229,
+    "close": 3.25,
+    "volume": 6400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.3099999428,
+    "high": 3.3699998856,
+    "low": 3.1689999104,
+    "close": 3.2699999809,
+    "volume": 14700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2999999523,
+    "high": 3.4600000381,
+    "low": 3.1600000858,
+    "close": 3.3599998951,
+    "volume": 33900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.4100000858,
+    "high": 3.4100000858,
+    "low": 3.2300000191,
+    "close": 3.2400000095,
+    "volume": 5200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2000000477,
+    "high": 3.2899999619,
+    "low": 3.1400001049,
+    "close": 3.1600000858,
+    "volume": 13500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0799999237,
+    "high": 3.1800000668,
+    "low": 3.0,
+    "close": 3.1199998856,
+    "volume": 23400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.125,
+    "high": 3.25,
+    "low": 2.8199999332,
+    "close": 3.1099998951,
+    "volume": 44600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.0999999046,
+    "high": 3.4900000095,
+    "low": 3.0050001144,
+    "close": 3.25,
+    "volume": 21800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.1600000858,
+    "high": 3.4549999237,
+    "low": 3.1099998951,
+    "close": 3.2899999619,
+    "volume": 39200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.2200000286,
+    "high": 3.5,
+    "low": 3.0599999428,
+    "close": 3.4000000954,
+    "volume": 109800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.4400000572,
+    "high": 3.5,
+    "low": 3.3299999237,
+    "close": 3.4800000191,
+    "volume": 13600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.4700000286,
+    "high": 3.5550000668,
+    "low": 3.3519999981,
+    "close": 3.5499999523,
+    "volume": 47800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.5599999428,
+    "high": 3.5999999046,
+    "low": 3.4600000381,
+    "close": 3.4600000381,
+    "volume": 21700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.4500000477,
+    "high": 3.5150001049,
+    "low": 3.4000000954,
+    "close": 3.4600000381,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.4200000763,
+    "high": 3.5999999046,
+    "low": 3.4200000763,
+    "close": 3.5599999428,
+    "volume": 7600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.5799999237,
+    "high": 3.5950000286,
+    "low": 3.4300000668,
+    "close": 3.4300000668,
+    "volume": 9400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.4309999943,
+    "high": 3.7000000477,
+    "low": 3.4309999943,
+    "close": 3.5899999142,
+    "volume": 59300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.5599999428,
+    "high": 4.0,
+    "low": 3.4509999752,
+    "close": 3.8099999428,
+    "volume": 67000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.9500000477,
+    "high": 4.0700001717,
+    "low": 3.8099999428,
+    "close": 4.0300002098,
+    "volume": 74100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.0399999619,
+    "high": 4.0500001907,
+    "low": 3.9700000286,
+    "close": 4.0,
+    "volume": 17300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.0500001907,
+    "high": 4.0700001717,
+    "low": 3.9500000477,
+    "close": 3.9900000095,
+    "volume": 84400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.0599999428,
+    "high": 4.0599999428,
+    "low": 3.7320001125,
+    "close": 3.7599999905,
+    "volume": 32700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.8499999046,
+    "high": 4.0409998894,
+    "low": 3.8499999046,
+    "close": 3.9000000954,
+    "volume": 22400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.9000000954,
+    "high": 4.0,
+    "low": 3.8800001144,
+    "close": 3.8800001144,
+    "volume": 6300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 3.8499999046,
+    "high": 4.3299999237,
+    "low": 3.8499999046,
+    "close": 4.1500000954,
+    "volume": 72800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.2100000381,
+    "high": 4.5,
+    "low": 4.1820001602,
+    "close": 4.3899998665,
+    "volume": 36800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.4899997711,
+    "high": 5.1900000572,
+    "low": 4.3000001907,
+    "close": 5.1900000572,
+    "volume": 173400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.1799998283,
+    "high": 5.1999998093,
+    "low": 4.8099999428,
+    "close": 4.8200001717,
+    "volume": 136600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.8000001907,
+    "high": 4.8499999046,
+    "low": 4.5999999046,
+    "close": 4.7509999275,
+    "volume": 43800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 4.75,
+    "high": 5.1999998093,
+    "low": 4.75,
+    "close": 5.1999998093,
+    "volume": 47400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.1999998093,
+    "high": 5.3990001678,
+    "low": 5.0300002098,
+    "close": 5.0399999619,
+    "volume": 63300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.0199999809,
+    "high": 5.3200001717,
+    "low": 4.8699998856,
+    "close": 5.0599999428,
+    "volume": 31800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.25,
+    "high": 6.4899997711,
+    "low": 5.0710000992,
+    "close": 6.4899997711,
+    "volume": 457100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.4499998093,
+    "high": 6.4499998093,
+    "low": 5.7300000191,
+    "close": 5.7300000191,
+    "volume": 67100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.6849999428,
+    "high": 5.8439998627,
+    "low": 5.3800001144,
+    "close": 5.75,
+    "volume": 75800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.75,
+    "high": 6.8000001907,
+    "low": 5.4279999733,
+    "close": 5.7100000381,
+    "volume": 231600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.75,
+    "high": 6.7600002289,
+    "low": 5.3400001526,
+    "close": 5.5,
+    "volume": 246200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.6500000954,
+    "high": 6.0999999046,
+    "low": 4.9749999046,
+    "close": 5.7199997902,
+    "volume": 223200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.0500001907,
+    "high": 6.0500001907,
+    "low": 5.4499998093,
+    "close": 5.6799998283,
+    "volume": 20800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.6100001335,
+    "high": 6.0500001907,
+    "low": 5.3520002365,
+    "close": 5.75,
+    "volume": 157500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.8000001907,
+    "high": 5.9299998283,
+    "low": 5.5199999809,
+    "close": 5.9000000954,
+    "volume": 51900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.9800000191,
+    "high": 6.2399997711,
+    "low": 5.7779998779,
+    "close": 5.8899998665,
+    "volume": 102100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.9699997902,
+    "high": 6.4600000381,
+    "low": 5.5419998169,
+    "close": 5.9800000191,
+    "volume": 372500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.9400000572,
+    "high": 6.5,
+    "low": 5.6900000572,
+    "close": 6.3400001526,
+    "volume": 66100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.3499999046,
+    "high": 7.25,
+    "low": 6.1599998474,
+    "close": 7.1199998856,
+    "volume": 226700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.0700001717,
+    "high": 7.6849999428,
+    "low": 6.8099999428,
+    "close": 7.5749998093,
+    "volume": 158800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.5999999046,
+    "high": 7.5999999046,
+    "low": 7.0599999428,
+    "close": 7.4000000954,
+    "volume": 45700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.4000000954,
+    "high": 7.5999999046,
+    "low": 7.2690000534,
+    "close": 7.3200001717,
+    "volume": 32600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.4200000763,
+    "high": 8.3900003433,
+    "low": 7.3220000267,
+    "close": 8.3500003815,
+    "volume": 162000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.3800001144,
+    "high": 8.7279996872,
+    "low": 8.0200004578,
+    "close": 8.5200004578,
+    "volume": 143400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.4600000381,
+    "high": 9.029999733,
+    "low": 8.3199996948,
+    "close": 8.8199996948,
+    "volume": 110900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.9399995804,
+    "high": 9.0,
+    "low": 8.6499996185,
+    "close": 8.9499998093,
+    "volume": 70200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8950004578,
+    "high": 9.5,
+    "low": 8.4429998398,
+    "close": 9.4650001526,
+    "volume": 147500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.5,
+    "high": 9.5,
+    "low": 7.9010000229,
+    "close": 8.3500003815,
+    "volume": 161200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.470000267,
+    "high": 8.7849998474,
+    "low": 7.4539999962,
+    "close": 7.7399997711,
+    "volume": 115000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.75,
+    "high": 8.7600002289,
+    "low": 7.75,
+    "close": 8.4499998093,
+    "volume": 90300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.4499998093,
+    "high": 8.5550003052,
+    "low": 7.5799999237,
+    "close": 7.6399998665,
+    "volume": 67600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.6199998856,
+    "high": 7.9299998283,
+    "low": 7.3899998665,
+    "close": 7.5,
+    "volume": 26300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.5,
+    "high": 7.9130001068,
+    "low": 7.0650000572,
+    "close": 7.3000001907,
+    "volume": 133700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,07,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.3699998856,
+    "high": 7.4899997711,
+    "low": 7.3000001907,
+    "close": 7.4499998093,
+    "volume": 48000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.4499998093,
+    "high": 7.8499999046,
+    "low": 7.4000000954,
+    "close": 7.6199998856,
+    "volume": 42900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.6999998093,
+    "high": 7.8359999657,
+    "low": 7.3410000801,
+    "close": 7.5500001907,
+    "volume": 81400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.5500001907,
+    "high": 8.0500001907,
+    "low": 7.5199999809,
+    "close": 7.5300002098,
+    "volume": 73600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.5300002098,
+    "high": 8.0,
+    "low": 7.3499999046,
+    "close": 7.4499998093,
+    "volume": 44500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,08,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.2600002289,
+    "high": 7.4299998283,
+    "low": 7.0,
+    "close": 7.0799999237,
+    "volume": 61400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.2300000191,
+    "high": 7.4000000954,
+    "low": 7.0549998283,
+    "close": 7.1300001144,
+    "volume": 20000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.2899999619,
+    "high": 7.75,
+    "low": 7.0399999619,
+    "close": 7.6300001144,
+    "volume": 27600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.6799998283,
+    "high": 7.6799998283,
+    "low": 7.2300000191,
+    "close": 7.4000000954,
+    "volume": 66600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.4000000954,
+    "high": 7.4000000954,
+    "low": 6.5149998665,
+    "close": 6.6900000572,
+    "volume": 55000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.5999999046,
+    "high": 7.1700000763,
+    "low": 6.3600001335,
+    "close": 6.5399999619,
+    "volume": 44200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.5300002098,
+    "high": 7.3000001907,
+    "low": 6.5300002098,
+    "close": 7.0999999046,
+    "volume": 57700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.1700000763,
+    "high": 7.2899999619,
+    "low": 6.8000001907,
+    "close": 6.8000001907,
+    "volume": 29900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.8000001907,
+    "high": 7.0609998703,
+    "low": 6.4800000191,
+    "close": 6.5799999237,
+    "volume": 57700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.5900001526,
+    "high": 6.7800002098,
+    "low": 6.5,
+    "close": 6.5500001907,
+    "volume": 24800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.3600001335,
+    "high": 6.875,
+    "low": 6.3600001335,
+    "close": 6.7699999809,
+    "volume": 5600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.7600002289,
+    "high": 6.896999836,
+    "low": 6.6199998856,
+    "close": 6.7800002098,
+    "volume": 17300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.1100001335,
+    "high": 7.1100001335,
+    "low": 6.1199998856,
+    "close": 6.2699999809,
+    "volume": 92200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.3899998665,
+    "high": 6.5300002098,
+    "low": 6.3000001907,
+    "close": 6.3400001526,
+    "volume": 27200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.3099999428,
+    "high": 6.4099998474,
+    "low": 6.1100001335,
+    "close": 6.1500000954,
+    "volume": 33000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.1999998093,
+    "high": 6.8499999046,
+    "low": 6.1999998093,
+    "close": 6.4899997711,
+    "volume": 36500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.3550000191,
+    "high": 6.4000000954,
+    "low": 5.9099998474,
+    "close": 6.0,
+    "volume": 56500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.9000000954,
+    "high": 6.3249998093,
+    "low": 5.9000000954,
+    "close": 6.2150001526,
+    "volume": 74900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.1999998093,
+    "high": 6.2239999771,
+    "low": 5.6399998665,
+    "close": 5.7100000381,
+    "volume": 57000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.7199997902,
+    "high": 6.7870001793,
+    "low": 5.6900000572,
+    "close": 6.3699998856,
+    "volume": 103800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.3800001144,
+    "high": 6.4800000191,
+    "low": 6.0999999046,
+    "close": 6.3000001907,
+    "volume": 40800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.3000001907,
+    "high": 6.3000001907,
+    "low": 6.0500001907,
+    "close": 6.25,
+    "volume": 36700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.1500000954,
+    "high": 6.4600000381,
+    "low": 6.1199998856,
+    "close": 6.1550002098,
+    "volume": 33900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.1900000572,
+    "high": 6.3520002365,
+    "low": 6.0869998932,
+    "close": 6.2750000954,
+    "volume": 21900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.4000000954,
+    "high": 6.5850000381,
+    "low": 6.2550001144,
+    "close": 6.4400000572,
+    "volume": 22700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.4600000381,
+    "high": 6.7399997711,
+    "low": 6.3099999428,
+    "close": 6.7100000381,
+    "volume": 41400.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,09,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.5500001907,
+    "high": 6.7399997711,
+    "low": 6.5,
+    "close": 6.6750001907,
+    "volume": 28100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.6950001717,
+    "high": 6.8400001526,
+    "low": 6.5700001717,
+    "close": 6.7399997711,
+    "volume": 31500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.6700000763,
+    "high": 6.6799998283,
+    "low": 6.4200000763,
+    "close": 6.5599999428,
+    "volume": 11800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.7810001373,
+    "high": 6.7810001373,
+    "low": 6.498000145,
+    "close": 6.6500000954,
+    "volume": 15000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.6599998474,
+    "high": 6.6599998474,
+    "low": 6.1999998093,
+    "close": 6.2100000381,
+    "volume": 33000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,09,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.2199997902,
+    "high": 6.4200000763,
+    "low": 5.9499998093,
+    "close": 6.0500001907,
+    "volume": 27800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.0999999046,
+    "high": 6.5500001907,
+    "low": 5.9499998093,
+    "close": 6.5,
+    "volume": 149600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.6599998474,
+    "high": 6.7249999046,
+    "low": 6.2810001373,
+    "close": 6.4749999046,
+    "volume": 63800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.4250001907,
+    "high": 6.8200001717,
+    "low": 6.3169999123,
+    "close": 6.7399997711,
+    "volume": 69300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.8000001907,
+    "high": 6.8000001907,
+    "low": 6.2699999809,
+    "close": 6.3600001335,
+    "volume": 36200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.2600002289,
+    "high": 6.2800002098,
+    "low": 6.0700001717,
+    "close": 6.0700001717,
+    "volume": 27300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.3099999428,
+    "high": 6.4000000954,
+    "low": 6.0999999046,
+    "close": 6.25,
+    "volume": 29500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.2600002289,
+    "high": 6.3899998665,
+    "low": 6.0250000954,
+    "close": 6.0770001411,
+    "volume": 56400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.1500000954,
+    "high": 6.2800002098,
+    "low": 6.1069998741,
+    "close": 6.2680001259,
+    "volume": 20400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.2199997902,
+    "high": 6.25,
+    "low": 6.0700001717,
+    "close": 6.1199998856,
+    "volume": 20100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.1100001335,
+    "high": 6.1199998856,
+    "low": 5.9200000763,
+    "close": 5.9200000763,
+    "volume": 7100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.9200000763,
+    "high": 6.2899999619,
+    "low": 5.9200000763,
+    "close": 6.0900001526,
+    "volume": 11300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.0500001907,
+    "high": 6.2899999619,
+    "low": 6.0399999619,
+    "close": 6.1199998856,
+    "volume": 12600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 5.9499998093,
+    "high": 6.257999897,
+    "low": 5.9499998093,
+    "close": 6.0599999428,
+    "volume": 14800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.1900000572,
+    "high": 6.4629998207,
+    "low": 6.0999999046,
+    "close": 6.3600001335,
+    "volume": 30200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.2899999619,
+    "high": 6.8000001907,
+    "low": 6.2899999619,
+    "close": 6.7880001068,
+    "volume": 44400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.4000000954,
+    "high": 8.8400001526,
+    "low": 7.2199997902,
+    "close": 8.8400001526,
+    "volume": 790300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.0,
+    "high": 9.4200000763,
+    "low": 8.1999998093,
+    "close": 8.9300003052,
+    "volume": 447800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.279999733,
+    "high": 9.3299999237,
+    "low": 7.8499999046,
+    "close": 8.1499996185,
+    "volume": 334500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.1199998856,
+    "high": 13.9499998093,
+    "low": 7.5100002289,
+    "close": 12.1800003052,
+    "volume": 5152800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.345000267,
+    "high": 16.9899997711,
+    "low": 9.4499998093,
+    "close": 14.8100004196,
+    "volume": 1591800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 17.2299995422,
+    "high": 17.75,
+    "low": 13.0450000763,
+    "close": 13.4099998474,
+    "volume": 1047700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.3299999237,
+    "high": 13.3999996185,
+    "low": 9.9899997711,
+    "close": 10.6899995804,
+    "volume": 962200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.5399999619,
+    "high": 10.8900003433,
+    "low": 9.1599998474,
+    "close": 10.3100004196,
+    "volume": 429700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.75,
+    "high": 11.1499996185,
+    "low": 9.625,
+    "close": 10.0200004578,
+    "volume": 207600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.9399995804,
+    "high": 9.9399995804,
+    "low": 8.8999996185,
+    "close": 9.4899997711,
+    "volume": 328900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.2100000381,
+    "high": 10.3809995651,
+    "low": 7.7800002098,
+    "close": 8.3900003433,
+    "volume": 940700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,10,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.6000003815,
+    "high": 9.75,
+    "low": 8.6000003815,
+    "close": 9.6199998856,
+    "volume": 269000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.970000267,
+    "high": 10.0200004578,
+    "low": 9.2299995422,
+    "close": 9.7600002289,
+    "volume": 204200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.4200000763,
+    "high": 9.4870004654,
+    "low": 8.4899997711,
+    "close": 8.5,
+    "volume": 202300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,10,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.0500001907,
+    "high": 9.3900003433,
+    "low": 8.1199998856,
+    "close": 8.3199996948,
+    "volume": 214600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.9400000572,
+    "high": 8.75,
+    "low": 7.9400000572,
+    "close": 8.0600004196,
+    "volume": 703800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.1199998856,
+    "high": 9.5900001526,
+    "low": 7.8800001144,
+    "close": 9.2100000381,
+    "volume": 363300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.5200004578,
+    "high": 9.5229997635,
+    "low": 8.5200004578,
+    "close": 9.5,
+    "volume": 224100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.3100004196,
+    "high": 9.3159999847,
+    "low": 8.220000267,
+    "close": 8.2700004578,
+    "volume": 202400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,11,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.8099999428,
+    "high": 8.1899995804,
+    "low": 7.2800002098,
+    "close": 7.4899997711,
+    "volume": 190700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.3600001335,
+    "high": 7.6669998169,
+    "low": 7.2800002098,
+    "close": 7.4299998283,
+    "volume": 76500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.3600001335,
+    "high": 7.5700001717,
+    "low": 6.6900000572,
+    "close": 6.8000001907,
+    "volume": 130200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.5,
+    "high": 7.2100000381,
+    "low": 6.3860001564,
+    "close": 7.1500000954,
+    "volume": 120500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.4000000954,
+    "high": 7.5999999046,
+    "low": 6.9019999504,
+    "close": 7.1199998856,
+    "volume": 101800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.0500001907,
+    "high": 7.8699998856,
+    "low": 7.0500001907,
+    "close": 7.6199998856,
+    "volume": 185800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.7199997902,
+    "high": 7.7699999809,
+    "low": 7.4899997711,
+    "close": 7.5,
+    "volume": 117600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.5,
+    "high": 7.8499999046,
+    "low": 7.5,
+    "close": 7.5549998283,
+    "volume": 109600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.5,
+    "high": 7.6199998856,
+    "low": 6.8899998665,
+    "close": 7.5599999428,
+    "volume": 241300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.5,
+    "high": 7.9790000916,
+    "low": 7.0599999428,
+    "close": 7.3200001717,
+    "volume": 79000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.2600002289,
+    "high": 7.4899997711,
+    "low": 7.0399999619,
+    "close": 7.3099999428,
+    "volume": 102100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.2899999619,
+    "high": 7.9819998741,
+    "low": 7.2899999619,
+    "close": 7.6100001335,
+    "volume": 116300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.9200000763,
+    "high": 7.9200000763,
+    "low": 6.3499999046,
+    "close": 6.3550000191,
+    "volume": 108800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.3600001335,
+    "high": 6.5570001602,
+    "low": 6.0,
+    "close": 6.5199999809,
+    "volume": 88300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.4499998093,
+    "high": 6.7800002098,
+    "low": 6.1700000763,
+    "close": 6.5100002289,
+    "volume": 38500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.4600000381,
+    "high": 6.7249999046,
+    "low": 6.2880001068,
+    "close": 6.6900000572,
+    "volume": 91400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.7399997711,
+    "high": 6.8699998856,
+    "low": 6.3299999237,
+    "close": 6.3800001144,
+    "volume": 33800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.4099998474,
+    "high": 7.2899999619,
+    "low": 6.4099998474,
+    "close": 6.9800000191,
+    "volume": 43600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.8200001717,
+    "high": 6.9699997902,
+    "low": 6.5,
+    "close": 6.8299999237,
+    "volume": 35400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.8400001526,
+    "high": 7.5799999237,
+    "low": 6.8200001717,
+    "close": 7.2300000191,
+    "volume": 63500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.2100000381,
+    "high": 7.5,
+    "low": 7.0300002098,
+    "close": 7.4299998283,
+    "volume": 62800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.4099998474,
+    "high": 8.5699996948,
+    "low": 7.4099998474,
+    "close": 8.3100004196,
+    "volume": 144400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.3100004196,
+    "high": 9.3299999237,
+    "low": 7.8800001144,
+    "close": 8.779999733,
+    "volume": 143500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8999996185,
+    "high": 9.1999998093,
+    "low": 7.757999897,
+    "close": 7.9000000954,
+    "volume": 244200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.2299995422,
+    "high": 10.5,
+    "low": 8.2299995422,
+    "close": 9.9799995422,
+    "volume": 571700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.4600000381,
+    "high": 10.5699996948,
+    "low": 9.720000267,
+    "close": 10.2550001144,
+    "volume": 314800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.1000003815,
+    "high": 10.25,
+    "low": 8.6999998093,
+    "close": 9.279999733,
+    "volume": 267600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.2100000381,
+    "high": 10.0,
+    "low": 9.0,
+    "close": 9.1750001907,
+    "volume": 98800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.2299995422,
+    "high": 9.3879995346,
+    "low": 8.0,
+    "close": 8.1499996185,
+    "volume": 142100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,12,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.0600004196,
+    "high": 8.970000267,
+    "low": 7.9099998474,
+    "close": 8.1999998093,
+    "volume": 250100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.0699996948,
+    "high": 8.2600002289,
+    "low": 7.5500001907,
+    "close": 7.5599999428,
+    "volume": 80900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.7399997711,
+    "high": 8.8879995346,
+    "low": 7.5,
+    "close": 8.0900001526,
+    "volume": 150700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.4149999619,
+    "high": 8.5,
+    "low": 8.1000003815,
+    "close": 8.1599998474,
+    "volume": 76100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.25,
+    "high": 8.5069999695,
+    "low": 8.1599998474,
+    "close": 8.4300003052,
+    "volume": 50700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.2899999619,
+    "high": 8.5699996948,
+    "low": 8.0600004196,
+    "close": 8.5200004578,
+    "volume": 41300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.5,
+    "high": 8.6999998093,
+    "low": 8.2899999619,
+    "close": 8.3100004196,
+    "volume": 51000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.3699998856,
+    "high": 8.5620002747,
+    "low": 8.3000001907,
+    "close": 8.470000267,
+    "volume": 19900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.2600002289,
+    "high": 8.4849996567,
+    "low": 8.0900001526,
+    "close": 8.0900001526,
+    "volume": 30600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,12,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.1199998856,
+    "high": 8.3500003815,
+    "low": 8.0,
+    "close": 8.125,
+    "volume": 67900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.0100002289,
+    "high": 8.3999996185,
+    "low": 8.0100002289,
+    "close": 8.095000267,
+    "volume": 35000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.4099998474,
+    "high": 9.7250003815,
+    "low": 8.3999996185,
+    "close": 9.6649999619,
+    "volume": 134800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.8299999237,
+    "high": 9.8999996185,
+    "low": 9.2100000381,
+    "close": 9.3199996948,
+    "volume": 72300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.5900001526,
+    "high": 9.6689996719,
+    "low": 9.1999998093,
+    "close": 9.4399995804,
+    "volume": 59400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.3599996567,
+    "high": 10.6000003815,
+    "low": 9.3599996567,
+    "close": 9.6800003052,
+    "volume": 111500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.6700000763,
+    "high": 10.6000003815,
+    "low": 9.6199998856,
+    "close": 10.3800001144,
+    "volume": 89100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.2299995422,
+    "high": 10.6350002289,
+    "low": 9.75,
+    "close": 9.8599996567,
+    "volume": 68300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.0500001907,
+    "high": 10.529999733,
+    "low": 9.529999733,
+    "close": 10.470000267,
+    "volume": 117400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.470000267,
+    "high": 10.6700000763,
+    "low": 9.779999733,
+    "close": 9.9899997711,
+    "volume": 79800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.0399999619,
+    "high": 10.5,
+    "low": 9.6099996567,
+    "close": 10.1899995804,
+    "volume": 88300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.3400001526,
+    "high": 10.5,
+    "low": 9.7399997711,
+    "close": 10.0600004196,
+    "volume": 74600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.2299995422,
+    "high": 11.25,
+    "low": 9.6999998093,
+    "close": 11.0399999619,
+    "volume": 148000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.0,
+    "high": 11.4300003052,
+    "low": 10.1999998093,
+    "close": 11.1999998093,
+    "volume": 120800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.3000001907,
+    "high": 11.4099998474,
+    "low": 10.2899999619,
+    "close": 10.8500003815,
+    "volume": 134700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.0,
+    "high": 12.8000001907,
+    "low": 10.8999996185,
+    "close": 12.2700004578,
+    "volume": 318000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.3299999237,
+    "high": 13.1700000763,
+    "low": 11.5500001907,
+    "close": 13.1000003815,
+    "volume": 214100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.4899997711,
+    "high": 13.9499998093,
+    "low": 12.5,
+    "close": 13.3699998856,
+    "volume": 219700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.3699998856,
+    "high": 13.3699998856,
+    "low": 12.6000003815,
+    "close": 13.1599998474,
+    "volume": 87100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.1599998474,
+    "high": 13.1599998474,
+    "low": 12.5699996948,
+    "close": 12.9399995804,
+    "volume": 106300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.1149997711,
+    "high": 12.3999996185,
+    "low": 11.5,
+    "close": 11.6400003433,
+    "volume": 144700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.4499998093,
+    "high": 11.75,
+    "low": 10.8199996948,
+    "close": 11.2049999237,
+    "volume": 110400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.9799995422,
+    "high": 12.1239995956,
+    "low": 10.9799995422,
+    "close": 11.3599996567,
+    "volume": 73300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.8500003815,
+    "high": 12.779999733,
+    "low": 11.6000003815,
+    "close": 12.4799995422,
+    "volume": 125200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.3699998856,
+    "high": 12.4449996948,
+    "low": 11.3690004349,
+    "close": 11.3900003433,
+    "volume": 105400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.0900001526,
+    "high": 11.1999998093,
+    "low": 10.0200004578,
+    "close": 10.279999733,
+    "volume": 108700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,02,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.4899997711,
+    "high": 10.9099998474,
+    "low": 10.0,
+    "close": 10.7399997711,
+    "volume": 83700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.8699998856,
+    "high": 11.9899997711,
+    "low": 10.7100000381,
+    "close": 11.9899997711,
+    "volume": 83700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.0100002289,
+    "high": 12.8999996185,
+    "low": 11.795999527,
+    "close": 12.4899997711,
+    "volume": 123100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.720000267,
+    "high": 12.720000267,
+    "low": 10.7849998474,
+    "close": 11.7100000381,
+    "volume": 100100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.6999998093,
+    "high": 11.6999998093,
+    "low": 10.3100004196,
+    "close": 10.3699998856,
+    "volume": 104400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,02,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.3699998856,
+    "high": 10.75,
+    "low": 9.8100004196,
+    "close": 9.9300003052,
+    "volume": 84100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.9499998093,
+    "high": 10.4899997711,
+    "low": 9.3000001907,
+    "close": 10.4600000381,
+    "volume": 108600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.4600000381,
+    "high": 11.9499998093,
+    "low": 10.1499996185,
+    "close": 11.8900003433,
+    "volume": 105900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.8500003815,
+    "high": 12.3299999237,
+    "low": 11.0450000763,
+    "close": 12.3299999237,
+    "volume": 142300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.3800001144,
+    "high": 13.5,
+    "low": 12.1099996567,
+    "close": 13.1000003815,
+    "volume": 218800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.1000003815,
+    "high": 16.0,
+    "low": 12.7349996567,
+    "close": 15.3999996185,
+    "volume": 433700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 15.3999996185,
+    "high": 18.9200000763,
+    "low": 14.2620000839,
+    "close": 18.1499996185,
+    "volume": 841700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 17.9099998474,
+    "high": 18.0,
+    "low": 14.7100000381,
+    "close": 15.9799995422,
+    "volume": 573500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 16.2999992371,
+    "high": 16.3199996948,
+    "low": 12.4250001907,
+    "close": 13.970000267,
+    "volume": 460200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.2399997711,
+    "high": 19.75,
+    "low": 13.5100002289,
+    "close": 18.4599990845,
+    "volume": 1097700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 18.0100002289,
+    "high": 18.0499992371,
+    "low": 14.0,
+    "close": 17.9500007629,
+    "volume": 1301200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 18.5900001526,
+    "high": 21.8999996185,
+    "low": 17.5,
+    "close": 21.1200008392,
+    "volume": 1899200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 24.4050006866,
+    "high": 26.8999996185,
+    "low": 21.5,
+    "close": 25.8799991608,
+    "volume": 2184700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 26.25,
+    "high": 26.6399993896,
+    "low": 20.7399997711,
+    "close": 21.6900005341,
+    "volume": 1963200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 17.5,
+    "high": 18.1800003052,
+    "low": 16.1000003815,
+    "close": 17.5,
+    "volume": 3407100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 17.3500003815,
+    "high": 17.3500003815,
+    "low": 14.8199996948,
+    "close": 15.5799999237,
+    "volume": 1845200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 16.1200008392,
+    "high": 17.8999996185,
+    "low": 15.1000003815,
+    "close": 17.7700004578,
+    "volume": 1715700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 17.5499992371,
+    "high": 17.6599998474,
+    "low": 16.0,
+    "close": 16.8700008392,
+    "volume": 1644900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 16.5699996948,
+    "high": 16.5799999237,
+    "low": 14.1999998093,
+    "close": 14.220000267,
+    "volume": 1668100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.5200004578,
+    "high": 14.5200004578,
+    "low": 11.5100002289,
+    "close": 11.9849996567,
+    "volume": 2682700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.6999998093,
+    "high": 12.7399997711,
+    "low": 10.4899997711,
+    "close": 11.25,
+    "volume": 2103200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.5,
+    "high": 13.8199996948,
+    "low": 11.4399995804,
+    "close": 13.75,
+    "volume": 2899500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.5,
+    "high": 14.25,
+    "low": 13.0,
+    "close": 13.8599996567,
+    "volume": 1526200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.2740001678,
+    "high": 14.4499998093,
+    "low": 13.0,
+    "close": 14.1800003052,
+    "volume": 1333200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.3500003815,
+    "high": 14.3999996185,
+    "low": 11.9200000763,
+    "close": 12.0900001526,
+    "volume": 1598000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.2899999619,
+    "high": 12.3500003815,
+    "low": 10.5600004196,
+    "close": 11.5799999237,
+    "volume": 2136000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.5799999237,
+    "high": 11.5900001526,
+    "low": 10.529999733,
+    "close": 10.7899999619,
+    "volume": 1875300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.0200004578,
+    "high": 11.8599996567,
+    "low": 10.6599998474,
+    "close": 10.720000267,
+    "volume": 1452400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.6599998474,
+    "high": 10.6999998093,
+    "low": 9.6660003662,
+    "close": 9.9799995422,
+    "volume": 1614600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.6999998093,
+    "high": 9.9899997711,
+    "low": 9.2600002289,
+    "close": 9.9799995422,
+    "volume": 1024100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.0920000076,
+    "high": 10.4399995804,
+    "low": 9.2399997711,
+    "close": 9.529999733,
+    "volume": 1206600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.8299999237,
+    "high": 10.1000003815,
+    "low": 9.2600002289,
+    "close": 9.7600002289,
+    "volume": 1385700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.1700000763,
+    "high": 10.3999996185,
+    "low": 9.0200004578,
+    "close": 9.1099996567,
+    "volume": 1562000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8599996567,
+    "high": 9.5200004578,
+    "low": 8.6599998474,
+    "close": 9.1899995804,
+    "volume": 1146000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.279999733,
+    "high": 9.3500003815,
+    "low": 8.5500001907,
+    "close": 8.6899995804,
+    "volume": 886600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.5399999619,
+    "high": 8.8500003815,
+    "low": 7.4299998283,
+    "close": 7.8400001526,
+    "volume": 1720600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.3299999237,
+    "high": 8.6470003128,
+    "low": 7.6009998322,
+    "close": 7.9899997711,
+    "volume": 1531900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.4200000763,
+    "high": 9.9250001907,
+    "low": 8.3299999237,
+    "close": 9.8800001144,
+    "volume": 3122100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.9600000381,
+    "high": 12.4799995422,
+    "low": 9.75,
+    "close": 11.7899999619,
+    "volume": 4079200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.6999998093,
+    "high": 13.0,
+    "low": 11.0600004196,
+    "close": 12.8500003815,
+    "volume": 2164300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.4899997711,
+    "high": 13.75,
+    "low": 11.7700004578,
+    "close": 12.4099998474,
+    "volume": 1784700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.6800003052,
+    "high": 13.2279996872,
+    "low": 11.9600000381,
+    "close": 12.8100004196,
+    "volume": 1457100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.1379995346,
+    "high": 13.1379995346,
+    "low": 11.595000267,
+    "close": 11.6899995804,
+    "volume": 1668400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.1999998093,
+    "high": 12.3800001144,
+    "low": 11.1999998093,
+    "close": 11.3699998856,
+    "volume": 1563100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.1999998093,
+    "high": 11.3199996948,
+    "low": 10.6499996185,
+    "close": 10.8999996185,
+    "volume": 1083900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.6999998093,
+    "high": 10.8100004196,
+    "low": 9.9799995422,
+    "close": 10.0900001526,
+    "volume": 1336200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.970000267,
+    "high": 9.970000267,
+    "low": 9.1099996567,
+    "close": 9.3900003433,
+    "volume": 2259200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.279999733,
+    "high": 9.3000001907,
+    "low": 8.5,
+    "close": 8.6300001144,
+    "volume": 1775400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.6199998856,
+    "high": 8.8999996185,
+    "low": 8.2740001678,
+    "close": 8.8599996567,
+    "volume": 1361700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8599996567,
+    "high": 9.0,
+    "low": 8.4799995422,
+    "close": 8.8599996567,
+    "volume": 1508200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8900003433,
+    "high": 9.3170003891,
+    "low": 8.6800003052,
+    "close": 8.9799995422,
+    "volume": 1693000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.970000267,
+    "high": 8.9799995422,
+    "low": 8.0,
+    "close": 8.1000003815,
+    "volume": 1502700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.2100000381,
+    "high": 8.7700004578,
+    "low": 8.0200004578,
+    "close": 8.6899995804,
+    "volume": 1636800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.7849998474,
+    "high": 10.0900001526,
+    "low": 8.7299995422,
+    "close": 9.8500003815,
+    "volume": 2410000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.8500003815,
+    "high": 10.279999733,
+    "low": 9.3100004196,
+    "close": 9.4499998093,
+    "volume": 1953400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.6499996185,
+    "high": 9.7849998474,
+    "low": 9.3299999237,
+    "close": 9.4300003052,
+    "volume": 1394700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.5799999237,
+    "high": 10.5200004578,
+    "low": 9.5,
+    "close": 10.4399995804,
+    "volume": 2405700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.4399995804,
+    "high": 10.4600000381,
+    "low": 9.3000001907,
+    "close": 9.5500001907,
+    "volume": 2020000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.8000001907,
+    "high": 9.9499998093,
+    "low": 9.3000001907,
+    "close": 9.8900003433,
+    "volume": 1252700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.8500003815,
+    "high": 9.8500003815,
+    "low": 9.1999998093,
+    "close": 9.3599996567,
+    "volume": 1629500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.2899999619,
+    "high": 9.6700000763,
+    "low": 8.8900003433,
+    "close": 9.1000003815,
+    "volume": 1157900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.9899997711,
+    "high": 9.2100000381,
+    "low": 8.8000001907,
+    "close": 8.8900003433,
+    "volume": 1166800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8999996185,
+    "high": 9.0,
+    "low": 8.4099998474,
+    "close": 8.8900003433,
+    "volume": 1269600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.7390003204,
+    "high": 8.8599996567,
+    "low": 8.4200000763,
+    "close": 8.6400003433,
+    "volume": 915300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.5200004578,
+    "high": 8.8400001526,
+    "low": 8.2100000381,
+    "close": 8.779999733,
+    "volume": 1159600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8800001144,
+    "high": 9.1000003815,
+    "low": 8.5100002289,
+    "close": 8.9200000763,
+    "volume": 1445100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.0100002289,
+    "high": 9.1099996567,
+    "low": 8.6700000763,
+    "close": 8.9399995804,
+    "volume": 1143400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.0500001907,
+    "high": 9.8000001907,
+    "low": 8.8800001144,
+    "close": 9.6599998474,
+    "volume": 2061800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.6499996185,
+    "high": 10.3599996567,
+    "low": 9.5100002289,
+    "close": 9.7899999619,
+    "volume": 1233400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.0799999237,
+    "high": 10.7290000916,
+    "low": 9.7100000381,
+    "close": 10.5500001907,
+    "volume": 2473100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.4099998474,
+    "high": 10.4099998474,
+    "low": 9.0649995804,
+    "close": 9.4600000381,
+    "volume": 2194700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.5,
+    "high": 10.1400003433,
+    "low": 9.2939996719,
+    "close": 9.7299995422,
+    "volume": 2062700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.9399995804,
+    "high": 9.9499998093,
+    "low": 9.0799999237,
+    "close": 9.1599998474,
+    "volume": 1959600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.3900003433,
+    "high": 11.470000267,
+    "low": 9.3400001526,
+    "close": 10.9899997711,
+    "volume": 4239600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.7700004578,
+    "high": 12.1730003357,
+    "low": 10.720000267,
+    "close": 11.6400003433,
+    "volume": 2646100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.3699998856,
+    "high": 13.8299999237,
+    "low": 10.3800001144,
+    "close": 13.8000001907,
+    "volume": 4897200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.1000003815,
+    "high": 14.1300001144,
+    "low": 12.8100004196,
+    "close": 13.7399997711,
+    "volume": 4039700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.6000003815,
+    "high": 13.720000267,
+    "low": 12.0200004578,
+    "close": 12.4799995422,
+    "volume": 2371800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.9499998093,
+    "high": 14.6700000763,
+    "low": 12.1649999619,
+    "close": 14.1700000763,
+    "volume": 3360800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.1199998856,
+    "high": 14.1199998856,
+    "low": 11.9499998093,
+    "close": 12.529999733,
+    "volume": 2879000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.3100004196,
+    "high": 14.1649999619,
+    "low": 12.25,
+    "close": 13.9099998474,
+    "volume": 2924900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.8900003433,
+    "high": 14.3999996185,
+    "low": 13.3800001144,
+    "close": 14.0600004196,
+    "volume": 1753900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.3950004578,
+    "high": 16.7099990845,
+    "low": 14.2100000381,
+    "close": 15.220000267,
+    "volume": 4030000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 16.4799995422,
+    "high": 17.7840003967,
+    "low": 15.1700000763,
+    "close": 15.3999996185,
+    "volume": 2753200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 15.6300001144,
+    "high": 16.5599994659,
+    "low": 14.4799995422,
+    "close": 14.5900001526,
+    "volume": 2660200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.9200000763,
+    "high": 16.75,
+    "low": 14.4200000763,
+    "close": 16.6100006104,
+    "volume": 2641900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 17.0,
+    "high": 17.9500007629,
+    "low": 16.1410007477,
+    "close": 17.7800006866,
+    "volume": 6908200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 18.2000007629,
+    "high": 19.7600002289,
+    "low": 18.1000003815,
+    "close": 19.7000007629,
+    "volume": 2564100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 18.0900001526,
+    "high": 20.5900001526,
+    "low": 17.9500007629,
+    "close": 19.1700000763,
+    "volume": 2594700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 19.0300006866,
+    "high": 19.0300006866,
+    "low": 16.2999992371,
+    "close": 16.6700000763,
+    "volume": 2523500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 16.5900001526,
+    "high": 16.6000003815,
+    "low": 13.3000001907,
+    "close": 14.25,
+    "volume": 4286000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.8699998856,
+    "high": 15.3990001678,
+    "low": 13.6400003433,
+    "close": 14.6800003052,
+    "volume": 10537900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.779999733,
+    "high": 14.779999733,
+    "low": 13.3000001907,
+    "close": 14.2299995422,
+    "volume": 2084800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.4499998093,
+    "high": 14.8500003815,
+    "low": 13.6199998856,
+    "close": 14.4499998093,
+    "volume": 2439400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.7849998474,
+    "high": 16.0,
+    "low": 14.0,
+    "close": 14.9899997711,
+    "volume": 2876000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 15.2299995422,
+    "high": 15.9899997711,
+    "low": 13.0600004196,
+    "close": 13.279999733,
+    "volume": 3235100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.279999733,
+    "high": 14.0050001144,
+    "low": 12.5600004196,
+    "close": 12.7399997711,
+    "volume": 2901300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.5600004196,
+    "high": 12.6599998474,
+    "low": 11.4600000381,
+    "close": 12.1800003052,
+    "volume": 2555100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.9499998093,
+    "high": 13.25,
+    "low": 11.9499998093,
+    "close": 12.8999996185,
+    "volume": 1590400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.9200000763,
+    "high": 13.4350004196,
+    "low": 12.75,
+    "close": 12.9799995422,
+    "volume": 1096700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.0,
+    "high": 13.4899997711,
+    "low": 12.2600002289,
+    "close": 12.279999733,
+    "volume": 1199200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.0,
+    "high": 12.095000267,
+    "low": 10.6149997711,
+    "close": 11.0699996948,
+    "volume": 2312000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.2299995422,
+    "high": 11.2299995422,
+    "low": 10.4799995422,
+    "close": 10.7700004578,
+    "volume": 1166000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.7100000381,
+    "high": 11.0,
+    "low": 10.4799995422,
+    "close": 10.8400001526,
+    "volume": 1059200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.6800003052,
+    "high": 10.8000001907,
+    "low": 9.3500003815,
+    "close": 9.7899999619,
+    "volume": 2359800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.4600000381,
+    "high": 9.8000001907,
+    "low": 8.8800001144,
+    "close": 8.8850002289,
+    "volume": 1906300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.9899997711,
+    "high": 9.0200004578,
+    "low": 7.9899997711,
+    "close": 8.3999996185,
+    "volume": 2832900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.5699996948,
+    "high": 9.25,
+    "low": 8.5600004196,
+    "close": 9.0,
+    "volume": 1980100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8900003433,
+    "high": 9.0799999237,
+    "low": 8.1599998474,
+    "close": 8.1899995804,
+    "volume": 1729300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.0,
+    "high": 8.1700000763,
+    "low": 7.3299999237,
+    "close": 7.4699997902,
+    "volume": 3165600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.5300002098,
+    "high": 7.5700001717,
+    "low": 6.8249998093,
+    "close": 7.0250000954,
+    "volume": 3135300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.1900000572,
+    "high": 7.8200001717,
+    "low": 7.1799998283,
+    "close": 7.75,
+    "volume": 2388300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.7300000191,
+    "high": 7.9499998093,
+    "low": 7.0799999237,
+    "close": 7.3299999237,
+    "volume": 2231400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.7399997711,
+    "high": 8.5,
+    "low": 7.3800001144,
+    "close": 7.4899997711,
+    "volume": 7176100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 7.9699997902,
+    "high": 8.8599996567,
+    "low": 7.5599999428,
+    "close": 8.8149995804,
+    "volume": 4409500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.2600002289,
+    "high": 9.5,
+    "low": 8.6999998093,
+    "close": 8.779999733,
+    "volume": 4307400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.9600000381,
+    "high": 10.4600000381,
+    "low": 8.7100000381,
+    "close": 9.8800001144,
+    "volume": 4004700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.220000267,
+    "high": 11.0900001526,
+    "low": 9.9899997711,
+    "close": 10.9099998474,
+    "volume": 3935200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.3500003815,
+    "high": 11.3500003815,
+    "low": 9.6599998474,
+    "close": 9.6999998093,
+    "volume": 3981200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.6199998856,
+    "high": 10.8879995346,
+    "low": 9.3199996948,
+    "close": 10.6899995804,
+    "volume": 2839800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.0,
+    "high": 12.4790000916,
+    "low": 11.0,
+    "close": 12.2700004578,
+    "volume": 3900700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.0550003052,
+    "high": 13.4549999237,
+    "low": 12.4300003052,
+    "close": 12.9849996567,
+    "volume": 4690200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.5799999237,
+    "high": 13.1300001144,
+    "low": 12.4320001602,
+    "close": 12.75,
+    "volume": 2140400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.1300001144,
+    "high": 13.4499998093,
+    "low": 12.4799995422,
+    "close": 12.5399999619,
+    "volume": 1975000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.5399999619,
+    "high": 13.3850002289,
+    "low": 12.0600004196,
+    "close": 12.9499998093,
+    "volume": 2653800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.2349996567,
+    "high": 15.3500003815,
+    "low": 13.1199998856,
+    "close": 14.720000267,
+    "volume": 5130800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 14.6599998474,
+    "high": 14.6599998474,
+    "low": 12.6499996185,
+    "close": 13.8549995422,
+    "volume": 3280800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.1899995804,
+    "high": 14.029999733,
+    "low": 13.0799999237,
+    "close": 13.5,
+    "volume": 1888900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 13.4499998093,
+    "high": 13.6499996185,
+    "low": 12.3999996185,
+    "close": 12.5100002289,
+    "volume": 2075400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 12.0600004196,
+    "high": 12.1899995804,
+    "low": 10.9300003052,
+    "close": 11.0699996948,
+    "volume": 3072100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.3100004196,
+    "high": 12.5,
+    "low": 11.1199998856,
+    "close": 12.5,
+    "volume": 2904800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.8999996185,
+    "high": 12.1700000763,
+    "low": 11.0200004578,
+    "close": 11.0900001526,
+    "volume": 2691500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.3299999237,
+    "high": 12.1999998093,
+    "low": 11.1199998856,
+    "close": 12.1599998474,
+    "volume": 2208000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.7700004578,
+    "high": 12.3199996948,
+    "low": 11.3950004578,
+    "close": 11.5500001907,
+    "volume": 1418700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.529999733,
+    "high": 11.6800003052,
+    "low": 11.25,
+    "close": 11.4200000763,
+    "volume": 1162900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 11.1999998093,
+    "high": 11.3400001526,
+    "low": 10.3800001144,
+    "close": 10.3999996185,
+    "volume": 2037800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.3199996948,
+    "high": 10.5900001526,
+    "low": 10.1199998856,
+    "close": 10.3500003815,
+    "volume": 1198100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.0,
+    "high": 10.2600002289,
+    "low": 9.8079996109,
+    "close": 9.9799995422,
+    "volume": 2310500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.1099996567,
+    "high": 10.4600000381,
+    "low": 9.7299995422,
+    "close": 10.2100000381,
+    "volume": 1776700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.2100000381,
+    "high": 10.3999996185,
+    "low": 9.970000267,
+    "close": 10.0600004196,
+    "volume": 1160900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.0600004196,
+    "high": 10.6599998474,
+    "low": 9.9600000381,
+    "close": 10.1000003815,
+    "volume": 1327300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.0349998474,
+    "high": 10.5500001907,
+    "low": 10.0,
+    "close": 10.0900001526,
+    "volume": 1537600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 10.0500001907,
+    "high": 10.3400001526,
+    "low": 9.5100002289,
+    "close": 9.5399999619,
+    "volume": 1799400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.25,
+    "high": 9.3199996948,
+    "low": 8.7600002289,
+    "close": 8.7899999619,
+    "volume": 2602100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8800001144,
+    "high": 8.8800001144,
+    "low": 8.3599996567,
+    "close": 8.4099998474,
+    "volume": 2474600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.220000267,
+    "high": 8.6499996185,
+    "low": 8.1199998856,
+    "close": 8.5200004578,
+    "volume": 2068300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.4499998093,
+    "high": 8.5190000534,
+    "low": 8.279999733,
+    "close": 8.4650001526,
+    "volume": 1424100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.5399999619,
+    "high": 8.5900001526,
+    "low": 7.9299998283,
+    "close": 8.1499996185,
+    "volume": 2367400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.6099996567,
+    "high": 8.6700000763,
+    "low": 8.25,
+    "close": 8.25,
+    "volume": 1932700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.2700004578,
+    "high": 8.3699998856,
+    "low": 8.0100002289,
+    "close": 8.2600002289,
+    "volume": 4563200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8000001907,
+    "high": 9.3500003815,
+    "low": 8.6999998093,
+    "close": 9.3299999237,
+    "volume": 2956300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 9.3999996185,
+    "high": 9.4200000763,
+    "low": 8.8299999237,
+    "close": 9.029999733,
+    "volume": 1977400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.8999996185,
+    "high": 8.8999996185,
+    "low": 8.5399999619,
+    "close": 8.6700000763,
+    "volume": 1545100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.3800001144,
+    "high": 8.6499996185,
+    "low": 8.1300001144,
+    "close": 8.5200004578,
+    "volume": 1627500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.6049995422,
+    "high": 8.8999996185,
+    "low": 8.3800001144,
+    "close": 8.8999996185,
+    "volume": 1728700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.5600004196,
+    "high": 8.7049999237,
+    "low": 8.3599996567,
+    "close": 8.4200000763,
+    "volume": 1583900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.6000003815,
+    "high": 8.6999998093,
+    "low": 7.9899997711,
+    "close": 8.0,
+    "volume": 2350400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.1300001144,
+    "high": 8.4899997711,
+    "low": 8.0799999237,
+    "close": 8.1700000763,
+    "volume": 1844200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.1199998856,
+    "high": 8.2100000381,
+    "low": 7.8299999237,
+    "close": 8.1099996567,
+    "volume": 2037500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 8.2899999619,
+    "high": 8.4060001373,
+    "low": 8.0699996948,
+    "close": 8.1199998856,
+    "volume": 1299844.0,
+    "wedge_status": "none"
+  }
+]

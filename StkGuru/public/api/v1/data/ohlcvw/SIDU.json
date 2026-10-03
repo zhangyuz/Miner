@@ -1,0 +1,7522 @@
+[
+  {
+    "trade_date": "2023,10,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 13.8999996185,
+    "high": 15.0,
+    "low": 13.1999998093,
+    "close": 14.0,
+    "volume": 8537.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 14.5,
+    "high": 14.5,
+    "low": 13.1999998093,
+    "close": 13.6999998093,
+    "volume": 9090.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 14.1000003815,
+    "high": 14.1999998093,
+    "low": 13.1999998093,
+    "close": 13.8000001907,
+    "volume": 13841.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 13.6999998093,
+    "high": 14.3999996185,
+    "low": 13.0,
+    "close": 13.3999996185,
+    "volume": 21661.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 13.3999996185,
+    "high": 13.3999996185,
+    "low": 12.3999996185,
+    "close": 12.6999998093,
+    "volume": 25121.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 13.0,
+    "high": 13.1000003815,
+    "low": 12.5,
+    "close": 13.0,
+    "volume": 15804.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 10.5,
+    "high": 11.0,
+    "low": 10.0,
+    "close": 10.3000001907,
+    "volume": 51176.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 10.5,
+    "high": 10.5,
+    "low": 9.5,
+    "close": 10.0,
+    "volume": 23346.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 10.1000003815,
+    "high": 11.5,
+    "low": 10.1000003815,
+    "close": 11.1000003815,
+    "volume": 24220.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 11.0,
+    "high": 12.8000001907,
+    "low": 11.0,
+    "close": 12.1999998093,
+    "volume": 21116.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 12.1000003815,
+    "high": 13.0,
+    "low": 10.8000001907,
+    "close": 10.8000001907,
+    "volume": 17054.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 10.8000001907,
+    "high": 11.8000001907,
+    "low": 10.1000003815,
+    "close": 10.8999996185,
+    "volume": 6457.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 10.3000001907,
+    "high": 11.5,
+    "low": 10.1000003815,
+    "close": 10.8999996185,
+    "volume": 7235.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 11.0,
+    "high": 11.0,
+    "low": 10.1999998093,
+    "close": 10.3000001907,
+    "volume": 6034.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 10.5,
+    "high": 10.5,
+    "low": 9.8000001907,
+    "close": 9.8999996185,
+    "volume": 11228.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 10.0,
+    "high": 10.0,
+    "low": 9.1000003815,
+    "close": 9.1999998093,
+    "volume": 15918.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.1000003815,
+    "high": 10.0,
+    "low": 9.1000003815,
+    "close": 9.6999998093,
+    "volume": 8018.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.8000001907,
+    "high": 9.8000001907,
+    "low": 9.0,
+    "close": 9.0,
+    "volume": 13947.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.3000001907,
+    "high": 9.3000001907,
+    "low": 8.5,
+    "close": 8.8999996185,
+    "volume": 16974.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.1999998093,
+    "high": 9.3999996185,
+    "low": 8.8000001907,
+    "close": 9.1999998093,
+    "volume": 12050.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.8000001907,
+    "high": 9.8000001907,
+    "low": 9.0,
+    "close": 9.3000001907,
+    "volume": 8580.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 12.3999996185,
+    "high": 12.6000003815,
+    "low": 9.1000003815,
+    "close": 9.5,
+    "volume": 342427.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.3000001907,
+    "high": 9.8000001907,
+    "low": 8.5,
+    "close": 9.3000001907,
+    "volume": 63776.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.3000001907,
+    "high": 9.3000001907,
+    "low": 8.5,
+    "close": 9.0,
+    "volume": 24533.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.0,
+    "high": 9.0,
+    "low": 8.5,
+    "close": 8.6000003815,
+    "volume": 24745.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.6999998093,
+    "high": 9.5,
+    "low": 8.5,
+    "close": 9.5,
+    "volume": 28892.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.5,
+    "high": 10.1000003815,
+    "low": 9.1999998093,
+    "close": 10.0,
+    "volume": 30584.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.5,
+    "high": 9.5,
+    "low": 8.8000001907,
+    "close": 9.0,
+    "volume": 18078.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.6000003815,
+    "high": 9.0,
+    "low": 8.6000003815,
+    "close": 8.8999996185,
+    "volume": 13053.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.8999996185,
+    "high": 9.0,
+    "low": 8.1000003815,
+    "close": 8.6999998093,
+    "volume": 27063.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.6999998093,
+    "high": 8.6999998093,
+    "low": 6.5,
+    "close": 6.6999998093,
+    "volume": 96727.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.9000000954,
+    "high": 6.9000000954,
+    "low": 5.8000001907,
+    "close": 6.0999999046,
+    "volume": 51588.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.1999998093,
+    "high": 6.3000001907,
+    "low": 5.6999998093,
+    "close": 6.1999998093,
+    "volume": 35093.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.3000001907,
+    "high": 6.5,
+    "low": 6.0,
+    "close": 6.1999998093,
+    "volume": 31905.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.0,
+    "high": 6.0999999046,
+    "low": 5.5,
+    "close": 5.8000001907,
+    "volume": 33265.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.9000000954,
+    "high": 6.4000000954,
+    "low": 5.8000001907,
+    "close": 6.0,
+    "volume": 24394.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.0,
+    "high": 6.1999998093,
+    "low": 5.8000001907,
+    "close": 6.0,
+    "volume": 14203.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.0,
+    "high": 6.1999998093,
+    "low": 5.5999999046,
+    "close": 5.8000001907,
+    "volume": 15164.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.0999999046,
+    "high": 6.0999999046,
+    "low": 5.8000001907,
+    "close": 6.0,
+    "volume": 17571.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.0,
+    "high": 6.0,
+    "low": 5.5999999046,
+    "close": 5.6999998093,
+    "volume": 27592.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.9000000954,
+    "high": 5.9000000954,
+    "low": 5.5999999046,
+    "close": 5.6999998093,
+    "volume": 21535.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.6999998093,
+    "high": 5.8000001907,
+    "low": 5.1999998093,
+    "close": 5.3000001907,
+    "volume": 36960.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.5,
+    "high": 6.4000000954,
+    "low": 5.5,
+    "close": 6.0,
+    "volume": 52383.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.3000001907,
+    "high": 7.0,
+    "low": 5.4000000954,
+    "close": 5.4000000954,
+    "volume": 299133.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.3000001907,
+    "high": 5.5,
+    "low": 5.0,
+    "close": 5.1999998093,
+    "volume": 62475.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.4000000954,
+    "high": 5.5,
+    "low": 5.0,
+    "close": 5.4000000954,
+    "volume": 105423.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.4000000954,
+    "high": 5.4000000954,
+    "low": 4.8000001907,
+    "close": 5.0,
+    "volume": 71788.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.1999998093,
+    "high": 5.1999998093,
+    "low": 4.6999998093,
+    "close": 4.9000000954,
+    "volume": 50113.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.9000000954,
+    "high": 4.9000000954,
+    "low": 4.1999998093,
+    "close": 4.8000001907,
+    "volume": 45349.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.8000001907,
+    "high": 5.0999999046,
+    "low": 4.6999998093,
+    "close": 5.0999999046,
+    "volume": 48878.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.1999998093,
+    "high": 5.8000001907,
+    "low": 5.0999999046,
+    "close": 5.6999998093,
+    "volume": 73625.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.0,
+    "high": 6.0,
+    "low": 5.0999999046,
+    "close": 5.0999999046,
+    "volume": 42676.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.3000001907,
+    "high": 5.4000000954,
+    "low": 3.4000000954,
+    "close": 4.0,
+    "volume": 149969.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.1999998093,
+    "high": 4.4000000954,
+    "low": 3.4000000954,
+    "close": 3.7999999523,
+    "volume": 218377.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7699999809,
+    "high": 4.2729997635,
+    "low": 3.2699999809,
+    "close": 3.5899999142,
+    "volume": 273900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6099998951,
+    "high": 4.1999998093,
+    "low": 3.5,
+    "close": 4.0300002098,
+    "volume": 479300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.8599998951,
+    "high": 3.9360001087,
+    "low": 3.5999999046,
+    "close": 3.7200000286,
+    "volume": 163600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.8099999428,
+    "high": 4.1999998093,
+    "low": 3.7330000401,
+    "close": 3.8800001144,
+    "volume": 179400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.8199999332,
+    "high": 4.4099998474,
+    "low": 3.8199999332,
+    "close": 4.3699998856,
+    "volume": 242700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.4099998474,
+    "high": 15.3999996185,
+    "low": 4.4099998474,
+    "close": 11.5,
+    "volume": 18893200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.8000001907,
+    "high": 9.8990001678,
+    "low": 7.8499999046,
+    "close": 8.8100004196,
+    "volume": 1456400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.6599998474,
+    "high": 8.720000267,
+    "low": 6.9099998474,
+    "close": 6.9699997902,
+    "volume": 743000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 7.7899999619,
+    "high": 13.4799995422,
+    "low": 7.2199997902,
+    "close": 11.6400003433,
+    "volume": 15113800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 11.0,
+    "high": 14.1000003815,
+    "low": 10.0100002289,
+    "close": 12.1999998093,
+    "volume": 4060500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 12.1700000763,
+    "high": 14.111000061,
+    "low": 11.6000003815,
+    "close": 13.0399999619,
+    "volume": 1147700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 12.0,
+    "high": 16.75,
+    "low": 11.9300003052,
+    "close": 15.3199996948,
+    "volume": 3034100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 15.6999998093,
+    "high": 18.8500003815,
+    "low": 14.6099996567,
+    "close": 16.9699993134,
+    "volume": 2109400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 16.6700000763,
+    "high": 16.7649993896,
+    "low": 12.5600004196,
+    "close": 13.0100002289,
+    "volume": 1274900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 11.9099998474,
+    "high": 11.9200000763,
+    "low": 9.2600002289,
+    "close": 10.0699996948,
+    "volume": 690200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 10.0600004196,
+    "high": 11.2700004578,
+    "low": 9.2720003128,
+    "close": 10.0399999619,
+    "volume": 964500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.9799995422,
+    "high": 11.6029996872,
+    "low": 9.75,
+    "close": 9.970000267,
+    "volume": 458200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.7700004578,
+    "high": 10.6199998856,
+    "low": 9.6499996185,
+    "close": 9.7399997711,
+    "volume": 315100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 9.5600004196,
+    "high": 10.3199996948,
+    "low": 8.0799999237,
+    "close": 8.5799999237,
+    "volume": 338500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,01,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.5,
+    "high": 8.6300001144,
+    "low": 7.9019999504,
+    "close": 8.0100002289,
+    "volume": 136000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 7.6199998856,
+    "high": 8.3400001526,
+    "low": 7.1999998093,
+    "close": 7.1999998093,
+    "volume": 221700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 7.1100001335,
+    "high": 8.3199996948,
+    "low": 7.1100001335,
+    "close": 7.9299998283,
+    "volume": 150300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.1000003815,
+    "high": 9.9399995804,
+    "low": 8.0,
+    "close": 8.6199998856,
+    "volume": 302900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.5,
+    "high": 9.375,
+    "low": 8.5,
+    "close": 8.8800001144,
+    "volume": 153200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.8299999237,
+    "high": 9.1859998703,
+    "low": 8.5699996948,
+    "close": 8.9099998474,
+    "volume": 107900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 8.8500003815,
+    "high": 9.4099998474,
+    "low": 8.5100002289,
+    "close": 8.6999998093,
+    "volume": 224700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.9899997711,
+    "high": 5.1999998093,
+    "low": 4.8200001717,
+    "close": 4.8499999046,
+    "volume": 1104200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.9499998093,
+    "high": 5.0599999428,
+    "low": 4.6599998474,
+    "close": 4.8000001907,
+    "volume": 271100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.8499999046,
+    "high": 4.8499999046,
+    "low": 4.3600001335,
+    "close": 4.5,
+    "volume": 235700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.4200000763,
+    "high": 4.5100002289,
+    "low": 4.0199999809,
+    "close": 4.3699998856,
+    "volume": 759800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.3000001907,
+    "high": 4.4400000572,
+    "low": 4.1100001335,
+    "close": 4.3600001335,
+    "volume": 100800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.3499999046,
+    "high": 4.3880000114,
+    "low": 4.0199999809,
+    "close": 4.1199998856,
+    "volume": 168000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.0399999619,
+    "high": 4.2899999619,
+    "low": 4.0199999809,
+    "close": 4.2199997902,
+    "volume": 130400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.1399998665,
+    "high": 4.4000000954,
+    "low": 4.1100001335,
+    "close": 4.3299999237,
+    "volume": 97700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.3000001907,
+    "high": 4.6799998283,
+    "low": 4.3000001907,
+    "close": 4.6199998856,
+    "volume": 215900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.6900000572,
+    "high": 4.7399997711,
+    "low": 4.4099998474,
+    "close": 4.5700001717,
+    "volume": 151600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.4200000763,
+    "high": 4.5100002289,
+    "low": 4.25,
+    "close": 4.2800002098,
+    "volume": 115200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.3499999046,
+    "high": 4.521999836,
+    "low": 4.2300000191,
+    "close": 4.2899999619,
+    "volume": 150200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.25,
+    "high": 4.6399998665,
+    "low": 4.2100000381,
+    "close": 4.6100001335,
+    "volume": 122700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.6300001144,
+    "high": 4.8600001335,
+    "low": 4.5,
+    "close": 4.6700000763,
+    "volume": 209300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.75,
+    "high": 4.7670001984,
+    "low": 4.5,
+    "close": 4.5999999046,
+    "volume": 196000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.6100001335,
+    "high": 4.6100001335,
+    "low": 3.9000000954,
+    "close": 3.9700000286,
+    "volume": 321600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.0900001526,
+    "high": 4.1999998093,
+    "low": 4.0100002289,
+    "close": 4.1799998283,
+    "volume": 99000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.3800001144,
+    "high": 4.646999836,
+    "low": 4.2600002289,
+    "close": 4.4899997711,
+    "volume": 342100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.6700000763,
+    "high": 4.6700000763,
+    "low": 4.2100000381,
+    "close": 4.4200000763,
+    "volume": 157300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.5700001717,
+    "high": 4.8800001144,
+    "low": 4.4400000572,
+    "close": 4.7300000191,
+    "volume": 418100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.8499999046,
+    "high": 5.6300001144,
+    "low": 4.6599998474,
+    "close": 5.5700001717,
+    "volume": 694800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.8400001526,
+    "high": 10.1490001678,
+    "low": 6.3499999046,
+    "close": 8.9799995422,
+    "volume": 35960900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.1500000954,
+    "high": 6.5500001907,
+    "low": 5.25,
+    "close": 6.1599998474,
+    "volume": 3201300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.1300001144,
+    "high": 6.1599998474,
+    "low": 5.4200000763,
+    "close": 5.6700000763,
+    "volume": 1447100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.0399999619,
+    "high": 5.0999999046,
+    "low": 4.25,
+    "close": 4.6900000572,
+    "volume": 1445100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,03,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.5300002098,
+    "high": 5.0199999809,
+    "low": 4.4200000763,
+    "close": 4.6599998474,
+    "volume": 525600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.5,
+    "high": 4.5999999046,
+    "low": 4.2399997711,
+    "close": 4.2899999619,
+    "volume": 551800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.3899998665,
+    "high": 4.4739999771,
+    "low": 3.9500000477,
+    "close": 4.1399998665,
+    "volume": 694400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.1399998665,
+    "high": 4.3499999046,
+    "low": 3.9600000381,
+    "close": 4.0500001907,
+    "volume": 285500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.1500000954,
+    "high": 4.1500000954,
+    "low": 3.7599999905,
+    "close": 3.8800001144,
+    "volume": 303700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.8699998856,
+    "high": 3.8949999809,
+    "low": 3.5,
+    "close": 3.5999999046,
+    "volume": 458400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.9400000572,
+    "high": 4.0,
+    "low": 3.5099999905,
+    "close": 3.5999999046,
+    "volume": 553200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6099998951,
+    "high": 3.7999999523,
+    "low": 3.5810000896,
+    "close": 3.6500000954,
+    "volume": 235500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6800000668,
+    "high": 3.8699998856,
+    "low": 3.5499999523,
+    "close": 3.8299999237,
+    "volume": 179700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7799999714,
+    "high": 3.8099999428,
+    "low": 3.5999999046,
+    "close": 3.7400000095,
+    "volume": 81600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7400000095,
+    "high": 4.0399999619,
+    "low": 3.6700000763,
+    "close": 3.7699999809,
+    "volume": 244100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7999999523,
+    "high": 3.8299999237,
+    "low": 3.6400001049,
+    "close": 3.7200000286,
+    "volume": 144600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6800000668,
+    "high": 3.7000000477,
+    "low": 3.5099999905,
+    "close": 3.5599999428,
+    "volume": 151700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6300001144,
+    "high": 3.6800000668,
+    "low": 3.3949999809,
+    "close": 3.6300001144,
+    "volume": 231300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7000000477,
+    "high": 3.7100000381,
+    "low": 3.5699999332,
+    "close": 3.6700000763,
+    "volume": 148800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5899999142,
+    "high": 3.7339999676,
+    "low": 3.3599998951,
+    "close": 3.5,
+    "volume": 171000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4800000191,
+    "high": 3.5699999332,
+    "low": 3.3800001144,
+    "close": 3.3900001049,
+    "volume": 146300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4600000381,
+    "high": 3.4600000381,
+    "low": 3.0699999332,
+    "close": 3.1700000763,
+    "volume": 228000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2699999809,
+    "high": 3.2699999809,
+    "low": 3.1099998951,
+    "close": 3.2000000477,
+    "volume": 104400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.1199998856,
+    "high": 3.2000000477,
+    "low": 2.9400000572,
+    "close": 3.1600000858,
+    "volume": 137800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2100000381,
+    "high": 3.5199999809,
+    "low": 3.1789999008,
+    "close": 3.5,
+    "volume": 171100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4000000954,
+    "high": 3.5499999523,
+    "low": 3.3199999332,
+    "close": 3.4900000095,
+    "volume": 112200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5899999142,
+    "high": 3.7699999809,
+    "low": 3.4909999371,
+    "close": 3.7599999905,
+    "volume": 97600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7599999905,
+    "high": 4.1589999199,
+    "low": 3.75,
+    "close": 3.9500000477,
+    "volume": 266700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.9500000477,
+    "high": 4.0700001717,
+    "low": 3.6500000954,
+    "close": 3.8299999237,
+    "volume": 130000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7899999619,
+    "high": 3.8399999142,
+    "low": 3.6199998856,
+    "close": 3.7100000381,
+    "volume": 68500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6800000668,
+    "high": 3.7799999714,
+    "low": 3.3499999046,
+    "close": 3.4400000572,
+    "volume": 111900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4300000668,
+    "high": 3.4300000668,
+    "low": 3.2400000095,
+    "close": 3.3099999428,
+    "volume": 63900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.25,
+    "high": 3.5,
+    "low": 3.2000000477,
+    "close": 3.4800000191,
+    "volume": 85300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5,
+    "high": 3.6099998951,
+    "low": 3.3800001144,
+    "close": 3.4100000858,
+    "volume": 50800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5099999905,
+    "high": 3.7200000286,
+    "low": 3.4779999256,
+    "close": 3.7200000286,
+    "volume": 84100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6800000668,
+    "high": 3.6800000668,
+    "low": 3.3599998951,
+    "close": 3.3800001144,
+    "volume": 82600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4100000858,
+    "high": 3.4400000572,
+    "low": 3.2599999905,
+    "close": 3.4100000858,
+    "volume": 33500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4200000763,
+    "high": 3.5499999523,
+    "low": 3.3800001144,
+    "close": 3.4100000858,
+    "volume": 29000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4600000381,
+    "high": 3.6300001144,
+    "low": 3.4100000858,
+    "close": 3.4600000381,
+    "volume": 56700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4900000095,
+    "high": 3.4900000095,
+    "low": 3.2899999619,
+    "close": 3.3299999237,
+    "volume": 53800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3900001049,
+    "high": 3.3900001049,
+    "low": 3.2599999905,
+    "close": 3.2899999619,
+    "volume": 61500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3399999142,
+    "high": 3.4500000477,
+    "low": 3.3299999237,
+    "close": 3.4300000668,
+    "volume": 35500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.25,
+    "high": 3.4300000668,
+    "low": 3.2300000191,
+    "close": 3.3599998951,
+    "volume": 42700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3900001049,
+    "high": 3.5999999046,
+    "low": 3.3499999046,
+    "close": 3.4900000095,
+    "volume": 100400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5,
+    "high": 3.5899999142,
+    "low": 3.3299999237,
+    "close": 3.3499999046,
+    "volume": 494000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4100000858,
+    "high": 3.4900000095,
+    "low": 3.0299999714,
+    "close": 3.1199998856,
+    "volume": 296100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.1400001049,
+    "high": 3.2100000381,
+    "low": 3.0869998932,
+    "close": 3.2100000381,
+    "volume": 107800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2400000095,
+    "high": 3.3599998951,
+    "low": 3.1900000572,
+    "close": 3.3199999332,
+    "volume": 162200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2599999905,
+    "high": 3.4200000763,
+    "low": 3.2300000191,
+    "close": 3.3399999142,
+    "volume": 59100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4000000954,
+    "high": 3.4600000381,
+    "low": 3.3299999237,
+    "close": 3.4449999332,
+    "volume": 37400.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,05,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4700000286,
+    "high": 3.4769999981,
+    "low": 3.2699999809,
+    "close": 3.3499999046,
+    "volume": 64100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4000000954,
+    "high": 3.4000000954,
+    "low": 3.0999999046,
+    "close": 3.1199998856,
+    "volume": 145200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,05,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2400000095,
+    "high": 3.2999999523,
+    "low": 3.0799999237,
+    "close": 3.2799999714,
+    "volume": 165500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2599999905,
+    "high": 3.4300000668,
+    "low": 3.2200000286,
+    "close": 3.3699998856,
+    "volume": 115000.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,05,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2699999809,
+    "high": 3.3499999046,
+    "low": 3.2599999905,
+    "close": 3.2999999523,
+    "volume": 85500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2799999714,
+    "high": 3.4149999619,
+    "low": 3.2200000286,
+    "close": 3.3699998856,
+    "volume": 88000.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,05,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4300000668,
+    "high": 3.4300000668,
+    "low": 3.1889998913,
+    "close": 3.2300000191,
+    "volume": 119700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2400000095,
+    "high": 3.4200000763,
+    "low": 3.0599999428,
+    "close": 3.1199998856,
+    "volume": 99000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.1099998951,
+    "high": 3.2400000095,
+    "low": 3.0899999142,
+    "close": 3.1300001144,
+    "volume": 89900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.1500000954,
+    "high": 3.1500000954,
+    "low": 2.9600000381,
+    "close": 2.9900000095,
+    "volume": 125100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0999999046,
+    "high": 3.0999999046,
+    "low": 2.9900000095,
+    "close": 3.0299999714,
+    "volume": 36000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0499999523,
+    "high": 3.0499999523,
+    "low": 2.8499999046,
+    "close": 2.9200000763,
+    "volume": 132900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9500000477,
+    "high": 2.9700000286,
+    "low": 2.8699998856,
+    "close": 2.9300000668,
+    "volume": 53000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.1600000858,
+    "high": 3.1600000858,
+    "low": 2.9000000954,
+    "close": 2.9400000572,
+    "volume": 221000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9200000763,
+    "high": 3.0099999905,
+    "low": 2.7739999294,
+    "close": 2.8699998856,
+    "volume": 84600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8800001144,
+    "high": 2.9100000858,
+    "low": 2.5699999332,
+    "close": 2.6199998856,
+    "volume": 191600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6500000954,
+    "high": 2.7599999905,
+    "low": 2.6300001144,
+    "close": 2.6400001049,
+    "volume": 63000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6400001049,
+    "high": 2.9800000191,
+    "low": 2.5999999046,
+    "close": 2.8199999332,
+    "volume": 173700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8199999332,
+    "high": 2.9000000954,
+    "low": 2.75,
+    "close": 2.8900001049,
+    "volume": 155800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7699999809,
+    "high": 2.8800001144,
+    "low": 2.75,
+    "close": 2.8399999142,
+    "volume": 89600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8099999428,
+    "high": 2.8299999237,
+    "low": 2.6800000668,
+    "close": 2.7300000191,
+    "volume": 63600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7000000477,
+    "high": 2.8299999237,
+    "low": 2.7000000477,
+    "close": 2.8299999237,
+    "volume": 34800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8399999142,
+    "high": 2.8800001144,
+    "low": 2.7599999905,
+    "close": 2.8199999332,
+    "volume": 88700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8299999237,
+    "high": 2.8299999237,
+    "low": 2.6199998856,
+    "close": 2.7000000477,
+    "volume": 63800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6700000763,
+    "high": 2.7100000381,
+    "low": 2.5599999428,
+    "close": 2.5799999237,
+    "volume": 57000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5799999237,
+    "high": 2.6500000954,
+    "low": 2.5599999428,
+    "close": 2.5999999046,
+    "volume": 54300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5799999237,
+    "high": 2.5980000496,
+    "low": 2.5499999523,
+    "close": 2.5499999523,
+    "volume": 43300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5499999523,
+    "high": 2.5499999523,
+    "low": 2.4500000477,
+    "close": 2.4700000286,
+    "volume": 52800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4500000477,
+    "high": 2.5699999332,
+    "low": 2.4000000954,
+    "close": 2.4000000954,
+    "volume": 47900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4100000858,
+    "high": 2.4500000477,
+    "low": 2.4000000954,
+    "close": 2.4500000477,
+    "volume": 23300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4000000954,
+    "high": 3.0899999142,
+    "low": 2.4000000954,
+    "close": 2.5899999142,
+    "volume": 604900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5,
+    "high": 2.6099998951,
+    "low": 2.3199999332,
+    "close": 2.3800001144,
+    "volume": 218900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3800001144,
+    "high": 2.4400000572,
+    "low": 2.3499999046,
+    "close": 2.3900001049,
+    "volume": 57900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4400000572,
+    "high": 2.4400000572,
+    "low": 2.2200000286,
+    "close": 2.3399999142,
+    "volume": 78700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3800001144,
+    "high": 2.4319999218,
+    "low": 2.2100000381,
+    "close": 2.2400000095,
+    "volume": 59300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2400000095,
+    "high": 2.5799999237,
+    "low": 2.2000000477,
+    "close": 2.4600000381,
+    "volume": 512800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4600000381,
+    "high": 2.4879999161,
+    "low": 2.2599999905,
+    "close": 2.3499999046,
+    "volume": 68400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3299999237,
+    "high": 2.3699998856,
+    "low": 2.2599999905,
+    "close": 2.3199999332,
+    "volume": 44200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2599999905,
+    "high": 2.3900001049,
+    "low": 2.2599999905,
+    "close": 2.3399999142,
+    "volume": 47600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3299999237,
+    "high": 2.4500000477,
+    "low": 2.2599999905,
+    "close": 2.4200000763,
+    "volume": 56200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4400000572,
+    "high": 2.5899999142,
+    "low": 2.4300000668,
+    "close": 2.5899999142,
+    "volume": 97500.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,07,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6099998951,
+    "high": 2.75,
+    "low": 2.5899999142,
+    "close": 2.75,
+    "volume": 61400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.75,
+    "high": 2.7999999523,
+    "low": 2.6800000668,
+    "close": 2.7599999905,
+    "volume": 52100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8800001144,
+    "high": 2.8800001144,
+    "low": 2.7699999809,
+    "close": 2.7999999523,
+    "volume": 45800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8499999046,
+    "high": 3.1199998856,
+    "low": 2.8199999332,
+    "close": 2.9400000572,
+    "volume": 209500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9000000954,
+    "high": 3.0299999714,
+    "low": 2.8299999237,
+    "close": 2.8800001144,
+    "volume": 46700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9319999218,
+    "high": 2.9319999218,
+    "low": 2.6600000858,
+    "close": 2.7000000477,
+    "volume": 56100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6900000572,
+    "high": 3.0199999809,
+    "low": 2.5499999523,
+    "close": 2.6099998951,
+    "volume": 220000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,07,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7300000191,
+    "high": 2.8499999046,
+    "low": 2.4790000916,
+    "close": 2.5999999046,
+    "volume": 181500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7000000477,
+    "high": 2.9200000763,
+    "low": 2.5920000076,
+    "close": 2.7750000954,
+    "volume": 144700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7400000095,
+    "high": 2.7699999809,
+    "low": 2.5599999428,
+    "close": 2.5899999142,
+    "volume": 62300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,07,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5599999428,
+    "high": 2.8699998856,
+    "low": 2.5499999523,
+    "close": 2.8099999428,
+    "volume": 284200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.75,
+    "high": 3.0199999809,
+    "low": 2.6800000668,
+    "close": 2.7300000191,
+    "volume": 134600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7000000477,
+    "high": 2.7339999676,
+    "low": 2.5999999046,
+    "close": 2.6500000954,
+    "volume": 54100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,07,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5699999332,
+    "high": 2.7000000477,
+    "low": 2.5,
+    "close": 2.5299999714,
+    "volume": 53100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5099999905,
+    "high": 2.6700000763,
+    "low": 2.4100000858,
+    "close": 2.5599999428,
+    "volume": 153000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5299999714,
+    "high": 2.5999999046,
+    "low": 2.3699998856,
+    "close": 2.3900001049,
+    "volume": 154900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3900001049,
+    "high": 2.4000000954,
+    "low": 2.25,
+    "close": 2.3099999428,
+    "volume": 63100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0799999237,
+    "high": 2.4000000954,
+    "low": 2.0199999809,
+    "close": 2.2599999905,
+    "volume": 266300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2999999523,
+    "high": 2.3800001144,
+    "low": 2.260999918,
+    "close": 2.3399999142,
+    "volume": 43000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3800001144,
+    "high": 2.4210000038,
+    "low": 2.25,
+    "close": 2.3450000286,
+    "volume": 32900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3099999428,
+    "high": 2.3699998856,
+    "low": 2.243999958,
+    "close": 2.3499999046,
+    "volume": 35700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3099999428,
+    "high": 2.3699998856,
+    "low": 2.2599999905,
+    "close": 2.3199999332,
+    "volume": 29600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3399999142,
+    "high": 2.5599999428,
+    "low": 2.2799999714,
+    "close": 2.4600000381,
+    "volume": 90000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3900001049,
+    "high": 2.5299999714,
+    "low": 2.3900001049,
+    "close": 2.4100000858,
+    "volume": 46400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4500000477,
+    "high": 2.4649999142,
+    "low": 2.3559999466,
+    "close": 2.4000000954,
+    "volume": 35200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3599998951,
+    "high": 3.5,
+    "low": 2.3599998951,
+    "close": 3.2999999523,
+    "volume": 585200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0299999714,
+    "high": 3.0499999523,
+    "low": 2.4600000381,
+    "close": 2.6300001144,
+    "volume": 430900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7100000381,
+    "high": 5.0100002289,
+    "low": 2.625,
+    "close": 3.8099999428,
+    "volume": 9664300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6800000668,
+    "high": 3.7200000286,
+    "low": 2.8499999046,
+    "close": 3.1099998951,
+    "volume": 2674400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0899999142,
+    "high": 3.0899999142,
+    "low": 2.7300000191,
+    "close": 2.8800001144,
+    "volume": 747900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8099999428,
+    "high": 2.9400000572,
+    "low": 2.7999999523,
+    "close": 2.8299999237,
+    "volume": 400000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8399999142,
+    "high": 3.3800001144,
+    "low": 2.8150000572,
+    "close": 3.3299999237,
+    "volume": 1064100.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,08,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3599998951,
+    "high": 3.6099998951,
+    "low": 3.2400000095,
+    "close": 3.4100000858,
+    "volume": 563200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3499999046,
+    "high": 3.6500000954,
+    "low": 3.1800000668,
+    "close": 3.5999999046,
+    "volume": 311300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5599999428,
+    "high": 3.6900000572,
+    "low": 3.3699998856,
+    "close": 3.3800001144,
+    "volume": 262400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4200000763,
+    "high": 3.5399999619,
+    "low": 3.3299999237,
+    "close": 3.3800001144,
+    "volume": 99600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4200000763,
+    "high": 3.4869999886,
+    "low": 3.2899999619,
+    "close": 3.3299999237,
+    "volume": 143300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2599999905,
+    "high": 3.3099999428,
+    "low": 2.9230000973,
+    "close": 2.9800000191,
+    "volume": 226100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,09,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9900000095,
+    "high": 3.0390000343,
+    "low": 2.8699998856,
+    "close": 2.8900001049,
+    "volume": 202900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9100000858,
+    "high": 2.9900000095,
+    "low": 2.8350000381,
+    "close": 2.8499999046,
+    "volume": 84100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8599998951,
+    "high": 2.9800000191,
+    "low": 2.6500000954,
+    "close": 2.6800000668,
+    "volume": 71100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7100000381,
+    "high": 2.7799999714,
+    "low": 2.6600000858,
+    "close": 2.7599999905,
+    "volume": 42500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.75,
+    "high": 2.9300000668,
+    "low": 2.7400000095,
+    "close": 2.8399999142,
+    "volume": 35800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8499999046,
+    "high": 2.9800000191,
+    "low": 2.7599999905,
+    "close": 2.9100000858,
+    "volume": 143700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8900001049,
+    "high": 2.9300000668,
+    "low": 2.75,
+    "close": 2.7999999523,
+    "volume": 107200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8199999332,
+    "high": 2.9000000954,
+    "low": 2.5799999237,
+    "close": 2.6500000954,
+    "volume": 177000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6500000954,
+    "high": 2.6900000572,
+    "low": 2.5499999523,
+    "close": 2.5799999237,
+    "volume": 72300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6400001049,
+    "high": 2.6800000668,
+    "low": 2.5599999428,
+    "close": 2.5899999142,
+    "volume": 121700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6800000668,
+    "high": 2.8900001049,
+    "low": 2.4500000477,
+    "close": 2.5399999619,
+    "volume": 570800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6700000763,
+    "high": 2.7999999523,
+    "low": 2.5999999046,
+    "close": 2.6600000858,
+    "volume": 303500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6700000763,
+    "high": 2.8599998951,
+    "low": 2.6600000858,
+    "close": 2.7400000095,
+    "volume": 137300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.75,
+    "high": 2.8499999046,
+    "low": 2.7200000286,
+    "close": 2.7699999809,
+    "volume": 78800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7699999809,
+    "high": 2.8599998951,
+    "low": 2.7300000191,
+    "close": 2.7699999809,
+    "volume": 79800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7699999809,
+    "high": 2.9300000668,
+    "low": 2.7300000191,
+    "close": 2.8350000381,
+    "volume": 123100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8800001144,
+    "high": 2.9100000858,
+    "low": 2.7699999809,
+    "close": 2.7699999809,
+    "volume": 84700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7699999809,
+    "high": 2.9300000668,
+    "low": 2.7699999809,
+    "close": 2.8499999046,
+    "volume": 91000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8599998951,
+    "high": 2.9300000668,
+    "low": 2.7300000191,
+    "close": 2.7999999523,
+    "volume": 115000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8099999428,
+    "high": 2.8299999237,
+    "low": 2.6500000954,
+    "close": 2.6700000763,
+    "volume": 151800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6900000572,
+    "high": 2.7699999809,
+    "low": 2.5299999714,
+    "close": 2.6900000572,
+    "volume": 92300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6900000572,
+    "high": 2.7300000191,
+    "low": 2.5599999428,
+    "close": 2.6500000954,
+    "volume": 57700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7200000286,
+    "high": 2.7599999905,
+    "low": 2.6199998856,
+    "close": 2.7400000095,
+    "volume": 77600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7000000477,
+    "high": 2.7890000343,
+    "low": 2.7000000477,
+    "close": 2.7300000191,
+    "volume": 34700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7200000286,
+    "high": 2.8499999046,
+    "low": 2.6700000763,
+    "close": 2.6700000763,
+    "volume": 72400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6700000763,
+    "high": 2.8289999962,
+    "low": 2.6500000954,
+    "close": 2.7899999619,
+    "volume": 336400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7599999905,
+    "high": 2.7750000954,
+    "low": 2.6300001144,
+    "close": 2.6700000763,
+    "volume": 88500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6600000858,
+    "high": 2.6700000763,
+    "low": 2.5550000668,
+    "close": 2.5699999332,
+    "volume": 124900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5699999332,
+    "high": 2.6600000858,
+    "low": 2.5699999332,
+    "close": 2.6300001144,
+    "volume": 72900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7999999523,
+    "high": 2.9400000572,
+    "low": 2.1240000725,
+    "close": 2.2100000381,
+    "volume": 4464000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2200000286,
+    "high": 2.2799999714,
+    "low": 2.1819999218,
+    "close": 2.2599999905,
+    "volume": 417300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2599999905,
+    "high": 2.4200000763,
+    "low": 2.1400001049,
+    "close": 2.3499999046,
+    "volume": 475800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3900001049,
+    "high": 2.4800000191,
+    "low": 2.2899999619,
+    "close": 2.4600000381,
+    "volume": 169500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4600000381,
+    "high": 2.5299999714,
+    "low": 2.2899999619,
+    "close": 2.5099999905,
+    "volume": 137700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5199999809,
+    "high": 2.5199999809,
+    "low": 2.4300000668,
+    "close": 2.4700000286,
+    "volume": 87700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5399999619,
+    "high": 2.5499999523,
+    "low": 2.4100000858,
+    "close": 2.4800000191,
+    "volume": 149400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5299999714,
+    "high": 2.5799999237,
+    "low": 2.4400000572,
+    "close": 2.5,
+    "volume": 126200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5299999714,
+    "high": 2.6689999104,
+    "low": 2.3599998951,
+    "close": 2.6300001144,
+    "volume": 246900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6300001144,
+    "high": 2.6900000572,
+    "low": 2.5199999809,
+    "close": 2.5499999523,
+    "volume": 141800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5499999523,
+    "high": 2.638999939,
+    "low": 2.5250000954,
+    "close": 2.5599999428,
+    "volume": 52300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5699999332,
+    "high": 2.6400001049,
+    "low": 2.5220000744,
+    "close": 2.5799999237,
+    "volume": 97800.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,10,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5699999332,
+    "high": 2.6099998951,
+    "low": 2.25,
+    "close": 2.2599999905,
+    "volume": 271200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,11,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3800001144,
+    "high": 2.4079999924,
+    "low": 2.3099999428,
+    "close": 2.3299999237,
+    "volume": 145800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3199999332,
+    "high": 2.6199998856,
+    "low": 2.3199999332,
+    "close": 2.3800001144,
+    "volume": 282000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4100000858,
+    "high": 2.4200000763,
+    "low": 2.2699999809,
+    "close": 2.2899999619,
+    "volume": 134000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3699998856,
+    "high": 2.3699998856,
+    "low": 2.2100000381,
+    "close": 2.2400000095,
+    "volume": 250400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3099999428,
+    "high": 2.4900000095,
+    "low": 2.1600000858,
+    "close": 2.4600000381,
+    "volume": 516000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4700000286,
+    "high": 2.5299999714,
+    "low": 2.2890000343,
+    "close": 2.4500000477,
+    "volume": 373600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4500000477,
+    "high": 2.5599999428,
+    "low": 2.3599998951,
+    "close": 2.4300000668,
+    "volume": 253900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4100000858,
+    "high": 2.5699999332,
+    "low": 2.1900000572,
+    "close": 2.25,
+    "volume": 4652200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,11,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2400000095,
+    "high": 1.2899999619,
+    "low": 1.1599999666,
+    "close": 1.1900000572,
+    "volume": 5904400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2599999905,
+    "high": 1.3099999428,
+    "low": 1.1799999475,
+    "close": 1.2799999714,
+    "volume": 1410400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2799999714,
+    "high": 1.2799999714,
+    "low": 1.1649999619,
+    "close": 1.2000000477,
+    "volume": 907300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2000000477,
+    "high": 1.2300000191,
+    "low": 1.1499999762,
+    "close": 1.1699999571,
+    "volume": 474900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1499999762,
+    "high": 1.2999999523,
+    "low": 1.1499999762,
+    "close": 1.2899999619,
+    "volume": 821300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.25,
+    "high": 1.2790000439,
+    "low": 1.2200000286,
+    "close": 1.2300000191,
+    "volume": 269000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2300000191,
+    "high": 1.3099999428,
+    "low": 1.2200000286,
+    "close": 1.2999999523,
+    "volume": 632900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3300000429,
+    "high": 1.3300000429,
+    "low": 1.25,
+    "close": 1.2799999714,
+    "volume": 549400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3099999428,
+    "high": 1.4199999571,
+    "low": 1.2799999714,
+    "close": 1.3400000334,
+    "volume": 911100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4800000191,
+    "high": 1.5,
+    "low": 1.3300000429,
+    "close": 1.4199999571,
+    "volume": 975600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4299999475,
+    "high": 1.4900000095,
+    "low": 1.3500000238,
+    "close": 1.3799999952,
+    "volume": 641800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4099999666,
+    "high": 1.5199999809,
+    "low": 1.4099999666,
+    "close": 1.5,
+    "volume": 595800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5,
+    "high": 1.6499999762,
+    "low": 1.3799999952,
+    "close": 1.6200000048,
+    "volume": 2053200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6100000143,
+    "high": 1.6200000048,
+    "low": 1.3799999952,
+    "close": 1.4099999666,
+    "volume": 1371800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4199999571,
+    "high": 1.5,
+    "low": 1.4099999666,
+    "close": 1.4600000381,
+    "volume": 680500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4900000095,
+    "high": 1.5349999666,
+    "low": 1.3799999952,
+    "close": 1.4500000477,
+    "volume": 489700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4500000477,
+    "high": 1.4800000191,
+    "low": 1.3700000048,
+    "close": 1.3999999762,
+    "volume": 706400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3999999762,
+    "high": 1.4199999571,
+    "low": 1.3400000334,
+    "close": 1.3600000143,
+    "volume": 486800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3400000334,
+    "high": 1.3600000143,
+    "low": 1.2799999714,
+    "close": 1.3300000429,
+    "volume": 428600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3799999952,
+    "high": 1.3899999857,
+    "low": 1.2799999714,
+    "close": 1.3500000238,
+    "volume": 628400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3200000525,
+    "high": 1.3600000143,
+    "low": 1.2899999619,
+    "close": 1.3099999428,
+    "volume": 399400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3099999428,
+    "high": 1.4500000477,
+    "low": 1.3099999428,
+    "close": 1.4299999475,
+    "volume": 982600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2400000095,
+    "high": 6.8400001526,
+    "low": 2.0499999523,
+    "close": 4.5799999237,
+    "volume": 296899600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.5799999237,
+    "high": 7.6500000954,
+    "low": 4.6100001335,
+    "close": 5.5999999046,
+    "volume": 74332400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.0,
+    "high": 5.4299998283,
+    "low": 4.25,
+    "close": 4.5500001907,
+    "volume": 12381400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.5799999237,
+    "high": 5.5,
+    "low": 4.3600001335,
+    "close": 4.9299998283,
+    "volume": 10207400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.0999999046,
+    "high": 5.1700000763,
+    "low": 3.8849999905,
+    "close": 3.9600000381,
+    "volume": 7308800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.4850001335,
+    "high": 4.6300001144,
+    "low": 4.0799999237,
+    "close": 4.5399999619,
+    "volume": 6279300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.0,
+    "high": 4.5900001526,
+    "low": 4.0,
+    "close": 4.4899997711,
+    "volume": 3213200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.4099998474,
+    "high": 5.4099998474,
+    "low": 4.4000000954,
+    "close": 4.6900000572,
+    "volume": 6434900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.3000001907,
+    "high": 5.5500001907,
+    "low": 4.6900000572,
+    "close": 5.0199999809,
+    "volume": 5198200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.7800002098,
+    "high": 5.2800002098,
+    "low": 4.5,
+    "close": 5.1100001335,
+    "volume": 3537300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.0100002289,
+    "high": 6.75,
+    "low": 4.5999999046,
+    "close": 4.9000000954,
+    "volume": 10285200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5499999523,
+    "high": 3.7400000095,
+    "low": 2.9100000858,
+    "close": 3.0499999523,
+    "volume": 13233600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,01,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2599999905,
+    "high": 3.5799999237,
+    "low": 3.0799999237,
+    "close": 3.2999999523,
+    "volume": 7463700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2999999523,
+    "high": 3.4000000954,
+    "low": 3.1199998856,
+    "close": 3.1500000954,
+    "volume": 4026300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.1500000954,
+    "high": 3.2999999523,
+    "low": 2.9100000858,
+    "close": 3.1099998951,
+    "volume": 3016900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9300000668,
+    "high": 2.9700000286,
+    "low": 2.5799999237,
+    "close": 2.7200000286,
+    "volume": 2716700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7000000477,
+    "high": 2.7999999523,
+    "low": 2.4400000572,
+    "close": 2.6600000858,
+    "volume": 1677200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5,
+    "high": 2.5699999332,
+    "low": 2.25,
+    "close": 2.3599998951,
+    "volume": 1586800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3099999428,
+    "high": 2.6099998951,
+    "low": 2.3099999428,
+    "close": 2.3399999142,
+    "volume": 1133700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3800001144,
+    "high": 2.5,
+    "low": 2.1449999809,
+    "close": 2.2799999714,
+    "volume": 2233400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3199999332,
+    "high": 2.5999999046,
+    "low": 2.2599999905,
+    "close": 2.4100000858,
+    "volume": 1735800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5,
+    "high": 2.8499999046,
+    "low": 2.4700000286,
+    "close": 2.5899999142,
+    "volume": 3581800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8299999237,
+    "high": 3.3499999046,
+    "low": 2.7599999905,
+    "close": 3.1600000858,
+    "volume": 9963800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0,
+    "high": 3.1600000858,
+    "low": 2.8499999046,
+    "close": 3.0,
+    "volume": 2465200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9600000381,
+    "high": 3.0099999905,
+    "low": 2.7000000477,
+    "close": 2.7000000477,
+    "volume": 1943700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7799999714,
+    "high": 3.0199999809,
+    "low": 2.75,
+    "close": 2.7699999809,
+    "volume": 1934700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5999999046,
+    "high": 2.7100000381,
+    "low": 2.4500000477,
+    "close": 2.4800000191,
+    "volume": 1403800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5699999332,
+    "high": 2.6489999294,
+    "low": 2.5099999905,
+    "close": 2.5399999619,
+    "volume": 982100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5799999237,
+    "high": 2.6300001144,
+    "low": 2.3699998856,
+    "close": 2.3900001049,
+    "volume": 909200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3900001049,
+    "high": 2.5,
+    "low": 2.3900001049,
+    "close": 2.4200000763,
+    "volume": 608400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4300000668,
+    "high": 2.5399999619,
+    "low": 2.3800001144,
+    "close": 2.4800000191,
+    "volume": 822100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2999999523,
+    "high": 2.3650000095,
+    "low": 2.2300000191,
+    "close": 2.3199999332,
+    "volume": 854000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4600000381,
+    "high": 2.6380000114,
+    "low": 2.4300000668,
+    "close": 2.5599999428,
+    "volume": 1349400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5499999523,
+    "high": 2.6300001144,
+    "low": 2.5099999905,
+    "close": 2.6199998856,
+    "volume": 970700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6199998856,
+    "high": 2.6900000572,
+    "low": 2.4200000763,
+    "close": 2.4600000381,
+    "volume": 1297500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4900000095,
+    "high": 2.5499999523,
+    "low": 2.4000000954,
+    "close": 2.5399999619,
+    "volume": 963700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5,
+    "high": 2.9700000286,
+    "low": 2.4200000763,
+    "close": 2.7599999905,
+    "volume": 2181800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8199999332,
+    "high": 3.0,
+    "low": 2.6800000668,
+    "close": 2.7799999714,
+    "volume": 1615800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6400001049,
+    "high": 2.8599998951,
+    "low": 2.6099998951,
+    "close": 2.7799999714,
+    "volume": 1068200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.75,
+    "high": 2.7599999905,
+    "low": 2.5610001087,
+    "close": 2.7000000477,
+    "volume": 918500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6800000668,
+    "high": 2.7200000286,
+    "low": 2.5950000286,
+    "close": 2.6700000763,
+    "volume": 649600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6700000763,
+    "high": 2.75,
+    "low": 2.5899999142,
+    "close": 2.5999999046,
+    "volume": 835900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5899999142,
+    "high": 2.6500000954,
+    "low": 2.5050001144,
+    "close": 2.5199999809,
+    "volume": 1108100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5199999809,
+    "high": 2.5399999619,
+    "low": 2.3599998951,
+    "close": 2.5099999905,
+    "volume": 793300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5199999809,
+    "high": 2.5599999428,
+    "low": 2.3299999237,
+    "close": 2.4000000954,
+    "volume": 704300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4300000668,
+    "high": 2.4389998913,
+    "low": 2.25,
+    "close": 2.2699999809,
+    "volume": 804300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2699999809,
+    "high": 2.2999999523,
+    "low": 2.1099998951,
+    "close": 2.2000000477,
+    "volume": 746800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2000000477,
+    "high": 2.3099999428,
+    "low": 2.1800000668,
+    "close": 2.2200000286,
+    "volume": 888000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2999999523,
+    "high": 2.2999999523,
+    "low": 1.9299999475,
+    "close": 1.9700000286,
+    "volume": 922900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9099999666,
+    "high": 2.0,
+    "low": 1.8569999933,
+    "close": 1.8899999857,
+    "volume": 680600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0,
+    "high": 2.0499999523,
+    "low": 1.7999999523,
+    "close": 1.8500000238,
+    "volume": 638900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.75,
+    "high": 1.8500000238,
+    "low": 1.6599999666,
+    "close": 1.7599999905,
+    "volume": 1034000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8400000334,
+    "high": 1.9199999571,
+    "low": 1.75,
+    "close": 1.8899999857,
+    "volume": 493500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8899999857,
+    "high": 2.0190000534,
+    "low": 1.8200000525,
+    "close": 1.8700000048,
+    "volume": 823000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8999999762,
+    "high": 1.9800000191,
+    "low": 1.800999999,
+    "close": 1.9800000191,
+    "volume": 372800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9400000572,
+    "high": 1.9500000477,
+    "low": 1.6799999475,
+    "close": 1.7100000381,
+    "volume": 839000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7799999714,
+    "high": 1.8159999847,
+    "low": 1.7009999752,
+    "close": 1.7699999809,
+    "volume": 298300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8300000429,
+    "high": 1.8999999762,
+    "low": 1.8049999475,
+    "close": 1.8700000048,
+    "volume": 458900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8700000048,
+    "high": 1.8899999857,
+    "low": 1.7400000095,
+    "close": 1.75,
+    "volume": 425800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8300000429,
+    "high": 2.0199999809,
+    "low": 1.7999999523,
+    "close": 1.9700000286,
+    "volume": 942200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9800000191,
+    "high": 2.0,
+    "low": 1.8300000429,
+    "close": 1.9199999571,
+    "volume": 2090200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9199999571,
+    "high": 1.9199999571,
+    "low": 1.7400000095,
+    "close": 1.75,
+    "volume": 839900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.75,
+    "high": 1.75,
+    "low": 1.6649999619,
+    "close": 1.7000000477,
+    "volume": 654500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7100000381,
+    "high": 1.7250000238,
+    "low": 1.6649999619,
+    "close": 1.6699999571,
+    "volume": 402900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6499999762,
+    "high": 1.6649999619,
+    "low": 1.5800000429,
+    "close": 1.5800000429,
+    "volume": 535400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6399999857,
+    "high": 1.7159999609,
+    "low": 1.6000000238,
+    "close": 1.6799999475,
+    "volume": 669700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7000000477,
+    "high": 1.7549999952,
+    "low": 1.6699999571,
+    "close": 1.7000000477,
+    "volume": 385200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7100000381,
+    "high": 1.7300000191,
+    "low": 1.6200000048,
+    "close": 1.6499999762,
+    "volume": 572100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6200000048,
+    "high": 1.6499999762,
+    "low": 1.5499999523,
+    "close": 1.5499999523,
+    "volume": 526700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5900000334,
+    "high": 1.6139999628,
+    "low": 1.4800000191,
+    "close": 1.5,
+    "volume": 487000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4700000286,
+    "high": 1.5099999905,
+    "low": 1.3899999857,
+    "close": 1.4800000191,
+    "volume": 391800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3700000048,
+    "high": 1.4600000381,
+    "low": 1.3099999428,
+    "close": 1.4199999571,
+    "volume": 556800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6399999857,
+    "high": 1.6449999809,
+    "low": 1.2999999523,
+    "close": 1.3099999428,
+    "volume": 12993000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2599999905,
+    "high": 1.3500000238,
+    "low": 1.2000000477,
+    "close": 1.3099999428,
+    "volume": 1032400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2899999619,
+    "high": 1.3200000525,
+    "low": 1.2000000477,
+    "close": 1.2799999714,
+    "volume": 851200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2100000381,
+    "high": 1.3220000267,
+    "low": 1.1499999762,
+    "close": 1.2899999619,
+    "volume": 1065400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3300000429,
+    "high": 1.3500000238,
+    "low": 1.2200000286,
+    "close": 1.2300000191,
+    "volume": 1023000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2200000286,
+    "high": 1.3400000334,
+    "low": 1.1399999857,
+    "close": 1.3099999428,
+    "volume": 1102900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2999999523,
+    "high": 1.3099999428,
+    "low": 1.2300000191,
+    "close": 1.2999999523,
+    "volume": 394200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2999999523,
+    "high": 1.3899999857,
+    "low": 1.2699999809,
+    "close": 1.3799999952,
+    "volume": 351700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3799999952,
+    "high": 1.4199999571,
+    "low": 1.3400000334,
+    "close": 1.3799999952,
+    "volume": 268800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3799999952,
+    "high": 1.4099999666,
+    "low": 1.3609999418,
+    "close": 1.3700000048,
+    "volume": 158400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3400000334,
+    "high": 1.3899999857,
+    "low": 1.3200000525,
+    "close": 1.3400000334,
+    "volume": 158200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3600000143,
+    "high": 1.4199999571,
+    "low": 1.3400000334,
+    "close": 1.3999999762,
+    "volume": 158700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3600000143,
+    "high": 1.3999999762,
+    "low": 1.3220000267,
+    "close": 1.3999999762,
+    "volume": 250900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4299999475,
+    "high": 1.4700000286,
+    "low": 1.3899999857,
+    "close": 1.4400000572,
+    "volume": 250900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5,
+    "high": 1.5199999809,
+    "low": 1.4600000381,
+    "close": 1.4800000191,
+    "volume": 468400.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,04,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5299999714,
+    "high": 1.625,
+    "low": 1.5099999905,
+    "close": 1.6100000143,
+    "volume": 664300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6399999857,
+    "high": 1.6699999571,
+    "low": 1.5599999428,
+    "close": 1.6000000238,
+    "volume": 479100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5900000334,
+    "high": 1.6299999952,
+    "low": 1.5499999523,
+    "close": 1.6000000238,
+    "volume": 147900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5800000429,
+    "high": 1.6150000095,
+    "low": 1.5599999428,
+    "close": 1.5700000525,
+    "volume": 138200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5700000525,
+    "high": 1.5950000286,
+    "low": 1.4600000381,
+    "close": 1.5800000429,
+    "volume": 172700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6200000048,
+    "high": 1.6399999857,
+    "low": 1.5800000429,
+    "close": 1.5800000429,
+    "volume": 114400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6200000048,
+    "high": 1.6399999857,
+    "low": 1.5800000429,
+    "close": 1.6200000048,
+    "volume": 339200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5900000334,
+    "high": 1.6100000143,
+    "low": 1.5199999809,
+    "close": 1.5299999714,
+    "volume": 190600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4800000191,
+    "high": 1.5499999523,
+    "low": 1.4800000191,
+    "close": 1.4850000143,
+    "volume": 214800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4800000191,
+    "high": 1.5199999809,
+    "low": 1.4680000544,
+    "close": 1.5099999905,
+    "volume": 145900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5099999905,
+    "high": 1.5800000429,
+    "low": 1.4950000048,
+    "close": 1.5399999619,
+    "volume": 249700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5399999619,
+    "high": 1.5770000219,
+    "low": 1.4850000143,
+    "close": 1.5099999905,
+    "volume": 201900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6000000238,
+    "high": 1.6799999475,
+    "low": 1.5499999523,
+    "close": 1.6200000048,
+    "volume": 355500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6499999762,
+    "high": 1.7289999723,
+    "low": 1.6200000048,
+    "close": 1.6499999762,
+    "volume": 451000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6900000572,
+    "high": 1.8999999762,
+    "low": 1.6900000572,
+    "close": 1.8899999857,
+    "volume": 1169500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0,
+    "high": 2.0,
+    "low": 1.7109999657,
+    "close": 1.8099999428,
+    "volume": 1065300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6299999952,
+    "high": 1.7000000477,
+    "low": 1.5900000334,
+    "close": 1.6200000048,
+    "volume": 1109100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6100000143,
+    "high": 1.6200000048,
+    "low": 1.5599999428,
+    "close": 1.6100000143,
+    "volume": 382900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5599999428,
+    "high": 1.5700000525,
+    "low": 1.4800000191,
+    "close": 1.5,
+    "volume": 532100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4900000095,
+    "high": 1.567999959,
+    "low": 1.4400000572,
+    "close": 1.4400000572,
+    "volume": 394600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4700000286,
+    "high": 1.5199999809,
+    "low": 1.4299999475,
+    "close": 1.5199999809,
+    "volume": 295800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5,
+    "high": 1.6000000238,
+    "low": 1.4639999866,
+    "close": 1.5599999428,
+    "volume": 339400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5900000334,
+    "high": 1.6000000238,
+    "low": 1.4900000095,
+    "close": 1.5099999905,
+    "volume": 525000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5399999619,
+    "high": 1.5499999523,
+    "low": 1.4600000381,
+    "close": 1.4700000286,
+    "volume": 252800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4800000191,
+    "high": 1.506000042,
+    "low": 1.4199999571,
+    "close": 1.4600000381,
+    "volume": 390100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4600000381,
+    "high": 1.4600000381,
+    "low": 1.3600000143,
+    "close": 1.3999999762,
+    "volume": 414000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3999999762,
+    "high": 1.4299999475,
+    "low": 1.3650000095,
+    "close": 1.4199999571,
+    "volume": 232100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4299999475,
+    "high": 1.4900000095,
+    "low": 1.4099999666,
+    "close": 1.4900000095,
+    "volume": 253100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4900000095,
+    "high": 1.5700000525,
+    "low": 1.4600000381,
+    "close": 1.4800000191,
+    "volume": 427800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4800000191,
+    "high": 1.5499999523,
+    "low": 1.4299999475,
+    "close": 1.4750000238,
+    "volume": 1667000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4900000095,
+    "high": 1.5800000429,
+    "low": 1.4600000381,
+    "close": 1.5399999619,
+    "volume": 768900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5700000525,
+    "high": 1.7000000477,
+    "low": 1.5199999809,
+    "close": 1.6399999857,
+    "volume": 1204300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6499999762,
+    "high": 1.6599999666,
+    "low": 1.5199999809,
+    "close": 1.5399999619,
+    "volume": 581500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5499999523,
+    "high": 1.6799999475,
+    "low": 1.5499999523,
+    "close": 1.6499999762,
+    "volume": 773000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6699999571,
+    "high": 1.6699999571,
+    "low": 1.5900000334,
+    "close": 1.6200000048,
+    "volume": 296700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5499999523,
+    "high": 1.5989999771,
+    "low": 1.5199999809,
+    "close": 1.5399999619,
+    "volume": 290300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5599999428,
+    "high": 1.6499999762,
+    "low": 1.5240000486,
+    "close": 1.6299999952,
+    "volume": 439300.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,06,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6000000238,
+    "high": 1.6349999905,
+    "low": 1.5299999714,
+    "close": 1.5299999714,
+    "volume": 344700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5499999523,
+    "high": 1.6000000238,
+    "low": 1.5299999714,
+    "close": 1.5399999619,
+    "volume": 271100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5599999428,
+    "high": 1.5700000525,
+    "low": 1.4900000095,
+    "close": 1.4900000095,
+    "volume": 367900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5299999714,
+    "high": 1.8200000525,
+    "low": 1.5299999714,
+    "close": 1.5900000334,
+    "volume": 2461600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6100000143,
+    "high": 1.6499999762,
+    "low": 1.5599999428,
+    "close": 1.5900000334,
+    "volume": 661100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6299999952,
+    "high": 1.6299999952,
+    "low": 1.5599999428,
+    "close": 1.5800000429,
+    "volume": 384800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6200000048,
+    "high": 1.8200000525,
+    "low": 1.5800000429,
+    "close": 1.7999999523,
+    "volume": 1489800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7999999523,
+    "high": 1.7999999523,
+    "low": 1.6299999952,
+    "close": 1.6399999857,
+    "volume": 629000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7000000477,
+    "high": 1.7799999714,
+    "low": 1.6799999475,
+    "close": 1.7300000191,
+    "volume": 493100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7200000286,
+    "high": 1.7899999619,
+    "low": 1.6499999762,
+    "close": 1.7799999714,
+    "volume": 371200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7799999714,
+    "high": 1.7999999523,
+    "low": 1.75,
+    "close": 1.7799999714,
+    "volume": 409800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7799999714,
+    "high": 1.7899999619,
+    "low": 1.7200000286,
+    "close": 1.7300000191,
+    "volume": 252200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7400000095,
+    "high": 1.7400000095,
+    "low": 1.6399999857,
+    "close": 1.7000000477,
+    "volume": 408000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.6900000572,
+    "high": 1.7849999666,
+    "low": 1.6779999733,
+    "close": 1.7599999905,
+    "volume": 316700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7799999714,
+    "high": 1.7949999571,
+    "low": 1.7300000191,
+    "close": 1.7599999905,
+    "volume": 336200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7699999809,
+    "high": 1.9800000191,
+    "low": 1.7699999809,
+    "close": 1.8700000048,
+    "volume": 1013500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8899999857,
+    "high": 1.9199999571,
+    "low": 1.7999999523,
+    "close": 1.8300000429,
+    "volume": 454400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7999999523,
+    "high": 1.8300000429,
+    "low": 1.7100000381,
+    "close": 1.7400000095,
+    "volume": 572000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.75,
+    "high": 1.8300000429,
+    "low": 1.7200000286,
+    "close": 1.7599999905,
+    "volume": 356600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7699999809,
+    "high": 1.8350000381,
+    "low": 1.7400000095,
+    "close": 1.8200000525,
+    "volume": 314700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8400000334,
+    "high": 2.0499999523,
+    "low": 1.8300000429,
+    "close": 2.0499999523,
+    "volume": 1446700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0199999809,
+    "high": 2.0650000572,
+    "low": 1.9600000381,
+    "close": 2.0099999905,
+    "volume": 610200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0299999714,
+    "high": 2.0599999428,
+    "low": 1.8799999952,
+    "close": 1.9299999475,
+    "volume": 775600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9299999475,
+    "high": 2.0,
+    "low": 1.8899999857,
+    "close": 1.9700000286,
+    "volume": 479100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9900000095,
+    "high": 2.0650000572,
+    "low": 1.9400000572,
+    "close": 1.9800000191,
+    "volume": 602500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0,
+    "high": 2.1900000572,
+    "low": 1.9850000143,
+    "close": 2.0399999619,
+    "volume": 978000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0699999332,
+    "high": 2.0980000496,
+    "low": 2.0,
+    "close": 2.0199999809,
+    "volume": 1095500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1499999762,
+    "high": 1.2400000095,
+    "low": 1.0800000429,
+    "close": 1.1699999571,
+    "volume": 17689800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,07,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1799999475,
+    "high": 1.1799999475,
+    "low": 1.1000000238,
+    "close": 1.1100000143,
+    "volume": 3066300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1299999952,
+    "high": 1.2100000381,
+    "low": 1.0900000334,
+    "close": 1.1499999762,
+    "volume": 2625900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1399999857,
+    "high": 1.1900000572,
+    "low": 1.1299999952,
+    "close": 1.1599999666,
+    "volume": 972700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1200000048,
+    "high": 1.1799999475,
+    "low": 1.0900000334,
+    "close": 1.1499999762,
+    "volume": 1403100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1399999857,
+    "high": 1.25,
+    "low": 1.1000000238,
+    "close": 1.2000000477,
+    "volume": 1728800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1799999475,
+    "high": 1.2599999905,
+    "low": 1.1799999475,
+    "close": 1.2100000381,
+    "volume": 973700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2100000381,
+    "high": 1.2100000381,
+    "low": 1.1499999762,
+    "close": 1.1799999475,
+    "volume": 795500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1599999666,
+    "high": 1.1799999475,
+    "low": 1.1299999952,
+    "close": 1.1399999857,
+    "volume": 892400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1399999857,
+    "high": 1.1599999666,
+    "low": 1.1100000143,
+    "close": 1.1100000143,
+    "volume": 766700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1200000048,
+    "high": 1.1499999762,
+    "low": 1.1109999418,
+    "close": 1.1299999952,
+    "volume": 696900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1200000048,
+    "high": 1.1399999857,
+    "low": 1.1100000143,
+    "close": 1.1299999952,
+    "volume": 764100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1399999857,
+    "high": 1.1599999666,
+    "low": 1.1200000048,
+    "close": 1.1399999857,
+    "volume": 931500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1299999952,
+    "high": 1.1859999895,
+    "low": 1.1200000048,
+    "close": 1.1499999762,
+    "volume": 2136800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1349999905,
+    "high": 1.1349999905,
+    "low": 1.0800000429,
+    "close": 1.1100000143,
+    "volume": 1153200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1100000143,
+    "high": 1.1900000572,
+    "low": 1.1000000238,
+    "close": 1.1699999571,
+    "volume": 1074800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1499999762,
+    "high": 1.2000000477,
+    "low": 1.1299999952,
+    "close": 1.1399999857,
+    "volume": 565200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1299999952,
+    "high": 1.1449999809,
+    "low": 1.1000000238,
+    "close": 1.1399999857,
+    "volume": 568300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1399999857,
+    "high": 1.1799999475,
+    "low": 1.125,
+    "close": 1.1699999571,
+    "volume": 513500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1699999571,
+    "high": 1.1970000267,
+    "low": 1.1499999762,
+    "close": 1.1799999475,
+    "volume": 689500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1799999475,
+    "high": 1.25,
+    "low": 1.1629999876,
+    "close": 1.2100000381,
+    "volume": 1036900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2100000381,
+    "high": 1.2949999571,
+    "low": 1.2000000477,
+    "close": 1.2400000095,
+    "volume": 1112700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2400000095,
+    "high": 1.2799999714,
+    "low": 1.2400000095,
+    "close": 1.2400000095,
+    "volume": 553800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2699999809,
+    "high": 1.3500000238,
+    "low": 1.25,
+    "close": 1.3300000429,
+    "volume": 754500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3300000429,
+    "high": 1.3500000238,
+    "low": 1.2350000143,
+    "close": 1.2599999905,
+    "volume": 899800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2300000191,
+    "high": 1.25,
+    "low": 1.1920000315,
+    "close": 1.2100000381,
+    "volume": 493900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2200000286,
+    "high": 1.25,
+    "low": 1.1900000572,
+    "close": 1.2000000477,
+    "volume": 416900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2000000477,
+    "high": 1.2000000477,
+    "low": 1.1549999714,
+    "close": 1.1799999475,
+    "volume": 410100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1900000572,
+    "high": 1.2200000286,
+    "low": 1.1599999666,
+    "close": 1.1900000572,
+    "volume": 366100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2000000477,
+    "high": 1.2100000381,
+    "low": 1.1649999619,
+    "close": 1.1699999571,
+    "volume": 332400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1799999475,
+    "high": 1.2050000429,
+    "low": 1.1499999762,
+    "close": 1.1799999475,
+    "volume": 746300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2000000477,
+    "high": 1.2300000191,
+    "low": 1.1799999475,
+    "close": 1.2200000286,
+    "volume": 679900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2200000286,
+    "high": 1.3150000572,
+    "low": 1.2100000381,
+    "close": 1.2999999523,
+    "volume": 1291600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.5399999619,
+    "high": 1.7799999714,
+    "low": 1.2899999619,
+    "close": 1.3200000525,
+    "volume": 15866100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.9929999709,
+    "high": 1.0,
+    "low": 0.9309999943,
+    "close": 0.9409999847,
+    "volume": 15739200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,09,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.9800000191,
+    "high": 1.0599999428,
+    "low": 0.9599999785,
+    "close": 1.0399999619,
+    "volume": 4016600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0800000429,
+    "high": 1.0900000334,
+    "low": 1.0199999809,
+    "close": 1.0599999428,
+    "volume": 2959000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1000000238,
+    "high": 1.1499999762,
+    "low": 1.0700000525,
+    "close": 1.0800000429,
+    "volume": 2454700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0900000334,
+    "high": 1.1299999952,
+    "low": 1.0700000525,
+    "close": 1.0800000429,
+    "volume": 1483500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0499999523,
+    "high": 1.0900000334,
+    "low": 1.0149999857,
+    "close": 1.0700000525,
+    "volume": 1903200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0700000525,
+    "high": 1.1100000143,
+    "low": 1.0599999428,
+    "close": 1.0700000525,
+    "volume": 1659200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0599999428,
+    "high": 1.07099998,
+    "low": 1.0299999714,
+    "close": 1.0399999619,
+    "volume": 1724600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0199999809,
+    "high": 1.0399999619,
+    "low": 1.0099999905,
+    "close": 1.0199999809,
+    "volume": 1606100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0199999809,
+    "high": 1.0399999619,
+    "low": 0.9800000191,
+    "close": 1.0099999905,
+    "volume": 1381600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0650000572,
+    "high": 1.1000000238,
+    "low": 1.0349999666,
+    "close": 1.0700000525,
+    "volume": 2177900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0599999428,
+    "high": 1.0759999752,
+    "low": 1.0199999809,
+    "close": 1.0399999619,
+    "volume": 1164900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0399999619,
+    "high": 1.0900000334,
+    "low": 1.0349999666,
+    "close": 1.0900000334,
+    "volume": 1143700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0800000429,
+    "high": 1.1299999952,
+    "low": 1.0499999523,
+    "close": 1.1100000143,
+    "volume": 2084700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,10,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1100000143,
+    "high": 1.1299999952,
+    "low": 1.0700000525,
+    "close": 1.1000000238,
+    "volume": 1748400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1000000238,
+    "high": 1.1799999475,
+    "low": 1.1000000238,
+    "close": 1.1599999666,
+    "volume": 1715800.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,10,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1900000572,
+    "high": 1.2699999809,
+    "low": 1.1599999666,
+    "close": 1.2000000477,
+    "volume": 3410400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2200000286,
+    "high": 1.4500000477,
+    "low": 1.2100000381,
+    "close": 1.4299999475,
+    "volume": 7425800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4600000381,
+    "high": 1.4730000496,
+    "low": 1.2899999619,
+    "close": 1.3400000334,
+    "volume": 3486000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3500000238,
+    "high": 1.3999999762,
+    "low": 1.2000000477,
+    "close": 1.2100000381,
+    "volume": 3219200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2599999905,
+    "high": 1.3099999428,
+    "low": 1.25,
+    "close": 1.2899999619,
+    "volume": 1293400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2599999905,
+    "high": 1.4500000477,
+    "low": 1.2200000286,
+    "close": 1.3999999762,
+    "volume": 2848100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.4600000381,
+    "high": 1.4900000095,
+    "low": 1.3099999428,
+    "close": 1.3700000048,
+    "volume": 2244000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3799999952,
+    "high": 1.3999999762,
+    "low": 1.2400000095,
+    "close": 1.2400000095,
+    "volume": 1778400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2300000191,
+    "high": 1.25,
+    "low": 1.1699999571,
+    "close": 1.2000000477,
+    "volume": 1192000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,10,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.25,
+    "high": 1.2699999809,
+    "low": 1.2150000334,
+    "close": 1.2699999809,
+    "volume": 963200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.25,
+    "high": 1.25,
+    "low": 1.2039999962,
+    "close": 1.2300000191,
+    "volume": 782800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2100000381,
+    "high": 1.2259999514,
+    "low": 1.1200000048,
+    "close": 1.1499999762,
+    "volume": 1487500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,10,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2000000477,
+    "high": 1.25,
+    "low": 1.1699999571,
+    "close": 1.2100000381,
+    "volume": 1028900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2400000095,
+    "high": 1.2649999857,
+    "low": 1.1799999475,
+    "close": 1.2000000477,
+    "volume": 1216400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2400000095,
+    "high": 1.25,
+    "low": 1.1900000572,
+    "close": 1.2000000477,
+    "volume": 879900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.2000000477,
+    "high": 1.2100000381,
+    "low": 1.1499999762,
+    "close": 1.1699999571,
+    "volume": 779900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1699999571,
+    "high": 1.1749999523,
+    "low": 1.1200000048,
+    "close": 1.1499999762,
+    "volume": 1473500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1399999857,
+    "high": 1.1499999762,
+    "low": 1.0900000334,
+    "close": 1.1200000048,
+    "volume": 1397800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1200000048,
+    "high": 1.1299999952,
+    "low": 1.0900000334,
+    "close": 1.1299999952,
+    "volume": 1031400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1499999762,
+    "high": 1.1549999714,
+    "low": 1.0599999428,
+    "close": 1.0700000525,
+    "volume": 1021500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0499999523,
+    "high": 1.0700000525,
+    "low": 1.0299999714,
+    "close": 1.0700000525,
+    "volume": 1348000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0599999428,
+    "high": 1.0700000525,
+    "low": 1.0199999809,
+    "close": 1.0399999619,
+    "volume": 817100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0399999619,
+    "high": 1.0399999619,
+    "low": 0.9800000191,
+    "close": 0.9909999967,
+    "volume": 1251700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.9879999757,
+    "high": 0.9909999967,
+    "low": 0.9390000105,
+    "close": 0.97299999,
+    "volume": 1115100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.9900000095,
+    "high": 1.0299999714,
+    "low": 0.898999989,
+    "close": 0.9160000086,
+    "volume": 1801500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.9200000167,
+    "high": 0.9369999766,
+    "low": 0.8600000143,
+    "close": 0.871999979,
+    "volume": 1296200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.871999979,
+    "high": 0.8939999938,
+    "low": 0.8199999928,
+    "close": 0.84799999,
+    "volume": 1290800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.8600000143,
+    "high": 0.8690000176,
+    "low": 0.800999999,
+    "close": 0.8180000186,
+    "volume": 1660200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.8000000119,
+    "high": 0.9129999876,
+    "low": 0.7799999714,
+    "close": 0.8569999933,
+    "volume": 1721300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.8299999833,
+    "high": 0.8370000124,
+    "low": 0.7009999752,
+    "close": 0.7099999785,
+    "volume": 2638800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.7200000286,
+    "high": 0.8600000143,
+    "low": 0.7200000286,
+    "close": 0.8100000024,
+    "volume": 2349900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.8080000281,
+    "high": 0.8199999928,
+    "low": 0.753000021,
+    "close": 0.7760000229,
+    "volume": 781800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.8000000119,
+    "high": 0.8000000119,
+    "low": 0.7049999833,
+    "close": 0.7099999785,
+    "volume": 1024300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.7200000286,
+    "high": 0.7680000067,
+    "low": 0.7020000219,
+    "close": 0.7440000176,
+    "volume": 668900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.75,
+    "high": 0.7829999924,
+    "low": 0.7400000095,
+    "close": 0.7419999838,
+    "volume": 476000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.7400000095,
+    "high": 0.75,
+    "low": 0.6940000057,
+    "close": 0.69599998,
+    "volume": 1016600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.6999999881,
+    "high": 0.7599999905,
+    "low": 0.6909999847,
+    "close": 0.6940000057,
+    "volume": 1268300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.7039999962,
+    "high": 0.72299999,
+    "low": 0.6949999928,
+    "close": 0.699000001,
+    "volume": 553300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.699000001,
+    "high": 0.6999999881,
+    "low": 0.628000021,
+    "close": 0.6340000033,
+    "volume": 1226400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.6449999809,
+    "high": 0.6549999714,
+    "low": 0.6399999857,
+    "close": 0.6420000196,
+    "volume": 855600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.6409999728,
+    "high": 0.7699999809,
+    "low": 0.6389999986,
+    "close": 0.7699999809,
+    "volume": 1821900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.7969999909,
+    "high": 0.8299999833,
+    "low": 0.7570000291,
+    "close": 0.8059999943,
+    "volume": 2177000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.8100000024,
+    "high": 0.8199999928,
+    "low": 0.7400000095,
+    "close": 0.7409999967,
+    "volume": 792700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.7599999905,
+    "high": 0.8199999928,
+    "low": 0.7580000162,
+    "close": 0.7649999857,
+    "volume": 1054600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.7699999809,
+    "high": 0.7979999781,
+    "low": 0.7310000062,
+    "close": 0.7960000038,
+    "volume": 869600.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,12,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.8500000238,
+    "high": 1.2400000095,
+    "low": 0.8100000024,
+    "close": 1.1299999952,
+    "volume": 26170200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1499999762,
+    "high": 1.25,
+    "low": 1.0299999714,
+    "close": 1.1799999475,
+    "volume": 9690100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.1900000572,
+    "high": 1.2000000477,
+    "low": 0.9900000095,
+    "close": 1.0099999905,
+    "volume": 4745500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0499999523,
+    "high": 1.1100000143,
+    "low": 1.0199999809,
+    "close": 1.0299999714,
+    "volume": 3171900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.0299999714,
+    "high": 1.0299999714,
+    "low": 0.9269999862,
+    "close": 0.9620000124,
+    "volume": 2773800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.9700000286,
+    "high": 1.0099999905,
+    "low": 0.8700000048,
+    "close": 0.8999999762,
+    "volume": 1821500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.9499999881,
+    "high": 0.9800000191,
+    "low": 0.851000011,
+    "close": 0.8550000191,
+    "volume": 1516900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,12,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 0.8820000291,
+    "high": 1.25,
+    "low": 0.8820000291,
+    "close": 1.1599999666,
+    "volume": 23123000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9450000525,
+    "high": 2.5899999142,
+    "low": 1.7999999523,
+    "close": 2.2899999619,
+    "volume": 382916000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.3799999952,
+    "high": 1.6599999666,
+    "low": 1.3500000238,
+    "close": 1.6499999762,
+    "volume": 84419200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8999999762,
+    "high": 2.3599998951,
+    "low": 1.8899999857,
+    "close": 2.2000000477,
+    "volume": 83738300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0,
+    "high": 3.3800001144,
+    "low": 1.7649999857,
+    "close": 1.9299999475,
+    "volume": 200695700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2200000286,
+    "high": 2.7300000191,
+    "low": 2.2000000477,
+    "close": 2.5699999332,
+    "volume": 113496700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9449999332,
+    "high": 3.0799999237,
+    "low": 2.5099999905,
+    "close": 2.6700000763,
+    "volume": 84914500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5599999428,
+    "high": 4.2300000191,
+    "low": 2.5099999905,
+    "close": 3.1400001049,
+    "volume": 169569800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6549999714,
+    "high": 4.4400000572,
+    "low": 3.5,
+    "close": 4.3299999237,
+    "volume": 147053100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.8800001144,
+    "high": 4.9000000954,
+    "low": 3.8599998951,
+    "close": 3.9600000381,
+    "volume": 128093600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.0700001717,
+    "high": 5.1999998093,
+    "low": 3.8699998856,
+    "close": 4.9400000572,
+    "volume": 127424700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.8099999428,
+    "high": 5.3899998665,
+    "low": 4.4419999123,
+    "close": 4.6399998665,
+    "volume": 88527100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.7899999619,
+    "high": 5.0500001907,
+    "low": 4.1999998093,
+    "close": 4.2800002098,
+    "volume": 51068600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.1399998665,
+    "high": 4.4600000381,
+    "low": 3.8099999428,
+    "close": 4.0100002289,
+    "volume": 45640700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.9300000668,
+    "high": 4.0289998055,
+    "low": 3.3699998856,
+    "close": 3.4100000858,
+    "volume": 44702400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2799999714,
+    "high": 3.6500000954,
+    "low": 3.1099998951,
+    "close": 3.1099998951,
+    "volume": 33410800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0,
+    "high": 3.8699998856,
+    "low": 2.8800001144,
+    "close": 3.75,
+    "volume": 56523500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.0,
+    "high": 4.0500001907,
+    "low": 3.5199999809,
+    "close": 3.7100000381,
+    "volume": 49356700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6400001049,
+    "high": 3.8900001049,
+    "low": 3.3299999237,
+    "close": 3.3699998856,
+    "volume": 28118600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2850000858,
+    "high": 3.7999999523,
+    "low": 3.1700000763,
+    "close": 3.6800000668,
+    "volume": 26632700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5099999905,
+    "high": 3.9000000954,
+    "low": 3.1400001049,
+    "close": 3.3699998856,
+    "volume": 26136600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4300000668,
+    "high": 4.1399998665,
+    "low": 3.2699999809,
+    "close": 3.7300000191,
+    "volume": 33012500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.9549999237,
+    "high": 4.4000000954,
+    "low": 3.9300000668,
+    "close": 4.3099999428,
+    "volume": 45477900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.0399999619,
+    "high": 4.0599999428,
+    "low": 3.4700000286,
+    "close": 3.5099999905,
+    "volume": 25128400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6199998856,
+    "high": 3.8900001049,
+    "low": 3.5099999905,
+    "close": 3.6199998856,
+    "volume": 19995100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6600000858,
+    "high": 3.6600000858,
+    "low": 3.25,
+    "close": 3.3599998951,
+    "volume": 24142700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,01,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4000000954,
+    "high": 3.4300000668,
+    "low": 2.9100000858,
+    "close": 2.9600000381,
+    "volume": 21975600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8800001144,
+    "high": 3.0699999332,
+    "low": 2.7100000381,
+    "close": 2.7999999523,
+    "volume": 13352700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7000000477,
+    "high": 2.7999999523,
+    "low": 2.5599999428,
+    "close": 2.5799999237,
+    "volume": 9441900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7699999809,
+    "high": 2.8599998951,
+    "low": 2.5699999332,
+    "close": 2.7799999714,
+    "volume": 16133200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6500000954,
+    "high": 2.6879999638,
+    "low": 2.25,
+    "close": 2.3350000381,
+    "volume": 15083200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2200000286,
+    "high": 2.3599998951,
+    "low": 2.0899999142,
+    "close": 2.125,
+    "volume": 9973100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1800000668,
+    "high": 2.4200000763,
+    "low": 2.1199998856,
+    "close": 2.4200000763,
+    "volume": 9612700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4200000763,
+    "high": 2.5,
+    "low": 2.2950000763,
+    "close": 2.4600000381,
+    "volume": 8717000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5250000954,
+    "high": 2.6300001144,
+    "low": 2.3699998856,
+    "close": 2.3699998856,
+    "volume": 8794300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3399999142,
+    "high": 2.3499999046,
+    "low": 2.1800000668,
+    "close": 2.2400000095,
+    "volume": 5980700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2400000095,
+    "high": 2.2599999905,
+    "low": 2.0099999905,
+    "close": 2.0499999523,
+    "volume": 6262700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0599999428,
+    "high": 2.2000000477,
+    "low": 2.0399999619,
+    "close": 2.1700000763,
+    "volume": 4218000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1300001144,
+    "high": 2.1849999428,
+    "low": 1.9900000095,
+    "close": 2.1300001144,
+    "volume": 4785300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1199998856,
+    "high": 2.3099999428,
+    "low": 2.0799999237,
+    "close": 2.2000000477,
+    "volume": 5619200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1600000858,
+    "high": 2.3099999428,
+    "low": 2.0899999142,
+    "close": 2.2899999619,
+    "volume": 4451700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2349998951,
+    "high": 2.2850000858,
+    "low": 2.0599999428,
+    "close": 2.0699999332,
+    "volume": 4990100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0299999714,
+    "high": 2.0799999237,
+    "low": 1.9900000095,
+    "close": 2.0299999714,
+    "volume": 3058100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0,
+    "high": 2.1199998856,
+    "low": 1.8450000286,
+    "close": 2.0999999046,
+    "volume": 7378800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1099998951,
+    "high": 2.1700000763,
+    "low": 2.0599999428,
+    "close": 2.0699999332,
+    "volume": 4425000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0399999619,
+    "high": 2.2100000381,
+    "low": 2.0199999809,
+    "close": 2.1900000572,
+    "volume": 5186600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0599999428,
+    "high": 2.0799999237,
+    "low": 1.9400000572,
+    "close": 1.9500000477,
+    "volume": 4992600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7999999523,
+    "high": 2.0999999046,
+    "low": 1.7999999523,
+    "close": 2.0299999714,
+    "volume": 4834300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9199999571,
+    "high": 2.0499999523,
+    "low": 1.8600000143,
+    "close": 2.0299999714,
+    "volume": 4585500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0,
+    "high": 2.1900000572,
+    "low": 1.9609999657,
+    "close": 2.1099998951,
+    "volume": 4564400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0899999142,
+    "high": 2.0999999046,
+    "low": 1.9500000477,
+    "close": 2.0199999809,
+    "volume": 3133900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9500000477,
+    "high": 2.0799999237,
+    "low": 1.8999999762,
+    "close": 1.8999999762,
+    "volume": 3603800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8400000334,
+    "high": 2.0299999714,
+    "low": 1.8200000525,
+    "close": 2.0,
+    "volume": 3687800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0,
+    "high": 2.0799999237,
+    "low": 1.9700000286,
+    "close": 1.9700000286,
+    "volume": 2831000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9600000381,
+    "high": 2.0899999142,
+    "low": 1.9299999475,
+    "close": 1.9900000095,
+    "volume": 3370600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9900000095,
+    "high": 2.2699999809,
+    "low": 1.9900000095,
+    "close": 2.1700000763,
+    "volume": 9378700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2200000286,
+    "high": 2.3289999962,
+    "low": 2.0399999619,
+    "close": 2.0799999237,
+    "volume": 6449800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0899999142,
+    "high": 2.1800000668,
+    "low": 1.9600000381,
+    "close": 2.0499999523,
+    "volume": 4835800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0099999905,
+    "high": 2.3900001049,
+    "low": 2.0099999905,
+    "close": 2.3699998856,
+    "volume": 7790100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2999999523,
+    "high": 2.4200000763,
+    "low": 2.2300000191,
+    "close": 2.2799999714,
+    "volume": 5535400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1800000668,
+    "high": 2.3099999428,
+    "low": 2.1099998951,
+    "close": 2.2899999619,
+    "volume": 3366400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2899999619,
+    "high": 2.4649999142,
+    "low": 2.2100000381,
+    "close": 2.3099999428,
+    "volume": 9240200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3599998951,
+    "high": 2.5950000286,
+    "low": 2.1700000763,
+    "close": 2.5099999905,
+    "volume": 10735100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4600000381,
+    "high": 2.6199998856,
+    "low": 2.2999999523,
+    "close": 2.3900001049,
+    "volume": 7713100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4600000381,
+    "high": 3.1500000954,
+    "low": 2.4449999332,
+    "close": 2.8399999142,
+    "volume": 28804100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7550001144,
+    "high": 2.8599998951,
+    "low": 2.5499999523,
+    "close": 2.7000000477,
+    "volume": 13172400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6400001049,
+    "high": 2.6500000954,
+    "low": 2.2490000725,
+    "close": 2.2699999809,
+    "volume": 9562100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3199999332,
+    "high": 2.375,
+    "low": 2.0599999428,
+    "close": 2.1500000954,
+    "volume": 6928000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1900000572,
+    "high": 2.4149999619,
+    "low": 2.1900000572,
+    "close": 2.3199999332,
+    "volume": 8065300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.25,
+    "high": 2.3299999237,
+    "low": 2.0199999809,
+    "close": 2.0999999046,
+    "volume": 12161200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0099999905,
+    "high": 3.2000000477,
+    "low": 2.0009999275,
+    "close": 3.0899999142,
+    "volume": 66716800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0,
+    "high": 3.9600000381,
+    "low": 2.9100000858,
+    "close": 3.6700000763,
+    "volume": 64838000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3619999886,
+    "high": 4.1999998093,
+    "low": 3.3299999237,
+    "close": 3.7899999619,
+    "volume": 50682100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.25,
+    "high": 4.2649998665,
+    "low": 3.4100000858,
+    "close": 3.6400001049,
+    "volume": 41523100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5699999332,
+    "high": 3.8499999046,
+    "low": 3.3299999237,
+    "close": 3.3399999142,
+    "volume": 20919300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4500000477,
+    "high": 4.3000001907,
+    "low": 3.4349999428,
+    "close": 4.25,
+    "volume": 48454200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.9149999619,
+    "high": 4.9499998093,
+    "low": 3.6800000668,
+    "close": 4.9299998283,
+    "volume": 36404900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.0199999809,
+    "high": 5.5900001526,
+    "low": 4.8000001907,
+    "close": 5.3099999428,
+    "volume": 43045200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.1500000954,
+    "high": 5.3990001678,
+    "low": 4.5549998283,
+    "close": 4.8800001144,
+    "volume": 29705900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.6399998665,
+    "high": 5.9899997711,
+    "low": 4.5599999428,
+    "close": 5.9499998093,
+    "volume": 41087300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.6399998665,
+    "high": 5.8600001335,
+    "low": 5.25,
+    "close": 5.3499999046,
+    "volume": 25038900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.8550000191,
+    "high": 4.8579998016,
+    "low": 4.0500001907,
+    "close": 4.3400001526,
+    "volume": 45442800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.3699998856,
+    "high": 4.4099998474,
+    "low": 3.6800000668,
+    "close": 3.75,
+    "volume": 42947100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.0300002098,
+    "high": 4.4099998474,
+    "low": 3.9200000763,
+    "close": 4.0549998283,
+    "volume": 25256200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.9900000095,
+    "high": 4.0599999428,
+    "low": 3.5999999046,
+    "close": 3.7100000381,
+    "volume": 17477500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7300000191,
+    "high": 3.7599999905,
+    "low": 3.1800000668,
+    "close": 3.4200000763,
+    "volume": 22703600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3199999332,
+    "high": 3.4600000381,
+    "low": 3.1300001144,
+    "close": 3.3499999046,
+    "volume": 12820100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2100000381,
+    "high": 3.2999999523,
+    "low": 3.0699999332,
+    "close": 3.0799999237,
+    "volume": 10172000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0499999523,
+    "high": 3.1199998856,
+    "low": 2.8699998856,
+    "close": 3.0999999046,
+    "volume": 10337000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.1199998856,
+    "high": 3.3800001144,
+    "low": 3.0450000763,
+    "close": 3.2799999714,
+    "volume": 13301600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3499999046,
+    "high": 3.5,
+    "low": 3.1500000954,
+    "close": 3.3800001144,
+    "volume": 12993200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2999999523,
+    "high": 3.4500000477,
+    "low": 3.0699999332,
+    "close": 3.0899999142,
+    "volume": 10992600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.1099998951,
+    "high": 3.1800000668,
+    "low": 2.9100000858,
+    "close": 2.9500000477,
+    "volume": 9564400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9800000191,
+    "high": 3.3800001144,
+    "low": 2.9300000668,
+    "close": 3.2699999809,
+    "volume": 14613600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2300000191,
+    "high": 3.3399999142,
+    "low": 2.9400000572,
+    "close": 2.9500000477,
+    "volume": 12071900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.0199999809,
+    "high": 3.4500000477,
+    "low": 2.9900000095,
+    "close": 3.4100000858,
+    "volume": 23047100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.5399999619,
+    "high": 3.9500000477,
+    "low": 3.4500000477,
+    "close": 3.7400000095,
+    "volume": 35983500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.4600000381,
+    "high": 3.75,
+    "low": 3.1099998951,
+    "close": 3.3199999332,
+    "volume": 20091500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3499999046,
+    "high": 3.4500000477,
+    "low": 3.2300000191,
+    "close": 3.2599999905,
+    "volume": 13232000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2999999523,
+    "high": 3.8199999332,
+    "low": 3.1900000572,
+    "close": 3.6600000858,
+    "volume": 25833400.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3900001049,
+    "high": 4.1999998093,
+    "low": 3.3599998951,
+    "close": 4.0100002289,
+    "volume": 35552100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.2849998474,
+    "high": 4.3509998322,
+    "low": 3.6099998951,
+    "close": 3.9100000858,
+    "volume": 29462700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7100000381,
+    "high": 3.7699999809,
+    "low": 3.4000000954,
+    "close": 3.5999999046,
+    "volume": 17228300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.6800000668,
+    "high": 3.9500000477,
+    "low": 3.4600000381,
+    "close": 3.8450000286,
+    "volume": 18538300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.7699999809,
+    "high": 4.1799998283,
+    "low": 3.7320001125,
+    "close": 4.1300001144,
+    "volume": 21693600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.1849999428,
+    "high": 5.2199997902,
+    "low": 4.1500000954,
+    "close": 5.1199998856,
+    "volume": 40583100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.3699998856,
+    "high": 6.6399998665,
+    "low": 5.0,
+    "close": 6.1999998093,
+    "volume": 61686600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 6.7600002289,
+    "high": 6.7899999619,
+    "low": 5.5799999237,
+    "close": 6.0850000381,
+    "volume": 59041400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 5.0650000572,
+    "high": 5.2849998474,
+    "low": 4.7699999809,
+    "close": 5.1799998283,
+    "volume": 52644700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.9299998283,
+    "high": 5.0,
+    "low": 4.3800001144,
+    "close": 4.9099998474,
+    "volume": 35602900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.8000001907,
+    "high": 4.8979997635,
+    "low": 4.3699998856,
+    "close": 4.4400000572,
+    "volume": 26772100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.6100001335,
+    "high": 5.1500000954,
+    "low": 4.5570001602,
+    "close": 4.9099998474,
+    "volume": 28834300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.7699999809,
+    "high": 4.8779997826,
+    "low": 4.1999998093,
+    "close": 4.2899999619,
+    "volume": 21095000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.3800001144,
+    "high": 4.8800001144,
+    "low": 4.1900000572,
+    "close": 4.7049999237,
+    "volume": 22847600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.8000001907,
+    "high": 5.0500001907,
+    "low": 4.0399999619,
+    "close": 4.2100000381,
+    "volume": 32396100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.4050002098,
+    "high": 4.5700001717,
+    "low": 4.0,
+    "close": 4.0599999428,
+    "volume": 18753400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.0450000763,
+    "high": 4.2199997902,
+    "low": 3.6600000858,
+    "close": 3.7699999809,
+    "volume": 22258300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.75,
+    "high": 4.2249999046,
+    "low": 3.7300000191,
+    "close": 3.9400000572,
+    "volume": 17007100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.9600000381,
+    "high": 4.5500001907,
+    "low": 3.9100000858,
+    "close": 4.3899998665,
+    "volume": 29818800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 4.25,
+    "high": 4.3800001144,
+    "low": 3.5399999619,
+    "close": 3.7699999809,
+    "volume": 32356000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.8499999046,
+    "high": 3.8699998856,
+    "low": 3.3800001144,
+    "close": 3.4349999428,
+    "volume": 21751500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.3399999142,
+    "high": 3.4300000668,
+    "low": 3.1619999409,
+    "close": 3.2300000191,
+    "volume": 11802000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2850000858,
+    "high": 3.4500000477,
+    "low": 3.25,
+    "close": 3.2599999905,
+    "volume": 11426500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.2899999619,
+    "high": 3.3800001144,
+    "low": 3.0699999332,
+    "close": 3.2300000191,
+    "volume": 11155000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 3.1600000858,
+    "high": 3.1600000858,
+    "low": 2.9649999142,
+    "close": 3.0999999046,
+    "volume": 11097500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9900000095,
+    "high": 3.1600000858,
+    "low": 2.9349999428,
+    "close": 2.9400000572,
+    "volume": 8445900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.9049999714,
+    "high": 2.9110000134,
+    "low": 2.6600000858,
+    "close": 2.7100000381,
+    "volume": 12168400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7400000095,
+    "high": 2.7699999809,
+    "low": 2.4600000381,
+    "close": 2.5,
+    "volume": 9924100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4300000668,
+    "high": 2.6449999809,
+    "low": 2.4100000858,
+    "close": 2.6099998951,
+    "volume": 25016600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7249999046,
+    "high": 2.8900001049,
+    "low": 2.6300001144,
+    "close": 2.8699998856,
+    "volume": 15383100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.8399999142,
+    "high": 2.9300000668,
+    "low": 2.7200000286,
+    "close": 2.8099999428,
+    "volume": 8140700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.7200000286,
+    "high": 2.9300000668,
+    "low": 2.7019999027,
+    "close": 2.7300000191,
+    "volume": 7415100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.75,
+    "high": 3.0799999237,
+    "low": 2.5899999142,
+    "close": 2.6500000954,
+    "volume": 11873500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6600000858,
+    "high": 2.6900000572,
+    "low": 2.4700000286,
+    "close": 2.5299999714,
+    "volume": 7002200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5,
+    "high": 2.5,
+    "low": 2.3099999428,
+    "close": 2.3099999428,
+    "volume": 6841200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2699999809,
+    "high": 2.4000000954,
+    "low": 2.2100000381,
+    "close": 2.25,
+    "volume": 6047100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.25,
+    "high": 2.3099999428,
+    "low": 2.2100000381,
+    "close": 2.2599999905,
+    "volume": 4638900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2699999809,
+    "high": 2.2699999809,
+    "low": 2.0899999142,
+    "close": 2.1600000858,
+    "volume": 6919400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1199998856,
+    "high": 2.1489999294,
+    "low": 2.0,
+    "close": 2.0699999332,
+    "volume": 5478300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1300001144,
+    "high": 2.2300000191,
+    "low": 2.0499999523,
+    "close": 2.0699999332,
+    "volume": 5978900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1099998951,
+    "high": 2.1600000858,
+    "low": 1.9500000477,
+    "close": 2.0,
+    "volume": 6143400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9199999571,
+    "high": 1.9299999475,
+    "low": 1.8500000238,
+    "close": 1.8999999762,
+    "volume": 7479400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8400000334,
+    "high": 1.9199999571,
+    "low": 1.7599999905,
+    "close": 1.8700000048,
+    "volume": 6290700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8700000048,
+    "high": 1.8880000114,
+    "low": 1.7400000095,
+    "close": 1.75,
+    "volume": 5743000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7799999714,
+    "high": 2.0699999332,
+    "low": 1.7599999905,
+    "close": 2.0499999523,
+    "volume": 11652000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0,
+    "high": 2.1500000954,
+    "low": 1.9700000286,
+    "close": 1.9900000095,
+    "volume": 6306800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9299999475,
+    "high": 2.0399999619,
+    "low": 1.9099999666,
+    "close": 1.9700000286,
+    "volume": 3864500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9800000191,
+    "high": 1.9900000095,
+    "low": 1.8500000238,
+    "close": 1.8500000238,
+    "volume": 2806100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8600000143,
+    "high": 1.9989999533,
+    "low": 1.8150000572,
+    "close": 1.8500000238,
+    "volume": 4137100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7899999619,
+    "high": 1.8099999428,
+    "low": 1.7000000477,
+    "close": 1.7749999762,
+    "volume": 5681100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7899999619,
+    "high": 1.8099999428,
+    "low": 1.6599999666,
+    "close": 1.6799999475,
+    "volume": 4762700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7699999809,
+    "high": 1.8400000334,
+    "low": 1.7300000191,
+    "close": 1.8400000334,
+    "volume": 5595800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8200000525,
+    "high": 1.8799999952,
+    "low": 1.7200000286,
+    "close": 1.7599999905,
+    "volume": 4910700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7450000048,
+    "high": 2.0,
+    "low": 1.7100000381,
+    "close": 1.9900000095,
+    "volume": 6565000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1099998951,
+    "high": 2.2400000095,
+    "low": 2.0799999237,
+    "close": 2.2300000191,
+    "volume": 11313000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1099998951,
+    "high": 2.2000000477,
+    "low": 2.0499999523,
+    "close": 2.0699999332,
+    "volume": 5683300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0,
+    "high": 2.25,
+    "low": 1.9900000095,
+    "close": 2.0899999142,
+    "volume": 5920400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1549999714,
+    "high": 2.2999999523,
+    "low": 2.1500000954,
+    "close": 2.2400000095,
+    "volume": 8212600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2400000095,
+    "high": 2.3550000191,
+    "low": 2.1700000763,
+    "close": 2.3299999237,
+    "volume": 6125200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3099999428,
+    "high": 2.6099998951,
+    "low": 2.2400000095,
+    "close": 2.5999999046,
+    "volume": 8505000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.6300001144,
+    "high": 2.6700000763,
+    "low": 2.4500000477,
+    "close": 2.4800000191,
+    "volume": 7759700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4200000763,
+    "high": 2.5999999046,
+    "low": 2.3699998856,
+    "close": 2.5399999619,
+    "volume": 6451100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.5499999523,
+    "high": 2.6649999619,
+    "low": 2.4409999847,
+    "close": 2.5999999046,
+    "volume": 7818400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4000000954,
+    "high": 2.5999999046,
+    "low": 2.3399999142,
+    "close": 2.5350000858,
+    "volume": 5162400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4300000668,
+    "high": 2.6449999809,
+    "low": 2.4100000858,
+    "close": 2.4400000572,
+    "volume": 4296800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4500000477,
+    "high": 2.4700000286,
+    "low": 2.2899999619,
+    "close": 2.4500000477,
+    "volume": 3729000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.4200000763,
+    "high": 2.4400000572,
+    "low": 2.2599999905,
+    "close": 2.3399999142,
+    "volume": 3204200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3499999046,
+    "high": 2.4500000477,
+    "low": 2.2999999523,
+    "close": 2.3699998856,
+    "volume": 3272800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3099999428,
+    "high": 2.3099999428,
+    "low": 2.2100000381,
+    "close": 2.2200000286,
+    "volume": 3246400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.25,
+    "high": 2.3199999332,
+    "low": 2.2200000286,
+    "close": 2.2699999809,
+    "volume": 2654800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.25,
+    "high": 2.3199999332,
+    "low": 2.2100000381,
+    "close": 2.25,
+    "volume": 2610500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2799999714,
+    "high": 2.3499999046,
+    "low": 2.2200000286,
+    "close": 2.3299999237,
+    "volume": 2749900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.3199999332,
+    "high": 2.3450000286,
+    "low": 2.1800000668,
+    "close": 2.2100000381,
+    "volume": 2676200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1900000572,
+    "high": 2.2200000286,
+    "low": 2.1600000858,
+    "close": 2.1700000763,
+    "volume": 2747900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1150000095,
+    "high": 2.1700000763,
+    "low": 2.0550000668,
+    "close": 2.1199998856,
+    "volume": 3364600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1099998951,
+    "high": 2.2000000477,
+    "low": 2.0840001106,
+    "close": 2.1500000954,
+    "volume": 2150100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.2000000477,
+    "high": 2.2100000381,
+    "low": 2.0799999237,
+    "close": 2.1199998856,
+    "volume": 2792000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1199998856,
+    "high": 2.1800000668,
+    "low": 2.0599999428,
+    "close": 2.0699999332,
+    "volume": 3664300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0799999237,
+    "high": 2.1549999714,
+    "low": 2.0599999428,
+    "close": 2.1099998951,
+    "volume": 5366100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0899999142,
+    "high": 2.2100000381,
+    "low": 2.0499999523,
+    "close": 2.0599999428,
+    "volume": 3209200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0199999809,
+    "high": 2.1099998951,
+    "low": 1.9900000095,
+    "close": 2.0,
+    "volume": 3660500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0499999523,
+    "high": 2.0550000668,
+    "low": 1.9800000191,
+    "close": 2.0,
+    "volume": 2803600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9299999475,
+    "high": 1.9800000191,
+    "low": 1.9199999571,
+    "close": 1.9400000572,
+    "volume": 2919300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9400000572,
+    "high": 1.9900000095,
+    "low": 1.9099999666,
+    "close": 1.9600000381,
+    "volume": 3421900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.9600000381,
+    "high": 1.9800000191,
+    "low": 1.8999999762,
+    "close": 1.9700000286,
+    "volume": 2482400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0499999523,
+    "high": 2.1300001144,
+    "low": 2.0099999905,
+    "close": 2.0199999809,
+    "volume": 3978200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0209999084,
+    "high": 2.0499999523,
+    "low": 1.9199999571,
+    "close": 1.9700000286,
+    "volume": 6677600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0299999714,
+    "high": 2.1300001144,
+    "low": 2.0099999905,
+    "close": 2.0699999332,
+    "volume": 4727000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1400001049,
+    "high": 2.1500000954,
+    "low": 2.0750000477,
+    "close": 2.1300001144,
+    "volume": 5798900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1300001144,
+    "high": 2.1300001144,
+    "low": 2.0099999905,
+    "close": 2.0099999905,
+    "volume": 2572700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0199999809,
+    "high": 2.0899999142,
+    "low": 1.9900000095,
+    "close": 2.0699999332,
+    "volume": 2742900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0899999142,
+    "high": 2.1449999809,
+    "low": 2.0499999523,
+    "close": 2.1199998856,
+    "volume": 2177100.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.1099998951,
+    "high": 2.1099998951,
+    "low": 2.0,
+    "close": 2.0099999905,
+    "volume": 5058000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 2.0399999619,
+    "high": 2.0599999428,
+    "low": 1.8300000429,
+    "close": 1.8300000429,
+    "volume": 4372100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8600000143,
+    "high": 1.9099999666,
+    "low": 1.7999999523,
+    "close": 1.8099999428,
+    "volume": 4369200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8200000525,
+    "high": 1.8400000334,
+    "low": 1.7599999905,
+    "close": 1.7799999714,
+    "volume": 3592400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.8099999428,
+    "high": 1.9199999571,
+    "low": 1.7599999905,
+    "close": 1.8099999428,
+    "volume": 4320533.0,
+    "wedge_status": "none"
+  }
+]

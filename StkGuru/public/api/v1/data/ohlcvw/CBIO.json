@@ -1,0 +1,7522 @@
+[
+  {
+    "trade_date": "2023,10,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 142.0,
+    "high": 148.0,
+    "low": 139.0,
+    "close": 139.0,
+    "volume": 509.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 140.0,
+    "high": 150.0,
+    "low": 140.0,
+    "close": 143.0,
+    "volume": 556.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 141.0,
+    "high": 149.0,
+    "low": 139.0,
+    "close": 139.0,
+    "volume": 1493.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 138.0,
+    "high": 141.0,
+    "low": 133.0,
+    "close": 135.0,
+    "volume": 950.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 134.0,
+    "high": 134.0,
+    "low": 132.0,
+    "close": 132.0,
+    "volume": 798.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 132.0,
+    "high": 137.0,
+    "low": 128.0,
+    "close": 128.0,
+    "volume": 1187.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 128.0,
+    "high": 129.0,
+    "low": 122.0,
+    "close": 125.0,
+    "volume": 1358.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 125.0,
+    "high": 142.0,
+    "low": 124.0,
+    "close": 142.0,
+    "volume": 3559.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 141.0,
+    "high": 145.0,
+    "low": 140.0,
+    "close": 143.0,
+    "volume": 2220.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 144.0,
+    "high": 145.0,
+    "low": 141.0,
+    "close": 141.0,
+    "volume": 954.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 141.0,
+    "high": 144.0,
+    "low": 131.0,
+    "close": 131.0,
+    "volume": 1276.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 132.0,
+    "high": 133.0,
+    "low": 129.0,
+    "close": 130.0,
+    "volume": 345.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 129.0,
+    "high": 132.0,
+    "low": 125.0,
+    "close": 126.0,
+    "volume": 1209.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 126.0,
+    "high": 127.0,
+    "low": 112.0,
+    "close": 117.0,
+    "volume": 3726.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 115.0,
+    "high": 122.0,
+    "low": 115.0,
+    "close": 115.0,
+    "volume": 1519.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 115.0,
+    "high": 120.0,
+    "low": 111.0,
+    "close": 113.0,
+    "volume": 1576.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 115.0,
+    "high": 126.0,
+    "low": 114.0,
+    "close": 125.0,
+    "volume": 1309.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 123.0,
+    "high": 123.0,
+    "low": 113.0,
+    "close": 115.0,
+    "volume": 2051.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 116.0,
+    "high": 131.0,
+    "low": 115.0,
+    "close": 130.0,
+    "volume": 1429.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,10,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 130.0,
+    "high": 131.0,
+    "low": 124.0,
+    "close": 125.0,
+    "volume": 397.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 125.0,
+    "high": 128.0,
+    "low": 123.0,
+    "close": 126.0,
+    "volume": 337.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 129.0,
+    "high": 133.0,
+    "low": 125.0,
+    "close": 129.0,
+    "volume": 530.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2023,11,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 136.0,
+    "high": 137.0,
+    "low": 128.0,
+    "close": 135.0,
+    "volume": 2019.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 134.0,
+    "high": 135.0,
+    "low": 131.0,
+    "close": 133.0,
+    "volume": 769.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 130.0,
+    "high": 143.0,
+    "low": 130.0,
+    "close": 134.0,
+    "volume": 1172.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 135.0,
+    "high": 137.0,
+    "low": 131.0,
+    "close": 134.0,
+    "volume": 418.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 132.0,
+    "high": 136.0,
+    "low": 117.0,
+    "close": 120.0,
+    "volume": 1026.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2023,11,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 125.0,
+    "high": 129.0,
+    "low": 118.0,
+    "close": 120.0,
+    "volume": 753.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 120.0,
+    "high": 133.0,
+    "low": 120.0,
+    "close": 133.0,
+    "volume": 335.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 130.0,
+    "high": 137.0,
+    "low": 129.0,
+    "close": 134.0,
+    "volume": 603.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 135.0,
+    "high": 143.0,
+    "low": 135.0,
+    "close": 139.0,
+    "volume": 1042.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 140.0,
+    "high": 143.0,
+    "low": 127.0,
+    "close": 134.0,
+    "volume": 1646.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 136.0,
+    "high": 147.0,
+    "low": 131.0,
+    "close": 145.0,
+    "volume": 828.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 147.0,
+    "high": 157.0,
+    "low": 145.0,
+    "close": 153.0,
+    "volume": 869.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 149.0,
+    "high": 154.0,
+    "low": 145.0,
+    "close": 150.0,
+    "volume": 958.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 153.0,
+    "high": 154.0,
+    "low": 143.0,
+    "close": 152.0,
+    "volume": 663.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 153.0,
+    "high": 160.0,
+    "low": 153.0,
+    "close": 159.0,
+    "volume": 397.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 159.0,
+    "high": 160.0,
+    "low": 151.0,
+    "close": 151.0,
+    "volume": 852.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 150.0,
+    "high": 153.0,
+    "low": 147.0,
+    "close": 153.0,
+    "volume": 797.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 151.0,
+    "high": 158.0,
+    "low": 150.0,
+    "close": 150.0,
+    "volume": 913.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,11,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 150.0,
+    "high": 167.0,
+    "low": 147.0,
+    "close": 164.0,
+    "volume": 2371.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 163.0,
+    "high": 174.0,
+    "low": 160.0,
+    "close": 172.0,
+    "volume": 1140.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 173.0,
+    "high": 174.0,
+    "low": 151.0,
+    "close": 161.0,
+    "volume": 2853.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 161.0,
+    "high": 168.0,
+    "low": 155.0,
+    "close": 164.0,
+    "volume": 813.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 164.0,
+    "high": 164.0,
+    "low": 155.0,
+    "close": 157.0,
+    "volume": 648.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 157.0,
+    "high": 164.0,
+    "low": 156.0,
+    "close": 160.0,
+    "volume": 484.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 159.0,
+    "high": 164.0,
+    "low": 152.0,
+    "close": 161.0,
+    "volume": 399.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 165.0,
+    "high": 168.0,
+    "low": 158.0,
+    "close": 162.0,
+    "volume": 927.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 164.0,
+    "high": 180.0,
+    "low": 159.0,
+    "close": 176.0,
+    "volume": 2811.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 175.0,
+    "high": 195.0,
+    "low": 172.0,
+    "close": 187.0,
+    "volume": 3645.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 190.0,
+    "high": 200.0,
+    "low": 175.0,
+    "close": 200.0,
+    "volume": 3280.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 202.0,
+    "high": 214.0,
+    "low": 192.0,
+    "close": 198.0,
+    "volume": 3597.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 203.0,
+    "high": 204.0,
+    "low": 192.0,
+    "close": 197.0,
+    "volume": 3189.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 200.0,
+    "high": 217.0,
+    "low": 197.0,
+    "close": 213.0,
+    "volume": 4120.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 211.0,
+    "high": 218.0,
+    "low": 200.0,
+    "close": 205.0,
+    "volume": 2853.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 212.0,
+    "high": 216.0,
+    "low": 199.0,
+    "close": 213.0,
+    "volume": 2643.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 222.0,
+    "high": 257.0,
+    "low": 222.0,
+    "close": 254.0,
+    "volume": 11399.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 256.0,
+    "high": 276.0,
+    "low": 242.0,
+    "close": 252.0,
+    "volume": 5427.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 252.0,
+    "high": 265.0,
+    "low": 243.0,
+    "close": 249.0,
+    "volume": 3118.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 249.0,
+    "high": 256.0,
+    "low": 238.0,
+    "close": 251.0,
+    "volume": 2965.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2023,12,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 248.0,
+    "high": 251.0,
+    "low": 233.0,
+    "close": 236.0,
+    "volume": 1525.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 232.0,
+    "high": 272.0,
+    "low": 220.0,
+    "close": 272.0,
+    "volume": 3752.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 280.0,
+    "high": 305.0,
+    "low": 267.0,
+    "close": 303.0,
+    "volume": 6498.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 310.0,
+    "high": 325.0,
+    "low": 275.0,
+    "close": 300.0,
+    "volume": 7025.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 296.0,
+    "high": 296.0,
+    "low": 267.0,
+    "close": 280.0,
+    "volume": 3828.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 278.0,
+    "high": 291.0,
+    "low": 278.0,
+    "close": 290.0,
+    "volume": 1429.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 293.0,
+    "high": 307.0,
+    "low": 283.0,
+    "close": 302.0,
+    "volume": 2735.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 301.0,
+    "high": 313.0,
+    "low": 292.0,
+    "close": 297.0,
+    "volume": 2778.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 299.0,
+    "high": 314.0,
+    "low": 272.0,
+    "close": 303.0,
+    "volume": 4888.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 300.0,
+    "high": 318.0,
+    "low": 299.0,
+    "close": 311.0,
+    "volume": 2806.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 312.0,
+    "high": 316.0,
+    "low": 287.0,
+    "close": 291.0,
+    "volume": 3396.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 282.0,
+    "high": 294.0,
+    "low": 245.0,
+    "close": 287.0,
+    "volume": 7600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 284.0,
+    "high": 312.0,
+    "low": 266.0,
+    "close": 306.0,
+    "volume": 3654.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 303.0,
+    "high": 309.0,
+    "low": 291.0,
+    "close": 298.0,
+    "volume": 2702.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 290.0,
+    "high": 318.0,
+    "low": 290.0,
+    "close": 312.0,
+    "volume": 3554.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 312.0,
+    "high": 353.0,
+    "low": 306.0,
+    "close": 349.0,
+    "volume": 6499.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 350.0,
+    "high": 352.0,
+    "low": 290.0,
+    "close": 307.0,
+    "volume": 4942.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 307.0,
+    "high": 323.0,
+    "low": 294.0,
+    "close": 316.0,
+    "volume": 2218.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 314.0,
+    "high": 324.0,
+    "low": 310.0,
+    "close": 318.0,
+    "volume": 2041.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 316.0,
+    "high": 350.0,
+    "low": 316.0,
+    "close": 320.0,
+    "volume": 6136.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 318.0,
+    "high": 340.0,
+    "low": 306.0,
+    "close": 340.0,
+    "volume": 2427.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,01,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 337.0,
+    "high": 347.0,
+    "low": 292.0,
+    "close": 300.0,
+    "volume": 6353.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 303.0,
+    "high": 303.0,
+    "low": 272.0,
+    "close": 293.0,
+    "volume": 5984.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,02,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 290.0,
+    "high": 304.0,
+    "low": 272.0,
+    "close": 295.0,
+    "volume": 3198.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 291.0,
+    "high": 315.0,
+    "low": 281.0,
+    "close": 313.0,
+    "volume": 2716.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 311.0,
+    "high": 328.0,
+    "low": 311.0,
+    "close": 320.0,
+    "volume": 2648.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 318.0,
+    "high": 325.0,
+    "low": 309.0,
+    "close": 318.0,
+    "volume": 2570.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 315.0,
+    "high": 334.0,
+    "low": 312.0,
+    "close": 320.0,
+    "volume": 3598.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 320.0,
+    "high": 333.0,
+    "low": 316.0,
+    "close": 329.0,
+    "volume": 2168.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 331.0,
+    "high": 338.0,
+    "low": 302.0,
+    "close": 311.0,
+    "volume": 4302.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 297.0,
+    "high": 314.0,
+    "low": 293.0,
+    "close": 309.0,
+    "volume": 4997.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 311.0,
+    "high": 315.0,
+    "low": 302.0,
+    "close": 308.0,
+    "volume": 1686.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 310.0,
+    "high": 315.0,
+    "low": 296.0,
+    "close": 309.0,
+    "volume": 2017.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 309.0,
+    "high": 322.0,
+    "low": 299.0,
+    "close": 322.0,
+    "volume": 3219.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 320.0,
+    "high": 336.0,
+    "low": 311.0,
+    "close": 333.0,
+    "volume": 3890.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 324.0,
+    "high": 325.0,
+    "low": 298.0,
+    "close": 299.0,
+    "volume": 3165.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,02,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 303.0,
+    "high": 307.0,
+    "low": 290.0,
+    "close": 293.0,
+    "volume": 2488.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 289.0,
+    "high": 297.0,
+    "low": 281.0,
+    "close": 290.0,
+    "volume": 2419.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 287.0,
+    "high": 311.0,
+    "low": 284.0,
+    "close": 306.0,
+    "volume": 2493.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 309.0,
+    "high": 309.0,
+    "low": 298.0,
+    "close": 302.0,
+    "volume": 1930.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 301.0,
+    "high": 308.0,
+    "low": 286.0,
+    "close": 287.0,
+    "volume": 2343.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,02,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 291.0,
+    "high": 306.0,
+    "low": 286.0,
+    "close": 289.0,
+    "volume": 1912.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 287.0,
+    "high": 307.0,
+    "low": 287.0,
+    "close": 301.0,
+    "volume": 2180.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 305.0,
+    "high": 308.0,
+    "low": 298.0,
+    "close": 304.0,
+    "volume": 1979.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 305.0,
+    "high": 305.0,
+    "low": 284.0,
+    "close": 290.0,
+    "volume": 1676.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 296.0,
+    "high": 303.0,
+    "low": 286.0,
+    "close": 290.0,
+    "volume": 2546.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 292.0,
+    "high": 299.0,
+    "low": 273.0,
+    "close": 280.0,
+    "volume": 3318.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 284.0,
+    "high": 295.0,
+    "low": 269.0,
+    "close": 273.0,
+    "volume": 4194.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 271.0,
+    "high": 287.0,
+    "low": 252.0,
+    "close": 256.0,
+    "volume": 2628.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 252.0,
+    "high": 271.0,
+    "low": 251.0,
+    "close": 262.0,
+    "volume": 3235.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 261.0,
+    "high": 275.0,
+    "low": 250.0,
+    "close": 255.0,
+    "volume": 4246.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 258.0,
+    "high": 268.0,
+    "low": 251.0,
+    "close": 261.0,
+    "volume": 1780.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 264.0,
+    "high": 269.0,
+    "low": 254.0,
+    "close": 256.0,
+    "volume": 2440.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 261.0,
+    "high": 287.0,
+    "low": 258.0,
+    "close": 280.0,
+    "volume": 4682.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 278.0,
+    "high": 303.0,
+    "low": 277.0,
+    "close": 293.0,
+    "volume": 4317.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 296.0,
+    "high": 310.0,
+    "low": 287.0,
+    "close": 305.0,
+    "volume": 6332.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 303.0,
+    "high": 314.0,
+    "low": 287.0,
+    "close": 288.0,
+    "volume": 2890.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 290.0,
+    "high": 302.0,
+    "low": 285.0,
+    "close": 293.0,
+    "volume": 2056.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 297.0,
+    "high": 302.0,
+    "low": 277.0,
+    "close": 282.0,
+    "volume": 3203.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 286.0,
+    "high": 289.0,
+    "low": 278.0,
+    "close": 285.0,
+    "volume": 2271.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,03,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 291.0,
+    "high": 318.0,
+    "low": 281.0,
+    "close": 318.0,
+    "volume": 6750.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,03,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 307.0,
+    "high": 311.0,
+    "low": 290.0,
+    "close": 300.0,
+    "volume": 6528.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 306.0,
+    "high": 314.0,
+    "low": 300.0,
+    "close": 304.0,
+    "volume": 7199.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 301.0,
+    "high": 316.0,
+    "low": 291.0,
+    "close": 296.0,
+    "volume": 3918.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 300.0,
+    "high": 302.0,
+    "low": 272.0,
+    "close": 277.0,
+    "volume": 5862.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,04,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 279.0,
+    "high": 286.0,
+    "low": 268.0,
+    "close": 271.0,
+    "volume": 4047.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 281.0,
+    "high": 283.0,
+    "low": 266.0,
+    "close": 275.0,
+    "volume": 3947.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 281.0,
+    "high": 281.0,
+    "low": 256.0,
+    "close": 259.0,
+    "volume": 6988.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 262.0,
+    "high": 271.0,
+    "low": 259.0,
+    "close": 268.0,
+    "volume": 7634.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 268.0,
+    "high": 273.0,
+    "low": 242.0,
+    "close": 245.0,
+    "volume": 9593.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 257.0,
+    "high": 257.0,
+    "low": 248.0,
+    "close": 251.0,
+    "volume": 4854.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 250.0,
+    "high": 253.0,
+    "low": 232.0,
+    "close": 240.0,
+    "volume": 5202.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 240.0,
+    "high": 247.0,
+    "low": 222.0,
+    "close": 226.0,
+    "volume": 7636.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 224.0,
+    "high": 233.0,
+    "low": 214.0,
+    "close": 215.0,
+    "volume": 5991.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 216.0,
+    "high": 239.0,
+    "low": 216.0,
+    "close": 228.0,
+    "volume": 8460.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 229.0,
+    "high": 236.0,
+    "low": 215.0,
+    "close": 216.0,
+    "volume": 8760.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 217.0,
+    "high": 217.0,
+    "low": 188.0,
+    "close": 193.0,
+    "volume": 11692.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 194.0,
+    "high": 205.0,
+    "low": 180.0,
+    "close": 180.0,
+    "volume": 14777.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 180.0,
+    "high": 186.0,
+    "low": 174.0,
+    "close": 184.0,
+    "volume": 12316.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 199.0,
+    "high": 199.0,
+    "low": 179.0,
+    "close": 186.0,
+    "volume": 6648.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 180.0,
+    "high": 181.0,
+    "low": 170.0,
+    "close": 171.0,
+    "volume": 5480.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 168.0,
+    "high": 176.0,
+    "low": 163.0,
+    "close": 164.0,
+    "volume": 10154.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 164.0,
+    "high": 173.0,
+    "low": 154.0,
+    "close": 155.0,
+    "volume": 11415.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,04,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 156.0,
+    "high": 190.0,
+    "low": 151.0,
+    "close": 180.0,
+    "volume": 14503.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 180.0,
+    "high": 193.0,
+    "low": 162.0,
+    "close": 162.0,
+    "volume": 9822.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 168.0,
+    "high": 178.0,
+    "low": 167.0,
+    "close": 172.0,
+    "volume": 8586.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 167.0,
+    "high": 184.0,
+    "low": 163.0,
+    "close": 183.0,
+    "volume": 11536.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 35.0,
+    "high": 42.0,
+    "low": 31.0,
+    "close": 32.0,
+    "volume": 409952.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,05,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 33.0,
+    "high": 33.0,
+    "low": 27.0,
+    "close": 31.0,
+    "volume": 71186.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 30.0,
+    "high": 32.0,
+    "low": 30.0,
+    "close": 30.0,
+    "volume": 35131.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 31.0,
+    "high": 32.0,
+    "low": 30.0,
+    "close": 30.0,
+    "volume": 29890.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 43541.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 14849.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 28.0,
+    "volume": 16876.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 29.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 12253.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 29.0,
+    "low": 27.0,
+    "close": 28.0,
+    "volume": 9127.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 31.0,
+    "low": 28.0,
+    "close": 30.0,
+    "volume": 27133.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 28.0,
+    "close": 29.0,
+    "volume": 16761.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 29.0,
+    "low": 28.0,
+    "close": 28.0,
+    "volume": 12007.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 29.0,
+    "low": 27.0,
+    "close": 28.0,
+    "volume": 9601.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 29.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 15017.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 9805.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 6669.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 5356.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 8854.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,05,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 3969.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 4607.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 30.0,
+    "high": 30.0,
+    "low": 27.0,
+    "close": 29.0,
+    "volume": 33679.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 29.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 10540.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 12927.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 5776.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 2697.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 5623.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 29.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 9231.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 4970.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 5524.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 24.0,
+    "volume": 9218.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 24.0,
+    "volume": 8507.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 27.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 9058.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 10084.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 279595.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 40.0,
+    "high": 44.0,
+    "low": 31.0,
+    "close": 33.0,
+    "volume": 1198944.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 30.0,
+    "high": 31.0,
+    "low": 28.0,
+    "close": 29.0,
+    "volume": 85569.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 32.0,
+    "low": 27.0,
+    "close": 32.0,
+    "volume": 43973.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,06,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 30.0,
+    "high": 31.0,
+    "low": 28.0,
+    "close": 28.0,
+    "volume": 21295.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 30.0,
+    "low": 28.0,
+    "close": 30.0,
+    "volume": 13211.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 30.0,
+    "high": 30.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 11832.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 14573.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 9130.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 29.0,
+    "low": 26.0,
+    "close": 28.0,
+    "volume": 17899.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 28.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 5826.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 30.0,
+    "low": 27.0,
+    "close": 28.0,
+    "volume": 15111.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 31.0,
+    "low": 28.0,
+    "close": 29.0,
+    "volume": 11942.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 28.0,
+    "close": 29.0,
+    "volume": 6570.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 32.0,
+    "low": 28.0,
+    "close": 31.0,
+    "volume": 13056.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 33.0,
+    "high": 33.0,
+    "low": 31.0,
+    "close": 32.0,
+    "volume": 10466.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 32.0,
+    "high": 32.0,
+    "low": 30.0,
+    "close": 30.0,
+    "volume": 8113.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 31.0,
+    "high": 31.0,
+    "low": 29.0,
+    "close": 30.0,
+    "volume": 3399.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 28.0,
+    "close": 28.0,
+    "volume": 4213.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,07,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 33.0,
+    "low": 28.0,
+    "close": 32.0,
+    "volume": 21288.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 32.0,
+    "high": 32.0,
+    "low": 28.0,
+    "close": 31.0,
+    "volume": 7606.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 31.0,
+    "high": 32.0,
+    "low": 29.0,
+    "close": 31.0,
+    "volume": 5265.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 25.0,
+    "low": 20.0,
+    "close": 24.0,
+    "volume": 61978.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 23.0,
+    "high": 25.0,
+    "low": 23.0,
+    "close": 24.0,
+    "volume": 14585.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 24.0,
+    "low": 23.0,
+    "close": 23.0,
+    "volume": 15463.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 24.0,
+    "low": 21.0,
+    "close": 22.0,
+    "volume": 46528.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,07,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 22.0,
+    "high": 23.0,
+    "low": 20.0,
+    "close": 22.0,
+    "volume": 20927.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 22.0,
+    "high": 23.0,
+    "low": 21.0,
+    "close": 22.0,
+    "volume": 9288.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.0,
+    "high": 21.0,
+    "low": 19.0,
+    "close": 20.0,
+    "volume": 14901.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 19.0,
+    "low": 17.0,
+    "close": 18.0,
+    "volume": 10094.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0,
+    "high": 19.0,
+    "low": 18.0,
+    "close": 18.0,
+    "volume": 9052.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 19.0,
+    "low": 17.0,
+    "close": 17.0,
+    "volume": 10785.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 20.0,
+    "low": 18.0,
+    "close": 19.0,
+    "volume": 16781.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 19.0,
+    "low": 18.0,
+    "close": 18.0,
+    "volume": 10422.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 19.0,
+    "low": 17.0,
+    "close": 18.0,
+    "volume": 11717.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 19.0,
+    "low": 18.0,
+    "close": 18.0,
+    "volume": 16939.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 17.0,
+    "volume": 9007.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 18.0,
+    "volume": 13802.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 18.0,
+    "volume": 9600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 19.0,
+    "low": 17.0,
+    "close": 17.0,
+    "volume": 27321.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 21.0,
+    "low": 17.0,
+    "close": 19.0,
+    "volume": 40421.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0,
+    "high": 19.0,
+    "low": 18.0,
+    "close": 19.0,
+    "volume": 13441.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0,
+    "high": 19.0,
+    "low": 18.0,
+    "close": 19.0,
+    "volume": 9195.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 20.0,
+    "low": 18.0,
+    "close": 19.0,
+    "volume": 10413.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0,
+    "high": 20.0,
+    "low": 19.0,
+    "close": 19.0,
+    "volume": 15287.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0,
+    "high": 19.0,
+    "low": 17.0,
+    "close": 18.0,
+    "volume": 9530.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 18.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 15405.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 17.0,
+    "volume": 8071.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,08,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 18.0,
+    "volume": 5738.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 17.0,
+    "volume": 5221.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 5288.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 3999.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 4046.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 16.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 3810.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 5797.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 3884.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 16.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 4837.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 18.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 5395.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 3527.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 2731.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 18.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 18304.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 18.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 4308.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 18.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 3991.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 6864.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 16.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 2360.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 16.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 2367.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 11567.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2024,09,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 3627.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,09,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 4555.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 3687.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 15.0,
+    "close": 15.0,
+    "volume": 9177.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,10,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.0,
+    "high": 16.0,
+    "low": 15.0,
+    "close": 16.0,
+    "volume": 4852.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 16.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 2255.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 16.0,
+    "low": 15.0,
+    "close": 16.0,
+    "volume": 3197.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 16.0,
+    "low": 15.0,
+    "close": 15.0,
+    "volume": 2437.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.0,
+    "high": 15.0,
+    "low": 14.0,
+    "close": 14.0,
+    "volume": 7153.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.0,
+    "high": 15.0,
+    "low": 14.0,
+    "close": 14.0,
+    "volume": 3283.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.0,
+    "high": 17.0,
+    "low": 14.0,
+    "close": 15.0,
+    "volume": 15351.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.0,
+    "high": 15.0,
+    "low": 15.0,
+    "close": 15.0,
+    "volume": 2020.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.0,
+    "high": 16.0,
+    "low": 14.0,
+    "close": 15.0,
+    "volume": 3444.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.0,
+    "high": 17.0,
+    "low": 15.0,
+    "close": 16.0,
+    "volume": 27380.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 17.0,
+    "low": 15.0,
+    "close": 16.0,
+    "volume": 7090.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 16.0,
+    "low": 15.0,
+    "close": 16.0,
+    "volume": 3854.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 16.0,
+    "volume": 7684.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 17.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 10046.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 19.0,
+    "low": 17.0,
+    "close": 18.0,
+    "volume": 20873.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0,
+    "high": 21.0,
+    "low": 17.0,
+    "close": 17.0,
+    "volume": 37615.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 18.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 11326.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 17.0,
+    "volume": 9706.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 38.0,
+    "high": 63.0,
+    "low": 32.0,
+    "close": 49.0,
+    "volume": 11221418.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 44.0,
+    "high": 54.0,
+    "low": 42.0,
+    "close": 46.0,
+    "volume": 448658.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,10,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 45.0,
+    "high": 47.0,
+    "low": 37.0,
+    "close": 41.0,
+    "volume": 136507.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 41.0,
+    "high": 42.0,
+    "low": 38.0,
+    "close": 38.0,
+    "volume": 39747.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 33.0,
+    "high": 41.0,
+    "low": 31.0,
+    "close": 41.0,
+    "volume": 44847.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 42.0,
+    "high": 42.0,
+    "low": 38.0,
+    "close": 39.0,
+    "volume": 15352.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 38.0,
+    "high": 39.0,
+    "low": 34.0,
+    "close": 38.0,
+    "volume": 26148.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 38.0,
+    "high": 44.0,
+    "low": 38.0,
+    "close": 42.0,
+    "volume": 38778.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 38.0,
+    "high": 42.0,
+    "low": 38.0,
+    "close": 41.0,
+    "volume": 18672.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 42.0,
+    "high": 43.0,
+    "low": 39.0,
+    "close": 42.0,
+    "volume": 22361.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 42.0,
+    "high": 42.0,
+    "low": 40.0,
+    "close": 40.0,
+    "volume": 9707.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 42.0,
+    "high": 42.0,
+    "low": 39.0,
+    "close": 40.0,
+    "volume": 10525.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 41.0,
+    "high": 41.0,
+    "low": 37.0,
+    "close": 40.0,
+    "volume": 9781.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 40.0,
+    "high": 44.0,
+    "low": 39.0,
+    "close": 42.0,
+    "volume": 18124.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 42.0,
+    "high": 45.0,
+    "low": 41.0,
+    "close": 42.0,
+    "volume": 23824.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 41.0,
+    "high": 42.0,
+    "low": 37.0,
+    "close": 38.0,
+    "volume": 15645.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 35.0,
+    "high": 37.0,
+    "low": 31.0,
+    "close": 33.0,
+    "volume": 34817.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2024,11,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 32.0,
+    "high": 33.0,
+    "low": 31.0,
+    "close": 32.0,
+    "volume": 10074.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 35.0,
+    "high": 35.0,
+    "low": 31.0,
+    "close": 32.0,
+    "volume": 7006.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 32.0,
+    "low": 28.0,
+    "close": 29.0,
+    "volume": 67171.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 30.0,
+    "high": 34.0,
+    "low": 29.0,
+    "close": 32.0,
+    "volume": 12085.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 30.0,
+    "high": 33.0,
+    "low": 30.0,
+    "close": 31.0,
+    "volume": 8910.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,11,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 31.0,
+    "high": 36.0,
+    "low": 31.0,
+    "close": 35.0,
+    "volume": 12589.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 35.0,
+    "high": 37.0,
+    "low": 32.0,
+    "close": 33.0,
+    "volume": 6950.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 31.0,
+    "high": 33.0,
+    "low": 30.0,
+    "close": 31.0,
+    "volume": 6840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 31.0,
+    "high": 31.0,
+    "low": 29.0,
+    "close": 30.0,
+    "volume": 2568.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 28.0,
+    "close": 29.0,
+    "volume": 6831.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 30.0,
+    "low": 27.0,
+    "close": 29.0,
+    "volume": 5916.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 30.0,
+    "high": 34.0,
+    "low": 29.0,
+    "close": 30.0,
+    "volume": 12280.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 32.0,
+    "low": 28.0,
+    "close": 29.0,
+    "volume": 9408.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 29.0,
+    "low": 27.0,
+    "close": 28.0,
+    "volume": 3538.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 28.0,
+    "low": 25.0,
+    "close": 25.0,
+    "volume": 10063.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 26.0,
+    "low": 23.0,
+    "close": 24.0,
+    "volume": 6296.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 22.0,
+    "high": 24.0,
+    "low": 22.0,
+    "close": 24.0,
+    "volume": 7427.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 23.0,
+    "high": 24.0,
+    "low": 21.0,
+    "close": 23.0,
+    "volume": 5101.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 25.0,
+    "low": 22.0,
+    "close": 22.0,
+    "volume": 5531.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 22.0,
+    "high": 24.0,
+    "low": 19.0,
+    "close": 21.0,
+    "volume": 12514.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.0,
+    "high": 25.0,
+    "low": 20.0,
+    "close": 23.0,
+    "volume": 10346.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 24.0,
+    "low": 21.0,
+    "close": 22.0,
+    "volume": 3229.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.0,
+    "high": 24.0,
+    "low": 21.0,
+    "close": 24.0,
+    "volume": 4067.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 23.0,
+    "high": 26.0,
+    "low": 22.0,
+    "close": 26.0,
+    "volume": 7152.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 23.0,
+    "close": 24.0,
+    "volume": 8264.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 27.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 9707.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2024,12,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 8293.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 29.0,
+    "low": 24.0,
+    "close": 26.0,
+    "volume": 5515.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 30.0,
+    "low": 26.0,
+    "close": 28.0,
+    "volume": 6025.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 28.0,
+    "close": 28.0,
+    "volume": 5118.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 28.0,
+    "close": 28.0,
+    "volume": 4364.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 30.0,
+    "low": 26.0,
+    "close": 28.0,
+    "volume": 5471.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 1567.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 2490.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 1056.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 1816.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 26.0,
+    "low": 25.0,
+    "close": 25.0,
+    "volume": 1449.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 28.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 2256.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 1382.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 1882.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 27.0,
+    "volume": 1287.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 2384.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 1997.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 25.0,
+    "volume": 840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 1778.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 29.0,
+    "low": 25.0,
+    "close": 29.0,
+    "volume": 10944.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,01,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 30.0,
+    "high": 30.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 3592.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 27.0,
+    "low": 23.0,
+    "close": 26.0,
+    "volume": 2423.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,02,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 2707.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 29.0,
+    "low": 26.0,
+    "close": 28.0,
+    "volume": 2685.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 29.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 1996.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 2483.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 1431.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,02,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 28.0,
+    "low": 25.0,
+    "close": 28.0,
+    "volume": 3263.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 1250.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,02,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 29.0,
+    "low": 25.0,
+    "close": 28.0,
+    "volume": 7302.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 29.0,
+    "high": 30.0,
+    "low": 26.0,
+    "close": 29.0,
+    "volume": 131356.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 35.0,
+    "high": 37.0,
+    "low": 31.0,
+    "close": 36.0,
+    "volume": 470125.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 32.0,
+    "high": 33.0,
+    "low": 29.0,
+    "close": 31.0,
+    "volume": 42607.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 31.0,
+    "low": 25.0,
+    "close": 30.0,
+    "volume": 22999.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 31.0,
+    "low": 28.0,
+    "close": 29.0,
+    "volume": 11198.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 29.0,
+    "low": 28.0,
+    "close": 28.0,
+    "volume": 10308.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,02,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 5671.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 29.0,
+    "low": 26.0,
+    "close": 28.0,
+    "volume": 3755.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 29.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 4699.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,02,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 28.0,
+    "low": 25.0,
+    "close": 27.0,
+    "volume": 4428.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 3984.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 3117.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 27.0,
+    "low": 24.0,
+    "close": 27.0,
+    "volume": 1600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 27.0,
+    "volume": 3836.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 28.0,
+    "low": 25.0,
+    "close": 27.0,
+    "volume": 1503.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 1709.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 1598.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 26.0,
+    "volume": 2766.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 2381.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 1721.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 2302.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,03,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 1537.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 28.0,
+    "low": 27.0,
+    "close": 28.0,
+    "volume": 1975.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 28.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 1727.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 28.0,
+    "high": 28.0,
+    "low": 26.0,
+    "close": 27.0,
+    "volume": 6050.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 2068.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 1065.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 24.0,
+    "volume": 1908.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 25.0,
+    "low": 24.0,
+    "close": 24.0,
+    "volume": 840.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 25.0,
+    "low": 22.0,
+    "close": 22.0,
+    "volume": 4892.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,03,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 22.0,
+    "high": 22.0,
+    "low": 21.0,
+    "close": 21.0,
+    "volume": 2021.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.0,
+    "high": 21.0,
+    "low": 20.0,
+    "close": 20.0,
+    "volume": 2294.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.0,
+    "high": 22.0,
+    "low": 19.0,
+    "close": 21.0,
+    "volume": 2351.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.0,
+    "high": 21.0,
+    "low": 18.0,
+    "close": 19.0,
+    "volume": 2622.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 20.0,
+    "low": 18.0,
+    "close": 18.0,
+    "volume": 8835.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 18.0,
+    "volume": 5005.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0,
+    "high": 20.0,
+    "low": 18.0,
+    "close": 18.0,
+    "volume": 3981.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 20.0,
+    "low": 17.0,
+    "close": 19.0,
+    "volume": 2365.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.0,
+    "high": 20.0,
+    "low": 19.0,
+    "close": 19.0,
+    "volume": 1558.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0,
+    "high": 21.0,
+    "low": 19.0,
+    "close": 20.0,
+    "volume": 1254.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.0,
+    "high": 23.0,
+    "low": 20.0,
+    "close": 22.0,
+    "volume": 5677.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 22.0,
+    "high": 23.0,
+    "low": 22.0,
+    "close": 23.0,
+    "volume": 1342.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 23.0,
+    "high": 23.0,
+    "low": 22.0,
+    "close": 22.0,
+    "volume": 822.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 23.0,
+    "high": 23.0,
+    "low": 22.0,
+    "close": 22.0,
+    "volume": 368.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 22.0,
+    "high": 22.0,
+    "low": 21.0,
+    "close": 22.0,
+    "volume": 870.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 22.0,
+    "high": 23.0,
+    "low": 22.0,
+    "close": 23.0,
+    "volume": 678.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 23.0,
+    "close": 24.0,
+    "volume": 35482.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 10597.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 28.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 6583.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 26.0,
+    "close": 26.0,
+    "volume": 1596.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 23.0,
+    "close": 24.0,
+    "volume": 6801.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,04,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 27.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 3641.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 27.0,
+    "low": 24.0,
+    "close": 26.0,
+    "volume": 2206.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 28.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 3944.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 29.0,
+    "low": 27.0,
+    "close": 27.0,
+    "volume": 2108.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 24.0,
+    "close": 24.0,
+    "volume": 5758.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 25.0,
+    "low": 24.0,
+    "close": 24.0,
+    "volume": 837.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 26.0,
+    "low": 23.0,
+    "close": 24.0,
+    "volume": 2184.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 24.0,
+    "volume": 1437.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 26.0,
+    "low": 24.0,
+    "close": 26.0,
+    "volume": 4551.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.0,
+    "low": 25.0,
+    "close": 25.0,
+    "volume": 2844.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 27.0,
+    "low": 23.0,
+    "close": 24.0,
+    "volume": 5700.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 23.0,
+    "high": 25.0,
+    "low": 23.0,
+    "close": 25.0,
+    "volume": 7708.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 25.0,
+    "volume": 1736.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 23.0,
+    "high": 26.0,
+    "low": 23.0,
+    "close": 26.0,
+    "volume": 1360.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 27.0,
+    "high": 28.0,
+    "low": 25.0,
+    "close": 26.0,
+    "volume": 3203.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 25.0,
+    "close": 25.0,
+    "volume": 1694.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 25.0,
+    "high": 25.0,
+    "low": 24.0,
+    "close": 25.0,
+    "volume": 1005.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 25.0,
+    "low": 24.0,
+    "close": 24.0,
+    "volume": 1244.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,05,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.0,
+    "high": 25.0,
+    "low": 22.0,
+    "close": 23.0,
+    "volume": 5373.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 23.0,
+    "high": 23.0,
+    "low": 20.0,
+    "close": 22.0,
+    "volume": 7930.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 22.0,
+    "high": 22.0,
+    "low": 20.0,
+    "close": 21.0,
+    "volume": 4018.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,05,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.0,
+    "high": 22.0,
+    "low": 20.0,
+    "close": 21.0,
+    "volume": 5873.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.0,
+    "high": 22.0,
+    "low": 20.0,
+    "close": 20.0,
+    "volume": 4529.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.0,
+    "high": 21.0,
+    "low": 20.0,
+    "close": 21.0,
+    "volume": 2449.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.0,
+    "high": 22.0,
+    "low": 20.0,
+    "close": 21.0,
+    "volume": 3079.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.0,
+    "high": 21.0,
+    "low": 20.0,
+    "close": 20.0,
+    "volume": 249185.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.0,
+    "high": 21.0,
+    "low": 18.0,
+    "close": 19.0,
+    "volume": 587055.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 17.0,
+    "close": 18.0,
+    "volume": 29949.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 18.0,
+    "low": 15.0,
+    "close": 17.0,
+    "volume": 18711.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.0,
+    "low": 16.0,
+    "close": 17.0,
+    "volume": 17915.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 17.0,
+    "low": 15.0,
+    "close": 17.0,
+    "volume": 18873.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.0,
+    "low": 15.0,
+    "close": 16.0,
+    "volume": 10694.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.3199996948,
+    "high": 19.3199996948,
+    "low": 14.9099998474,
+    "close": 15.8000001907,
+    "volume": 21600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.9600000381,
+    "high": 15.9600000381,
+    "low": 12.9200000763,
+    "close": 13.2700004578,
+    "volume": 18800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.0600004196,
+    "high": 15.8100004196,
+    "low": 11.0600004196,
+    "close": 14.6199998856,
+    "volume": 97200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.8599996567,
+    "high": 15.9899997711,
+    "low": 14.8900003433,
+    "close": 15.0,
+    "volume": 15500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.0,
+    "high": 20.9899997711,
+    "low": 14.3299999237,
+    "close": 15.3000001907,
+    "volume": 38100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.9699993134,
+    "high": 16.9899997711,
+    "low": 14.6999998093,
+    "close": 15.0699996948,
+    "volume": 29600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 21.3999996185,
+    "low": 15.4899997711,
+    "close": 18.0,
+    "volume": 125900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.5100002289,
+    "high": 18.8899993896,
+    "low": 15.5100002289,
+    "close": 16.8999996185,
+    "volume": 109200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.8199996948,
+    "high": 17.6900005341,
+    "low": 15.8999996185,
+    "close": 15.8999996185,
+    "volume": 54400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,06,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.0,
+    "high": 17.1000003815,
+    "low": 15.8000001907,
+    "close": 16.1399993896,
+    "volume": 50400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.1299991608,
+    "high": 16.7399997711,
+    "low": 16.0599994659,
+    "close": 16.1499996185,
+    "volume": 66600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.25,
+    "high": 17.3899993896,
+    "low": 15.1400003433,
+    "close": 15.5500001907,
+    "volume": 106500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.8599996567,
+    "high": 16.9799995422,
+    "low": 15.3599996567,
+    "close": 15.8900003433,
+    "volume": 171100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.9499998093,
+    "high": 16.0200004578,
+    "low": 15.0100002289,
+    "close": 15.2899999619,
+    "volume": 103900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.6599998474,
+    "high": 16.0200004578,
+    "low": 14.75,
+    "close": 15.0900001526,
+    "volume": 114000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.3000001907,
+    "high": 15.4399995804,
+    "low": 14.6899995804,
+    "close": 14.7899999619,
+    "volume": 87700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.8400001526,
+    "high": 14.8500003815,
+    "low": 13.4200000763,
+    "close": 13.5,
+    "volume": 321500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.1300001144,
+    "high": 13.8199996948,
+    "low": 12.7100000381,
+    "close": 12.9600000381,
+    "volume": 342800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.4200000763,
+    "high": 13.8500003815,
+    "low": 12.6999998093,
+    "close": 12.8000001907,
+    "volume": 140300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.8000001907,
+    "high": 13.0399999619,
+    "low": 11.5100002289,
+    "close": 11.75,
+    "volume": 180700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.8100004196,
+    "high": 13.8800001144,
+    "low": 11.7700004578,
+    "close": 13.1400003433,
+    "volume": 222400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.1899995804,
+    "high": 13.6199998856,
+    "low": 12.6899995804,
+    "close": 13.0200004578,
+    "volume": 124900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.029999733,
+    "high": 14.0100002289,
+    "low": 13.029999733,
+    "close": 13.3400001526,
+    "volume": 120100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.5100002289,
+    "high": 13.5900001526,
+    "low": 12.6400003433,
+    "close": 13.1999998093,
+    "volume": 126000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.3900003433,
+    "high": 13.5100002289,
+    "low": 12.8299999237,
+    "close": 13.0399999619,
+    "volume": 79400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.8999996185,
+    "high": 13.4200000763,
+    "low": 12.6899995804,
+    "close": 13.1800003052,
+    "volume": 120700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.3699998856,
+    "high": 13.3699998856,
+    "low": 12.6999998093,
+    "close": 13.0200004578,
+    "volume": 120100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.0900001526,
+    "high": 13.5,
+    "low": 13.0,
+    "close": 13.2899999619,
+    "volume": 81400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.0399999619,
+    "high": 13.4499998093,
+    "low": 13.0399999619,
+    "close": 13.25,
+    "volume": 62000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.2600002289,
+    "high": 13.4200000763,
+    "low": 12.0799999237,
+    "close": 12.3000001907,
+    "volume": 83700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.3000001907,
+    "high": 13.0500001907,
+    "low": 12.3000001907,
+    "close": 12.6000003815,
+    "volume": 122600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,07,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.3199996948,
+    "high": 12.8000001907,
+    "low": 12.3199996948,
+    "close": 12.4200000763,
+    "volume": 73300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.1099996567,
+    "high": 12.4200000763,
+    "low": 11.8900003433,
+    "close": 12.0,
+    "volume": 68200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.1499996185,
+    "high": 12.1999998093,
+    "low": 11.3299999237,
+    "close": 11.8400001526,
+    "volume": 130600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.8400001526,
+    "high": 11.9399995804,
+    "low": 11.3999996185,
+    "close": 11.6000003815,
+    "volume": 135400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.7700004578,
+    "high": 11.7700004578,
+    "low": 10.8999996185,
+    "close": 11.0,
+    "volume": 34900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.2100000381,
+    "high": 11.3100004196,
+    "low": 10.9200000763,
+    "close": 11.0,
+    "volume": 101500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.8299999237,
+    "high": 12.9200000763,
+    "low": 10.8299999237,
+    "close": 12.8500003815,
+    "volume": 44500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.5200004578,
+    "high": 13.5200004578,
+    "low": 12.4499998093,
+    "close": 12.8999996185,
+    "volume": 64700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.9200000763,
+    "high": 13.2899999619,
+    "low": 12.8500003815,
+    "close": 12.9799995422,
+    "volume": 95300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.4799995422,
+    "high": 14.25,
+    "low": 13.3599996567,
+    "close": 13.8999996185,
+    "volume": 208900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.9399995804,
+    "high": 14.0,
+    "low": 13.8599996567,
+    "close": 13.9300003052,
+    "volume": 56600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.1899995804,
+    "high": 14.1899995804,
+    "low": 13.75,
+    "close": 13.7899999619,
+    "volume": 31900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.8000001907,
+    "high": 14.0,
+    "low": 13.3999996185,
+    "close": 13.7899999619,
+    "volume": 471900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.9200000763,
+    "high": 14.2600002289,
+    "low": 13.5100002289,
+    "close": 13.6000003815,
+    "volume": 53500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.5,
+    "high": 13.9899997711,
+    "low": 13.5,
+    "close": 13.8000001907,
+    "volume": 61700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.2100000381,
+    "high": 14.6300001144,
+    "low": 13.8100004196,
+    "close": 14.3999996185,
+    "volume": 44900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.7299995422,
+    "high": 15.5,
+    "low": 14.7299995422,
+    "close": 15.0600004196,
+    "volume": 44900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.7700004578,
+    "high": 15.7700004578,
+    "low": 14.5500001907,
+    "close": 14.6999998093,
+    "volume": 98400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.8999996185,
+    "high": 16.0,
+    "low": 14.2700004578,
+    "close": 14.470000267,
+    "volume": 122500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.8900003433,
+    "high": 14.8900003433,
+    "low": 14.1999998093,
+    "close": 14.25,
+    "volume": 61100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.6000003815,
+    "high": 14.8699998856,
+    "low": 13.8599996567,
+    "close": 14.1499996185,
+    "volume": 52700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,08,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.1000003815,
+    "high": 14.5900001526,
+    "low": 13.7600002289,
+    "close": 14.3999996185,
+    "volume": 49600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.5,
+    "high": 14.7399997711,
+    "low": 13.4300003052,
+    "close": 13.6800003052,
+    "volume": 109900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,09,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.4499998093,
+    "high": 13.6800003052,
+    "low": 12.9600000381,
+    "close": 13.2299995422,
+    "volume": 92900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.3699998856,
+    "high": 13.8000001907,
+    "low": 13.0100002289,
+    "close": 13.6899995804,
+    "volume": 64200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.8800001144,
+    "high": 14.5,
+    "low": 13.7100000381,
+    "close": 14.2399997711,
+    "volume": 137900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.8500003815,
+    "high": 13.8800001144,
+    "low": 12.779999733,
+    "close": 12.9499998093,
+    "volume": 91400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,09,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.6899995804,
+    "high": 13.1199998856,
+    "low": 12.5399999619,
+    "close": 12.5500001907,
+    "volume": 75500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.529999733,
+    "high": 13.029999733,
+    "low": 12.0900001526,
+    "close": 12.2299995422,
+    "volume": 161100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.2600002289,
+    "high": 13.0100002289,
+    "low": 12.2600002289,
+    "close": 12.5500001907,
+    "volume": 236300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.3800001144,
+    "high": 12.9799995422,
+    "low": 12.0900001526,
+    "close": 12.4899997711,
+    "volume": 103600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.7600002289,
+    "high": 12.9300003052,
+    "low": 12.0699996948,
+    "close": 12.220000267,
+    "volume": 68800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.029999733,
+    "high": 12.8999996185,
+    "low": 12.029999733,
+    "close": 12.5,
+    "volume": 105300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.25,
+    "high": 13.2100000381,
+    "low": 12.25,
+    "close": 12.8000001907,
+    "volume": 212100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.6800003052,
+    "high": 13.1999998093,
+    "low": 12.6800003052,
+    "close": 12.9399995804,
+    "volume": 157900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.1999998093,
+    "high": 13.1999998093,
+    "low": 12.5200004578,
+    "close": 12.9200000763,
+    "volume": 555600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.6099996567,
+    "high": 13.5,
+    "low": 12.6099996567,
+    "close": 13.1099996567,
+    "volume": 155700.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2025,09,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.2700004578,
+    "high": 13.2700004578,
+    "low": 12.7399997711,
+    "close": 12.9499998093,
+    "volume": 153000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.970000267,
+    "high": 13.2600002289,
+    "low": 12.8900003433,
+    "close": 12.9799995422,
+    "volume": 73700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.8999996185,
+    "high": 12.9600000381,
+    "low": 12.2700004578,
+    "close": 12.4099998474,
+    "volume": 68100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,09,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.2100000381,
+    "high": 12.6599998474,
+    "low": 12.1700000763,
+    "close": 12.4300003052,
+    "volume": 42700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.5399999619,
+    "high": 12.8000001907,
+    "low": 12.0200004578,
+    "close": 12.2899999619,
+    "volume": 74300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,09,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.25,
+    "high": 12.5,
+    "low": 11.5500001907,
+    "close": 11.8900003433,
+    "volume": 72700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.8999996185,
+    "high": 12.4200000763,
+    "low": 11.8500003815,
+    "close": 11.8999996185,
+    "volume": 175300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.0200004578,
+    "high": 12.2399997711,
+    "low": 11.8299999237,
+    "close": 12.029999733,
+    "volume": 44300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.1899995804,
+    "high": 12.1899995804,
+    "low": 11.529999733,
+    "close": 11.720000267,
+    "volume": 99400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.8599996567,
+    "high": 11.9200000763,
+    "low": 11.5900001526,
+    "close": 11.6000003815,
+    "volume": 42100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.6999998093,
+    "high": 11.6999998093,
+    "low": 10.9600000381,
+    "close": 11.2899999619,
+    "volume": 176000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.3900003433,
+    "high": 12.4300003052,
+    "low": 11.3900003433,
+    "close": 12.0600004196,
+    "volume": 186300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.1000003815,
+    "high": 12.5799999237,
+    "low": 12.0200004578,
+    "close": 12.2700004578,
+    "volume": 43100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.1800003052,
+    "high": 12.1800003052,
+    "low": 11.279999733,
+    "close": 11.3500003815,
+    "volume": 75200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.5100002289,
+    "high": 12.2700004578,
+    "low": 10.1000003815,
+    "close": 10.25,
+    "volume": 182400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.1300001144,
+    "high": 10.4799995422,
+    "low": 9.8100004196,
+    "close": 10.3900003433,
+    "volume": 114900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.5200004578,
+    "high": 11.8299999237,
+    "low": 10.5200004578,
+    "close": 11.2899999619,
+    "volume": 91200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.3000001907,
+    "high": 12.5500001907,
+    "low": 11.2600002289,
+    "close": 12.3500003815,
+    "volume": 608000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.2100000381,
+    "high": 12.6800003052,
+    "low": 11.6899995804,
+    "close": 12.5399999619,
+    "volume": 115500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.529999733,
+    "high": 12.8500003815,
+    "low": 12.3900003433,
+    "close": 12.529999733,
+    "volume": 79700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.5600004196,
+    "high": 12.9799995422,
+    "low": 12.4200000763,
+    "close": 12.6499996185,
+    "volume": 56400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.6499996185,
+    "high": 12.779999733,
+    "low": 11.9600000381,
+    "close": 12.7299995422,
+    "volume": 80500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.5699996948,
+    "high": 13.0,
+    "low": 12.3699998856,
+    "close": 12.7899999619,
+    "volume": 83100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.9499998093,
+    "high": 13.1999998093,
+    "low": 12.529999733,
+    "close": 12.6899995804,
+    "volume": 57000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.8000001907,
+    "high": 13.1099996567,
+    "low": 12.5,
+    "close": 13.0,
+    "volume": 32600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.9300003052,
+    "high": 13.2700004578,
+    "low": 12.3100004196,
+    "close": 12.5,
+    "volume": 57900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.5100002289,
+    "high": 12.8699998856,
+    "low": 12.3900003433,
+    "close": 12.5,
+    "volume": 30600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.7100000381,
+    "high": 12.7600002289,
+    "low": 12.3000001907,
+    "close": 12.5100002289,
+    "volume": 62300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,10,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.4200000763,
+    "high": 12.8400001526,
+    "low": 12.4200000763,
+    "close": 12.75,
+    "volume": 29300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.7399997711,
+    "high": 12.7399997711,
+    "low": 12.0,
+    "close": 12.3500003815,
+    "volume": 109900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,11,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.3599996567,
+    "high": 12.6499996185,
+    "low": 12.1000003815,
+    "close": 12.4399995804,
+    "volume": 101100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.4200000763,
+    "high": 12.9399995804,
+    "low": 12.4200000763,
+    "close": 12.4300003052,
+    "volume": 44500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.4399995804,
+    "high": 13.1899995804,
+    "low": 12.4399995804,
+    "close": 13.1000003815,
+    "volume": 111900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.1099996567,
+    "high": 13.1999998093,
+    "low": 12.8699998856,
+    "close": 13.1300001144,
+    "volume": 144500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.8999996185,
+    "high": 13.2399997711,
+    "low": 12.8000001907,
+    "close": 13.1099996567,
+    "volume": 46800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.1000003815,
+    "high": 13.25,
+    "low": 13.0,
+    "close": 13.25,
+    "volume": 58900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.7100000381,
+    "high": 13.4499998093,
+    "low": 12.6800003052,
+    "close": 13.0500001907,
+    "volume": 66000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.8900003433,
+    "high": 13.1199998856,
+    "low": 12.720000267,
+    "close": 12.9799995422,
+    "volume": 44700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.8500003815,
+    "high": 13.1999998093,
+    "low": 12.8500003815,
+    "close": 13.0200004578,
+    "volume": 32800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.970000267,
+    "high": 13.2299995422,
+    "low": 12.8599996567,
+    "close": 13.0699996948,
+    "volume": 115600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.1000003815,
+    "high": 13.5,
+    "low": 12.9399995804,
+    "close": 13.0,
+    "volume": 67700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.3299999237,
+    "high": 13.3400001526,
+    "low": 13.0100002289,
+    "close": 13.029999733,
+    "volume": 39300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.2700004578,
+    "high": 13.4300003052,
+    "low": 12.7600002289,
+    "close": 13.0799999237,
+    "volume": 83800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.25,
+    "high": 13.2700004578,
+    "low": 12.8400001526,
+    "close": 13.0600004196,
+    "volume": 24800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.1599998474,
+    "high": 14.1999998093,
+    "low": 13.1599998474,
+    "close": 14.0500001907,
+    "volume": 43700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.1400003433,
+    "high": 14.6899995804,
+    "low": 13.6700000763,
+    "close": 14.0,
+    "volume": 24000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.25,
+    "high": 15.3999996185,
+    "low": 14.0699996948,
+    "close": 15.0799999237,
+    "volume": 34600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,11,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.029999733,
+    "high": 15.3299999237,
+    "low": 14.8199996948,
+    "close": 15.0500001907,
+    "volume": 9600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.9200000763,
+    "high": 14.9600000381,
+    "low": 14.1300001144,
+    "close": 14.2700004578,
+    "volume": 11200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.2700004578,
+    "high": 14.2700004578,
+    "low": 12.5900001526,
+    "close": 13.0900001526,
+    "volume": 36600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.0500001907,
+    "high": 13.4300003052,
+    "low": 12.6099996567,
+    "close": 13.4099998474,
+    "volume": 32500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.5600004196,
+    "high": 16.3500003815,
+    "low": 12.3599996567,
+    "close": 12.9899997711,
+    "volume": 2483900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.1099996567,
+    "high": 13.7700004578,
+    "low": 12.2700004578,
+    "close": 13.0699996948,
+    "volume": 247000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.0900001526,
+    "high": 13.3199996948,
+    "low": 12.8599996567,
+    "close": 13.1700000763,
+    "volume": 135800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.6599998474,
+    "high": 14.0,
+    "low": 13.3599996567,
+    "close": 13.970000267,
+    "volume": 313100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.8299999237,
+    "high": 14.8299999237,
+    "low": 13.3500003815,
+    "close": 14.4899997711,
+    "volume": 199400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.3800001144,
+    "high": 15.4399995804,
+    "low": 14.0399999619,
+    "close": 15.3100004196,
+    "volume": 121100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.4200000763,
+    "high": 15.5799999237,
+    "low": 14.0,
+    "close": 14.0900001526,
+    "volume": 103800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.2700004578,
+    "high": 14.2700004578,
+    "low": 12.9799995422,
+    "close": 13.2100000381,
+    "volume": 100400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2025,12,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.1499996185,
+    "high": 13.1899995804,
+    "low": 12.4600000381,
+    "close": 12.9200000763,
+    "volume": 164600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.0,
+    "high": 13.25,
+    "low": 12.25,
+    "close": 12.4899997711,
+    "volume": 152100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.5900001526,
+    "high": 13.1400003433,
+    "low": 11.8999996185,
+    "close": 12.220000267,
+    "volume": 153400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.3000001907,
+    "high": 12.8500003815,
+    "low": 11.5699996948,
+    "close": 11.8500003815,
+    "volume": 202300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.8400001526,
+    "high": 12.6800003052,
+    "low": 11.8400001526,
+    "close": 12.4499998093,
+    "volume": 45400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.4399995804,
+    "high": 12.4399995804,
+    "low": 11.8699998856,
+    "close": 12.1199998856,
+    "volume": 81900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.1599998474,
+    "high": 12.5500001907,
+    "low": 11.9600000381,
+    "close": 12.3699998856,
+    "volume": 31500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.3800001144,
+    "high": 12.5600004196,
+    "low": 11.9600000381,
+    "close": 12.3500003815,
+    "volume": 43100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.3500003815,
+    "high": 12.529999733,
+    "low": 12.0200004578,
+    "close": 12.0799999237,
+    "volume": 53200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.0500001907,
+    "high": 12.6099996567,
+    "low": 11.5399999619,
+    "close": 11.6000003815,
+    "volume": 68600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2025,12,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.75,
+    "high": 11.8999996185,
+    "low": 11.3999996185,
+    "close": 11.8599996567,
+    "volume": 51100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.9499998093,
+    "high": 11.9499998093,
+    "low": 10.9300003052,
+    "close": 11.0799999237,
+    "volume": 97000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.4799995422,
+    "high": 11.6499996185,
+    "low": 10.8599996567,
+    "close": 11.1099996567,
+    "volume": 74900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.6800003052,
+    "high": 11.6800003052,
+    "low": 11.0699996948,
+    "close": 11.0699996948,
+    "volume": 56500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.1800003052,
+    "high": 11.3900003433,
+    "low": 10.8699998856,
+    "close": 10.9399995804,
+    "volume": 203900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.7600002289,
+    "high": 11.0900001526,
+    "low": 10.5699996948,
+    "close": 10.970000267,
+    "volume": 105200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.970000267,
+    "high": 11.220000267,
+    "low": 10.5600004196,
+    "close": 10.7899999619,
+    "volume": 75900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.0,
+    "high": 11.0,
+    "low": 10.6199998856,
+    "close": 10.9799995422,
+    "volume": 73600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.9300003052,
+    "high": 11.2100000381,
+    "low": 10.8199996948,
+    "close": 11.0500001907,
+    "volume": 317900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.1499996185,
+    "high": 12.9499998093,
+    "low": 11.0699996948,
+    "close": 12.6300001144,
+    "volume": 118000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.5200004578,
+    "high": 12.8999996185,
+    "low": 12.0399999619,
+    "close": 12.5,
+    "volume": 80300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.5799999237,
+    "high": 13.9300003052,
+    "low": 12.4200000763,
+    "close": 13.5100002289,
+    "volume": 169500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.3500003815,
+    "high": 14.3000001907,
+    "low": 13.1999998093,
+    "close": 13.9799995422,
+    "volume": 421800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.5799999237,
+    "high": 14.7100000381,
+    "low": 13.6499996185,
+    "close": 13.720000267,
+    "volume": 201000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.8199996948,
+    "high": 14.220000267,
+    "low": 13.5,
+    "close": 13.6300001144,
+    "volume": 153200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.6300001144,
+    "high": 13.970000267,
+    "low": 12.3100004196,
+    "close": 12.8000001907,
+    "volume": 144100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.7399997711,
+    "high": 12.779999733,
+    "low": 11.5600004196,
+    "close": 11.75,
+    "volume": 251000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,01,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.75,
+    "high": 12.1800003052,
+    "low": 11.1000003815,
+    "close": 11.2700004578,
+    "volume": 149800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.8199996948,
+    "high": 11.8199996948,
+    "low": 10.6899995804,
+    "close": 10.7299995422,
+    "volume": 227500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.6700000763,
+    "high": 11.2100000381,
+    "low": 10.0,
+    "close": 10.1499996185,
+    "volume": 205500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,01,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.1999998093,
+    "high": 11.2100000381,
+    "low": 9.4300003052,
+    "close": 9.5900001526,
+    "volume": 198300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.470000267,
+    "high": 10.5399999619,
+    "low": 9.470000267,
+    "close": 9.8199996948,
+    "volume": 148000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.8999996185,
+    "high": 10.0,
+    "low": 9.1000003815,
+    "close": 9.5399999619,
+    "volume": 202200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.6000003815,
+    "high": 9.7600002289,
+    "low": 9.1300001144,
+    "close": 9.7100000381,
+    "volume": 511300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.8299999237,
+    "high": 9.9300003052,
+    "low": 9.2700004578,
+    "close": 9.4099998474,
+    "volume": 388600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.5200004578,
+    "high": 9.7899999619,
+    "low": 9.3500003815,
+    "close": 9.5100002289,
+    "volume": 176700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.5100002289,
+    "high": 9.6199998856,
+    "low": 8.720000267,
+    "close": 9.4499998093,
+    "volume": 299600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.4099998474,
+    "high": 9.6899995804,
+    "low": 9.2100000381,
+    "close": 9.4499998093,
+    "volume": 219700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.5,
+    "high": 9.5799999237,
+    "low": 9.0799999237,
+    "close": 9.4499998093,
+    "volume": 201300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.5,
+    "high": 9.5,
+    "low": 8.9899997711,
+    "close": 9.2299995422,
+    "volume": 230200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.1400003433,
+    "high": 9.3999996185,
+    "low": 8.7600002289,
+    "close": 8.9399995804,
+    "volume": 247200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 8.8900003433,
+    "high": 9.4300003052,
+    "low": 8.8000001907,
+    "close": 9.3299999237,
+    "volume": 78500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.2399997711,
+    "high": 9.8699998856,
+    "low": 9.2399997711,
+    "close": 9.720000267,
+    "volume": 189600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 9.6999998093,
+    "high": 12.0100002289,
+    "low": 9.5799999237,
+    "close": 11.7399997711,
+    "volume": 558400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.4899997711,
+    "high": 12.0,
+    "low": 11.25,
+    "close": 11.6499996185,
+    "volume": 153800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.3999996185,
+    "high": 11.8000001907,
+    "low": 11.0399999619,
+    "close": 11.470000267,
+    "volume": 88700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.5,
+    "high": 13.5100002289,
+    "low": 11.5,
+    "close": 12.6499996185,
+    "volume": 240000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.6499996185,
+    "high": 12.6899995804,
+    "low": 11.8599996567,
+    "close": 12.4899997711,
+    "volume": 130200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.2899999619,
+    "high": 12.6999998093,
+    "low": 11.8299999237,
+    "close": 12.3500003815,
+    "volume": 68700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,02,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.1999998093,
+    "high": 12.4399995804,
+    "low": 11.4899997711,
+    "close": 12.0900001526,
+    "volume": 136900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.3299999237,
+    "high": 12.0,
+    "low": 11.1999998093,
+    "close": 11.1999998093,
+    "volume": 78600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.9300003052,
+    "high": 11.3299999237,
+    "low": 10.6099996567,
+    "close": 11.1899995804,
+    "volume": 128700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.3199996948,
+    "high": 11.5500001907,
+    "low": 10.8999996185,
+    "close": 11.4899997711,
+    "volume": 104100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.5900001526,
+    "high": 11.5900001526,
+    "low": 10.9200000763,
+    "close": 11.3299999237,
+    "volume": 132600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.2299995422,
+    "high": 12.4300003052,
+    "low": 11.0,
+    "close": 12.0699996948,
+    "volume": 159600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.0699996948,
+    "high": 12.3000001907,
+    "low": 11.8100004196,
+    "close": 12.0200004578,
+    "volume": 68300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.1300001144,
+    "high": 13.3100004196,
+    "low": 11.9600000381,
+    "close": 12.5500001907,
+    "volume": 444200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 12.5100002289,
+    "high": 13.0,
+    "low": 11.8599996567,
+    "close": 11.8800001144,
+    "volume": 121500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.9499998093,
+    "high": 12.3900003433,
+    "low": 11.2299995422,
+    "close": 11.5600004196,
+    "volume": 161200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.6899995804,
+    "high": 12.3999996185,
+    "low": 11.1499996185,
+    "close": 11.1800003052,
+    "volume": 112300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.6199998856,
+    "high": 11.8199996948,
+    "low": 11.3199996948,
+    "close": 11.5799999237,
+    "volume": 150200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.5799999237,
+    "high": 11.75,
+    "low": 11.0,
+    "close": 11.1000003815,
+    "volume": 114800.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,03,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.029999733,
+    "high": 11.0399999619,
+    "low": 9.8999996185,
+    "close": 10.3500003815,
+    "volume": 259200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.3800001144,
+    "high": 10.8400001526,
+    "low": 10.1700000763,
+    "close": 10.6199998856,
+    "volume": 238800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.8199996948,
+    "high": 11.0600004196,
+    "low": 10.6000003815,
+    "close": 10.8999996185,
+    "volume": 184600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.8999996185,
+    "high": 11.3299999237,
+    "low": 10.5100002289,
+    "close": 11.0399999619,
+    "volume": 198700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.0,
+    "high": 11.1199998856,
+    "low": 10.279999733,
+    "close": 10.4399995804,
+    "volume": 214700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 10.4099998474,
+    "high": 12.5100002289,
+    "low": 10.4099998474,
+    "close": 11.779999733,
+    "volume": 279500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 11.5399999619,
+    "high": 13.7700004578,
+    "low": 11.4200000763,
+    "close": 13.5,
+    "volume": 449200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.2899999619,
+    "high": 15.1899995804,
+    "low": 12.9799995422,
+    "close": 15.1599998474,
+    "volume": 428500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.0900001526,
+    "high": 17.3999996185,
+    "low": 14.25,
+    "close": 16.6200008392,
+    "volume": 275200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,03,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.8299999237,
+    "high": 18.5,
+    "low": 16.8299999237,
+    "close": 18.3700008392,
+    "volume": 199500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.6399993896,
+    "high": 20.5799999237,
+    "low": 18.5300006866,
+    "close": 19.3199996948,
+    "volume": 442100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0,
+    "high": 20.1000003815,
+    "low": 18.3799991608,
+    "close": 19.3999996185,
+    "volume": 209000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.6900005341,
+    "high": 20.2900009155,
+    "low": 19.0,
+    "close": 19.3799991608,
+    "volume": 245000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.2600002289,
+    "high": 19.4899997711,
+    "low": 18.0,
+    "close": 19.2099990845,
+    "volume": 265000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.4099998474,
+    "high": 19.5900001526,
+    "low": 17.2999992371,
+    "close": 18.3199996948,
+    "volume": 126400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.1900005341,
+    "high": 19.5,
+    "low": 17.8700008392,
+    "close": 19.1000003815,
+    "volume": 121000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.8600006104,
+    "high": 19.1599998474,
+    "low": 18.1000003815,
+    "close": 18.1700000763,
+    "volume": 154700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.1700000763,
+    "high": 18.9200000763,
+    "low": 17.3299999237,
+    "close": 17.9899997711,
+    "volume": 208100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.1100006104,
+    "high": 19.8999996185,
+    "low": 17.7199993134,
+    "close": 19.5200004578,
+    "volume": 592200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.7999992371,
+    "high": 20.6800003052,
+    "low": 19.1200008392,
+    "close": 19.9500007629,
+    "volume": 229300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.7700004578,
+    "high": 19.8899993896,
+    "low": 19.0499992371,
+    "close": 19.4500007629,
+    "volume": 73800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.7900009155,
+    "high": 22.1100006104,
+    "low": 19.6499996185,
+    "close": 21.2800006866,
+    "volume": 291600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.9300003052,
+    "high": 22.2199993134,
+    "low": 20.6399993896,
+    "close": 21.6900005341,
+    "volume": 161900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.5300006866,
+    "high": 24.7299995422,
+    "low": 20.3999996185,
+    "close": 24.5699996948,
+    "volume": 544100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.5,
+    "high": 27.4099998474,
+    "low": 24.1000003815,
+    "close": 26.9799995422,
+    "volume": 583000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0,
+    "high": 26.9400005341,
+    "low": 24.7099990845,
+    "close": 25.7000007629,
+    "volume": 417300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 26.0599994659,
+    "high": 26.0599994659,
+    "low": 23.6100006104,
+    "close": 24.7999992371,
+    "volume": 258500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.5400009155,
+    "high": 26.5300006866,
+    "low": 24.5400009155,
+    "close": 25.1499996185,
+    "volume": 145700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.8400001526,
+    "high": 25.1000003815,
+    "low": 23.7600002289,
+    "close": 23.9599990845,
+    "volume": 79500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,04,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 24.4400005341,
+    "high": 24.4400005341,
+    "low": 20.4400005341,
+    "close": 20.9400005341,
+    "volume": 213300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,04,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.8999996185,
+    "high": 23.2299995422,
+    "low": 20.7199993134,
+    "close": 22.3700008392,
+    "volume": 280000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.4500007629,
+    "high": 21.4400005341,
+    "low": 14.9099998474,
+    "close": 18.0699996948,
+    "volume": 982200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.8500003815,
+    "high": 19.6599998474,
+    "low": 17.6499996185,
+    "close": 17.9200000763,
+    "volume": 404400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0499992371,
+    "high": 18.2600002289,
+    "low": 16.4400005341,
+    "close": 18.0799999237,
+    "volume": 380600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.2600002289,
+    "high": 18.5699996948,
+    "low": 16.7800006866,
+    "close": 18.0599994659,
+    "volume": 269400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.9699993134,
+    "high": 19.0200004578,
+    "low": 17.5,
+    "close": 18.0,
+    "volume": 77600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0799999237,
+    "high": 19.5300006866,
+    "low": 17.9899997711,
+    "close": 18.7600002289,
+    "volume": 243200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.7199993134,
+    "high": 19.8099994659,
+    "low": 17.6800003052,
+    "close": 18.5200004578,
+    "volume": 549600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.3299999237,
+    "high": 19.2700004578,
+    "low": 17.9799995422,
+    "close": 18.4599990845,
+    "volume": 297100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.25,
+    "high": 20.4099998474,
+    "low": 17.9099998474,
+    "close": 19.6100006104,
+    "volume": 251900.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.4099998474,
+    "high": 21.4699993134,
+    "low": 19.4099998474,
+    "close": 21.2299995422,
+    "volume": 171700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.0,
+    "high": 21.6900005341,
+    "low": 18.5100002289,
+    "close": 19.9699993134,
+    "volume": 260500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.8600006104,
+    "high": 20.8099994659,
+    "low": 17.4799995422,
+    "close": 18.5499992371,
+    "volume": 416100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,05,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.5,
+    "high": 19.1700000763,
+    "low": 18.0699996948,
+    "close": 18.4799995422,
+    "volume": 128000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.5,
+    "high": 19.7900009155,
+    "low": 18.3999996185,
+    "close": 18.9099998474,
+    "volume": 107800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.7000007629,
+    "high": 20.5900001526,
+    "low": 18.5499992371,
+    "close": 20.2299995422,
+    "volume": 249500.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,05,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.0,
+    "high": 21.2399997711,
+    "low": 19.4699993134,
+    "close": 20.7399997711,
+    "volume": 140400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.6499996185,
+    "high": 21.1399993896,
+    "low": 19.7000007629,
+    "close": 20.3500003815,
+    "volume": 326300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.25,
+    "high": 22.2800006866,
+    "low": 19.9200000763,
+    "close": 20.7900009155,
+    "volume": 447000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.7000007629,
+    "high": 22.4899997711,
+    "low": 20.1100006104,
+    "close": 21.4699993134,
+    "volume": 401200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,05,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 21.3999996185,
+    "high": 22.5200004578,
+    "low": 20.0400009155,
+    "close": 20.6499996185,
+    "volume": 419800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.1700000763,
+    "high": 20.4300003052,
+    "low": 18.8700008392,
+    "close": 19.7199993134,
+    "volume": 423400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,06,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.0699996948,
+    "high": 19.7800006866,
+    "low": 16.5300006866,
+    "close": 17.0100002289,
+    "volume": 437100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.9500007629,
+    "high": 18.0,
+    "low": 16.9099998474,
+    "close": 17.9799995422,
+    "volume": 147200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.8999996185,
+    "high": 18.8700008392,
+    "low": 17.4300003052,
+    "close": 18.4500007629,
+    "volume": 157800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.1900005341,
+    "high": 19.0,
+    "low": 17.5,
+    "close": 18.0,
+    "volume": 192600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.3400001526,
+    "low": 17.1100006104,
+    "close": 17.2800006866,
+    "volume": 238300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.3799991608,
+    "high": 18.2299995422,
+    "low": 17.25,
+    "close": 18.0,
+    "volume": 126200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0900001526,
+    "high": 18.7600002289,
+    "low": 17.2099990845,
+    "close": 17.5699996948,
+    "volume": 169100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.6200008392,
+    "high": 19.0400009155,
+    "low": 17.0499992371,
+    "close": 18.3400001526,
+    "volume": 139300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.4099998474,
+    "high": 19.0499992371,
+    "low": 17.8299999237,
+    "close": 17.9200000763,
+    "volume": 182000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.8299999237,
+    "high": 18.3500003815,
+    "low": 17.5,
+    "close": 18.1900005341,
+    "volume": 179400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.1499996185,
+    "high": 18.2000007629,
+    "low": 17.1399993896,
+    "close": 17.9500007629,
+    "volume": 124200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0699996948,
+    "high": 18.7700004578,
+    "low": 17.75,
+    "close": 18.2099990845,
+    "volume": 382000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.3899993896,
+    "high": 18.3899993896,
+    "low": 17.2099990845,
+    "close": 17.6900005341,
+    "volume": 119500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.8999996185,
+    "high": 18.8500003815,
+    "low": 17.4899997711,
+    "close": 17.5699996948,
+    "volume": 307100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 18.1599998474,
+    "low": 16.7999992371,
+    "close": 17.5,
+    "volume": 227200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.4099998474,
+    "high": 17.7999992371,
+    "low": 16.9200000763,
+    "close": 17.3600006104,
+    "volume": 175800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.3899993896,
+    "high": 18.2299995422,
+    "low": 16.6900005341,
+    "close": 16.9899997711,
+    "volume": 181900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.1599998474,
+    "high": 18.7600002289,
+    "low": 17.0200004578,
+    "close": 18.5599994659,
+    "volume": 3052000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.3199996948,
+    "high": 19.2099990845,
+    "low": 17.8799991608,
+    "close": 18.0,
+    "volume": 431800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,06,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.4799995422,
+    "low": 17.3700008392,
+    "close": 18.0,
+    "volume": 267200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 18.5200004578,
+    "low": 16.9699993134,
+    "close": 17.0799999237,
+    "volume": 181500.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.9200000763,
+    "low": 16.5,
+    "close": 17.0900001526,
+    "volume": 265900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0,
+    "high": 17.5799999237,
+    "low": 16.3600006104,
+    "close": 16.9599990845,
+    "volume": 204100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.8999996185,
+    "high": 17.3600006104,
+    "low": 16.5499992371,
+    "close": 17.0300006866,
+    "volume": 222800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.9699993134,
+    "high": 17.4899997711,
+    "low": 16.5,
+    "close": 16.8099994659,
+    "volume": 177200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.75,
+    "high": 17.3700008392,
+    "low": 16.5499992371,
+    "close": 16.7600002289,
+    "volume": 199000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.8400001526,
+    "high": 17.6200008392,
+    "low": 16.3400001526,
+    "close": 17.3400001526,
+    "volume": 302000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.3500003815,
+    "high": 17.3500003815,
+    "low": 15.6400003433,
+    "close": 15.6899995804,
+    "volume": 121200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.8999996185,
+    "high": 15.9399995804,
+    "low": 15.1999998093,
+    "close": 15.3100004196,
+    "volume": 77900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.9499998093,
+    "high": 16.1800003052,
+    "low": 14.7299995422,
+    "close": 15.6700000763,
+    "volume": 2189500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.2600002289,
+    "high": 16.9400005341,
+    "low": 15.0,
+    "close": 15.1099996567,
+    "volume": 857500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.8500003815,
+    "high": 15.1899995804,
+    "low": 14.470000267,
+    "close": 14.75,
+    "volume": 318200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.7700004578,
+    "high": 15.3599996567,
+    "low": 14.5200004578,
+    "close": 15.0500001907,
+    "volume": 218000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.3700008392,
+    "high": 17.5599994659,
+    "low": 15.6300001144,
+    "close": 16.6399993896,
+    "volume": 789700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.6599998474,
+    "high": 16.9099998474,
+    "low": 15.4399995804,
+    "close": 15.8299999237,
+    "volume": 347600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.5399999619,
+    "high": 17.4400005341,
+    "low": 15.5200004578,
+    "close": 17.0300006866,
+    "volume": 348000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.1499996185,
+    "high": 17.2000007629,
+    "low": 15.9600000381,
+    "close": 16.2999992371,
+    "volume": 272900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.8099994659,
+    "high": 17.7999992371,
+    "low": 16.4799995422,
+    "close": 16.9300003052,
+    "volume": 272100.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,07,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.0900001526,
+    "high": 17.0900001526,
+    "low": 16.1000003815,
+    "close": 16.4400005341,
+    "volume": 233800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.4699993134,
+    "high": 16.8999996185,
+    "low": 14.5100002289,
+    "close": 14.7700004578,
+    "volume": 526100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,07,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.6599998474,
+    "high": 15.4399995804,
+    "low": 14.3599996567,
+    "close": 15.0200004578,
+    "volume": 282800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,07,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.1400003433,
+    "high": 15.1400003433,
+    "low": 13.9899997711,
+    "close": 14.470000267,
+    "volume": 292400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.8199996948,
+    "high": 15.0900001526,
+    "low": 14.0,
+    "close": 14.8699998856,
+    "volume": 236400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.1300001144,
+    "high": 16.5,
+    "low": 14.8800001144,
+    "close": 16.3799991608,
+    "volume": 258800.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,08,05,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.4400005341,
+    "high": 16.9400005341,
+    "low": 15.5699996948,
+    "close": 15.7700004578,
+    "volume": 184300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,06,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 15.8199996948,
+    "high": 16.5100002289,
+    "low": 15.7299995422,
+    "close": 16.4300003052,
+    "volume": 151300.0,
+    "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,08,07,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.7199993134,
+    "high": 17.1299991608,
+    "low": 16.4699993134,
+    "close": 16.8400001526,
+    "volume": 150700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.8400001526,
+    "high": 17.6900005341,
+    "low": 16.7199993134,
+    "close": 17.3299999237,
+    "volume": 256300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.3799991608,
+    "high": 17.4200000763,
+    "low": 16.5900001526,
+    "close": 16.6900005341,
+    "volume": 96600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,12,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.6800003052,
+    "high": 16.9799995422,
+    "low": 16.1000003815,
+    "close": 16.4300003052,
+    "volume": 214700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,13,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.5300006866,
+    "high": 16.8500003815,
+    "low": 16.1399993896,
+    "close": 16.6299991608,
+    "volume": 120400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.6100006104,
+    "high": 17.3600006104,
+    "low": 16.0499992371,
+    "close": 17.1399993896,
+    "volume": 229900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.1399993896,
+    "high": 18.0599994659,
+    "low": 16.9599990845,
+    "close": 17.4799995422,
+    "volume": 126100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.3400001526,
+    "high": 17.7600002289,
+    "low": 16.3600006104,
+    "close": 16.6900005341,
+    "volume": 169600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,19,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.1399993896,
+    "high": 17.5,
+    "low": 16.5900001526,
+    "close": 17.3199996948,
+    "volume": 170200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,20,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.1299991608,
+    "high": 17.1299991608,
+    "low": 16.0599994659,
+    "close": 16.2299995422,
+    "volume": 124800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.3899993896,
+    "high": 17.1900005341,
+    "low": 16.0300006866,
+    "close": 17.1499996185,
+    "volume": 218400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.2099990845,
+    "high": 17.5100002289,
+    "low": 16.7900009155,
+    "close": 16.9699993134,
+    "volume": 131500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.1200008392,
+    "high": 17.6599998474,
+    "low": 16.8700008392,
+    "close": 17.0,
+    "volume": 129700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,26,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.9400005341,
+    "high": 18.4699993134,
+    "low": 16.9400005341,
+    "close": 18.0200004578,
+    "volume": 317600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,27,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.8899993896,
+    "high": 18.2600002289,
+    "low": 17.5,
+    "close": 17.7600002289,
+    "volume": 76700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.7800006866,
+    "high": 18.0,
+    "low": 17.0200004578,
+    "close": 17.75,
+    "volume": 149100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,08,31,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.6499996185,
+    "high": 17.6499996185,
+    "low": 16.1399993896,
+    "close": 16.6000003815,
+    "volume": 163000.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.4300003052,
+    "high": 18.1299991608,
+    "low": 16.2900009155,
+    "close": 17.9300003052,
+    "volume": 788100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.0,
+    "high": 19.0100002289,
+    "low": 17.9300003052,
+    "close": 18.5400009155,
+    "volume": 214900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.7299995422,
+    "high": 22.3299999237,
+    "low": 18.7299995422,
+    "close": 20.3999996185,
+    "volume": 773300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,04,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.0900001526,
+    "high": 21.5300006866,
+    "low": 20.0900001526,
+    "close": 20.8799991608,
+    "volume": 239700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,08,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.5799999237,
+    "high": 21.1900005341,
+    "low": 19.9099998474,
+    "close": 20.4599990845,
+    "volume": 646700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,09,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 20.2999992371,
+    "high": 20.9099998474,
+    "low": 19.9200000763,
+    "close": 19.9899997711,
+    "volume": 296000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,10,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.6499996185,
+    "high": 19.8999996185,
+    "low": 19.1599998474,
+    "close": 19.4599990845,
+    "volume": 233100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,11,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.8099994659,
+    "high": 20.3500003815,
+    "low": 19.1100006104,
+    "close": 19.4099998474,
+    "volume": 264400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,14,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.5,
+    "high": 20.3999996185,
+    "low": 19.3999996185,
+    "close": 19.6800003052,
+    "volume": 251200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,15,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 19.6000003815,
+    "high": 20.3099994659,
+    "low": 18.3999996185,
+    "close": 18.7999992371,
+    "volume": 358000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,16,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 18.8700008392,
+    "high": 19.2600002289,
+    "low": 17.0900001526,
+    "close": 17.1800003052,
+    "volume": 528900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,09,17,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 17.6000003815,
+    "high": 18.5699996948,
+    "low": 16.3199996948,
+    "close": 16.7700004578,
+    "volume": 665900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,18,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.6700000763,
+    "high": 17.8700008392,
+    "low": 16.1499996185,
+    "close": 16.8899993896,
+    "volume": 3123500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,21,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.9300003052,
+    "high": 17.0400009155,
+    "low": 15.7600002289,
+    "close": 16.25,
+    "volume": 375800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,22,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.4799995422,
+    "high": 16.6499996185,
+    "low": 16.0100002289,
+    "close": 16.4400005341,
+    "volume": 257600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 16.3700008392,
+    "high": 16.4699993134,
+    "low": 13.6999998093,
+    "close": 14.1899995804,
+    "volume": 727700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,24,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.0399999619,
+    "high": 14.4799995422,
+    "low": 13.4399995804,
+    "close": 14.2399997711,
+    "volume": 568800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,25,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.2899999619,
+    "high": 14.4600000381,
+    "low": 13.6599998474,
+    "close": 13.9899997711,
+    "volume": 228700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,28,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.9300003052,
+    "high": 14.7600002289,
+    "low": 13.5,
+    "close": 14.529999733,
+    "volume": 290900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,29,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.6599998474,
+    "high": 15.6199998856,
+    "low": 14.1599998474,
+    "close": 14.7600002289,
+    "volume": 684600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,09,30,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.8900003433,
+    "high": 15.0,
+    "low": 14.2299995422,
+    "close": 14.5900001526,
+    "volume": 289500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,01,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.6099996567,
+    "high": 14.7299995422,
+    "low": 14.1000003815,
+    "close": 14.2600002289,
+    "volume": 300900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 14.4799995422,
+    "high": 14.5500001907,
+    "low": 14.0699996948,
+    "close": 14.3199996948,
+    "volume": 283270.0,
+    "wedge_status": "none"
+  }
+]

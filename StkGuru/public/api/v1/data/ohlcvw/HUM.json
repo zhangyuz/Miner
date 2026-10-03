@@ -7508,5 +7508,15 @@
     "close": 379.6799926758,
     "volume": 874524.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,02,00,00,00,000000",
+    "ticker": "HUM",
+    "open": 378.5400085449,
+    "high": 390.0,
+    "low": 378.5,
+    "close": 388.3599853516,
+    "volume": 733523.0,
+    "wedge_status": "pop"
   }
 ]

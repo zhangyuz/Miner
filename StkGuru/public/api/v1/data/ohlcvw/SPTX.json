@@ -628,5 +628,15 @@
     "close": 18.4200000763,
     "volume": 258698.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "SPTX",
+    "open": 18.4200000763,
+    "high": 18.8999996185,
+    "low": 17.5200004578,
+    "close": 18.5,
+    "volume": 172422.0,
+    "wedge_status": "none"
   }
 ]

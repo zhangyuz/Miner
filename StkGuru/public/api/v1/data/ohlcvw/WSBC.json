@@ -7478,5 +7478,15 @@
     "close": 38.1100006104,
     "volume": 1030829.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "WSBC",
+    "open": 38.0499992371,
+    "high": 38.0649986267,
+    "low": 37.5900001526,
+    "close": 37.75,
+    "volume": 1071101.0,
+    "wedge_status": "none"
   }
 ]

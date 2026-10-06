@@ -7488,5 +7488,15 @@
     "close": 8.4399995804,
     "volume": 7077748.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "FMC",
+    "open": 8.6000003815,
+    "high": 9.1700000763,
+    "low": 8.4200000763,
+    "close": 9.0,
+    "volume": 6292419.0,
+    "wedge_status": "none"
   }
 ]

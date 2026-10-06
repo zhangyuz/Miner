@@ -7488,5 +7488,15 @@
     "close": 13.0500001907,
     "volume": 10245828.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "STWD",
+    "open": 13.0399999619,
+    "high": 13.125,
+    "low": 12.9039001465,
+    "close": 12.9799995422,
+    "volume": 7951902.0,
+    "wedge_status": "none"
   }
 ]

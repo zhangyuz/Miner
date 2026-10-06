@@ -7478,5 +7478,15 @@
     "close": 49.7799987793,
     "volume": 2984208.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "GTLB",
+    "open": 49.8499984741,
+    "high": 51.7599983215,
+    "low": 49.6899986267,
+    "close": 51.5,
+    "volume": 3202485.0,
+    "wedge_status": "none"
   }
 ]

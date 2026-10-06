@@ -7478,5 +7478,15 @@
     "close": 67.3000030518,
     "volume": 582169.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "EXPO",
+    "open": 66.9199981689,
+    "high": 69.0400009155,
+    "low": 66.9199981689,
+    "close": 68.75,
+    "volume": 547299.0,
+    "wedge_status": "none"
   }
 ]

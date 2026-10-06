@@ -7488,5 +7488,15 @@
     "close": 363.0700073242,
     "volume": 238517.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "WTS",
+    "open": 363.0,
+    "high": 368.8999938965,
+    "low": 360.1400146484,
+    "close": 362.75,
+    "volume": 215094.0,
+    "wedge_status": "none"
   }
 ]

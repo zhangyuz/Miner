@@ -7488,5 +7488,15 @@
     "close": 2.4400000572,
     "volume": 1515802.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "NXDR",
+    "open": 2.4400000572,
+    "high": 2.5,
+    "low": 2.4200000763,
+    "close": 2.4700000286,
+    "volume": 1526626.0,
+    "wedge_status": "none"
   }
 ]

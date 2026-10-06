@@ -7488,5 +7488,15 @@
     "close": 9.5,
     "volume": 37219774.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "PSKY",
+    "open": 9.2600002289,
+    "high": 9.8699998856,
+    "low": 9.1599998474,
+    "close": 9.7749996185,
+    "volume": 30023251.0,
+    "wedge_status": "none"
   }
 ]

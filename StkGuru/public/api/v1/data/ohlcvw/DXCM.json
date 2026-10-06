@@ -7488,5 +7488,15 @@
     "close": 85.3600006104,
     "volume": 2124074.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "DXCM",
+    "open": 84.75,
+    "high": 87.1200027466,
+    "low": 84.75,
+    "close": 86.9000015259,
+    "volume": 2773759.0,
+    "wedge_status": "none"
   }
 ]

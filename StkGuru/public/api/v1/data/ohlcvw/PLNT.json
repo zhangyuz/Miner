@@ -7488,5 +7488,15 @@
     "close": 42.4099998474,
     "volume": 1713572.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "PLNT",
+    "open": 42.0999984741,
+    "high": 42.5,
+    "low": 40.9350013733,
+    "close": 42.0699996948,
+    "volume": 2210097.0,
+    "wedge_status": "none"
   }
 ]

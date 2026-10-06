@@ -7488,5 +7488,15 @@
     "close": 16.4300003052,
     "volume": 68627.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "GNE",
+    "open": 16.3500003815,
+    "high": 16.5,
+    "low": 16.1000003815,
+    "close": 16.1100006104,
+    "volume": 124570.0,
+    "wedge_status": "none"
   }
 ]

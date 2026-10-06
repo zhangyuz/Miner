@@ -7478,5 +7478,15 @@
     "close": 37.0999984741,
     "volume": 576769.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "CEVA",
+    "open": 36.75,
+    "high": 37.2099990845,
+    "low": 36.3149986267,
+    "close": 36.6599998474,
+    "volume": 546533.0,
+    "wedge_status": "none"
   }
 ]

@@ -7478,5 +7478,15 @@
     "close": 69.6900024414,
     "volume": 5252668.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "ZTS",
+    "open": 69.4100036621,
+    "high": 71.4649963379,
+    "low": 69.0,
+    "close": 71.4100036621,
+    "volume": 3642514.0,
+    "wedge_status": "none"
   }
 ]

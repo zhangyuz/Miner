@@ -7478,5 +7478,15 @@
     "close": 33.6199989319,
     "volume": 962188.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "IMVT",
+    "open": 33.9900016785,
+    "high": 33.9900016785,
+    "low": 32.9799995422,
+    "close": 33.25,
+    "volume": 1103233.0,
+    "wedge_status": "none"
   }
 ]

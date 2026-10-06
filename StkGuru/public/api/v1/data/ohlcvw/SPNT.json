@@ -7488,5 +7488,15 @@
     "close": 24.4200000763,
     "volume": 690052.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "SPNT",
+    "open": 24.3999996185,
+    "high": 24.7600002289,
+    "low": 24.25,
+    "close": 24.5,
+    "volume": 845943.0,
+    "wedge_status": "none"
   }
 ]

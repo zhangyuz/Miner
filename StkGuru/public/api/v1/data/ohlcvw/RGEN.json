@@ -7478,5 +7478,15 @@
     "close": 181.6999969482,
     "volume": 1460369.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "RGEN",
+    "open": 178.75,
+    "high": 191.1999969482,
+    "low": 178.75,
+    "close": 189.5,
+    "volume": 1613598.0,
+    "wedge_status": "none"
   }
 ]

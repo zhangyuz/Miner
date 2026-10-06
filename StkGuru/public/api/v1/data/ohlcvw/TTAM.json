@@ -3708,5 +3708,15 @@
     "close": 13.3699998856,
     "volume": 237398.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "TTAM",
+    "open": 13.3000001907,
+    "high": 13.5649995804,
+    "low": 13.1499996185,
+    "close": 13.5,
+    "volume": 199539.0,
+    "wedge_status": "none"
   }
 ]

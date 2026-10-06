@@ -7218,5 +7218,15 @@
     "close": 0.4999000132,
     "volume": 2689298.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "NMRA",
+    "open": 0.5,
+    "high": 0.5335999727,
+    "low": 0.4717000127,
+    "close": 0.5253000259,
+    "volume": 2989308.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 341.0400085449,
     "volume": 3301495.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "SNOW",
+    "open": 342.0,
+    "high": 343.0,
+    "low": 337.8699951172,
+    "close": 338.9899902344,
+    "volume": 3265500.0,
+    "wedge_status": "none"
   }
 ]

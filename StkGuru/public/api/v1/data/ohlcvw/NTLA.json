@@ -7478,5 +7478,15 @@
     "close": 12.2600002289,
     "volume": 4504275.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "NTLA",
+    "open": 12.3100004196,
+    "high": 12.8800001144,
+    "low": 11.8549995422,
+    "close": 12.75,
+    "volume": 4955785.0,
+    "wedge_status": "none"
   }
 ]

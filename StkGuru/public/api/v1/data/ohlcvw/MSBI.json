@@ -7478,5 +7478,15 @@
     "close": 33.1399993896,
     "volume": 113415.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "MSBI",
+    "open": 33.0200004578,
+    "high": 33.1500015259,
+    "low": 32.7000999451,
+    "close": 33.0,
+    "volume": 113018.0,
+    "wedge_status": "none"
   }
 ]

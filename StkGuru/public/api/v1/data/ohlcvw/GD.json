@@ -7488,5 +7488,15 @@
     "close": 330.0899963379,
     "volume": 1412532.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,05,00,00,00,000000",
+    "ticker": "GD",
+    "open": 330.0,
+    "high": 333.0,
+    "low": 327.4700012207,
+    "close": 331.7200012207,
+    "volume": 1254941.0,
+    "wedge_status": "none"
   }
 ]

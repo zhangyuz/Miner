@@ -7488,5 +7488,15 @@
     "close": 81.5999984741,
     "volume": 1260160.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "URBN",
+    "open": 81.5199966431,
+    "high": 81.6100006104,
+    "low": 79.5800018311,
+    "close": 80.25,
+    "volume": 1684627.0,
+    "wedge_status": "none"
   }
 ]

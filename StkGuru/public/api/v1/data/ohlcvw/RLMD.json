@@ -7498,5 +7498,15 @@
     "close": 3.4800000191,
     "volume": 1282443.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "RLMD",
+    "open": 3.5,
+    "high": 3.5,
+    "low": 3.2650001049,
+    "close": 3.2799999714,
+    "volume": 1725517.0,
+    "wedge_status": "none"
   }
 ]

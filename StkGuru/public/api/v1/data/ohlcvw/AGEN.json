@@ -7498,5 +7498,15 @@
     "close": 8.7299995422,
     "volume": 956057.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "AGEN",
+    "open": 8.4899997711,
+    "high": 8.4899997711,
+    "low": 7.4699997902,
+    "close": 7.4899997711,
+    "volume": 1520736.0,
+    "wedge_status": "drop"
   }
 ]

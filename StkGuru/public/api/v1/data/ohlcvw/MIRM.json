@@ -7488,5 +7488,15 @@
     "close": 81.4300003052,
     "volume": 975239.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "MIRM",
+    "open": 81.9400024414,
+    "high": 81.9400024414,
+    "low": 77.7799987793,
+    "close": 79.25,
+    "volume": 1144653.0,
+    "wedge_status": "none"
   }
 ]

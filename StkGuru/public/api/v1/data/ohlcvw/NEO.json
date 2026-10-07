@@ -7488,5 +7488,15 @@
     "close": 19.1299991608,
     "volume": 2044867.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "NEO",
+    "open": 20.0,
+    "high": 20.1499996185,
+    "low": 16.4699993134,
+    "close": 16.5049991608,
+    "volume": 5090455.0,
+    "wedge_status": "drop"
   }
 ]

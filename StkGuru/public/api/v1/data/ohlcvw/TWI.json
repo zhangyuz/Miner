@@ -7498,5 +7498,15 @@
     "close": 6.9800000191,
     "volume": 347316.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "TWI",
+    "open": 7.0399999619,
+    "high": 7.1550002098,
+    "low": 7.0,
+    "close": 7.0300002098,
+    "volume": 527510.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 75.0299987793,
     "volume": 306947.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "CUBI",
+    "open": 75.5100021362,
+    "high": 75.75,
+    "low": 74.6299972534,
+    "close": 75.0,
+    "volume": 171231.0,
+    "wedge_status": "none"
   }
 ]

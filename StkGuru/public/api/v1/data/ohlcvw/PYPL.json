@@ -7498,5 +7498,15 @@
     "close": 54.4099998474,
     "volume": 8061509.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "PYPL",
+    "open": 54.2949981689,
+    "high": 54.875,
+    "low": 54.0,
+    "close": 54.6100006104,
+    "volume": 6301548.0,
+    "wedge_status": "none"
   }
 ]

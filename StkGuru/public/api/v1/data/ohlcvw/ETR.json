@@ -7498,5 +7498,15 @@
     "close": 100.8199996948,
     "volume": 2127191.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "ETR",
+    "open": 101.3600006104,
+    "high": 103.3000030518,
+    "low": 101.0,
+    "close": 103.25,
+    "volume": 2923860.0,
+    "wedge_status": "none"
   }
 ]

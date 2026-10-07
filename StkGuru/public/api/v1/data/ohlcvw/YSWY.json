@@ -708,5 +708,15 @@
     "close": 20.0599994659,
     "volume": 295150.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "YSWY",
+    "open": 20.1299991608,
+    "high": 20.4599990845,
+    "low": 19.8799991608,
+    "close": 20.25,
+    "volume": 347822.0,
+    "wedge_status": "none"
   }
 ]

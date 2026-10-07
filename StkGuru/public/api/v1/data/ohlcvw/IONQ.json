@@ -7498,5 +7498,15 @@
     "close": 42.9700012207,
     "volume": 16313705.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "IONQ",
+    "open": 43.5600013733,
+    "high": 45.391998291,
+    "low": 43.0,
+    "close": 43.2900009155,
+    "volume": 16175090.0,
+    "wedge_status": "none"
   }
 ]

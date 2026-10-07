@@ -7498,5 +7498,15 @@
     "close": 1.5800000429,
     "volume": 981820.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "PROK",
+    "open": 1.5800000429,
+    "high": 1.6100000143,
+    "low": 1.5549999475,
+    "close": 1.6000000238,
+    "volume": 764941.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 13.5200004578,
     "volume": 356765.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "BVS",
+    "open": 13.5,
+    "high": 13.6190004349,
+    "low": 13.0699996948,
+    "close": 13.1000003815,
+    "volume": 293137.0,
+    "wedge_status": "drop"
   }
 ]

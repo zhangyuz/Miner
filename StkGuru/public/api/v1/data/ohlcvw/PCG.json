@@ -7498,5 +7498,15 @@
     "close": 12.3500003815,
     "volume": 30600815.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "PCG",
+    "open": 12.3900003433,
+    "high": 12.5,
+    "low": 12.2800998688,
+    "close": 12.5,
+    "volume": 25077053.0,
+    "wedge_status": "none"
   }
 ]

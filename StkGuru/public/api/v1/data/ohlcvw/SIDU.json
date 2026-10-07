@@ -7498,5 +7498,15 @@
     "close": 1.75,
     "volume": 4454018.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "SIDU",
+    "open": 1.7599999905,
+    "high": 1.8199000359,
+    "low": 1.7400000095,
+    "close": 1.7400000095,
+    "volume": 4333476.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 9.0600004196,
     "volume": 261226.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,06,00,00,00,000000",
+    "ticker": "LCUT",
+    "open": 9.0699996948,
+    "high": 9.3299999237,
+    "low": 8.8599996567,
+    "close": 9.1599998474,
+    "volume": 152069.0,
+    "wedge_status": "none"
   }
 ]

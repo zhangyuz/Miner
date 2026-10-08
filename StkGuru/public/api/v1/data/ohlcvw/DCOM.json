@@ -7508,5 +7508,15 @@
     "close": 39.4700012207,
     "volume": 243318.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "DCOM",
+    "open": 39.0,
+    "high": 39.0099983215,
+    "low": 38.2350006104,
+    "close": 38.5699996948,
+    "volume": 553517.0,
+    "wedge_status": "none"
   }
 ]

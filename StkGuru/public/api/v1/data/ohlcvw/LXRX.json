@@ -7508,5 +7508,15 @@
     "close": 1.75,
     "volume": 1628852.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "LXRX",
+    "open": 1.7300000191,
+    "high": 1.7699999809,
+    "low": 1.7137000561,
+    "close": 1.7599999905,
+    "volume": 1100096.0,
+    "wedge_status": "none"
   }
 ]

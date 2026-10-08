@@ -7508,5 +7508,15 @@
     "close": 122.0,
     "volume": 466974.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "LEA",
+    "open": 120.5,
+    "high": 120.8300018311,
+    "low": 118.3199996948,
+    "close": 119.6299972534,
+    "volume": 421806.0,
+    "wedge_status": "none"
   }
 ]

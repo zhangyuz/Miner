@@ -7498,5 +7498,15 @@
     "close": 170.6900024414,
     "volume": 3371428.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "GH",
+    "open": 166.5,
+    "high": 171.5500030518,
+    "low": 165.0,
+    "close": 168.3300018311,
+    "volume": 2191389.0,
+    "wedge_status": "none"
   }
 ]

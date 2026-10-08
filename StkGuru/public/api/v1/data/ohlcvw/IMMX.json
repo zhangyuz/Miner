@@ -7508,5 +7508,15 @@
     "close": 9.6400003433,
     "volume": 1211672.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "IMMX",
+    "open": 9.5,
+    "high": 9.6899995804,
+    "low": 9.3999996185,
+    "close": 9.4899997711,
+    "volume": 1382066.0,
+    "wedge_status": "none"
   }
 ]

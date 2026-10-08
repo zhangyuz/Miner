@@ -7508,5 +7508,15 @@
     "close": 43.25,
     "volume": 7061049.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "MNST",
+    "open": 43.1800003052,
+    "high": 43.4599990845,
+    "low": 42.5550003052,
+    "close": 42.8800010681,
+    "volume": 7695491.0,
+    "wedge_status": "none"
   }
 ]

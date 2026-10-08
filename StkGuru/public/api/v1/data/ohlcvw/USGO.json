@@ -7498,5 +7498,15 @@
     "close": 6.5700001717,
     "volume": 68354.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "USGO",
+    "open": 6.4299998283,
+    "high": 6.4878997803,
+    "low": 6.2199997902,
+    "close": 6.25,
+    "volume": 93758.0,
+    "wedge_status": "none"
   }
 ]

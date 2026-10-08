@@ -648,5 +648,15 @@
     "close": 28.3700008392,
     "volume": 435870.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "COAG",
+    "open": 28.25,
+    "high": 28.9799995422,
+    "low": 27.3799991608,
+    "close": 28.7000007629,
+    "volume": 377184.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 19.0100002289,
     "volume": 10862.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "WHG",
+    "open": 18.7600002289,
+    "high": 19.25,
+    "low": 18.7099990845,
+    "close": 19.25,
+    "volume": 7609.0,
+    "wedge_status": "none"
   }
 ]

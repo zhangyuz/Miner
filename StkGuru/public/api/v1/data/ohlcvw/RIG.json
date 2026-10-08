@@ -7508,5 +7508,15 @@
     "close": 5.4000000954,
     "volume": 26914267.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "RIG",
+    "open": 5.4200000763,
+    "high": 5.5,
+    "low": 5.3200001717,
+    "close": 5.3899998665,
+    "volume": 19180005.0,
+    "wedge_status": "none"
   }
 ]

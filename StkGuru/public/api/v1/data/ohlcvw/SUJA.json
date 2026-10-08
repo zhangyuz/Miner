@@ -608,5 +608,15 @@
     "close": 10.25,
     "volume": 234359.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "SUJA",
+    "open": 10.220000267,
+    "high": 10.4300003052,
+    "low": 10.1000003815,
+    "close": 10.3400001526,
+    "volume": 190895.0,
+    "wedge_status": "none"
   }
 ]

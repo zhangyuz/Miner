@@ -7508,5 +7508,15 @@
     "close": 67.0,
     "volume": 337161.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "GRBK",
+    "open": 66.0699996948,
+    "high": 66.3550033569,
+    "low": 64.1399993896,
+    "close": 64.5199966431,
+    "volume": 395564.0,
+    "wedge_status": "drop"
   }
 ]

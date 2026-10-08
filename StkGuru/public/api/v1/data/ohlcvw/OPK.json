@@ -7498,5 +7498,15 @@
     "close": 1.4600000381,
     "volume": 2433623.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "OPK",
+    "open": 1.4199999571,
+    "high": 1.4299999475,
+    "low": 1.375,
+    "close": 1.3899999857,
+    "volume": 2223181.0,
+    "wedge_status": "none"
   }
 ]

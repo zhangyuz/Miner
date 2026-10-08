@@ -7498,5 +7498,15 @@
     "close": 3.5,
     "volume": 12004957.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "PRME",
+    "open": 3.3199999332,
+    "high": 4.0199999809,
+    "low": 3.3001000881,
+    "close": 3.9000000954,
+    "volume": 11157836.0,
+    "wedge_status": "none"
   }
 ]

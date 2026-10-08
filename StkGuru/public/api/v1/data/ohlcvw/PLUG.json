@@ -7498,5 +7498,15 @@
     "close": 1.8600000143,
     "volume": 44204989.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "PLUG",
+    "open": 1.8105000257,
+    "high": 1.8200000525,
+    "low": 1.75,
+    "close": 1.7799999714,
+    "volume": 47846349.0,
+    "wedge_status": "none"
   }
 ]

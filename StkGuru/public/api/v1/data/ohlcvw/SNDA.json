@@ -7508,5 +7508,15 @@
     "close": 37.1199989319,
     "volume": 367921.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "SNDA",
+    "open": 37.1899986267,
+    "high": 37.5,
+    "low": 36.1800003052,
+    "close": 36.2099990845,
+    "volume": 690029.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 54.5,
     "volume": 1598891.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "EQH",
+    "open": 53.8800010681,
+    "high": 53.9399986267,
+    "low": 52.9399986267,
+    "close": 53.2299995422,
+    "volume": 2119011.0,
+    "wedge_status": "none"
   }
 ]

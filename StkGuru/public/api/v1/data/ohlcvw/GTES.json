@@ -7508,5 +7508,15 @@
     "close": 28.25,
     "volume": 1491011.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "GTES",
+    "open": 27.5799999237,
+    "high": 28.2900009155,
+    "low": 27.0400009155,
+    "close": 27.4099998474,
+    "volume": 2627727.0,
+    "wedge_status": "none"
   }
 ]

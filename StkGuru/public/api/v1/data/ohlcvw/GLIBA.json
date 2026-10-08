@@ -2668,5 +2668,15 @@
     "close": 23.6499996185,
     "volume": 25362.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "GLIBA",
+    "open": 23.5100002289,
+    "high": 23.6700000763,
+    "low": 22.9850006104,
+    "close": 23.5400009155,
+    "volume": 32421.0,
+    "wedge_status": "none"
   }
 ]

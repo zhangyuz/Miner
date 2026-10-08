@@ -7508,5 +7508,15 @@
     "close": 84.9700012207,
     "volume": 1756120.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "PRIM",
+    "open": 83.25,
+    "high": 83.2600021362,
+    "low": 79.7600021362,
+    "close": 82.1600036621,
+    "volume": 1204971.0,
+    "wedge_status": "none"
   }
 ]

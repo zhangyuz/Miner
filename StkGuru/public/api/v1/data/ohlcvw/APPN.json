@@ -7498,5 +7498,15 @@
     "close": 37.25,
     "volume": 778451.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "APPN",
+    "open": 37.1199989319,
+    "high": 38.2299995422,
+    "low": 36.7000007629,
+    "close": 37.7599983215,
+    "volume": 1481259.0,
+    "wedge_status": "none"
   }
 ]

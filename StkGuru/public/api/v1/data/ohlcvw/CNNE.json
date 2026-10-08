@@ -7508,5 +7508,15 @@
     "close": 15.5,
     "volume": 345087.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "CNNE",
+    "open": 15.3299999237,
+    "high": 15.609000206,
+    "low": 15.3549995422,
+    "close": 15.5399999619,
+    "volume": 275301.0,
+    "wedge_status": "none"
   }
 ]

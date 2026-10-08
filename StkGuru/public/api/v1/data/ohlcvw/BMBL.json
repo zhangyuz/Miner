@@ -7498,5 +7498,15 @@
     "close": 2.5099999905,
     "volume": 1452107.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "BMBL",
+    "open": 2.4900000095,
+    "high": 2.5199999809,
+    "low": 2.4400000572,
+    "close": 2.5,
+    "volume": 2155095.0,
+    "wedge_status": "none"
   }
 ]

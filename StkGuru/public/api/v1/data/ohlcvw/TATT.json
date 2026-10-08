@@ -7508,5 +7508,15 @@
     "close": 33.4900016785,
     "volume": 108391.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,07,00,00,00,000000",
+    "ticker": "TATT",
+    "open": 32.9900016785,
+    "high": 33.2750015259,
+    "low": 31.7000007629,
+    "close": 32.5,
+    "volume": 175426.0,
+    "wedge_status": "none"
   }
 ]

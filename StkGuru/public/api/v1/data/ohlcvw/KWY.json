@@ -7508,5 +7508,15 @@
     "close": 9.4399995804,
     "volume": 41807.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "KWY",
+    "open": 9.3999996185,
+    "high": 9.529999733,
+    "low": 9.375,
+    "close": 9.4899997711,
+    "volume": 41877.0,
+    "wedge_status": "pop"
   }
 ]

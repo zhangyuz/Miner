@@ -7508,5 +7508,15 @@
     "close": 1.0099999905,
     "volume": 5027477.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "SLNH",
+    "open": 1.0,
+    "high": 1.0099999905,
+    "low": 0.9294999838,
+    "close": 0.9494000077,
+    "volume": 12472121.0,
+    "wedge_status": "none"
   }
 ]

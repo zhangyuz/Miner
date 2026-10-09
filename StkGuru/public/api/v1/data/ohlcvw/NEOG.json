@@ -7498,5 +7498,15 @@
     "close": 11.6800003052,
     "volume": 12959044.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "NEOG",
+    "open": 11.5,
+    "high": 12.2100000381,
+    "low": 11.1337003708,
+    "close": 11.7100000381,
+    "volume": 8669178.0,
+    "wedge_status": "none"
   }
 ]

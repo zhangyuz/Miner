@@ -7508,5 +7508,15 @@
     "close": 6.4299998283,
     "volume": 949065.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "STLN",
+    "open": 6.3899998665,
+    "high": 6.4099998474,
+    "low": 6.125,
+    "close": 6.1799998283,
+    "volume": 1250391.0,
+    "wedge_status": "none"
   }
 ]

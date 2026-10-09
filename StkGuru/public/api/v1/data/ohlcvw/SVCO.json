@@ -5598,5 +5598,15 @@
     "close": 8.3999996185,
     "volume": 160819.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "SVCO",
+    "open": 8.3000001907,
+    "high": 8.3000001907,
+    "low": 7.9000000954,
+    "close": 7.9899997711,
+    "volume": 449768.0,
+    "wedge_status": "drop"
   }
 ]

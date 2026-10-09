@@ -7508,5 +7508,15 @@
     "close": 41.2799987793,
     "volume": 2138184.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "AMCR",
+    "open": 41.0,
+    "high": 41.8800010681,
+    "low": 40.7849998474,
+    "close": 41.875,
+    "volume": 3944342.0,
+    "wedge_status": "none"
   }
 ]

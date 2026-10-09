@@ -7498,5 +7498,15 @@
     "close": 140.3500061035,
     "volume": 2330739.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "YUM",
+    "open": 140.3999938965,
+    "high": 144.0800018311,
+    "low": 140.0,
+    "close": 143.0,
+    "volume": 2594254.0,
+    "wedge_status": "none"
   }
 ]

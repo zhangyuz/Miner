@@ -7508,5 +7508,15 @@
     "close": 8.5850000381,
     "volume": 185748.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "RFIL",
+    "open": 8.4099998474,
+    "high": 8.5900001526,
+    "low": 8.2299995422,
+    "close": 8.3800001144,
+    "volume": 171363.0,
+    "wedge_status": "none"
   }
 ]

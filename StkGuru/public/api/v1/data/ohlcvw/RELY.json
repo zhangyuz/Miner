@@ -7498,5 +7498,15 @@
     "close": 22.9300003052,
     "volume": 2599081.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "RELY",
+    "open": 22.75,
+    "high": 23.5599994659,
+    "low": 22.7199993134,
+    "close": 23.5200004578,
+    "volume": 3501150.0,
+    "wedge_status": "none"
   }
 ]

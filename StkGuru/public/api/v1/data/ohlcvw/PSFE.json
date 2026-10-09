@@ -7508,5 +7508,15 @@
     "close": 5.7100000381,
     "volume": 313043.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "PSFE",
+    "open": 5.6300001144,
+    "high": 5.75,
+    "low": 5.5500001907,
+    "close": 5.7399997711,
+    "volume": 227833.0,
+    "wedge_status": "none"
   }
 ]

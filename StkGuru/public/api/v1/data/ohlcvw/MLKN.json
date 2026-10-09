@@ -7498,5 +7498,15 @@
     "close": 20.6499996185,
     "volume": 473385.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "MLKN",
+    "open": 20.5,
+    "high": 21.0,
+    "low": 20.3600006104,
+    "close": 20.7700004578,
+    "volume": 589511.0,
+    "wedge_status": "pop"
   }
 ]

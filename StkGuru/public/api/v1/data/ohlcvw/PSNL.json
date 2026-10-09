@@ -7498,5 +7498,15 @@
     "close": 16.0,
     "volume": 3817853.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "PSNL",
+    "open": 15.9200000763,
+    "high": 16.1900005341,
+    "low": 15.9200000763,
+    "close": 16.0599994659,
+    "volume": 1467483.0,
+    "wedge_status": "none"
   }
 ]

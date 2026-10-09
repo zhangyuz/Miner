@@ -2928,5 +2928,15 @@
     "close": 24.6599998474,
     "volume": 35607622.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "BMNR",
+    "open": 24.1200008392,
+    "high": 24.4500007629,
+    "low": 23.25,
+    "close": 24.0400009155,
+    "volume": 34007324.0,
+    "wedge_status": "none"
   }
 ]

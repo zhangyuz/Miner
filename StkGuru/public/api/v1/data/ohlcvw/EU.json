@@ -7498,5 +7498,15 @@
     "close": 1.0800000429,
     "volume": 2247602.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "EU",
+    "open": 1.0700000525,
+    "high": 1.0700000525,
+    "low": 1.0,
+    "close": 1.0099999905,
+    "volume": 3539819.0,
+    "wedge_status": "none"
   }
 ]

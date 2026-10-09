@@ -7508,5 +7508,15 @@
     "close": 5.5599999428,
     "volume": 3622440.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "TDOC",
+    "open": 5.5,
+    "high": 5.5450000763,
+    "low": 5.4200000763,
+    "close": 5.5399999619,
+    "volume": 4668477.0,
+    "wedge_status": "none"
   }
 ]

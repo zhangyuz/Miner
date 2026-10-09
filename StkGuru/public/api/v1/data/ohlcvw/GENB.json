@@ -1098,5 +1098,15 @@
     "close": 13.5699996948,
     "volume": 926223.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "GENB",
+    "open": 13.5,
+    "high": 14.1300001144,
+    "low": 13.0799999237,
+    "close": 13.9899997711,
+    "volume": 1155649.0,
+    "wedge_status": "none"
   }
 ]

@@ -2598,5 +2598,15 @@
     "close": 19.75,
     "volume": 1657546.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "ARX",
+    "open": 19.7700004578,
+    "high": 19.7800006866,
+    "low": 19.7399997711,
+    "close": 19.75,
+    "volume": 1241946.0,
+    "wedge_status": "none"
   }
 ]

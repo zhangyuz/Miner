@@ -7508,5 +7508,15 @@
     "close": 30.0,
     "volume": 5394664.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "MGM",
+    "open": 29.7999992371,
+    "high": 30.4200000763,
+    "low": 29.6019992828,
+    "close": 30.0100002289,
+    "volume": 5095738.0,
+    "wedge_status": "none"
   }
 ]

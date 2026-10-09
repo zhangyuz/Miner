@@ -7498,5 +7498,15 @@
     "close": 282.4400024414,
     "volume": 891813.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "WAB",
+    "open": 280.0,
+    "high": 281.8649902344,
+    "low": 275.125,
+    "close": 280.799987793,
+    "volume": 742025.0,
+    "wedge_status": "none"
   }
 ]

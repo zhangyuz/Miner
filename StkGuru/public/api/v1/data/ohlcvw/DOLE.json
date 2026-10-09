@@ -7508,5 +7508,15 @@
     "close": 12.8000001907,
     "volume": 1458935.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "DOLE",
+    "open": 12.7700004578,
+    "high": 13.0600004196,
+    "low": 12.75,
+    "close": 13.0200004578,
+    "volume": 848935.0,
+    "wedge_status": "none"
   }
 ]

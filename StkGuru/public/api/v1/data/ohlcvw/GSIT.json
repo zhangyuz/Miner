@@ -7508,5 +7508,15 @@
     "close": 5.3850002289,
     "volume": 267872.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "GSIT",
+    "open": 5.3020000458,
+    "high": 5.3200001717,
+    "low": 4.9000000954,
+    "close": 4.9250001907,
+    "volume": 769538.0,
+    "wedge_status": "none"
   }
 ]

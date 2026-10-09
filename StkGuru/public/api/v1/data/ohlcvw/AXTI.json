@@ -7508,5 +7508,15 @@
     "close": 79.7900009155,
     "volume": 6295077.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "AXTI",
+    "open": 77.0,
+    "high": 77.25,
+    "low": 71.0199966431,
+    "close": 71.6600036621,
+    "volume": 10071213.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 12.1899995804,
     "volume": 1138336.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "ZGN",
+    "open": 12.0699996948,
+    "high": 12.5749998093,
+    "low": 12.0,
+    "close": 12.5200004578,
+    "volume": 1601785.0,
+    "wedge_status": "none"
   }
 ]

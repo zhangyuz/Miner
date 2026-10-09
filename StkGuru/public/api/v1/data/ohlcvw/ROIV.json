@@ -7498,5 +7498,15 @@
     "close": 34.75,
     "volume": 5738571.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "ROIV",
+    "open": 34.2750015259,
+    "high": 34.5600013733,
+    "low": 33.3199996948,
+    "close": 34.2099990845,
+    "volume": 6279442.0,
+    "wedge_status": "none"
   }
 ]

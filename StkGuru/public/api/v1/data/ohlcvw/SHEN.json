@@ -7498,5 +7498,15 @@
     "close": 11.8299999237,
     "volume": 550277.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "SHEN",
+    "open": 11.75,
+    "high": 11.8549995422,
+    "low": 11.1199998856,
+    "close": 11.5200004578,
+    "volume": 922863.0,
+    "wedge_status": "none"
   }
 ]

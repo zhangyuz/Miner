@@ -7508,5 +7508,15 @@
     "close": 10.5,
     "volume": 595884.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "PHR",
+    "open": 10.4899997711,
+    "high": 10.6700000763,
+    "low": 10.3701000214,
+    "close": 10.6599998474,
+    "volume": 695122.0,
+    "wedge_status": "none"
   }
 ]

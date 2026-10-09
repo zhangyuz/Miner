@@ -7508,5 +7508,15 @@
     "close": 14.5500001907,
     "volume": 1906568.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "PRGO",
+    "open": 14.4499998093,
+    "high": 14.5609998703,
+    "low": 14.1000003815,
+    "close": 14.5,
+    "volume": 2879337.0,
+    "wedge_status": "none"
   }
 ]

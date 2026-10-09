@@ -7498,5 +7498,15 @@
     "close": 633.25,
     "volume": 499629.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,08,00,00,00,000000",
+    "ticker": "CASY",
+    "open": 642.0,
+    "high": 647.7299804688,
+    "low": 637.3200073242,
+    "close": 642.2800292969,
+    "volume": 475492.0,
+    "wedge_status": "pop"
   }
 ]

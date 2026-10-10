@@ -7508,5 +7508,15 @@
     "close": 65.25,
     "volume": 161285.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "JOE",
+    "open": 65.3199996948,
+    "high": 66.2799987793,
+    "low": 64.8450012207,
+    "close": 64.8600006104,
+    "volume": 252015.0,
+    "wedge_status": "none"
   }
 ]

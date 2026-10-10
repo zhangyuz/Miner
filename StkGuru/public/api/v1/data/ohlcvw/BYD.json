@@ -7508,5 +7508,15 @@
     "close": 70.0,
     "volume": 1046837.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "BYD",
+    "open": 70.3000030518,
+    "high": 70.5093002319,
+    "low": 68.6500015259,
+    "close": 68.9300003052,
+    "volume": 1018841.0,
+    "wedge_status": "none"
   }
 ]

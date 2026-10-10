@@ -7508,5 +7508,15 @@
     "close": 4.8000001907,
     "volume": 1686761.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "GRNT",
+    "open": 4.75,
+    "high": 4.875,
+    "low": 4.7600002289,
+    "close": 4.7699999809,
+    "volume": 880435.0,
+    "wedge_status": "none"
   }
 ]

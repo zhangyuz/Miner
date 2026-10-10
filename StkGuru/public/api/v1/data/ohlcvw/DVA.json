@@ -7508,5 +7508,15 @@
     "close": 177.0200042725,
     "volume": 582171.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "DVA",
+    "open": 177.0,
+    "high": 179.9600067139,
+    "low": 177.0599975586,
+    "close": 179.25,
+    "volume": 369630.0,
+    "wedge_status": "none"
   }
 ]

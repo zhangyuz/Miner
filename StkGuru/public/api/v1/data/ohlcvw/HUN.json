@@ -7508,5 +7508,15 @@
     "close": 8.5,
     "volume": 3991276.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "HUN",
+    "open": 8.5200004578,
+    "high": 8.4899997711,
+    "low": 8.0850000381,
+    "close": 8.1400003433,
+    "volume": 2219554.0,
+    "wedge_status": "none"
   }
 ]

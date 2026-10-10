@@ -7508,5 +7508,15 @@
     "close": 18.25,
     "volume": 60340.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "FC",
+    "open": 18.1800003052,
+    "high": 18.5100002289,
+    "low": 18.0,
+    "close": 18.1499996185,
+    "volume": 68062.0,
+    "wedge_status": "none"
   }
 ]

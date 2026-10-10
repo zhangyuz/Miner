@@ -7508,5 +7508,15 @@
     "close": 92.6800003052,
     "volume": 4391229.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "LULU",
+    "open": 92.875,
+    "high": 94.625,
+    "low": 91.6750030518,
+    "close": 94.5,
+    "volume": 3074262.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 36.0,
     "volume": 1123231.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "AZTA",
+    "open": 35.9399986267,
+    "high": 38.3400001526,
+    "low": 35.8800010681,
+    "close": 37.7200012207,
+    "volume": 924548.0,
+    "wedge_status": "none"
   }
 ]

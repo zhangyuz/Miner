@@ -7508,5 +7508,15 @@
     "close": 25.3999996185,
     "volume": 588195.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "TRN",
+    "open": 25.5300006866,
+    "high": 25.75,
+    "low": 25.2199993134,
+    "close": 25.5200004578,
+    "volume": 476649.0,
+    "wedge_status": "none"
   }
 ]

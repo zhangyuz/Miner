@@ -768,5 +768,15 @@
     "close": 10.0,
     "volume": 1532179.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "KLRA",
+    "open": 10.1300001144,
+    "high": 11.8050003052,
+    "low": 9.9799995422,
+    "close": 11.6099996567,
+    "volume": 2181033.0,
+    "wedge_status": "none"
   }
 ]

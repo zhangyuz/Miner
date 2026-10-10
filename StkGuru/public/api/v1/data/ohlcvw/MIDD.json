@@ -7498,5 +7498,15 @@
     "close": 105.4000015259,
     "volume": 567022.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "MIDD",
+    "open": 105.4000015259,
+    "high": 106.5,
+    "low": 104.5299987793,
+    "close": 105.9499969482,
+    "volume": 417478.0,
+    "wedge_status": "none"
   }
 ]

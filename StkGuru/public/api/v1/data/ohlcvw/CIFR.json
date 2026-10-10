@@ -7498,5 +7498,15 @@
     "close": 13.5,
     "volume": 57152012.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "CIFR",
+    "open": 13.6000003815,
+    "high": 13.6800003052,
+    "low": 13.1199998856,
+    "close": 13.5200004578,
+    "volume": 18485662.0,
+    "wedge_status": "none"
   }
 ]

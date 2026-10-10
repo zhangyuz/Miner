@@ -7498,5 +7498,15 @@
     "close": 7.5500001907,
     "volume": 2391689.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "DHC",
+    "open": 7.6799998283,
+    "high": 7.6799998283,
+    "low": 7.4499998093,
+    "close": 7.5,
+    "volume": 1050969.0,
+    "wedge_status": "none"
   }
 ]

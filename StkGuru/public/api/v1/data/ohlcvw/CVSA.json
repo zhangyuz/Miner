@@ -7508,5 +7508,15 @@
     "close": 130.2899932861,
     "volume": 226618.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "CVSA",
+    "open": 130.5,
+    "high": 131.8200073242,
+    "low": 127.0000991821,
+    "close": 129.3800048828,
+    "volume": 195877.0,
+    "wedge_status": "none"
   }
 ]

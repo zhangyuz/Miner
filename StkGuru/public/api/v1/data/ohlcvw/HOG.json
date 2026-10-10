@@ -7508,5 +7508,15 @@
     "close": 26.75,
     "volume": 2966389.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "HOG",
+    "open": 26.75,
+    "high": 27.2700004578,
+    "low": 26.6599998474,
+    "close": 26.8999996185,
+    "volume": 1510779.0,
+    "wedge_status": "none"
   }
 ]

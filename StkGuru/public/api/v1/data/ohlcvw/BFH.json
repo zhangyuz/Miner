@@ -7508,5 +7508,15 @@
     "close": 100.7300033569,
     "volume": 569446.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "BFH",
+    "open": 100.25,
+    "high": 102.0800018311,
+    "low": 99.375,
+    "close": 100.5800018311,
+    "volume": 503387.0,
+    "wedge_status": "none"
   }
 ]

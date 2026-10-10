@@ -7498,5 +7498,15 @@
     "close": 32.4700012207,
     "volume": 189300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "HSTM",
+    "open": 32.5,
+    "high": 33.2099990845,
+    "low": 32.3310012817,
+    "close": 33.1300010681,
+    "volume": 217974.0,
+    "wedge_status": "none"
   }
 ]

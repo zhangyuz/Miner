@@ -7508,5 +7508,15 @@
     "close": 8.4799995422,
     "volume": 29806.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "FGBI",
+    "open": 8.3400001526,
+    "high": 8.404999733,
+    "low": 8.25,
+    "close": 8.3400001526,
+    "volume": 11741.0,
+    "wedge_status": "none"
   }
 ]

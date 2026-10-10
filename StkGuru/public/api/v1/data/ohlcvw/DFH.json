@@ -7508,5 +7508,15 @@
     "close": 9.6000003815,
     "volume": 1416012.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "DFH",
+    "open": 9.5100002289,
+    "high": 9.5,
+    "low": 9.2700004578,
+    "close": 9.3800001144,
+    "volume": 519211.0,
+    "wedge_status": "none"
   }
 ]

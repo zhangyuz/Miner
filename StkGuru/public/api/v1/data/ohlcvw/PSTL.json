@@ -7508,5 +7508,15 @@
     "close": 22.4099998474,
     "volume": 143640.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "PSTL",
+    "open": 22.5,
+    "high": 22.8299999237,
+    "low": 22.3500003815,
+    "close": 22.7600002289,
+    "volume": 128846.0,
+    "wedge_status": "none"
   }
 ]

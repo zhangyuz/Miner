@@ -408,5 +408,15 @@
     "close": 26.3799991608,
     "volume": 222797.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "WHK",
+    "open": 26.7900009155,
+    "high": 26.8099994659,
+    "low": 26.1100006104,
+    "close": 26.25,
+    "volume": 192303.0,
+    "wedge_status": "none"
   }
 ]

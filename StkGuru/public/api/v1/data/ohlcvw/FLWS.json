@@ -7498,5 +7498,15 @@
     "close": 2.7300000191,
     "volume": 414494.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "FLWS",
+    "open": 2.7490000725,
+    "high": 2.7799999714,
+    "low": 2.6749999523,
+    "close": 2.7000000477,
+    "volume": 218083.0,
+    "wedge_status": "none"
   }
 ]

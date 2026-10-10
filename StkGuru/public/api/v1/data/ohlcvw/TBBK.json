@@ -7498,5 +7498,15 @@
     "close": 49.3300018311,
     "volume": 567920.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "TBBK",
+    "open": 49.2999992371,
+    "high": 49.2999992371,
+    "low": 47.8800010681,
+    "close": 48.25,
+    "volume": 630227.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 13.75,
     "volume": 35132821.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "CTVA",
+    "open": 13.6800003052,
+    "high": 13.7299995422,
+    "low": 13.1300001144,
+    "close": 13.2399997711,
+    "volume": 30638700.0,
+    "wedge_status": "none"
   }
 ]

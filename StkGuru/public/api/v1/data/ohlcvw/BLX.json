@@ -7508,5 +7508,15 @@
     "close": 54.7799987793,
     "volume": 222382.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "BLX",
+    "open": 54.5900001526,
+    "high": 54.929901123,
+    "low": 53.6349983215,
+    "close": 54.0,
+    "volume": 115001.0,
+    "wedge_status": "none"
   }
 ]

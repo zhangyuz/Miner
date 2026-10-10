@@ -7508,5 +7508,15 @@
     "close": 61.5099983215,
     "volume": 363252.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,09,00,00,00,000000",
+    "ticker": "SAH",
+    "open": 61.1899986267,
+    "high": 61.5600013733,
+    "low": 60.0,
+    "close": 60.5600013733,
+    "volume": 228185.0,
+    "wedge_status": "none"
   }
 ]

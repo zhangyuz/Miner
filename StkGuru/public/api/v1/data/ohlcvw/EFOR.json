@@ -7488,5 +7488,15 @@
     "close": 37.5,
     "volume": 470127.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "EFOR",
+    "open": 37.8899993896,
+    "high": 38.3300018311,
+    "low": 37.25,
+    "close": 37.4199981689,
+    "volume": 377981.0,
+    "wedge_status": "none"
   }
 ]

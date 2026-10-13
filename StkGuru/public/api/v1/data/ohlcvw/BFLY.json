@@ -7488,5 +7488,15 @@
     "close": 8.25,
     "volume": 3955335.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "BFLY",
+    "open": 8.3999996185,
+    "high": 8.5900001526,
+    "low": 8.3141002655,
+    "close": 8.5500001907,
+    "volume": 3853872.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 32.1199989319,
     "volume": 61249.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "CVEO",
+    "open": 32.0699996948,
+    "high": 32.375,
+    "low": 31.2900009155,
+    "close": 31.5,
+    "volume": 141582.0,
+    "wedge_status": "none"
   }
 ]

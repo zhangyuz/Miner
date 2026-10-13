@@ -7488,5 +7488,15 @@
     "close": 4.0399999619,
     "volume": 1068782.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "EVH",
+    "open": 4.0399999619,
+    "high": 4.25,
+    "low": 4.0500001907,
+    "close": 4.25,
+    "volume": 1184576.0,
+    "wedge_status": "none"
   }
 ]

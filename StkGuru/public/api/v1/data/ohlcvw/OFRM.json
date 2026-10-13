@@ -1258,5 +1258,15 @@
     "close": 16.9400005341,
     "volume": 189632.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "OFRM",
+    "open": 16.7800006866,
+    "high": 16.8999996185,
+    "low": 16.25,
+    "close": 16.5599994659,
+    "volume": 354259.0,
+    "wedge_status": "none"
   }
 ]

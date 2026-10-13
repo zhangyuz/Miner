@@ -2468,5 +2468,15 @@
     "close": 30.7099990845,
     "volume": 1392546.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "MIAX",
+    "open": 30.6700000763,
+    "high": 30.9179992676,
+    "low": 29.8500003815,
+    "close": 30.0,
+    "volume": 1487280.0,
+    "wedge_status": "none"
   }
 ]

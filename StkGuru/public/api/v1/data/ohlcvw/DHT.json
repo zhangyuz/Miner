@@ -7488,5 +7488,15 @@
     "close": 24.6399993896,
     "volume": 3047137.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "DHT",
+    "open": 25.7000007629,
+    "high": 26.4599990845,
+    "low": 25.5,
+    "close": 26.2199993134,
+    "volume": 8080947.0,
+    "wedge_status": "none"
   }
 ]

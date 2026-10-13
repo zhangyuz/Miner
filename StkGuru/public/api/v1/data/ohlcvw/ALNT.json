@@ -7478,5 +7478,15 @@
     "close": 109.9100036621,
     "volume": 184859.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "ALNT",
+    "open": 109.0,
+    "high": 110.5,
+    "low": 106.1900024414,
+    "close": 106.3799972534,
+    "volume": 149022.0,
+    "wedge_status": "drop"
   }
 ]

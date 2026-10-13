@@ -628,5 +628,15 @@
     "close": 19.0,
     "volume": 325591.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "ODTX",
+    "open": 18.8799991608,
+    "high": 19.1450004578,
+    "low": 18.1639995575,
+    "close": 18.2600002289,
+    "volume": 282697.0,
+    "wedge_status": "none"
   }
 ]

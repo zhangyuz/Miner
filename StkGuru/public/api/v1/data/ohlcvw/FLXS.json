@@ -7478,5 +7478,15 @@
     "close": 85.1699981689,
     "volume": 50240.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "FLXS",
+    "open": 85.1699981689,
+    "high": 88.5,
+    "low": 85.1299972534,
+    "close": 87.1900024414,
+    "volume": 48834.0,
+    "wedge_status": "none"
   }
 ]

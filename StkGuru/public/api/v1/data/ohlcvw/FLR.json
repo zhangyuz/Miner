@@ -7488,5 +7488,15 @@
     "close": 50.6800003052,
     "volume": 1597031.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "FLR",
+    "open": 50.5,
+    "high": 50.5800018311,
+    "low": 49.3650016785,
+    "close": 49.7099990845,
+    "volume": 1707126.0,
+    "wedge_status": "none"
   }
 ]

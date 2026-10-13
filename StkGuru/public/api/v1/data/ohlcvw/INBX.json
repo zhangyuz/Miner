@@ -5448,5 +5448,15 @@
     "close": 95.0100021362,
     "volume": 86817.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "INBX",
+    "open": 94.0299987793,
+    "high": 96.0999984741,
+    "low": 90.0,
+    "close": 90.5299987793,
+    "volume": 214035.0,
+    "wedge_status": "none"
   }
 ]

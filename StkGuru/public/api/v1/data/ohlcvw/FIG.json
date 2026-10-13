@@ -2568,5 +2568,15 @@
     "close": 22.5,
     "volume": 7784810.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "FIG",
+    "open": 22.2299995422,
+    "high": 22.2863006592,
+    "low": 21.3850002289,
+    "close": 21.9599990845,
+    "volume": 8808860.0,
+    "wedge_status": "none"
   }
 ]

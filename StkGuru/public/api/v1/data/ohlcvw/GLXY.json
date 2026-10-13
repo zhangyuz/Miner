@@ -3078,5 +3078,15 @@
     "close": 20.3299999237,
     "volume": 3849107.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "GLXY",
+    "open": 20.2199993134,
+    "high": 20.3715000153,
+    "low": 19.75,
+    "close": 19.8700008392,
+    "volume": 2581444.0,
+    "wedge_status": "none"
   }
 ]

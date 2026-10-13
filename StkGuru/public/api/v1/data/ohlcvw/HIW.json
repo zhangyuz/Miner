@@ -7488,5 +7488,15 @@
     "close": 29.0400009155,
     "volume": 1548886.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "HIW",
+    "open": 29.0499992371,
+    "high": 29.5949993134,
+    "low": 28.6800003052,
+    "close": 29.5,
+    "volume": 969218.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 9.2100000381,
     "volume": 711529.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "KODK",
+    "open": 9.1199998856,
+    "high": 9.3199996948,
+    "low": 9.0500001907,
+    "close": 9.1499996185,
+    "volume": 881981.0,
+    "wedge_status": "none"
   }
 ]

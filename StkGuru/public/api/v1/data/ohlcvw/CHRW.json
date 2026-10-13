@@ -7488,5 +7488,15 @@
     "close": 142.3099975586,
     "volume": 1888370.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "CHRW",
+    "open": 140.1300048828,
+    "high": 141.0,
+    "low": 138.6199951172,
+    "close": 139.75,
+    "volume": 1277776.0,
+    "wedge_status": "none"
   }
 ]

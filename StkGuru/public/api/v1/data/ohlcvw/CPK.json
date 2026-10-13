@@ -7488,5 +7488,15 @@
     "close": 127.75,
     "volume": 70402.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "CPK",
+    "open": 128.0299987793,
+    "high": 129.6499938965,
+    "low": 127.9850006104,
+    "close": 129.0,
+    "volume": 145963.0,
+    "wedge_status": "pop"
   }
 ]

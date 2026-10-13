@@ -7488,5 +7488,15 @@
     "close": 63.8899993896,
     "volume": 1158105.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "CMC",
+    "open": 63.5,
+    "high": 65.1149978638,
+    "low": 63.5950012207,
+    "close": 64.0800018311,
+    "volume": 1135116.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 45.5,
     "volume": 1966045.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "FND",
+    "open": 44.9000015259,
+    "high": 45.125,
+    "low": 43.8600006104,
+    "close": 44.5900001526,
+    "volume": 1756988.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 312.6199951172,
     "volume": 8076880.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "COHR",
+    "open": 306.0,
+    "high": 306.0,
+    "low": 284.1000061035,
+    "close": 288.0199890137,
+    "volume": 7022140.0,
+    "wedge_status": "drop"
   }
 ]

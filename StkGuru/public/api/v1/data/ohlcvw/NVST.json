@@ -7488,5 +7488,15 @@
     "close": 23.0,
     "volume": 2357665.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "NVST",
+    "open": 22.9500007629,
+    "high": 23.3099994659,
+    "low": 22.6599998474,
+    "close": 22.7199993134,
+    "volume": 2392903.0,
+    "wedge_status": "none"
   }
 ]

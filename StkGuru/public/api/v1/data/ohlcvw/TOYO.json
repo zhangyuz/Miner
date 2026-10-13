@@ -7488,5 +7488,15 @@
     "close": 4.3699998856,
     "volume": 175005.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "TOYO",
+    "open": 4.3678002357,
+    "high": 4.3699998856,
+    "low": 4.3099999428,
+    "close": 4.3099999428,
+    "volume": 228011.0,
+    "wedge_status": "none"
   }
 ]

@@ -7478,5 +7478,15 @@
     "close": 55.2099990845,
     "volume": 370920.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "ETON",
+    "open": 55.5,
+    "high": 57.0,
+    "low": 55.2000007629,
+    "close": 55.25,
+    "volume": 436784.0,
+    "wedge_status": "none"
   }
 ]

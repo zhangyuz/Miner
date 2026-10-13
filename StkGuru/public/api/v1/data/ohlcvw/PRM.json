@@ -7488,5 +7488,15 @@
     "close": 27.75,
     "volume": 532185.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "PRM",
+    "open": 27.5100002289,
+    "high": 27.6949996948,
+    "low": 26.6599998474,
+    "close": 27.0900001526,
+    "volume": 867355.0,
+    "wedge_status": "none"
   }
 ]

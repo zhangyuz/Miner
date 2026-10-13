@@ -7488,5 +7488,15 @@
     "close": 3.7249999046,
     "volume": 828526.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,12,00,00,00,000000",
+    "ticker": "ALTO",
+    "open": 3.7100000381,
+    "high": 3.7100000381,
+    "low": 3.6150000095,
+    "close": 3.6600000858,
+    "volume": 757627.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 8.5200004578,
     "volume": 5399961.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "RITM",
+    "open": 8.6499996185,
+    "high": 8.7185001373,
+    "low": 8.3699998856,
+    "close": 8.5,
+    "volume": 8339999.0,
+    "wedge_status": "none"
   }
 ]

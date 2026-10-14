@@ -7498,5 +7498,15 @@
     "close": 204.3600006104,
     "volume": 696985.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "MOH",
+    "open": 207.7899932861,
+    "high": 215.5,
+    "low": 202.5,
+    "close": 209.5,
+    "volume": 1019641.0,
+    "wedge_status": "none"
   }
 ]

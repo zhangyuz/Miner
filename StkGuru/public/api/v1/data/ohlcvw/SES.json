@@ -7498,5 +7498,15 @@
     "close": 0.7998999953,
     "volume": 11518143.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "SES",
+    "open": 0.787800014,
+    "high": 1.0599999428,
+    "low": 0.7778999805,
+    "close": 1.0,
+    "volume": 32359470.0,
+    "wedge_status": "none"
   }
 ]

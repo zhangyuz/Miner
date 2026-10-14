@@ -7488,5 +7488,15 @@
     "close": 12.1700000763,
     "volume": 84453.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "LMNR",
+    "open": 12.25,
+    "high": 12.3000001907,
+    "low": 12.0600004196,
+    "close": 12.0600004196,
+    "volume": 121395.0,
+    "wedge_status": "none"
   }
 ]

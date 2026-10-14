@@ -7498,5 +7498,15 @@
     "close": 1.2300000191,
     "volume": 431543.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "NPWR",
+    "open": 1.2000000477,
+    "high": 1.2100000381,
+    "low": 1.1807999611,
+    "close": 1.1900000572,
+    "volume": 391987.0,
+    "wedge_status": "none"
   }
 ]

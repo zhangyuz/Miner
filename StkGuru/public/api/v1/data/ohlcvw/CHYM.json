@@ -2908,5 +2908,15 @@
     "close": 30.4500007629,
     "volume": 6024770.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "CHYM",
+    "open": 30.75,
+    "high": 31.0,
+    "low": 29.5599994659,
+    "close": 29.8999996185,
+    "volume": 5781451.0,
+    "wedge_status": "none"
   }
 ]

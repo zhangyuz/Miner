@@ -7488,5 +7488,15 @@
     "close": 9.3299999237,
     "volume": 166241.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "BBCP",
+    "open": 9.3599996567,
+    "high": 9.5,
+    "low": 9.2501001358,
+    "close": 9.4399995804,
+    "volume": 228373.0,
+    "wedge_status": "none"
   }
 ]

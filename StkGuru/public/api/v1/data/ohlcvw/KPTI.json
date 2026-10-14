@@ -7498,5 +7498,15 @@
     "close": 0.5051000118,
     "volume": 888342.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "KPTI",
+    "open": 0.4900000095,
+    "high": 0.5016000271,
+    "low": 0.3957999945,
+    "close": 0.4273999929,
+    "volume": 1750210.0,
+    "wedge_status": "none"
   }
 ]

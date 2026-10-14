@@ -7488,5 +7488,15 @@
     "close": 105.0,
     "volume": 633948.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "SEIC",
+    "open": 105.9000015259,
+    "high": 105.9000015259,
+    "low": 104.0,
+    "close": 105.5100021362,
+    "volume": 925644.0,
+    "wedge_status": "none"
   }
 ]

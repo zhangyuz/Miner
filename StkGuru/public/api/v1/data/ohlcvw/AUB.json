@@ -7498,5 +7498,15 @@
     "close": 37.8400001526,
     "volume": 1300207.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "AUB",
+    "open": 38.0400009155,
+    "high": 38.1100006104,
+    "low": 37.4000015259,
+    "close": 37.5,
+    "volume": 1162231.0,
+    "wedge_status": "none"
   }
 ]

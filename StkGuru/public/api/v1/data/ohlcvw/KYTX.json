@@ -6258,5 +6258,15 @@
     "close": 6.2100000381,
     "volume": 417108.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "KYTX",
+    "open": 6.1700000763,
+    "high": 6.1700000763,
+    "low": 5.7550001144,
+    "close": 5.7699999809,
+    "volume": 1227690.0,
+    "wedge_status": "none"
   }
 ]

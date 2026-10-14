@@ -7488,5 +7488,15 @@
     "close": 15.4600000381,
     "volume": 4280347.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "ERAS",
+    "open": 15.25,
+    "high": 15.5798997879,
+    "low": 14.5050001144,
+    "close": 14.779999733,
+    "volume": 5313379.0,
+    "wedge_status": "none"
   }
 ]

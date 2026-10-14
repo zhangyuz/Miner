@@ -7498,5 +7498,15 @@
     "close": 46.5999984741,
     "volume": 1209004.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "GXO",
+    "open": 46.9599990845,
+    "high": 47.3400001526,
+    "low": 46.3149986267,
+    "close": 46.5,
+    "volume": 961023.0,
+    "wedge_status": "none"
   }
 ]

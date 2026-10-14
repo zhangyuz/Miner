@@ -7498,5 +7498,15 @@
     "close": 2.0199999809,
     "volume": 290600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "ABOS",
+    "open": 2.0,
+    "high": 2.0,
+    "low": 1.8099999428,
+    "close": 1.8150000572,
+    "volume": 646040.0,
+    "wedge_status": "none"
   }
 ]

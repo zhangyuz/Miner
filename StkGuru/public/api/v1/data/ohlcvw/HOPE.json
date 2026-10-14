@@ -7488,5 +7488,15 @@
     "close": 13.4200000763,
     "volume": 569113.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "HOPE",
+    "open": 13.5,
+    "high": 13.5500001907,
+    "low": 13.2399997711,
+    "close": 13.3100004196,
+    "volume": 783225.0,
+    "wedge_status": "none"
   }
 ]

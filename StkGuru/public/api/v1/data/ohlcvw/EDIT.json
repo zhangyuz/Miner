@@ -7488,5 +7488,15 @@
     "close": 2.75,
     "volume": 1296276.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "EDIT",
+    "open": 2.7300000191,
+    "high": 2.7300000191,
+    "low": 2.4400000572,
+    "close": 2.4449999332,
+    "volume": 2448990.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 34.0099983215,
     "volume": 5780807.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "OSCR",
+    "open": 34.5,
+    "high": 35.0,
+    "low": 33.3578987122,
+    "close": 33.7900009155,
+    "volume": 5467396.0,
+    "wedge_status": "none"
   }
 ]

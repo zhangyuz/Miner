@@ -7488,5 +7488,15 @@
     "close": 27.9799995422,
     "volume": 48785.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "PCB",
+    "open": 28.0599994659,
+    "high": 28.25,
+    "low": 27.6399993896,
+    "close": 27.8899993896,
+    "volume": 54067.0,
+    "wedge_status": "none"
   }
 ]

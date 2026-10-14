@@ -7498,5 +7498,15 @@
     "close": 44.0600013733,
     "volume": 332772.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "BKE",
+    "open": 44.5,
+    "high": 44.8800010681,
+    "low": 44.1150016785,
+    "close": 44.5099983215,
+    "volume": 380673.0,
+    "wedge_status": "none"
   }
 ]

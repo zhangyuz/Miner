@@ -7498,5 +7498,15 @@
     "close": 10.0100002289,
     "volume": 419292.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "CLB",
+    "open": 10.0900001526,
+    "high": 10.25,
+    "low": 10.0500001907,
+    "close": 10.1599998474,
+    "volume": 706293.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 6.4699997902,
     "volume": 585440.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "LTRX",
+    "open": 6.4699997902,
+    "high": 6.4699997902,
+    "low": 6.2399997711,
+    "close": 6.3800001144,
+    "volume": 637991.0,
+    "wedge_status": "none"
   }
 ]

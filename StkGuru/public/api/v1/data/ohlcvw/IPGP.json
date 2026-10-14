@@ -7488,5 +7488,15 @@
     "close": 76.0500030518,
     "volume": 223084.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "IPGP",
+    "open": 75.0500030518,
+    "high": 75.9899978638,
+    "low": 72.75,
+    "close": 75.8499984741,
+    "volume": 256659.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 401.1199951172,
     "volume": 128989.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "RS",
+    "open": 402.0,
+    "high": 406.0,
+    "low": 399.5799865723,
+    "close": 404.0599975586,
+    "volume": 233155.0,
+    "wedge_status": "none"
   }
 ]

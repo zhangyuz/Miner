@@ -2828,5 +2828,15 @@
     "close": 72.3099975586,
     "volume": 1402210.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "RAL",
+    "open": 71.3099975586,
+    "high": 72.7600021362,
+    "low": 70.5,
+    "close": 72.7200012207,
+    "volume": 1121007.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 56.2200012207,
     "volume": 251056.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "TPB",
+    "open": 56.0699996948,
+    "high": 57.0,
+    "low": 55.233001709,
+    "close": 55.25,
+    "volume": 369343.0,
+    "wedge_status": "none"
   }
 ]

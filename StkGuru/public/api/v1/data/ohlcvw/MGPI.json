@@ -7488,5 +7488,15 @@
     "close": 14.3599996567,
     "volume": 237202.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "MGPI",
+    "open": 14.5,
+    "high": 14.6750001907,
+    "low": 14.2100000381,
+    "close": 14.6099996567,
+    "volume": 277488.0,
+    "wedge_status": "none"
   }
 ]

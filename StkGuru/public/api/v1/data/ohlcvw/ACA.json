@@ -7498,5 +7498,15 @@
     "close": 147.2700042725,
     "volume": 464173.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,13,00,00,00,000000",
+    "ticker": "ACA",
+    "open": 147.3000030518,
+    "high": 147.5,
+    "low": 147.1699981689,
+    "close": 147.25,
+    "volume": 576195.0,
+    "wedge_status": "none"
   }
 ]

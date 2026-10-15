@@ -1918,5 +1918,15 @@
     "close": 18.2099990845,
     "volume": 2282408.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "BETA",
+    "open": 18.0,
+    "high": 18.0799999237,
+    "low": 17.2900009155,
+    "close": 17.6800003052,
+    "volume": 1781361.0,
+    "wedge_status": "none"
   }
 ]

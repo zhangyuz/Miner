@@ -7488,5 +7488,15 @@
     "close": 7.75,
     "volume": 236583.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "RNA",
+    "open": 7.75,
+    "high": 7.9349999428,
+    "low": 7.5399999619,
+    "close": 7.6799998283,
+    "volume": 269490.0,
+    "wedge_status": "none"
   }
 ]

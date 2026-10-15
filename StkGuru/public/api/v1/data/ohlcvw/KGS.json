@@ -7508,5 +7508,15 @@
     "close": 52.0,
     "volume": 2801681.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "KGS",
+    "open": 51.8400001526,
+    "high": 52.4000015259,
+    "low": 48.8400001526,
+    "close": 50.0699996948,
+    "volume": 2889852.0,
+    "wedge_status": "none"
   }
 ]

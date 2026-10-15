@@ -7498,5 +7498,15 @@
     "close": 6.9600000381,
     "volume": 362628.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "ILPT",
+    "open": 6.8600001335,
+    "high": 6.9200000763,
+    "low": 6.8249998093,
+    "close": 6.8600001335,
+    "volume": 342569.0,
+    "wedge_status": "none"
   }
 ]

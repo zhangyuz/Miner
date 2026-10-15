@@ -368,5 +368,15 @@
     "close": 12.970000267,
     "volume": 392590.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "KARD",
+    "open": 12.529999733,
+    "high": 13.6000003815,
+    "low": 12.3400001526,
+    "close": 13.5200004578,
+    "volume": 826579.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 11.6350002289,
     "volume": 1369536.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "PAX",
+    "open": 11.5,
+    "high": 11.529999733,
+    "low": 11.3299999237,
+    "close": 11.5,
+    "volume": 1087825.0,
+    "wedge_status": "none"
   }
 ]

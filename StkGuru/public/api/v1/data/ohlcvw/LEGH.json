@@ -7498,5 +7498,15 @@
     "close": 27.3850002289,
     "volume": 36960.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "LEGH",
+    "open": 27.0100002289,
+    "high": 27.2099990845,
+    "low": 26.6499996185,
+    "close": 26.75,
+    "volume": 74381.0,
+    "wedge_status": "none"
   }
 ]

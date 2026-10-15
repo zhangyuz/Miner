@@ -1288,5 +1288,15 @@
     "close": 14.3199996948,
     "volume": 349181.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "BOBS",
+    "open": 13.5,
+    "high": 13.7341995239,
+    "low": 12.9799995422,
+    "close": 13.5399999619,
+    "volume": 975439.0,
+    "wedge_status": "drop"
   }
 ]

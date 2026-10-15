@@ -7508,5 +7508,15 @@
     "close": 2.5150001049,
     "volume": 184674.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "NERV",
+    "open": 2.5099999905,
+    "high": 2.5650000572,
+    "low": 2.3099999428,
+    "close": 2.3499999046,
+    "volume": 254313.0,
+    "wedge_status": "none"
   }
 ]

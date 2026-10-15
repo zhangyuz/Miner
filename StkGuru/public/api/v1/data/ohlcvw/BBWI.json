@@ -7508,5 +7508,15 @@
     "close": 18.0,
     "volume": 5063746.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "BBWI",
+    "open": 18.0699996948,
+    "high": 18.9599990845,
+    "low": 17.96159935,
+    "close": 18.9500007629,
+    "volume": 8101304.0,
+    "wedge_status": "none"
   }
 ]

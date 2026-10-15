@@ -7508,5 +7508,15 @@
     "close": 762.5,
     "volume": 22183711.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "META",
+    "open": 760.75,
+    "high": 761.4799804688,
+    "low": 734.2864990234,
+    "close": 737.5399780273,
+    "volume": 15387246.0,
+    "wedge_status": "none"
   }
 ]

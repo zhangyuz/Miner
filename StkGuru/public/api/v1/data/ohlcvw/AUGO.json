@@ -2698,5 +2698,15 @@
     "close": 87.9400024414,
     "volume": 1116378.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "AUGO",
+    "open": 84.5,
+    "high": 86.3399963379,
+    "low": 81.4899978638,
+    "close": 82.3199996948,
+    "volume": 1173696.0,
+    "wedge_status": "drop"
   }
 ]

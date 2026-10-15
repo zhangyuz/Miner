@@ -7508,5 +7508,15 @@
     "close": 24.6599998474,
     "volume": 357064.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "PLGO",
+    "open": 24.8700008392,
+    "high": 24.7700004578,
+    "low": 24.2250003815,
+    "close": 24.75,
+    "volume": 371455.0,
+    "wedge_status": "none"
   }
 ]

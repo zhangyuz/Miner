@@ -7508,5 +7508,15 @@
     "close": 4.6100001335,
     "volume": 399231.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "AMPY",
+    "open": 4.6100001335,
+    "high": 4.6103000641,
+    "low": 4.3400001526,
+    "close": 4.3400001526,
+    "volume": 460771.0,
+    "wedge_status": "none"
   }
 ]

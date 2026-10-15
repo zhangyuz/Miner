@@ -7508,5 +7508,15 @@
     "close": 18.3199996948,
     "volume": 1852499.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,14,00,00,00,000000",
+    "ticker": "BNL",
+    "open": 18.1900005341,
+    "high": 18.8215999603,
+    "low": 17.8999996185,
+    "close": 18.0,
+    "volume": 2324618.0,
+    "wedge_status": "none"
   }
 ]

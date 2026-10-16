@@ -7508,5 +7508,15 @@
     "close": 232.1600036621,
     "volume": 1280307.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "JBHT",
+    "open": 232.9299926758,
+    "high": 235.75,
+    "low": 231.0,
+    "close": 235.3099975586,
+    "volume": 1222747.0,
+    "wedge_status": "pop"
   }
 ]

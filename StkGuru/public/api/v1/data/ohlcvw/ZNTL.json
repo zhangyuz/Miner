@@ -7508,5 +7508,15 @@
     "close": 2.3199999332,
     "volume": 865342.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "ZNTL",
+    "open": 2.2699999809,
+    "high": 2.3963000774,
+    "low": 2.2200000286,
+    "close": 2.2400000095,
+    "volume": 2034826.0,
+    "wedge_status": "none"
   }
 ]

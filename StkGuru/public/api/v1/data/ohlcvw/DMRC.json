@@ -7498,5 +7498,15 @@
     "close": 6.1900000572,
     "volume": 110669.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "DMRC",
+    "open": 6.1500000954,
+    "high": 6.7600002289,
+    "low": 6.1500000954,
+    "close": 6.6999998093,
+    "volume": 142957.0,
+    "wedge_status": "none"
   }
 ]

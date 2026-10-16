@@ -7508,5 +7508,15 @@
     "close": 9.8100004196,
     "volume": 3185179.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "ASAN",
+    "open": 9.7700004578,
+    "high": 10.5,
+    "low": 9.75,
+    "close": 10.4200000763,
+    "volume": 6383124.0,
+    "wedge_status": "none"
   }
 ]

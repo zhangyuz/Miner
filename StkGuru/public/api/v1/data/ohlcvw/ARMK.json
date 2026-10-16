@@ -7508,5 +7508,15 @@
     "close": 54.75,
     "volume": 2132687.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "ARMK",
+    "open": 55.1450004578,
+    "high": 55.2599983215,
+    "low": 52.7799987793,
+    "close": 55.0400009155,
+    "volume": 5662593.0,
+    "wedge_status": "none"
   }
 ]

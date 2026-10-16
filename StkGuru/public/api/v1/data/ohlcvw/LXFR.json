@@ -7508,5 +7508,15 @@
     "close": 17.25,
     "volume": 535843.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "LXFR",
+    "open": 17.25,
+    "high": 17.2649993896,
+    "low": 17.2399997711,
+    "close": 17.2399997711,
+    "volume": 758295.0,
+    "wedge_status": "drop"
   }
 ]

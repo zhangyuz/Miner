@@ -7498,5 +7498,15 @@
     "close": 38.5999984741,
     "volume": 233582.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "CBNK",
+    "open": 38.5999984741,
+    "high": 39.5,
+    "low": 38.2000007629,
+    "close": 39.4300003052,
+    "volume": 133862.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 6.3600001335,
     "volume": 1322375.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "EVC",
+    "open": 6.3000001907,
+    "high": 6.7699999809,
+    "low": 6.25,
+    "close": 6.6700000763,
+    "volume": 1171719.0,
+    "wedge_status": "none"
   }
 ]

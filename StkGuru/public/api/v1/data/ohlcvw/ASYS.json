@@ -7508,5 +7508,15 @@
     "close": 14.0,
     "volume": 192321.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "ASYS",
+    "open": 13.0900001526,
+    "high": 13.5200004578,
+    "low": 12.904999733,
+    "close": 13.4499998093,
+    "volume": 357760.0,
+    "wedge_status": "none"
   }
 ]

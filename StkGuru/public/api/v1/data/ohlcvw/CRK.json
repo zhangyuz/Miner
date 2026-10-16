@@ -7508,5 +7508,15 @@
     "close": 13.6999998093,
     "volume": 2502233.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "CRK",
+    "open": 13.7399997711,
+    "high": 13.8339996338,
+    "low": 13.3100004196,
+    "close": 13.5,
+    "volume": 2668934.0,
+    "wedge_status": "none"
   }
 ]

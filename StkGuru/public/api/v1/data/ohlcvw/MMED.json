@@ -1098,5 +1098,15 @@
     "close": 16.8099994659,
     "volume": 67114177.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "MMED",
+    "open": 16.6000003815,
+    "high": 18.0750007629,
+    "low": 16.6000003815,
+    "close": 18.0,
+    "volume": 27731697.0,
+    "wedge_status": "none"
   }
 ]

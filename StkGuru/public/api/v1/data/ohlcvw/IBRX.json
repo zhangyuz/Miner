@@ -7498,5 +7498,15 @@
     "close": 9.9099998474,
     "volume": 29798296.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "IBRX",
+    "open": 10.1999998093,
+    "high": 10.4949998856,
+    "low": 9.8149995804,
+    "close": 10.0,
+    "volume": 19871769.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 24.5100002289,
     "volume": 5364685.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "ONB",
+    "open": 24.6599998474,
+    "high": 25.1200008392,
+    "low": 24.5249996185,
+    "close": 25.0,
+    "volume": 6023186.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 4.6999998093,
     "volume": 467631.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "ZSQR",
+    "open": 4.7199997902,
+    "high": 4.9131999016,
+    "low": 3.8199999332,
+    "close": 4.2800002098,
+    "volume": 549208.0,
+    "wedge_status": "drop"
   }
 ]

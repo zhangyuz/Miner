@@ -7498,5 +7498,15 @@
     "close": 28.25,
     "volume": 1157903.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "BRZE",
+    "open": 28.0,
+    "high": 30.6100006104,
+    "low": 27.8677997589,
+    "close": 30.3799991608,
+    "volume": 2185447.0,
+    "wedge_status": "none"
   }
 ]

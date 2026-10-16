@@ -7508,5 +7508,15 @@
     "close": 5733.1201171875,
     "volume": 53944.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "NVR",
+    "open": 5805.0,
+    "high": 6045.0,
+    "low": 5800.0,
+    "close": 5940.830078125,
+    "volume": 54134.0,
+    "wedge_status": "none"
   }
 ]

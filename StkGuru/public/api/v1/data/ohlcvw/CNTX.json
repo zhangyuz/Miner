@@ -7508,5 +7508,15 @@
     "close": 0.2556000054,
     "volume": 954339.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "CNTX",
+    "open": 0.2520000041,
+    "high": 0.2727999985,
+    "low": 0.235799998,
+    "close": 0.2405000031,
+    "volume": 1337016.0,
+    "wedge_status": "none"
   }
 ]

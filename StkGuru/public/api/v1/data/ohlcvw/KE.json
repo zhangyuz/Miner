@@ -7498,5 +7498,15 @@
     "close": 27.2299995422,
     "volume": 352369.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "KE",
+    "open": 27.0499992371,
+    "high": 27.0499992371,
+    "low": 25.9300003052,
+    "close": 26.5,
+    "volume": 175031.0,
+    "wedge_status": "none"
   }
 ]

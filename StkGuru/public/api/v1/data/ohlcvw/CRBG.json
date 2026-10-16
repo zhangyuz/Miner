@@ -7508,5 +7508,15 @@
     "close": 33.9500007629,
     "volume": 6251850.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "CRBG",
+    "open": 34.0999984741,
+    "high": 34.5,
+    "low": 32.2700004578,
+    "close": 34.4300003052,
+    "volume": 7559606.0,
+    "wedge_status": "none"
   }
 ]

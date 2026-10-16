@@ -7508,5 +7508,15 @@
     "close": 15.0600004196,
     "volume": 1597273.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "GRND",
+    "open": 15.1300001144,
+    "high": 15.3619003296,
+    "low": 15.0,
+    "close": 15.1000003815,
+    "volume": 1008790.0,
+    "wedge_status": "none"
   }
 ]

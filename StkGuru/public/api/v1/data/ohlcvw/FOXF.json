@@ -7498,5 +7498,15 @@
     "close": 17.4799995422,
     "volume": 592699.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "FOXF",
+    "open": 17.7099990845,
+    "high": 18.7399997711,
+    "low": 17.7099990845,
+    "close": 18.5,
+    "volume": 604272.0,
+    "wedge_status": "none"
   }
 ]

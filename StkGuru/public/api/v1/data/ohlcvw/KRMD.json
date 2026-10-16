@@ -7498,5 +7498,15 @@
     "close": 3.1099998951,
     "volume": 315710.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "KRMD",
+    "open": 3.1199998856,
+    "high": 3.1400001049,
+    "low": 2.9700000286,
+    "close": 3.0299999714,
+    "volume": 203192.0,
+    "wedge_status": "none"
   }
 ]

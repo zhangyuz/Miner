@@ -7498,5 +7498,15 @@
     "close": 22.25,
     "volume": 201120.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "KIDS",
+    "open": 22.2999992371,
+    "high": 23.1299991608,
+    "low": 22.2999992371,
+    "close": 22.5699996948,
+    "volume": 225699.0,
+    "wedge_status": "none"
   }
 ]

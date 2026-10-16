@@ -7508,5 +7508,15 @@
     "close": 3.5399999619,
     "volume": 427066.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "ANTX",
+    "open": 3.5,
+    "high": 3.6900000572,
+    "low": 3.5,
+    "close": 3.5999999046,
+    "volume": 295942.0,
+    "wedge_status": "none"
   }
 ]

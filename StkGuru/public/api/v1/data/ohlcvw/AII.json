@@ -3168,5 +3168,15 @@
     "close": 27.5499992371,
     "volume": 358285.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "AII",
+    "open": 27.8199996948,
+    "high": 28.25,
+    "low": 27.4041996002,
+    "close": 27.7000007629,
+    "volume": 233301.0,
+    "wedge_status": "none"
   }
 ]

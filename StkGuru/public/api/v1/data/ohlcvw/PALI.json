@@ -7508,5 +7508,15 @@
     "close": 1.4800000191,
     "volume": 4162741.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "PALI",
+    "open": 1.5,
+    "high": 1.5599999428,
+    "low": 1.4800000191,
+    "close": 1.5399999619,
+    "volume": 1817613.0,
+    "wedge_status": "none"
   }
 ]

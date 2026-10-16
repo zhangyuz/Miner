@@ -7498,5 +7498,15 @@
     "close": 114.6849975586,
     "volume": 148000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "MCRI",
+    "open": 115.6600036621,
+    "high": 118.0,
+    "low": 115.0,
+    "close": 115.5400009155,
+    "volume": 171683.0,
+    "wedge_status": "none"
   }
 ]

@@ -6928,5 +6928,15 @@
     "close": 9.6000003815,
     "volume": 119515.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "NLOP",
+    "open": 9.6800003052,
+    "high": 9.7349996567,
+    "low": 9.654999733,
+    "close": 9.7100000381,
+    "volume": 192695.0,
+    "wedge_status": "none"
   }
 ]

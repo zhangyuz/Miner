@@ -2798,5 +2798,15 @@
     "close": 11.0799999237,
     "volume": 285347.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "AEBI",
+    "open": 11.1800003052,
+    "high": 11.3100004196,
+    "low": 11.0,
+    "close": 11.220000267,
+    "volume": 163443.0,
+    "wedge_status": "none"
   }
 ]

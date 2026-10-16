@@ -7508,5 +7508,15 @@
     "close": 91.9599990845,
     "volume": 2699475.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "FROG",
+    "open": 88.0,
+    "high": 94.8000030518,
+    "low": 87.5419998169,
+    "close": 94.5400009155,
+    "volume": 2384125.0,
+    "wedge_status": "none"
   }
 ]

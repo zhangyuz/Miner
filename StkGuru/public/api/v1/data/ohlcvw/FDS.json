@@ -7508,5 +7508,15 @@
     "close": 289.7399902344,
     "volume": 604583.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "FDS",
+    "open": 294.5,
+    "high": 304.5549926758,
+    "low": 289.75,
+    "close": 301.8299865723,
+    "volume": 724625.0,
+    "wedge_status": "none"
   }
 ]

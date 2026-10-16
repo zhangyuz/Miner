@@ -7498,5 +7498,15 @@
     "close": 1.0750000477,
     "volume": 19624200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "BTBT",
+    "open": 1.0410000086,
+    "high": 1.1000000238,
+    "low": 1.0,
+    "close": 1.0800000429,
+    "volume": 17696385.0,
+    "wedge_status": "none"
   }
 ]

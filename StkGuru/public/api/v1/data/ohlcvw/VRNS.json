@@ -7498,5 +7498,15 @@
     "close": 47.0600013733,
     "volume": 1622456.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "VRNS",
+    "open": 47.0,
+    "high": 47.5077018738,
+    "low": 45.6500015259,
+    "close": 47.3400001526,
+    "volume": 2535101.0,
+    "wedge_status": "none"
   }
 ]

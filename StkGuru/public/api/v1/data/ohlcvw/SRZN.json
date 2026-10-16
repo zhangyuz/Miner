@@ -7508,5 +7508,15 @@
     "close": 23.75,
     "volume": 631535.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "SRZN",
+    "open": 23.7299995422,
+    "high": 25.3199996948,
+    "low": 23.3099994659,
+    "close": 25.0699996948,
+    "volume": 363793.0,
+    "wedge_status": "none"
   }
 ]

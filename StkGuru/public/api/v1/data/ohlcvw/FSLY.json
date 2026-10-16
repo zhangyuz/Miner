@@ -7498,5 +7498,15 @@
     "close": 25.0,
     "volume": 6068108.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "FSLY",
+    "open": 23.8500003815,
+    "high": 25.1200008392,
+    "low": 22.7000007629,
+    "close": 25.0699996948,
+    "volume": 7836947.0,
+    "wedge_status": "none"
   }
 ]

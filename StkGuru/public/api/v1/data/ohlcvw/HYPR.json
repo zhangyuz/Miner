@@ -7508,5 +7508,15 @@
     "close": 0.8001000285,
     "volume": 777321.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "HYPR",
+    "open": 0.8000000119,
+    "high": 0.8122000098,
+    "low": 0.7609999776,
+    "close": 0.780099988,
+    "volume": 949200.0,
+    "wedge_status": "none"
   }
 ]

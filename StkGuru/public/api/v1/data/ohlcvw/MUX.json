@@ -7508,5 +7508,15 @@
     "close": 15.6000003815,
     "volume": 1472577.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,15,00,00,00,000000",
+    "ticker": "MUX",
+    "open": 15.8100004196,
+    "high": 16.25,
+    "low": 15.3199996948,
+    "close": 16.2099990845,
+    "volume": 881298.0,
+    "wedge_status": "none"
   }
 ]

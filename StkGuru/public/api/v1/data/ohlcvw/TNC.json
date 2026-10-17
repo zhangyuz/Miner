@@ -7508,5 +7508,15 @@
     "close": 66.0,
     "volume": 98153.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "TNC",
+    "open": 66.0599975586,
+    "high": 67.5350036621,
+    "low": 65.0250015259,
+    "close": 65.3499984741,
+    "volume": 158715.0,
+    "wedge_status": "none"
   }
 ]

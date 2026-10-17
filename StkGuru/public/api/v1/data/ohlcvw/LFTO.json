@@ -488,5 +488,15 @@
     "close": 16.9400005341,
     "volume": 469336.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "LFTO",
+    "open": 16.8600006104,
+    "high": 17.5,
+    "low": 16.3400001526,
+    "close": 16.5100002289,
+    "volume": 750977.0,
+    "wedge_status": "none"
   }
 ]

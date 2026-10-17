@@ -7498,5 +7498,15 @@
     "close": 60.3300018311,
     "volume": 213328.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "FBNC",
+    "open": 60.5200004578,
+    "high": 61.25,
+    "low": 60.1199989319,
+    "close": 60.3600006104,
+    "volume": 135778.0,
+    "wedge_status": "none"
   }
 ]

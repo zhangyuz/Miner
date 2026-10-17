@@ -7508,5 +7508,15 @@
     "close": 7.5599999428,
     "volume": 2750108.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "VYX",
+    "open": 7.6399998665,
+    "high": 7.8296999931,
+    "low": 7.5,
+    "close": 7.5799999237,
+    "volume": 2467528.0,
+    "wedge_status": "none"
   }
 ]

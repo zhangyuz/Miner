@@ -7508,5 +7508,15 @@
     "close": 47.0900001526,
     "volume": 1272173.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "SLG",
+    "open": 47.0299987793,
+    "high": 48.1199989319,
+    "low": 46.5050010681,
+    "close": 47.0,
+    "volume": 909479.0,
+    "wedge_status": "none"
   }
 ]

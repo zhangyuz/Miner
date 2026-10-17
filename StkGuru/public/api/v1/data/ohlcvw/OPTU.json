@@ -7508,5 +7508,15 @@
     "close": 0.9582999945,
     "volume": 1856923.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "OPTU",
+    "open": 0.9599999785,
+    "high": 0.969900012,
+    "low": 0.9025999904,
+    "close": 0.9025999904,
+    "volume": 1376420.0,
+    "wedge_status": "drop"
   }
 ]

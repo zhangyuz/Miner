@@ -7508,5 +7508,15 @@
     "close": 34.5699996948,
     "volume": 716436.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "KN",
+    "open": 34.0499992371,
+    "high": 34.3149986267,
+    "low": 33.4599990845,
+    "close": 33.5,
+    "volume": 593199.0,
+    "wedge_status": "none"
   }
 ]

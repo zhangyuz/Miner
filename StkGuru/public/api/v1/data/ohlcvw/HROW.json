@@ -7498,5 +7498,15 @@
     "close": 28.75,
     "volume": 582882.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "HROW",
+    "open": 28.5900001526,
+    "high": 28.6650009155,
+    "low": 27.1299991608,
+    "close": 27.2800006866,
+    "volume": 560131.0,
+    "wedge_status": "none"
   }
 ]

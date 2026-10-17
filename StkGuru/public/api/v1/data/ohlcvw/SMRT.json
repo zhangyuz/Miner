@@ -7508,5 +7508,15 @@
     "close": 1.1900000572,
     "volume": 530949.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "SMRT",
+    "open": 1.2000000477,
+    "high": 1.2000000477,
+    "low": 1.1299999952,
+    "close": 1.1399999857,
+    "volume": 361327.0,
+    "wedge_status": "drop"
   }
 ]

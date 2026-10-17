@@ -1298,5 +1298,15 @@
     "close": 24.7199993134,
     "volume": 47119.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "SGP",
+    "open": 24.7399997711,
+    "high": 24.8400001526,
+    "low": 23.9400005341,
+    "close": 24.0,
+    "volume": 70647.0,
+    "wedge_status": "none"
   }
 ]

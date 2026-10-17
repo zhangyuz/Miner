@@ -7508,5 +7508,15 @@
     "close": 40.8300018311,
     "volume": 5327097.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "LUV",
+    "open": 40.9099998474,
+    "high": 41.25,
+    "low": 39.4500999451,
+    "close": 39.5,
+    "volume": 5432799.0,
+    "wedge_status": "none"
   }
 ]

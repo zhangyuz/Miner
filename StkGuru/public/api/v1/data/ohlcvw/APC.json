@@ -1258,5 +1258,15 @@
     "close": 16.0599994659,
     "volume": 112491.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "APC",
+    "open": 16.1599998474,
+    "high": 16.3600006104,
+    "low": 16.0,
+    "close": 16.3600006104,
+    "volume": 87814.0,
+    "wedge_status": "none"
   }
 ]

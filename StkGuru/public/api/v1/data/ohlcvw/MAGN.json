@@ -7508,5 +7508,15 @@
     "close": 11.25,
     "volume": 613405.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "MAGN",
+    "open": 11.3100004196,
+    "high": 11.4499998093,
+    "low": 10.9511003494,
+    "close": 11.0500001907,
+    "volume": 453652.0,
+    "wedge_status": "none"
   }
 ]

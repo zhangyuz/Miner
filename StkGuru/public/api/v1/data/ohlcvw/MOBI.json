@@ -668,5 +668,15 @@
     "close": 8.3100004196,
     "volume": 65772.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "MOBI",
+    "open": 8.3100004196,
+    "high": 8.3299999237,
+    "low": 8.0399999619,
+    "close": 8.0900001526,
+    "volume": 80625.0,
+    "wedge_status": "none"
   }
 ]

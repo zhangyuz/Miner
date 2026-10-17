@@ -7508,5 +7508,15 @@
     "close": 4.75,
     "volume": 1972340.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,16,00,00,00,000000",
+    "ticker": "UA",
+    "open": 4.7899999619,
+    "high": 4.8249998093,
+    "low": 4.6100001335,
+    "close": 4.6300001144,
+    "volume": 1596876.0,
+    "wedge_status": "none"
   }
 ]

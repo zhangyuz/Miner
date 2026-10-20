@@ -7488,5 +7488,15 @@
     "close": 166.0,
     "volume": 921600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "GPOR",
+    "open": 165.7899932861,
+    "high": 167.1600036621,
+    "low": 162.8049926758,
+    "close": 163.0299987793,
+    "volume": 197487.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 25.3500003815,
     "volume": 2628322.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "MGY",
+    "open": 25.2299995422,
+    "high": 25.5,
+    "low": 25.1049995422,
+    "close": 25.4699993134,
+    "volume": 2107669.0,
+    "wedge_status": "none"
   }
 ]

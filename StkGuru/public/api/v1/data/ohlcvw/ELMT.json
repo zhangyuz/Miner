@@ -788,5 +788,15 @@
     "close": 18.9300003052,
     "volume": 333816.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "ELMT",
+    "open": 19.3600006104,
+    "high": 19.3600006104,
+    "low": 18.4950008392,
+    "close": 18.75,
+    "volume": 208436.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 50.5,
     "volume": 374967.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "KNF",
+    "open": 50.4399986267,
+    "high": 50.4500007629,
+    "low": 49.1399993896,
+    "close": 49.5800018311,
+    "volume": 512906.0,
+    "wedge_status": "none"
   }
 ]

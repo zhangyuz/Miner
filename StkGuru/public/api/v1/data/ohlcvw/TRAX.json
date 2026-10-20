@@ -908,5 +908,15 @@
     "close": 34.4599990845,
     "volume": 1041417.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "TRAX",
+    "open": 35.0,
+    "high": 37.2299995422,
+    "low": 35.0,
+    "close": 36.2799987793,
+    "volume": 1432598.0,
+    "wedge_status": "pop"
   }
 ]

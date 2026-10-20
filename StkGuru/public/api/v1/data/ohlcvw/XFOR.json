@@ -7488,5 +7488,15 @@
     "close": 2.5899999142,
     "volume": 967582.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "XFOR",
+    "open": 2.5999999046,
+    "high": 2.8199999332,
+    "low": 2.5799999237,
+    "close": 2.75,
+    "volume": 602983.0,
+    "wedge_status": "none"
   }
 ]

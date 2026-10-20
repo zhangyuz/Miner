@@ -7488,5 +7488,15 @@
     "close": 5.5900001526,
     "volume": 1282008.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "BKKT",
+    "open": 5.6900000572,
+    "high": 5.6898999214,
+    "low": 5.4200000763,
+    "close": 5.5,
+    "volume": 950372.0,
+    "wedge_status": "none"
   }
 ]

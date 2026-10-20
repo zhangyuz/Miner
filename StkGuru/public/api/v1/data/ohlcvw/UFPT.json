@@ -7478,5 +7478,15 @@
     "close": 291.6700134277,
     "volume": 82205.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "UFPT",
+    "open": 291.5,
+    "high": 295.5450134277,
+    "low": 289.0249938965,
+    "close": 293.25,
+    "volume": 98100.0,
+    "wedge_status": "none"
   }
 ]

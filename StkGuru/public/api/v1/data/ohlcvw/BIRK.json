@@ -7128,5 +7128,15 @@
     "close": 33.8499984741,
     "volume": 2728004.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "BIRK",
+    "open": 33.5,
+    "high": 33.7400016785,
+    "low": 32.5,
+    "close": 32.7099990845,
+    "volume": 4737052.0,
+    "wedge_status": "drop"
   }
 ]

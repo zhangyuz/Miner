@@ -7488,5 +7488,15 @@
     "close": 40.1699981689,
     "volume": 5603354.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "MP",
+    "open": 40.75,
+    "high": 40.75,
+    "low": 38.9249992371,
+    "close": 38.9500007629,
+    "volume": 4002089.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 16.75,
     "volume": 49611.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "FNRN",
+    "open": 16.7700004578,
+    "high": 16.8400001526,
+    "low": 16.3449993134,
+    "close": 16.3600006104,
+    "volume": 37852.0,
+    "wedge_status": "none"
   }
 ]

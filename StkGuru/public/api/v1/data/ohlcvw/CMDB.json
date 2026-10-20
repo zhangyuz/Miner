@@ -3238,5 +3238,15 @@
     "close": 19.5499992371,
     "volume": 51115.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "CMDB",
+    "open": 19.4500999451,
+    "high": 20.1350002289,
+    "low": 19.0,
+    "close": 19.3199996948,
+    "volume": 58713.0,
+    "wedge_status": "none"
   }
 ]

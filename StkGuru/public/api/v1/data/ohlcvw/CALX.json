@@ -7488,5 +7488,15 @@
     "close": 36.5,
     "volume": 923965.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "CALX",
+    "open": 36.6699981689,
+    "high": 36.5999984741,
+    "low": 35.5699996948,
+    "close": 35.6399993896,
+    "volume": 964048.0,
+    "wedge_status": "none"
   }
 ]

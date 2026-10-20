@@ -7488,5 +7488,15 @@
     "close": 1.5599999428,
     "volume": 3729585.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "NXH",
+    "open": 1.5399999619,
+    "high": 1.567800045,
+    "low": 1.4700000286,
+    "close": 1.5,
+    "volume": 2275219.0,
+    "wedge_status": "none"
   }
 ]

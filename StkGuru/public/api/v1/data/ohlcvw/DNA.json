@@ -7488,5 +7488,15 @@
     "close": 10.2700004578,
     "volume": 3549813.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "DNA",
+    "open": 10.3800001144,
+    "high": 10.5,
+    "low": 9.7600002289,
+    "close": 10.0699996948,
+    "volume": 2473630.0,
+    "wedge_status": "none"
   }
 ]

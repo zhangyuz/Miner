@@ -7488,5 +7488,15 @@
     "close": 454.6300048828,
     "volume": 2493123.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "SNPS",
+    "open": 462.0,
+    "high": 462.5,
+    "low": 453.049987793,
+    "close": 454.5799865723,
+    "volume": 1889820.0,
+    "wedge_status": "none"
   }
 ]

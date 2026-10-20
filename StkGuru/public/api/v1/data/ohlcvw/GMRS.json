@@ -648,5 +648,15 @@
     "close": 10.0,
     "volume": 533426.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "GMRS",
+    "open": 9.9799995422,
+    "high": 10.0900001526,
+    "low": 9.75,
+    "close": 9.9799995422,
+    "volume": 371527.0,
+    "wedge_status": "none"
   }
 ]

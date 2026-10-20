@@ -7478,5 +7478,15 @@
     "close": 90.1299972534,
     "volume": 152268.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "OTTR",
+    "open": 90.2699966431,
+    "high": 90.2699966431,
+    "low": 88.625,
+    "close": 88.8700027466,
+    "volume": 190360.0,
+    "wedge_status": "none"
   }
 ]

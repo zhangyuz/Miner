@@ -7488,5 +7488,15 @@
     "close": 5.1900000572,
     "volume": 883369.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "ASPN",
+    "open": 5.2699999809,
+    "high": 5.3434000015,
+    "low": 5.2150001526,
+    "close": 5.3200001717,
+    "volume": 810538.0,
+    "wedge_status": "none"
   }
 ]

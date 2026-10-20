@@ -7488,5 +7488,15 @@
     "close": 302.299987793,
     "volume": 1535736.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "CI",
+    "open": 299.0,
+    "high": 302.1350097656,
+    "low": 296.3200073242,
+    "close": 298.5,
+    "volume": 1222799.0,
+    "wedge_status": "none"
   }
 ]

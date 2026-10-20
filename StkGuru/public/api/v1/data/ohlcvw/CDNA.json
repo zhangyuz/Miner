@@ -7478,5 +7478,15 @@
     "close": 64.0,
     "volume": 1497639.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "CDNA",
+    "open": 65.0,
+    "high": 68.0500030518,
+    "low": 64.5550003052,
+    "close": 67.0800018311,
+    "volume": 990549.0,
+    "wedge_status": "none"
   }
 ]

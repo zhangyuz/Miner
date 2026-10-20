@@ -7488,5 +7488,15 @@
     "close": 21.7700004578,
     "volume": 1505923.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "MWA",
+    "open": 21.7900009155,
+    "high": 21.8899993896,
+    "low": 21.6200008392,
+    "close": 21.75,
+    "volume": 903211.0,
+    "wedge_status": "none"
   }
 ]

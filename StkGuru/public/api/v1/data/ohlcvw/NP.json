@@ -2188,5 +2188,15 @@
     "close": 29.3600006104,
     "volume": 370811.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "NP",
+    "open": 29.1599998474,
+    "high": 29.5400009155,
+    "low": 29.0,
+    "close": 29.2999992371,
+    "volume": 477634.0,
+    "wedge_status": "none"
   }
 ]

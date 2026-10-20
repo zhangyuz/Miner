@@ -7488,5 +7488,15 @@
     "close": 39.3600006104,
     "volume": 683276.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "SFBS",
+    "open": 39.2999992371,
+    "high": 39.4000015259,
+    "low": 38.5999984741,
+    "close": 38.75,
+    "volume": 440178.0,
+    "wedge_status": "none"
   }
 ]

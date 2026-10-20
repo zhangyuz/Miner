@@ -7488,5 +7488,15 @@
     "close": 3.0399999619,
     "volume": 3630457.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "RWT",
+    "open": 3.0399999619,
+    "high": 3.0399999619,
+    "low": 2.875,
+    "close": 2.9200000763,
+    "volume": 2549197.0,
+    "wedge_status": "none"
   }
 ]

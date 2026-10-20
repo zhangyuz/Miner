@@ -968,5 +968,15 @@
     "close": 44.2200012207,
     "volume": 794703.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,19,00,00,00,000000",
+    "ticker": "VGNT",
+    "open": 44.4900016785,
+    "high": 44.25,
+    "low": 43.5,
+    "close": 43.6899986267,
+    "volume": 424002.0,
+    "wedge_status": "none"
   }
 ]

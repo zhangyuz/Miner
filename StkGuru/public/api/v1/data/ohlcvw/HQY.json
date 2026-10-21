@@ -7488,5 +7488,15 @@
     "close": 93.0699996948,
     "volume": 532931.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "HQY",
+    "open": 93.5999984741,
+    "high": 96.75,
+    "low": 93.5999984741,
+    "close": 96.5999984741,
+    "volume": 560279.0,
+    "wedge_status": "none"
   }
 ]

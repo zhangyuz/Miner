@@ -7488,5 +7488,15 @@
     "close": 161.2400054932,
     "volume": 153808.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "ICUI",
+    "open": 162.4199981689,
+    "high": 164.0,
+    "low": 160.5700073242,
+    "close": 161.0800018311,
+    "volume": 158675.0,
+    "wedge_status": "none"
   }
 ]

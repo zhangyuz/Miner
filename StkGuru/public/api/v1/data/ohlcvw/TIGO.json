@@ -7488,5 +7488,15 @@
     "close": 79.2799987793,
     "volume": 796951.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "TIGO",
+    "open": 79.5,
+    "high": 80.6699981689,
+    "low": 78.9499969482,
+    "close": 79.7799987793,
+    "volume": 835000.0,
+    "wedge_status": "none"
   }
 ]

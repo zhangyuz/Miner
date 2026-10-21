@@ -7488,5 +7488,15 @@
     "close": 78.9300003052,
     "volume": 8475478.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "IRON",
+    "open": 79.2099990845,
+    "high": 80.0,
+    "low": 74.5199966431,
+    "close": 79.4800033569,
+    "volume": 2200609.0,
+    "wedge_status": "none"
   }
 ]

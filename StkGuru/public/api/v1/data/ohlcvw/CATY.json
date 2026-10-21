@@ -7488,5 +7488,15 @@
     "close": 59.6699981689,
     "volume": 405249.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "CATY",
+    "open": 59.75,
+    "high": 61.1399002075,
+    "low": 59.6500015259,
+    "close": 60.6699981689,
+    "volume": 331169.0,
+    "wedge_status": "none"
   }
 ]

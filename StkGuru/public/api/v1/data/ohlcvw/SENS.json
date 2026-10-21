@@ -7498,5 +7498,15 @@
     "close": 8.0150003433,
     "volume": 417682.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "SENS",
+    "open": 8.0200004578,
+    "high": 8.3999996185,
+    "low": 7.9200000763,
+    "close": 8.2100000381,
+    "volume": 366168.0,
+    "wedge_status": "none"
   }
 ]

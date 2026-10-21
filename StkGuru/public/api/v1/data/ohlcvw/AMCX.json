@@ -7488,5 +7488,15 @@
     "close": 10.0399999619,
     "volume": 560100.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "AMCX",
+    "open": 10.1599998474,
+    "high": 10.25,
+    "low": 9.9856996536,
+    "close": 10.0500001907,
+    "volume": 736057.0,
+    "wedge_status": "none"
   }
 ]

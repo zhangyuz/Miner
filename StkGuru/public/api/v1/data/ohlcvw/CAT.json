@@ -7498,5 +7498,15 @@
     "close": 725.7899780273,
     "volume": 2413384.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "CAT",
+    "open": 711.0,
+    "high": 734.3800048828,
+    "low": 708.75,
+    "close": 725.2399902344,
+    "volume": 2610849.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 2.25,
     "volume": 501405.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "OKUR",
+    "open": 2.25,
+    "high": 2.4749999046,
+    "low": 2.25,
+    "close": 2.3599998951,
+    "volume": 230204.0,
+    "wedge_status": "none"
   }
 ]

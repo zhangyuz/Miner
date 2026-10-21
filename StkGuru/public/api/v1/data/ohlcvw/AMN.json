@@ -7498,5 +7498,15 @@
     "close": 40.5,
     "volume": 1601522.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "AMN",
+    "open": 40.5099983215,
+    "high": 41.8300018311,
+    "low": 40.0583000183,
+    "close": 41.6199989319,
+    "volume": 682059.0,
+    "wedge_status": "none"
   }
 ]

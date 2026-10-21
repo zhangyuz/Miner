@@ -7498,5 +7498,15 @@
     "close": 35.5,
     "volume": 278376.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "HIPO",
+    "open": 35.7299995422,
+    "high": 37.3339996338,
+    "low": 35.7000007629,
+    "close": 37.3300018311,
+    "volume": 678345.0,
+    "wedge_status": "none"
   }
 ]

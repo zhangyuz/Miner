@@ -7498,5 +7498,15 @@
     "close": 52.1899986267,
     "volume": 300431.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "OFG",
+    "open": 52.2400016785,
+    "high": 53.375,
+    "low": 52.4500007629,
+    "close": 52.9500007629,
+    "volume": 279047.0,
+    "wedge_status": "none"
   }
 ]

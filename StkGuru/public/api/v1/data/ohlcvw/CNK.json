@@ -7498,5 +7498,15 @@
     "close": 39.0,
     "volume": 2389686.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "CNK",
+    "open": 39.0900001526,
+    "high": 40.3549995422,
+    "low": 39.1399993896,
+    "close": 40.1500015259,
+    "volume": 2868450.0,
+    "wedge_status": "none"
   }
 ]

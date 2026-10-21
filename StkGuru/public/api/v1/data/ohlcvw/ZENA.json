@@ -4698,5 +4698,15 @@
     "close": 1.0399999619,
     "volume": 1181833.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "ZENA",
+    "open": 1.0299999714,
+    "high": 1.0650000572,
+    "low": 1.0,
+    "close": 1.0099999905,
+    "volume": 1205645.0,
+    "wedge_status": "none"
   }
 ]

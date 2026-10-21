@@ -7498,5 +7498,15 @@
     "close": 15.1499996185,
     "volume": 53493.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "NREF",
+    "open": 15.1899995804,
+    "high": 15.6899995804,
+    "low": 15.279999733,
+    "close": 15.5,
+    "volume": 47333.0,
+    "wedge_status": "none"
   }
 ]

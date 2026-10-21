@@ -7498,5 +7498,15 @@
     "close": 65.2699966431,
     "volume": 4631558.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "FOXA",
+    "open": 65.5999984741,
+    "high": 67.1500015259,
+    "low": 65.4599990845,
+    "close": 67.0,
+    "volume": 4830475.0,
+    "wedge_status": "none"
   }
 ]

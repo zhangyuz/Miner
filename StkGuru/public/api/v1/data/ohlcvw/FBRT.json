@@ -7498,5 +7498,15 @@
     "close": 5.9499998093,
     "volume": 1005764.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "FBRT",
+    "open": 5.9600000381,
+    "high": 6.1750001907,
+    "low": 5.9800000191,
+    "close": 6.0900001526,
+    "volume": 838686.0,
+    "wedge_status": "none"
   }
 ]

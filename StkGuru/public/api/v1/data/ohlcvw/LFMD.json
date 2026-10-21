@@ -7488,5 +7488,15 @@
     "close": 2.25,
     "volume": 784412.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "LFMD",
+    "open": 2.2699999809,
+    "high": 2.3550000191,
+    "low": 2.2100000381,
+    "close": 2.2449998856,
+    "volume": 699687.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 7.5,
     "volume": 5058718.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "LBTYA",
+    "open": 7.5700001717,
+    "high": 8.0150003433,
+    "low": 7.5700001717,
+    "close": 7.9800000191,
+    "volume": 6320012.0,
+    "wedge_status": "none"
   }
 ]

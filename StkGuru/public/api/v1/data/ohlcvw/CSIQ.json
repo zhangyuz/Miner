@@ -7498,5 +7498,15 @@
     "close": 9.5699996948,
     "volume": 1911297.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "CSIQ",
+    "open": 9.5,
+    "high": 10.0500001907,
+    "low": 9.4899997711,
+    "close": 9.7700004578,
+    "volume": 1311424.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 1.0099999905,
     "volume": 164604.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "RDZN",
+    "open": 0.9909999967,
+    "high": 1.0750000477,
+    "low": 0.9900000095,
+    "close": 1.0599999428,
+    "volume": 439294.0,
+    "wedge_status": "none"
   }
 ]

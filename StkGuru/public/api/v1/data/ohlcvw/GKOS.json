@@ -7498,5 +7498,15 @@
     "close": 166.9600067139,
     "volume": 723867.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "GKOS",
+    "open": 168.0,
+    "high": 176.0599975586,
+    "low": 168.0,
+    "close": 173.4299926758,
+    "volume": 608402.0,
+    "wedge_status": "none"
   }
 ]

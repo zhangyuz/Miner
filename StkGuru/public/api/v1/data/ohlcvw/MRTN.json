@@ -7488,5 +7488,15 @@
     "close": 12.5,
     "volume": 490533.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "MRTN",
+    "open": 12.4600000381,
+    "high": 12.8000001907,
+    "low": 12.4399995804,
+    "close": 12.5200004578,
+    "volume": 547088.0,
+    "wedge_status": "none"
   }
 ]

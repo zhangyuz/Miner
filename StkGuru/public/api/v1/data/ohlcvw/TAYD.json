@@ -7498,5 +7498,15 @@
     "close": 53.5,
     "volume": 28340.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "TAYD",
+    "open": 53.9449996948,
+    "high": 55.0950012207,
+    "low": 53.1599998474,
+    "close": 55.0,
+    "volume": 18106.0,
+    "wedge_status": "none"
   }
 ]

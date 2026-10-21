@@ -2278,5 +2278,15 @@
     "close": 17.7600002289,
     "volume": 1256709.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "PTRN",
+    "open": 17.75,
+    "high": 18.1499004364,
+    "low": 17.5900001526,
+    "close": 18.1299991608,
+    "volume": 894142.0,
+    "wedge_status": "none"
   }
 ]

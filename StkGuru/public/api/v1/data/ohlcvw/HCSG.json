@@ -7488,5 +7488,15 @@
     "close": 21.1100006104,
     "volume": 722697.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "HCSG",
+    "open": 21.2700004578,
+    "high": 21.5400009155,
+    "low": 21.1599998474,
+    "close": 21.5,
+    "volume": 744901.0,
+    "wedge_status": "pop"
   }
 ]

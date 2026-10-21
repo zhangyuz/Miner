@@ -1398,5 +1398,15 @@
     "close": 4.75,
     "volume": 3477252.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "DCH",
+    "open": 4.6599998474,
+    "high": 4.9250001907,
+    "low": 4.5949997902,
+    "close": 4.8600001335,
+    "volume": 5495115.0,
+    "wedge_status": "none"
   }
 ]

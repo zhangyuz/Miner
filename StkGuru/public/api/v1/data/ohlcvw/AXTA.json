@@ -7498,5 +7498,15 @@
     "close": 33.6800003052,
     "volume": 1503369.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "AXTA",
+    "open": 33.0600013733,
+    "high": 33.7890014648,
+    "low": 33.0200004578,
+    "close": 33.75,
+    "volume": 1440151.0,
+    "wedge_status": "none"
   }
 ]

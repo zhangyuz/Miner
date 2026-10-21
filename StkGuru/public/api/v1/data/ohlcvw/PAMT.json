@@ -7498,5 +7498,15 @@
     "close": 11.25,
     "volume": 13495.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "PAMT",
+    "open": 11.2399997711,
+    "high": 11.6295995712,
+    "low": 10.7100000381,
+    "close": 10.7100000381,
+    "volume": 20990.0,
+    "wedge_status": "none"
   }
 ]

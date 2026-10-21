@@ -7498,5 +7498,15 @@
     "close": 2.2400000095,
     "volume": 578009.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "UIS",
+    "open": 2.25,
+    "high": 2.2750000954,
+    "low": 2.2100000381,
+    "close": 2.2200000286,
+    "volume": 663962.0,
+    "wedge_status": "none"
   }
 ]

@@ -2328,5 +2328,15 @@
     "close": 32.9500007629,
     "volume": 394078.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "VIA",
+    "open": 33.3199996948,
+    "high": 34.125,
+    "low": 33.0400009155,
+    "close": 34.0299987793,
+    "volume": 529613.0,
+    "wedge_status": "none"
   }
 ]

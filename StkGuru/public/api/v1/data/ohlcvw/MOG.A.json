@@ -7498,5 +7498,15 @@
     "close": 369.75,
     "volume": 176591.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "MOG.A",
+    "open": 366.049987793,
+    "high": 372.674987793,
+    "low": 360.5599975586,
+    "close": 364.4299926758,
+    "volume": 233331.0,
+    "wedge_status": "none"
   }
 ]

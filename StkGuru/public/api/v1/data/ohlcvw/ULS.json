@@ -5878,5 +5878,15 @@
     "close": 73.0100021362,
     "volume": 744424.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "ULS",
+    "open": 73.75,
+    "high": 73.9798965454,
+    "low": 72.4000015259,
+    "close": 73.3600006104,
+    "volume": 745526.0,
+    "wedge_status": "none"
   }
 ]

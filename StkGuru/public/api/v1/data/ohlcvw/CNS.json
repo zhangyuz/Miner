@@ -7498,5 +7498,15 @@
     "close": 68.4000015259,
     "volume": 419924.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "CNS",
+    "open": 69.0,
+    "high": 72.1999969482,
+    "low": 69.0,
+    "close": 72.0299987793,
+    "volume": 533929.0,
+    "wedge_status": "none"
   }
 ]

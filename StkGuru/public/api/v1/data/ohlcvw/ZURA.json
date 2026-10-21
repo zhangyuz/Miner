@@ -7498,5 +7498,15 @@
     "close": 3.8099999428,
     "volume": 4546418.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "ZURA",
+    "open": 3.8299999237,
+    "high": 4.2100000381,
+    "low": 3.8099999428,
+    "close": 4.0,
+    "volume": 3309427.0,
+    "wedge_status": "none"
   }
 ]

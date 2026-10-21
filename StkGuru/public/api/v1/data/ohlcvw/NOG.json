@@ -7498,5 +7498,15 @@
     "close": 27.75,
     "volume": 1861126.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "NOG",
+    "open": 28.0,
+    "high": 28.0,
+    "low": 27.0505008698,
+    "close": 27.5400009155,
+    "volume": 2038243.0,
+    "wedge_status": "none"
   }
 ]

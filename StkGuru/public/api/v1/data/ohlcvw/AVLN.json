@@ -748,5 +748,15 @@
     "close": 23.3299999237,
     "volume": 179992.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "AVLN",
+    "open": 23.0799999237,
+    "high": 24.75,
+    "low": 22.2399997711,
+    "close": 24.6299991608,
+    "volume": 217517.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 4.6199998856,
     "volume": 158724.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "OSG",
+    "open": 4.6300001144,
+    "high": 4.75,
+    "low": 4.6599998474,
+    "close": 4.75,
+    "volume": 205317.0,
+    "wedge_status": "pop"
   }
 ]

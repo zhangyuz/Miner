@@ -7498,5 +7498,15 @@
     "close": 5.0,
     "volume": 5103551.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "COUR",
+    "open": 5.0300002098,
+    "high": 5.1799998283,
+    "low": 5.0199999809,
+    "close": 5.0700001717,
+    "volume": 4808498.0,
+    "wedge_status": "none"
   }
 ]

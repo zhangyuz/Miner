@@ -7488,5 +7488,15 @@
     "close": 6.0799999237,
     "volume": 201517.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,20,00,00,00,000000",
+    "ticker": "RNAC",
+    "open": 6.0900001526,
+    "high": 6.5250000954,
+    "low": 6.0710000992,
+    "close": 6.3949999809,
+    "volume": 166285.0,
+    "wedge_status": "none"
   }
 ]

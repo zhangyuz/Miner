@@ -7508,5 +7508,15 @@
     "close": 2.5499999523,
     "volume": 9908092.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "NAUT",
+    "open": 2.5,
+    "high": 2.8250000477,
+    "low": 2.5,
+    "close": 2.7100000381,
+    "volume": 8581292.0,
+    "wedge_status": "none"
   }
 ]

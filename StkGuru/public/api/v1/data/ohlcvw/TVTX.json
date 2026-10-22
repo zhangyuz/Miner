@@ -7498,5 +7498,15 @@
     "close": 52.2999992371,
     "volume": 1886724.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "TVTX",
+    "open": 52.5,
+    "high": 54.8300018311,
+    "low": 52.5,
+    "close": 52.5800018311,
+    "volume": 2164172.0,
+    "wedge_status": "none"
   }
 ]

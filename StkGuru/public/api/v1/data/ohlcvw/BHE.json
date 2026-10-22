@@ -7508,5 +7508,15 @@
     "close": 70.4300003052,
     "volume": 220481.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "BHE",
+    "open": 71.6299972534,
+    "high": 71.7919998169,
+    "low": 70.25,
+    "close": 71.25,
+    "volume": 366430.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 61.0699996948,
     "volume": 359533.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "ESTA",
+    "open": 61.5,
+    "high": 63.4000015259,
+    "low": 61.0800018311,
+    "close": 62.2799987793,
+    "volume": 474801.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 283.6400146484,
     "volume": 229041.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "AIZ",
+    "open": 285.1799926758,
+    "high": 286.0,
+    "low": 283.25,
+    "close": 284.5599975586,
+    "volume": 139901.0,
+    "wedge_status": "none"
   }
 ]

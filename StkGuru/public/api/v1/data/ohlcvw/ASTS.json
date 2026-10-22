@@ -7498,5 +7498,15 @@
     "close": 41.1300010681,
     "volume": 13907917.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "ASTS",
+    "open": 41.75,
+    "high": 42.6850013733,
+    "low": 40.5800018311,
+    "close": 40.9000015259,
+    "volume": 10123545.0,
+    "wedge_status": "none"
   }
 ]

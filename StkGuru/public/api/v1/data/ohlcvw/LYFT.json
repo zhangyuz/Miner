@@ -7498,5 +7498,15 @@
     "close": 17.25,
     "volume": 9021374.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "LYFT",
+    "open": 17.2299995422,
+    "high": 17.3500003815,
+    "low": 16.7900009155,
+    "close": 16.7900009155,
+    "volume": 10950842.0,
+    "wedge_status": "none"
   }
 ]

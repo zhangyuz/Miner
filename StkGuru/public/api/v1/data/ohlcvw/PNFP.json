@@ -7508,5 +7508,15 @@
     "close": 95.2900009155,
     "volume": 1236111.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "PNFP",
+    "open": 96.0,
+    "high": 98.6399993896,
+    "low": 94.4599990845,
+    "close": 98.2099990845,
+    "volume": 2347643.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 5.5799999237,
     "volume": 31392212.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "SMR",
+    "open": 5.6700000763,
+    "high": 5.7600002289,
+    "low": 5.4600000381,
+    "close": 5.5,
+    "volume": 27185374.0,
+    "wedge_status": "none"
   }
 ]

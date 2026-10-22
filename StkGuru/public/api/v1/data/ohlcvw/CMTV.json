@@ -7508,5 +7508,15 @@
     "close": 41.75,
     "volume": 31457.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "CMTV",
+    "open": 42.1399993896,
+    "high": 42.1399993896,
+    "low": 40.4099998474,
+    "close": 41.4300003052,
+    "volume": 18204.0,
+    "wedge_status": "none"
   }
 ]

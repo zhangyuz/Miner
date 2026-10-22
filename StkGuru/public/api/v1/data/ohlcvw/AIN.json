@@ -7508,5 +7508,15 @@
     "close": 64.4300003052,
     "volume": 363052.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "AIN",
+    "open": 64.7099990845,
+    "high": 65.3700027466,
+    "low": 63.1399993896,
+    "close": 65.0,
+    "volume": 281367.0,
+    "wedge_status": "none"
   }
 ]

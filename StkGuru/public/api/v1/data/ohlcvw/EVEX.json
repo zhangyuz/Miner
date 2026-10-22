@@ -7508,5 +7508,15 @@
     "close": 1.6499999762,
     "volume": 865576.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "EVEX",
+    "open": 1.6900000572,
+    "high": 1.7150000334,
+    "low": 1.6299999952,
+    "close": 1.6299999952,
+    "volume": 666016.0,
+    "wedge_status": "none"
   }
 ]

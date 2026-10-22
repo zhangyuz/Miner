@@ -338,5 +338,15 @@
     "close": 26.2800006866,
     "volume": 361676.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "LIME",
+    "open": 26.2600002289,
+    "high": 28.8999996185,
+    "low": 26.25,
+    "close": 27.6499996185,
+    "volume": 402909.0,
+    "wedge_status": "none"
   }
 ]

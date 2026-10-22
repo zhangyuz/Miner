@@ -7508,5 +7508,15 @@
     "close": 63.5,
     "volume": 1465441.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "EMN",
+    "open": 63.3699989319,
+    "high": 63.5699996948,
+    "low": 62.5299987793,
+    "close": 63.5,
+    "volume": 1695514.0,
+    "wedge_status": "none"
   }
 ]

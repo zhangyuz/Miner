@@ -7508,5 +7508,15 @@
     "close": 112.6200027466,
     "volume": 3142093.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "PAYX",
+    "open": 111.75,
+    "high": 113.5149993896,
+    "low": 111.6849975586,
+    "close": 112.5,
+    "volume": 1745165.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 10.2299995422,
     "volume": 1058097.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "CRVS",
+    "open": 10.25,
+    "high": 10.5900001526,
+    "low": 10.0100002289,
+    "close": 10.0500001907,
+    "volume": 868564.0,
+    "wedge_status": "none"
   }
 ]

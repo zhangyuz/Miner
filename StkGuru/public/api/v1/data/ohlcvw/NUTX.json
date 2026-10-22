@@ -7498,5 +7498,15 @@
     "close": 198.9900054932,
     "volume": 101809.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "NUTX",
+    "open": 199.75,
+    "high": 200.3350067139,
+    "low": 195.4600067139,
+    "close": 197.6100006104,
+    "volume": 73579.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 246.5200042725,
     "volume": 5427601.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "MCD",
+    "open": 246.0,
+    "high": 246.8500061035,
+    "low": 243.3291931152,
+    "close": 246.25,
+    "volume": 4525533.0,
+    "wedge_status": "none"
   }
 ]

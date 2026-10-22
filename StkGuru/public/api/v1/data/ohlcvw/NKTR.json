@@ -7508,5 +7508,15 @@
     "close": 39.2200012207,
     "volume": 983487.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "NKTR",
+    "open": 39.0900001526,
+    "high": 40.3499984741,
+    "low": 38.25,
+    "close": 38.2700004578,
+    "volume": 619421.0,
+    "wedge_status": "none"
   }
 ]

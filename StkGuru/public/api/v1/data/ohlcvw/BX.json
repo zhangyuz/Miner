@@ -7508,5 +7508,15 @@
     "close": 110.3300018311,
     "volume": 6231681.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "BX",
+    "open": 111.7399978638,
+    "high": 112.0,
+    "low": 109.0,
+    "close": 109.6600036621,
+    "volume": 5436905.0,
+    "wedge_status": "none"
   }
 ]

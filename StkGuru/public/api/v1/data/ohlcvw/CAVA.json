@@ -7508,5 +7508,15 @@
     "close": 57.4500007629,
     "volume": 2758623.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "CAVA",
+    "open": 57.0,
+    "high": 57.4749984741,
+    "low": 54.5499992371,
+    "close": 55.0,
+    "volume": 2144619.0,
+    "wedge_status": "none"
   }
 ]

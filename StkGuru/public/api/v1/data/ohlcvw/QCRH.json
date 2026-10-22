@@ -7498,5 +7498,15 @@
     "close": 99.3899993896,
     "volume": 182100.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "QCRH",
+    "open": 99.5,
+    "high": 101.0100021362,
+    "low": 98.0199966431,
+    "close": 99.4700012207,
+    "volume": 152411.0,
+    "wedge_status": "none"
   }
 ]

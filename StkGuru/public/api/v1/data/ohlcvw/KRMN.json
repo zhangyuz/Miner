@@ -3788,5 +3788,15 @@
     "close": 35.0299987793,
     "volume": 3904352.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,21,00,00,00,000000",
+    "ticker": "KRMN",
+    "open": 35.3199996948,
+    "high": 36.0,
+    "low": 34.6106987,
+    "close": 35.2700004578,
+    "volume": 3169589.0,
+    "wedge_status": "none"
   }
 ]

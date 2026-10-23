@@ -7508,5 +7508,15 @@
     "close": 42.9599990845,
     "volume": 1367762.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "MUR",
+    "open": 43.75,
+    "high": 43.75,
+    "low": 41.1599998474,
+    "close": 42.3699989319,
+    "volume": 1783075.0,
+    "wedge_status": "none"
   }
 ]

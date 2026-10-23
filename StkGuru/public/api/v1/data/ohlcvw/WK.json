@@ -7508,5 +7508,15 @@
     "close": 80.3099975586,
     "volume": 705665.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "WK",
+    "open": 81.0,
+    "high": 85.0899963379,
+    "low": 81.0,
+    "close": 85.0400009155,
+    "volume": 838699.0,
+    "wedge_status": "none"
   }
 ]

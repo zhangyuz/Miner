@@ -7508,5 +7508,15 @@
     "close": 66.4100036621,
     "volume": 634240.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "QTWO",
+    "open": 67.0,
+    "high": 69.4400024414,
+    "low": 66.6100006104,
+    "close": 69.3399963379,
+    "volume": 1030478.0,
+    "wedge_status": "none"
   }
 ]

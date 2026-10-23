@@ -7498,5 +7498,15 @@
     "close": 66.0,
     "volume": 3267612.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "AMBA",
+    "open": 63.0900001526,
+    "high": 65.3999023438,
+    "low": 62.0801010132,
+    "close": 63.1199989319,
+    "volume": 1030311.0,
+    "wedge_status": "none"
   }
 ]

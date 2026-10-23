@@ -5948,5 +5948,15 @@
     "close": 8.3500003815,
     "volume": 1116667.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "CTNM",
+    "open": 8.3199996948,
+    "high": 8.7498998642,
+    "low": 8.1201000214,
+    "close": 8.3950004578,
+    "volume": 498752.0,
+    "wedge_status": "none"
   }
 ]

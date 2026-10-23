@@ -7508,5 +7508,15 @@
     "close": 258.4200134277,
     "volume": 1116971.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "AJG",
+    "open": 260.0,
+    "high": 271.0,
+    "low": 257.5202941895,
+    "close": 270.8900146484,
+    "volume": 1680294.0,
+    "wedge_status": "none"
   }
 ]

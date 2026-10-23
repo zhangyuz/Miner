@@ -7508,5 +7508,15 @@
     "close": 52.8100013733,
     "volume": 8508727.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "FITB",
+    "open": 52.3400001526,
+    "high": 53.5,
+    "low": 52.3400001526,
+    "close": 53.2299995422,
+    "volume": 6231694.0,
+    "wedge_status": "none"
   }
 ]

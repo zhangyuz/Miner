@@ -7508,5 +7508,15 @@
     "close": 5.8049998283,
     "volume": 485950.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "OBIO",
+    "open": 5.7199997902,
+    "high": 5.7894001007,
+    "low": 5.4299998283,
+    "close": 5.4699997902,
+    "volume": 390873.0,
+    "wedge_status": "drop"
   }
 ]

@@ -3118,5 +3118,15 @@
     "close": 112.0,
     "volume": 2742451.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "HNGE",
+    "open": 112.5899963379,
+    "high": 113.4800033569,
+    "low": 108.5,
+    "close": 109.9300003052,
+    "volume": 2263936.0,
+    "wedge_status": "none"
   }
 ]

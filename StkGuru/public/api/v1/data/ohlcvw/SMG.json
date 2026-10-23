@@ -7508,5 +7508,15 @@
     "close": 55.9300003052,
     "volume": 976975.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "SMG",
+    "open": 55.5499992371,
+    "high": 59.25,
+    "low": 55.5149993896,
+    "close": 59.1500015259,
+    "volume": 1184336.0,
+    "wedge_status": "none"
   }
 ]

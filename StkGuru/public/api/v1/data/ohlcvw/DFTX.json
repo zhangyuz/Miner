@@ -7498,5 +7498,15 @@
     "close": 35.4900016785,
     "volume": 2906137.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "DFTX",
+    "open": 35.2799987793,
+    "high": 36.2200012207,
+    "low": 35.0900001526,
+    "close": 36.0,
+    "volume": 2092869.0,
+    "wedge_status": "none"
   }
 ]

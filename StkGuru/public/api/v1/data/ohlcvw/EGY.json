@@ -7508,5 +7508,15 @@
     "close": 6.25,
     "volume": 1232127.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "EGY",
+    "open": 6.2899999619,
+    "high": 6.3099999428,
+    "low": 6.0199999809,
+    "close": 6.2300000191,
+    "volume": 1480643.0,
+    "wedge_status": "none"
   }
 ]

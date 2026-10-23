@@ -7508,5 +7508,15 @@
     "close": 40.1300010681,
     "volume": 2562058.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "ORI",
+    "open": 40.0,
+    "high": 40.7799987793,
+    "low": 39.0499992371,
+    "close": 40.0800018311,
+    "volume": 2814529.0,
+    "wedge_status": "none"
   }
 ]

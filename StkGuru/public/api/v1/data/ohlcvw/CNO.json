@@ -7508,5 +7508,15 @@
     "close": 55.4099998474,
     "volume": 956285.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "CNO",
+    "open": 55.0999984741,
+    "high": 55.5999984741,
+    "low": 54.7999992371,
+    "close": 55.5,
+    "volume": 1009251.0,
+    "wedge_status": "none"
   }
 ]

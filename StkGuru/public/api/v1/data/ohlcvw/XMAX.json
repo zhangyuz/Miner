@@ -7508,5 +7508,15 @@
     "close": 8.5,
     "volume": 743337.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "XMAX",
+    "open": 8.5100002289,
+    "high": 8.9399995804,
+    "low": 8.4899997711,
+    "close": 8.75,
+    "volume": 940423.0,
+    "wedge_status": "none"
   }
 ]

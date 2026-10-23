@@ -7508,5 +7508,15 @@
     "close": 5.2699999809,
     "volume": 140878.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "SND",
+    "open": 5.2399997711,
+    "high": 5.25,
+    "low": 4.7199997902,
+    "close": 4.75,
+    "volume": 338227.0,
+    "wedge_status": "drop"
   }
 ]

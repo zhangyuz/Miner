@@ -7508,5 +7508,15 @@
     "close": 3.4700000286,
     "volume": 1110632.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "TBLA",
+    "open": 3.4500000477,
+    "high": 3.5,
+    "low": 3.4400000572,
+    "close": 3.4700000286,
+    "volume": 946325.0,
+    "wedge_status": "none"
   }
 ]

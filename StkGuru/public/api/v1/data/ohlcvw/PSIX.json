@@ -7498,5 +7498,15 @@
     "close": 51.8499984741,
     "volume": 357401.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "PSIX",
+    "open": 49.4300003052,
+    "high": 49.6949996948,
+    "low": 46.5,
+    "close": 47.1699981689,
+    "volume": 621236.0,
+    "wedge_status": "drop"
   }
 ]

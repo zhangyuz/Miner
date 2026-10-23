@@ -7508,5 +7508,15 @@
     "close": 114.0,
     "volume": 5171631.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "HAS",
+    "open": 113.9300003052,
+    "high": 117.25,
+    "low": 112.7601013184,
+    "close": 117.2300033569,
+    "volume": 3425392.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 82.0,
     "volume": 1998704.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "RBA",
+    "open": 81.8499984741,
+    "high": 85.1200027466,
+    "low": 82.0049972534,
+    "close": 84.3899993896,
+    "volume": 1922785.0,
+    "wedge_status": "none"
   }
 ]

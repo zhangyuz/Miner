@@ -7508,5 +7508,15 @@
     "close": 81.8099975586,
     "volume": 1656671.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,22,00,00,00,000000",
+    "ticker": "GGG",
+    "open": 73.1100006104,
+    "high": 74.5,
+    "low": 67.7350006104,
+    "close": 69.2799987793,
+    "volume": 5675130.0,
+    "wedge_status": "drop"
   }
 ]

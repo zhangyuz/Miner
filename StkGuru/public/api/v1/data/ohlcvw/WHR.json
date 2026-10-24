@@ -7508,5 +7508,15 @@
     "close": 28.7999992371,
     "volume": 4916717.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "WHR",
+    "open": 28.1800003052,
+    "high": 28.6000003815,
+    "low": 27.5,
+    "close": 28.1100006104,
+    "volume": 2773335.0,
+    "wedge_status": "none"
   }
 ]

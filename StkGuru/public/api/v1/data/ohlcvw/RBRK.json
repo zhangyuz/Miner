@@ -5818,5 +5818,15 @@
     "close": 120.75,
     "volume": 2288128.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "RBRK",
+    "open": 121.0,
+    "high": 130.8200073242,
+    "low": 119.3707962036,
+    "close": 128.7400054932,
+    "volume": 4022943.0,
+    "wedge_status": "none"
   }
 ]

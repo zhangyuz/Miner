@@ -1978,5 +1978,15 @@
     "close": 17.0,
     "volume": 317238.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "XZO",
+    "open": 17.0599994659,
+    "high": 17.1700000763,
+    "low": 16.7600002289,
+    "close": 16.9200000763,
+    "volume": 178512.0,
+    "wedge_status": "none"
   }
 ]

@@ -388,5 +388,15 @@
     "close": 41.1899986267,
     "volume": 542574.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "MFP",
+    "open": 41.25,
+    "high": 42.3400001526,
+    "low": 40.1904983521,
+    "close": 41.8100013733,
+    "volume": 425075.0,
+    "wedge_status": "none"
   }
 ]

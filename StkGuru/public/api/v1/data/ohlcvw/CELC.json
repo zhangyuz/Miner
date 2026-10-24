@@ -7498,5 +7498,15 @@
     "close": 65.5699996948,
     "volume": 1931647.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "CELC",
+    "open": 65.5699996948,
+    "high": 66.2799987793,
+    "low": 63.4900016785,
+    "close": 65.25,
+    "volume": 1314657.0,
+    "wedge_status": "none"
   }
 ]

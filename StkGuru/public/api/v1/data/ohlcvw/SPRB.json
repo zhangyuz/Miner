@@ -7508,5 +7508,15 @@
     "close": 46.0,
     "volume": 126489.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "SPRB",
+    "open": 45.6199989319,
+    "high": 46.0999984741,
+    "low": 43.3400001526,
+    "close": 45.1500015259,
+    "volume": 73815.0,
+    "wedge_status": "none"
   }
 ]

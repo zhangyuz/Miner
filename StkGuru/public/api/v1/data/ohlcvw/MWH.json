@@ -1308,5 +1308,15 @@
     "close": 21.5300006866,
     "volume": 2257495.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "MWH",
+    "open": 21.4599990845,
+    "high": 21.75,
+    "low": 20.2950000763,
+    "close": 21.375,
+    "volume": 1591216.0,
+    "wedge_status": "none"
   }
 ]

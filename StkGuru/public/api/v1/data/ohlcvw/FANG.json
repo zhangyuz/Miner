@@ -7508,5 +7508,15 @@
     "close": 197.1399993896,
     "volume": 1945065.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "FANG",
+    "open": 198.9900054932,
+    "high": 207.1699981689,
+    "low": 197.75,
+    "close": 205.75,
+    "volume": 1413346.0,
+    "wedge_status": "none"
   }
 ]

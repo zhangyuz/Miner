@@ -1528,5 +1528,15 @@
     "close": 16.7600002289,
     "volume": 186963.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "AKTS",
+    "open": 16.5,
+    "high": 16.6100006104,
+    "low": 15.6520996094,
+    "close": 15.7299995422,
+    "volume": 241572.0,
+    "wedge_status": "none"
   }
 ]

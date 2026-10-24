@@ -7498,5 +7498,15 @@
     "close": 15.4600000381,
     "volume": 2752368.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "PENN",
+    "open": 15.25,
+    "high": 15.2950000763,
+    "low": 14.3427000046,
+    "close": 14.5,
+    "volume": 4047278.0,
+    "wedge_status": "none"
   }
 ]

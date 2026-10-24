@@ -7508,5 +7508,15 @@
     "close": 20.6499996185,
     "volume": 495588.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "NX",
+    "open": 20.2600002289,
+    "high": 20.2350006104,
+    "low": 19.8099994659,
+    "close": 20.0,
+    "volume": 404011.0,
+    "wedge_status": "none"
   }
 ]

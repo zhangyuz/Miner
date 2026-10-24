@@ -7498,5 +7498,15 @@
     "close": 10.5,
     "volume": 32252.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "FINW",
+    "open": 10.470000267,
+    "high": 10.7600002289,
+    "low": 10.25,
+    "close": 10.7600002289,
+    "volume": 52948.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 193.3500061035,
     "volume": 421904.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "HURN",
+    "open": 200.0,
+    "high": 203.3699951172,
+    "low": 193.8849945068,
+    "close": 195.6900024414,
+    "volume": 776435.0,
+    "wedge_status": "none"
   }
 ]

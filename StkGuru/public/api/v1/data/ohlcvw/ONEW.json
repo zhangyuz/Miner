@@ -7498,5 +7498,15 @@
     "close": 9.5200004578,
     "volume": 81664.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "ONEW",
+    "open": 9.3599996567,
+    "high": 9.5550003052,
+    "low": 9.0500001907,
+    "close": 9.3699998856,
+    "volume": 58471.0,
+    "wedge_status": "none"
   }
 ]

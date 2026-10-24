@@ -7508,5 +7508,15 @@
     "close": 4.7300000191,
     "volume": 586637.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "SSTK",
+    "open": 4.5900001526,
+    "high": 4.6500000954,
+    "low": 4.5300002098,
+    "close": 4.5900001526,
+    "volume": 427226.0,
+    "wedge_status": "none"
   }
 ]

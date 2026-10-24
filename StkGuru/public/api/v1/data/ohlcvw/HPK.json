@@ -7498,5 +7498,15 @@
     "close": 11.2100000381,
     "volume": 537447.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "HPK",
+    "open": 11.3699998856,
+    "high": 11.9099998474,
+    "low": 11.25,
+    "close": 11.5699996948,
+    "volume": 540350.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 88.75,
     "volume": 102125.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "IMKTA",
+    "open": 88.0999984741,
+    "high": 88.6350021362,
+    "low": 86.9749984741,
+    "close": 87.8799972534,
+    "volume": 92945.0,
+    "wedge_status": "none"
   }
 ]

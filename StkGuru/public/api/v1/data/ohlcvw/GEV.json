@@ -5998,5 +5998,15 @@
     "close": 827.4199829102,
     "volume": 5783619.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "GEV",
+    "open": 825.0,
+    "high": 832.1799926758,
+    "low": 796.4149780273,
+    "close": 815.0,
+    "volume": 3851101.0,
+    "wedge_status": "none"
   }
 ]

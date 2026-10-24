@@ -7508,5 +7508,15 @@
     "close": 53.6599998474,
     "volume": 153243.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "KFRC",
+    "open": 54.1699981689,
+    "high": 58.5800018311,
+    "low": 54.4249992371,
+    "close": 58.5,
+    "volume": 358708.0,
+    "wedge_status": "none"
   }
 ]

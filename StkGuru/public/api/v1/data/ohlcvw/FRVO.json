@@ -688,5 +688,15 @@
     "close": 8.25,
     "volume": 7888230.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "FRVO",
+    "open": 8.1400003433,
+    "high": 8.2749996185,
+    "low": 7.8299999237,
+    "close": 8.0399999619,
+    "volume": 5957987.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 178.2299957275,
     "volume": 11464748.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "XOM",
+    "open": 179.3699951172,
+    "high": 183.75,
+    "low": 179.0,
+    "close": 183.2100067139,
+    "volume": 11460332.0,
+    "wedge_status": "none"
   }
 ]

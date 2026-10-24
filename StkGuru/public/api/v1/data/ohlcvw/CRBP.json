@@ -7508,5 +7508,15 @@
     "close": 4.1300001144,
     "volume": 981095.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "CRBP",
+    "open": 4.0799999237,
+    "high": 4.0799999237,
+    "low": 3.9300000668,
+    "close": 4.0500001907,
+    "volume": 372540.0,
+    "wedge_status": "none"
   }
 ]

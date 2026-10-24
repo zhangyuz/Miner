@@ -7508,5 +7508,15 @@
     "close": 1.6000000238,
     "volume": 821478.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "ADCT",
+    "open": 1.5800000429,
+    "high": 1.5800000429,
+    "low": 1.4299999475,
+    "close": 1.4400000572,
+    "volume": 1044943.0,
+    "wedge_status": "none"
   }
 ]

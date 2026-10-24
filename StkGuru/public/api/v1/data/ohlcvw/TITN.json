@@ -7498,5 +7498,15 @@
     "close": 22.9899997711,
     "volume": 164840.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "TITN",
+    "open": 22.6399993896,
+    "high": 23.25,
+    "low": 22.3349990845,
+    "close": 23.1200008392,
+    "volume": 127068.0,
+    "wedge_status": "pop"
   }
 ]

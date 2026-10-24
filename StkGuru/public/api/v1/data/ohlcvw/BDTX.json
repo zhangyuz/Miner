@@ -7508,5 +7508,15 @@
     "close": 2.0799999237,
     "volume": 790953.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "BDTX",
+    "open": 2.0499999523,
+    "high": 2.0499999523,
+    "low": 1.8300000429,
+    "close": 1.8799999952,
+    "volume": 927807.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 2.3699998856,
     "volume": 141526.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "RENT",
+    "open": 2.3299999237,
+    "high": 2.3898999691,
+    "low": 2.190500021,
+    "close": 2.2999999523,
+    "volume": 309147.0,
+    "wedge_status": "none"
   }
 ]

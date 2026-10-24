@@ -7498,5 +7498,15 @@
     "close": 21.5,
     "volume": 46217.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "CZWI",
+    "open": 21.3999996185,
+    "high": 21.4899997711,
+    "low": 21.1900005341,
+    "close": 21.4200000763,
+    "volume": 23212.0,
+    "wedge_status": "none"
   }
 ]

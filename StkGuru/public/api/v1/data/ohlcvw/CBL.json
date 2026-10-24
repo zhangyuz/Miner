@@ -7508,5 +7508,15 @@
     "close": 49.8300018311,
     "volume": 155397.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "CBL",
+    "open": 49.9500007629,
+    "high": 50.0,
+    "low": 49.3199996948,
+    "close": 49.9099998474,
+    "volume": 111298.0,
+    "wedge_status": "none"
   }
 ]

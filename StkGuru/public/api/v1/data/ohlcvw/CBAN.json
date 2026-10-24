@@ -7508,5 +7508,15 @@
     "close": 20.25,
     "volume": 148192.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "CBAN",
+    "open": 20.0599994659,
+    "high": 20.5,
+    "low": 20.1399993896,
+    "close": 20.3600006104,
+    "volume": 126738.0,
+    "wedge_status": "none"
   }
 ]

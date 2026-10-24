@@ -7498,5 +7498,15 @@
     "close": 8.1000003815,
     "volume": 1091862.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "CRMD",
+    "open": 8.0100002289,
+    "high": 8.1099996567,
+    "low": 7.7899999619,
+    "close": 7.8499999046,
+    "volume": 894232.0,
+    "wedge_status": "none"
   }
 ]

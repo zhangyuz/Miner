@@ -7508,5 +7508,15 @@
     "close": 5.6100001335,
     "volume": 34758.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "VATE",
+    "open": 5.5300002098,
+    "high": 5.5999999046,
+    "low": 5.4499998093,
+    "close": 5.5999999046,
+    "volume": 49664.0,
+    "wedge_status": "none"
   }
 ]

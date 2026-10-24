@@ -7508,5 +7508,15 @@
     "close": 40.75,
     "volume": 173320.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "KOP",
+    "open": 40.3699989319,
+    "high": 40.75,
+    "low": 39.3100013733,
+    "close": 40.1800003052,
+    "volume": 216941.0,
+    "wedge_status": "none"
   }
 ]

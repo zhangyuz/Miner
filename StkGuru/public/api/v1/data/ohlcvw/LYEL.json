@@ -7508,5 +7508,15 @@
     "close": 9.3800001144,
     "volume": 93161.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,23,00,00,00,000000",
+    "ticker": "LYEL",
+    "open": 9.3299999237,
+    "high": 9.4449996948,
+    "low": 9.0500001907,
+    "close": 9.3900003433,
+    "volume": 101635.0,
+    "wedge_status": "none"
   }
 ]

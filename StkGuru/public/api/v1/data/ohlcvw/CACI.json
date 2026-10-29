@@ -7478,5 +7478,35 @@
     "close": 633.9799804688,
     "volume": 339443.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "CACI",
+    "open": 650.0,
+    "high": 674.4400024414,
+    "low": 650.0,
+    "close": 665.0,
+    "volume": 370500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "CACI",
+    "open": 655.0200195312,
+    "high": 668.75,
+    "low": 654.25,
+    "close": 666.2600097656,
+    "volume": 221200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "CACI",
+    "open": 659.6300048828,
+    "high": 666.5900268555,
+    "low": 654.9099731445,
+    "close": 666.2600097656,
+    "volume": 199300.0,
+    "wedge_status": "none"
   }
 ]

@@ -7478,5 +7478,35 @@
     "close": 95.6999969482,
     "volume": 734212.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "INGR",
+    "open": 95.8799972534,
+    "high": 96.2900009155,
+    "low": 95.0,
+    "close": 95.4300003052,
+    "volume": 705900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "INGR",
+    "open": 95.0,
+    "high": 95.3199996948,
+    "low": 93.9599990845,
+    "close": 94.7099990845,
+    "volume": 815600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "INGR",
+    "open": 94.2699966431,
+    "high": 94.5500030518,
+    "low": 93.3000030518,
+    "close": 94.25,
+    "volume": 895600.0,
+    "wedge_status": "none"
   }
 ]

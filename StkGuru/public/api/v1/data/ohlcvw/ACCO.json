@@ -7478,5 +7478,35 @@
     "close": 4.5700001717,
     "volume": 610200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "ACCO",
+    "open": 4.5799999237,
+    "high": 4.5900001526,
+    "low": 4.4499998093,
+    "close": 4.4800000191,
+    "volume": 1077100.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "ACCO",
+    "open": 4.4800000191,
+    "high": 4.5300002098,
+    "low": 4.4699997902,
+    "close": 4.4800000191,
+    "volume": 840900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "ACCO",
+    "open": 4.4800000191,
+    "high": 4.5,
+    "low": 4.3499999046,
+    "close": 4.3800001144,
+    "volume": 703900.0,
+    "wedge_status": "drop"
   }
 ]

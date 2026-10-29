@@ -7468,5 +7468,35 @@
     "close": 46.8400001526,
     "volume": 50033.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "RCKY",
+    "open": 46.6899986267,
+    "high": 46.9500007629,
+    "low": 45.5200004578,
+    "close": 45.7200012207,
+    "volume": 32200.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "RCKY",
+    "open": 46.0800018311,
+    "high": 46.0800018311,
+    "low": 44.4500007629,
+    "close": 44.5699996948,
+    "volume": 38500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "RCKY",
+    "open": 48.0,
+    "high": 50.25,
+    "low": 47.6599998474,
+    "close": 49.6899986267,
+    "volume": 142600.0,
+    "wedge_status": "none"
   }
 ]

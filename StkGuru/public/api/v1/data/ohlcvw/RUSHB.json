@@ -7468,5 +7468,35 @@
     "close": 57.3600006104,
     "volume": 114762.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "RUSHB",
+    "open": 57.5,
+    "high": 58.8100013733,
+    "low": 57.3699989319,
+    "close": 58.2000007629,
+    "volume": 56900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "RUSHB",
+    "open": 58.75,
+    "high": 59.5699996948,
+    "low": 57.4000015259,
+    "close": 59.2799987793,
+    "volume": 100100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "RUSHB",
+    "open": 60.5499992371,
+    "high": 62.6599998474,
+    "low": 53.3499984741,
+    "close": 54.2099990845,
+    "volume": 165600.0,
+    "wedge_status": "drop"
   }
 ]

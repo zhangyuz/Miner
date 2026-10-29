@@ -7468,5 +7468,35 @@
     "close": 6.5,
     "volume": 1855962.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "OCUL",
+    "open": 6.5,
+    "high": 6.6199998856,
+    "low": 6.4000000954,
+    "close": 6.4699997902,
+    "volume": 1690500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "OCUL",
+    "open": 6.4800000191,
+    "high": 6.75,
+    "low": 6.4200000763,
+    "close": 6.7199997902,
+    "volume": 2215300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "OCUL",
+    "open": 6.6799998283,
+    "high": 7.3400001526,
+    "low": 6.5999999046,
+    "close": 7.2899999619,
+    "volume": 2851700.0,
+    "wedge_status": "none"
   }
 ]

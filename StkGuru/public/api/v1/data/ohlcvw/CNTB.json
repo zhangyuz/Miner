@@ -7478,5 +7478,35 @@
     "close": 0.7664999962,
     "volume": 341420.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "CNTB",
+    "open": 0.7850000262,
+    "high": 0.8859999776,
+    "low": 0.75,
+    "close": 0.8489999771,
+    "volume": 1746700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "CNTB",
+    "open": 0.8399999738,
+    "high": 0.8560000062,
+    "low": 0.8080000281,
+    "close": 0.8429999948,
+    "volume": 570400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "CNTB",
+    "open": 0.8330000043,
+    "high": 0.8579999804,
+    "low": 0.8199999928,
+    "close": 0.8450000286,
+    "volume": 357800.0,
+    "wedge_status": "none"
   }
 ]

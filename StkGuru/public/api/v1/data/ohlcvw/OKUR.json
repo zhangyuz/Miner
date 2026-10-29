@@ -7478,5 +7478,35 @@
     "close": 2.5199999809,
     "volume": 240838.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "OKUR",
+    "open": 2.5899999142,
+    "high": 2.625,
+    "low": 2.3800001144,
+    "close": 2.4749999046,
+    "volume": 258100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "OKUR",
+    "open": 2.4900000095,
+    "high": 2.7200000286,
+    "low": 2.4749999046,
+    "close": 2.5950000286,
+    "volume": 320200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "OKUR",
+    "open": 2.5599999428,
+    "high": 2.6610000134,
+    "low": 2.4600000381,
+    "close": 2.6300001144,
+    "volume": 282600.0,
+    "wedge_status": "none"
   }
 ]

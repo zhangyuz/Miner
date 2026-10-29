@@ -7478,5 +7478,35 @@
     "close": 8.1800003052,
     "volume": 6154985.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "AMPX",
+    "open": 8.1199998856,
+    "high": 8.4650001526,
+    "low": 8.0500001907,
+    "close": 8.3500003815,
+    "volume": 3855800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "AMPX",
+    "open": 8.529999733,
+    "high": 8.9200000763,
+    "low": 8.5,
+    "close": 8.8800001144,
+    "volume": 5185400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "AMPX",
+    "open": 8.9799995422,
+    "high": 9.1800003052,
+    "low": 8.7899999619,
+    "close": 9.1599998474,
+    "volume": 4297700.0,
+    "wedge_status": "none"
   }
 ]

@@ -1298,5 +1298,35 @@
     "close": 8.75,
     "volume": 4010830.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "INFQ",
+    "open": 8.6899995804,
+    "high": 8.8800001144,
+    "low": 8.4499998093,
+    "close": 8.6300001144,
+    "volume": 3448400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "INFQ",
+    "open": 8.8599996567,
+    "high": 9.8000001907,
+    "low": 8.8400001526,
+    "close": 9.7399997711,
+    "volume": 8204800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "INFQ",
+    "open": 9.75,
+    "high": 9.8400001526,
+    "low": 9.3599996567,
+    "close": 9.6300001144,
+    "volume": 5915300.0,
+    "wedge_status": "none"
   }
 ]

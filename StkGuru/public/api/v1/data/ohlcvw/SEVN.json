@@ -7468,5 +7468,35 @@
     "close": 6.1950001717,
     "volume": 140392.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "SEVN",
+    "open": 6.2100000381,
+    "high": 6.3099999428,
+    "low": 6.1799998283,
+    "close": 6.2600002289,
+    "volume": 192800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "SEVN",
+    "open": 6.2600002289,
+    "high": 6.3099999428,
+    "low": 6.1999998093,
+    "close": 6.25,
+    "volume": 159400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "SEVN",
+    "open": 6.4400000572,
+    "high": 6.7199997902,
+    "low": 6.3499999046,
+    "close": 6.6399998665,
+    "volume": 281500.0,
+    "wedge_status": "none"
   }
 ]

@@ -7468,5 +7468,35 @@
     "close": 30.0,
     "volume": 121116.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "MVBF",
+    "open": 30.0100002289,
+    "high": 30.3500003815,
+    "low": 29.9799995422,
+    "close": 30.1100006104,
+    "volume": 48800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "MVBF",
+    "open": 30.25,
+    "high": 30.25,
+    "low": 29.7000007629,
+    "close": 29.8899993896,
+    "volume": 48000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "MVBF",
+    "open": 29.6100006104,
+    "high": 29.9349994659,
+    "low": 29.2549991608,
+    "close": 29.6399993896,
+    "volume": 51500.0,
+    "wedge_status": "none"
   }
 ]

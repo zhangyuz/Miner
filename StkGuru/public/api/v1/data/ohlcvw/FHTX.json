@@ -7468,5 +7468,35 @@
     "close": 2.0,
     "volume": 486822.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "FHTX",
+    "open": 1.9900000095,
+    "high": 2.0599999428,
+    "low": 1.9299999475,
+    "close": 2.0499999523,
+    "volume": 509700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "FHTX",
+    "open": 2.0399999619,
+    "high": 2.0899999142,
+    "low": 1.9900000095,
+    "close": 2.0499999523,
+    "volume": 874700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "FHTX",
+    "open": 2.0399999619,
+    "high": 2.1300001144,
+    "low": 2.0299999714,
+    "close": 2.1300001144,
+    "volume": 483300.0,
+    "wedge_status": "none"
   }
 ]

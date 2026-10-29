@@ -7478,5 +7478,25 @@
     "close": 331.0,
     "volume": 1150383.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "COR",
+    "open": 331.6000061035,
+    "high": 335.450012207,
+    "low": 329.1700134277,
+    "close": 330.0,
+    "volume": 993500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "COR",
+    "open": 327.7699890137,
+    "high": 330.1499938965,
+    "low": 325.0,
+    "close": 325.3699951172,
+    "volume": 1123100.0,
+    "wedge_status": "none"
   }
 ]

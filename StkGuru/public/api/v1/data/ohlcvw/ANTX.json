@@ -7478,5 +7478,35 @@
     "close": 3.5499999523,
     "volume": 124417.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "ANTX",
+    "open": 3.5499999523,
+    "high": 3.7000000477,
+    "low": 3.5,
+    "close": 3.6300001144,
+    "volume": 196000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "ANTX",
+    "open": 3.6099998951,
+    "high": 3.8900001049,
+    "low": 3.5399999619,
+    "close": 3.8599998951,
+    "volume": 239600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "ANTX",
+    "open": 3.8599998951,
+    "high": 4.5999999046,
+    "low": 3.8499999046,
+    "close": 4.5199999809,
+    "volume": 545200.0,
+    "wedge_status": "none"
   }
 ]

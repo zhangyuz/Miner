@@ -7468,5 +7468,35 @@
     "close": 215.75,
     "volume": 57972.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "PNRG",
+    "open": 213.0,
+    "high": 219.0399932861,
+    "low": 211.6799926758,
+    "close": 218.1699981689,
+    "volume": 55300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "PNRG",
+    "open": 216.3300018311,
+    "high": 220.5,
+    "low": 216.3300018311,
+    "close": 220.4299926758,
+    "volume": 46700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "PNRG",
+    "open": 224.9600067139,
+    "high": 227.2700042725,
+    "low": 223.0,
+    "close": 227.2700042725,
+    "volume": 43500.0,
+    "wedge_status": "none"
   }
 ]

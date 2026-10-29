@@ -7478,5 +7478,25 @@
     "close": 230.5,
     "volume": 3888821.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "DHR",
+    "open": 230.9400024414,
+    "high": 233.9499969482,
+    "low": 230.6000061035,
+    "close": 232.9700012207,
+    "volume": 3121000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "DHR",
+    "open": 231.0,
+    "high": 234.0,
+    "low": 229.3200073242,
+    "close": 232.0,
+    "volume": 2498100.0,
+    "wedge_status": "none"
   }
 ]

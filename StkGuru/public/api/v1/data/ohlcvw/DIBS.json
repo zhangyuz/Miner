@@ -7478,5 +7478,35 @@
     "close": 4.5300002098,
     "volume": 115649.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "DIBS",
+    "open": 4.5300002098,
+    "high": 4.7399997711,
+    "low": 4.3049998283,
+    "close": 4.5999999046,
+    "volume": 164600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "DIBS",
+    "open": 4.6100001335,
+    "high": 4.7699999809,
+    "low": 4.5,
+    "close": 4.7399997711,
+    "volume": 99300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "DIBS",
+    "open": 4.7300000191,
+    "high": 4.8000001907,
+    "low": 4.5700001717,
+    "close": 4.7399997711,
+    "volume": 96300.0,
+    "wedge_status": "none"
   }
 ]

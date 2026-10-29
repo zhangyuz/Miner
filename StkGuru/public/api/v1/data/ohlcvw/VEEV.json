@@ -7478,5 +7478,35 @@
     "close": 323.0400085449,
     "volume": 1371014.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "VEEV",
+    "open": 323.0400085449,
+    "high": 325.8699951172,
+    "low": 316.9100036621,
+    "close": 318.1799926758,
+    "volume": 1122200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "VEEV",
+    "open": 315.5,
+    "high": 318.5100097656,
+    "low": 310.5,
+    "close": 313.4599914551,
+    "volume": 1356500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "VEEV",
+    "open": 310.0,
+    "high": 319.0,
+    "low": 308.5,
+    "close": 317.8200073242,
+    "volume": 1396900.0,
+    "wedge_status": "none"
   }
 ]

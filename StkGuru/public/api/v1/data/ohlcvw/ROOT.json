@@ -7468,5 +7468,35 @@
     "close": 52.8800010681,
     "volume": 182929.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "ROOT",
+    "open": 52.9300003052,
+    "high": 52.9650001526,
+    "low": 51.4500007629,
+    "close": 51.8300018311,
+    "volume": 81800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "ROOT",
+    "open": 52.1300010681,
+    "high": 52.5,
+    "low": 50.9399986267,
+    "close": 52.2900009155,
+    "volume": 124400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "ROOT",
+    "open": 52.25,
+    "high": 52.5900001526,
+    "low": 51.7799987793,
+    "close": 52.0999984741,
+    "volume": 91400.0,
+    "wedge_status": "none"
   }
 ]

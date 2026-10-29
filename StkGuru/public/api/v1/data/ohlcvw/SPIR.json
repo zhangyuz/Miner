@@ -7478,5 +7478,35 @@
     "close": 9.0600004196,
     "volume": 325149.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "SPIR",
+    "open": 9.1000003815,
+    "high": 9.404999733,
+    "low": 8.9799995422,
+    "close": 9.1400003433,
+    "volume": 409700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "SPIR",
+    "open": 9.279999733,
+    "high": 9.6599998474,
+    "low": 9.125,
+    "close": 9.5600004196,
+    "volume": 496900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "SPIR",
+    "open": 9.6499996185,
+    "high": 9.6899995804,
+    "low": 9.3699998856,
+    "close": 9.6499996185,
+    "volume": 399200.0,
+    "wedge_status": "none"
   }
 ]

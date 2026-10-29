@@ -7468,5 +7468,35 @@
     "close": 0.7609999776,
     "volume": 2127638.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "CMPX",
+    "open": 0.75,
+    "high": 0.7929999828,
+    "low": 0.7409999967,
+    "close": 0.746999979,
+    "volume": 2241900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "CMPX",
+    "open": 0.7519999743,
+    "high": 0.7850000262,
+    "low": 0.7300000191,
+    "close": 0.746999979,
+    "volume": 2208800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "CMPX",
+    "open": 0.7450000048,
+    "high": 0.7749999762,
+    "low": 0.7300000191,
+    "close": 0.7599999905,
+    "volume": 1795100.0,
+    "wedge_status": "none"
   }
 ]

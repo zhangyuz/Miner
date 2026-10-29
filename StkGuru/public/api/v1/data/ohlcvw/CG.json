@@ -7468,5 +7468,35 @@
     "close": 38.5900001526,
     "volume": 2498458.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "CG",
+    "open": 38.75,
+    "high": 39.1699981689,
+    "low": 38.5699996948,
+    "close": 38.75,
+    "volume": 2682500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "CG",
+    "open": 39.1599998474,
+    "high": 39.25,
+    "low": 38.5,
+    "close": 38.5299987793,
+    "volume": 2239600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "CG",
+    "open": 38.5,
+    "high": 39.0999984741,
+    "low": 38.2599983215,
+    "close": 39.0600013733,
+    "volume": 2008700.0,
+    "wedge_status": "none"
   }
 ]

@@ -7478,5 +7478,35 @@
     "close": 5.5999999046,
     "volume": 49664.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "VATE",
+    "open": 5.5799999237,
+    "high": 5.7100000381,
+    "low": 5.4099998474,
+    "close": 5.6399998665,
+    "volume": 63000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "VATE",
+    "open": 5.7100000381,
+    "high": 6.0399999619,
+    "low": 5.6199998856,
+    "close": 5.9600000381,
+    "volume": 85400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "VATE",
+    "open": 5.9699997902,
+    "high": 6.25,
+    "low": 5.7600002289,
+    "close": 6.0100002289,
+    "volume": 84700.0,
+    "wedge_status": "none"
   }
 ]

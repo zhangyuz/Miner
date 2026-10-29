@@ -7478,5 +7478,35 @@
     "close": 2.9600000381,
     "volume": 10509098.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "NUAI",
+    "open": 2.8399999142,
+    "high": 3.1199998856,
+    "low": 2.75,
+    "close": 2.9700000286,
+    "volume": 7255600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "NUAI",
+    "open": 3.0299999714,
+    "high": 3.2799999714,
+    "low": 2.9500000477,
+    "close": 3.25,
+    "volume": 7785100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "NUAI",
+    "open": 3.3099999428,
+    "high": 3.3399999142,
+    "low": 3.1900000572,
+    "close": 3.3299999237,
+    "volume": 5392600.0,
+    "wedge_status": "none"
   }
 ]

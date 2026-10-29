@@ -7478,5 +7478,35 @@
     "close": 5.0700001717,
     "volume": 275591.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "LAW",
+    "open": 5.0900001526,
+    "high": 5.0949997902,
+    "low": 4.8800001144,
+    "close": 5.0,
+    "volume": 220300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "LAW",
+    "open": 5.0199999809,
+    "high": 5.0700001717,
+    "low": 4.9099998474,
+    "close": 5.0399999619,
+    "volume": 200200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "LAW",
+    "open": 5.0,
+    "high": 5.2600002289,
+    "low": 5.0,
+    "close": 5.25,
+    "volume": 345500.0,
+    "wedge_status": "none"
   }
 ]

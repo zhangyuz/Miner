@@ -7468,5 +7468,35 @@
     "close": 74.8700027466,
     "volume": 498488.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "MRCY",
+    "open": 75.6800003052,
+    "high": 80.5,
+    "low": 74.9100036621,
+    "close": 79.7099990845,
+    "volume": 621700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "MRCY",
+    "open": 80.5,
+    "high": 80.5,
+    "low": 77.8099975586,
+    "close": 78.5500030518,
+    "volume": 954200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "MRCY",
+    "open": 78.7799987793,
+    "high": 79.3300018311,
+    "low": 77.0299987793,
+    "close": 78.5800018311,
+    "volume": 653400.0,
+    "wedge_status": "pop"
   }
 ]

@@ -7478,5 +7478,35 @@
     "close": 33.3499984741,
     "volume": 563270.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "PAY",
+    "open": 33.1199989319,
+    "high": 33.4500007629,
+    "low": 32.0,
+    "close": 32.5200004578,
+    "volume": 457800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "PAY",
+    "open": 32.3499984741,
+    "high": 32.6599998474,
+    "low": 31.6700000763,
+    "close": 31.8700008392,
+    "volume": 678500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "PAY",
+    "open": 32.25,
+    "high": 32.25,
+    "low": 31.172000885,
+    "close": 31.6200008392,
+    "volume": 514800.0,
+    "wedge_status": "none"
   }
 ]

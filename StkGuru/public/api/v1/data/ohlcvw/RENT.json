@@ -7478,5 +7478,35 @@
     "close": 2.2999999523,
     "volume": 309147.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "RENT",
+    "open": 3.0,
+    "high": 3.0999999046,
+    "low": 2.6300001144,
+    "close": 2.8199999332,
+    "volume": 26145800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "RENT",
+    "open": 2.8900001049,
+    "high": 3.0599999428,
+    "low": 2.4600000381,
+    "close": 2.7000000477,
+    "volume": 2566400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "RENT",
+    "open": 2.6600000858,
+    "high": 2.7100000381,
+    "low": 2.5399999619,
+    "close": 2.6900000572,
+    "volume": 403600.0,
+    "wedge_status": "none"
   }
 ]

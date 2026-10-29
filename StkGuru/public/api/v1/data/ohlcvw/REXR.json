@@ -7478,5 +7478,35 @@
     "close": 38.7099990845,
     "volume": 7052508.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "REXR",
+    "open": 38.6500015259,
+    "high": 38.6699981689,
+    "low": 37.8899993896,
+    "close": 38.0,
+    "volume": 2699700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "REXR",
+    "open": 38.0900001526,
+    "high": 38.3800010681,
+    "low": 37.8199996948,
+    "close": 38.2799987793,
+    "volume": 3506100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "REXR",
+    "open": 38.25,
+    "high": 38.25,
+    "low": 36.8300018311,
+    "close": 37.1300010681,
+    "volume": 2483700.0,
+    "wedge_status": "none"
   }
 ]

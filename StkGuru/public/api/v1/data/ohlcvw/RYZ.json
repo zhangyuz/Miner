@@ -7478,5 +7478,35 @@
     "close": 28.0,
     "volume": 534084.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,26,00,00,00,000000",
+    "ticker": "RYZ",
+    "open": 28.1800003052,
+    "high": 28.9899997711,
+    "low": 27.9400005341,
+    "close": 28.0300006866,
+    "volume": 407000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,27,00,00,00,000000",
+    "ticker": "RYZ",
+    "open": 28.5,
+    "high": 29.4699993134,
+    "low": 28.3519992828,
+    "close": 29.3400001526,
+    "volume": 409300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,28,00,00,00,000000",
+    "ticker": "RYZ",
+    "open": 29.1399993896,
+    "high": 30.0,
+    "low": 28.9400005341,
+    "close": 29.6700000763,
+    "volume": 523500.0,
+    "wedge_status": "none"
   }
 ]

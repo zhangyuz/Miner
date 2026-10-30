@@ -7508,5 +7508,15 @@
     "close": 3.5399999619,
     "volume": 141200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "GALT",
+    "open": 3.6099998951,
+    "high": 3.7000000477,
+    "low": 3.4477000237,
+    "close": 3.5199999809,
+    "volume": 263857.0,
+    "wedge_status": "none"
   }
 ]

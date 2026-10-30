@@ -7508,5 +7508,15 @@
     "close": 9.220000267,
     "volume": 905300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "CHPT",
+    "open": 9.1499996185,
+    "high": 9.3900003433,
+    "low": 9.0200004578,
+    "close": 9.2700004578,
+    "volume": 594189.0,
+    "wedge_status": "none"
   }
 ]

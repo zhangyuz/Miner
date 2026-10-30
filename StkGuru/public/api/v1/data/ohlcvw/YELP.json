@@ -7508,5 +7508,15 @@
     "close": 18.4200000763,
     "volume": 1460800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "YELP",
+    "open": 18.25,
+    "high": 19.0,
+    "low": 17.9699993134,
+    "close": 18.9599990845,
+    "volume": 1148299.0,
+    "wedge_status": "none"
   }
 ]

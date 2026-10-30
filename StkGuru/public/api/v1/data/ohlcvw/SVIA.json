@@ -3058,5 +3058,15 @@
     "close": 3.4549999237,
     "volume": 1037800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "SVIA",
+    "open": 3.3900001049,
+    "high": 3.5,
+    "low": 3.2400000095,
+    "close": 3.2999999523,
+    "volume": 694825.0,
+    "wedge_status": "none"
   }
 ]

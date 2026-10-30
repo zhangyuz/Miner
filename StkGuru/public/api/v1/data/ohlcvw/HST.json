@@ -7498,5 +7498,15 @@
     "close": 25.2199993134,
     "volume": 8321800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "HST",
+    "open": 25.6000003815,
+    "high": 25.8600006104,
+    "low": 25.5,
+    "close": 25.7000007629,
+    "volume": 6136556.0,
+    "wedge_status": "none"
   }
 ]

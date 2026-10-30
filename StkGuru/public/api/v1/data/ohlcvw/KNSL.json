@@ -7508,5 +7508,15 @@
     "close": 358.4200134277,
     "volume": 229100.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "KNSL",
+    "open": 360.5400085449,
+    "high": 366.0,
+    "low": 358.3800048828,
+    "close": 362.9400024414,
+    "volume": 282569.0,
+    "wedge_status": "none"
   }
 ]

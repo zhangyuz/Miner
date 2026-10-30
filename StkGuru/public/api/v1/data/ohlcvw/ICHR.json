@@ -7498,5 +7498,15 @@
     "close": 43.0800018311,
     "volume": 1001200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "ICHR",
+    "open": 42.2700004578,
+    "high": 44.0999984741,
+    "low": 41.5,
+    "close": 42.4300003052,
+    "volume": 682575.0,
+    "wedge_status": "none"
   }
 ]

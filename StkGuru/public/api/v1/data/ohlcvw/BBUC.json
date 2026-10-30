@@ -7508,5 +7508,15 @@
     "close": 28.0200004578,
     "volume": 442200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "BBUC",
+    "open": 28.3700008392,
+    "high": 29.0,
+    "low": 27.9850006104,
+    "close": 28.6800003052,
+    "volume": 412268.0,
+    "wedge_status": "none"
   }
 ]

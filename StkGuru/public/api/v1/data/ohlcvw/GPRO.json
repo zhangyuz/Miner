@@ -7508,5 +7508,15 @@
     "close": 1.0299999714,
     "volume": 2080500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "GPRO",
+    "open": 1.0290000439,
+    "high": 1.0290000439,
+    "low": 1.0,
+    "close": 1.0,
+    "volume": 2891413.0,
+    "wedge_status": "none"
   }
 ]

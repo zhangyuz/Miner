@@ -7508,5 +7508,15 @@
     "close": 1.1399999857,
     "volume": 536400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "PLBY",
+    "open": 1.1100000143,
+    "high": 1.1699999571,
+    "low": 1.0950000286,
+    "close": 1.1699999571,
+    "volume": 647074.0,
+    "wedge_status": "none"
   }
 ]

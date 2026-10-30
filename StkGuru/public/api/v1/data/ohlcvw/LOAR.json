@@ -5858,5 +5858,15 @@
     "close": 61.25,
     "volume": 1076400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "LOAR",
+    "open": 62.0,
+    "high": 65.8989028931,
+    "low": 62.1699981689,
+    "close": 64.8099975586,
+    "volume": 977528.0,
+    "wedge_status": "none"
   }
 ]

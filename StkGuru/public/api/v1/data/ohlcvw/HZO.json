@@ -7508,5 +7508,15 @@
     "close": 52.5,
     "volume": 722000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "HZO",
+    "open": 52.5400009155,
+    "high": 52.5900001526,
+    "low": 52.4700012207,
+    "close": 52.5900001526,
+    "volume": 351164.0,
+    "wedge_status": "none"
   }
 ]

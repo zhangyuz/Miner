@@ -7498,5 +7498,15 @@
     "close": 42.0600013733,
     "volume": 4544700.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "MTCH",
+    "open": 41.9599990845,
+    "high": 42.9300003052,
+    "low": 41.625,
+    "close": 42.6500015259,
+    "volume": 2773402.0,
+    "wedge_status": "none"
   }
 ]

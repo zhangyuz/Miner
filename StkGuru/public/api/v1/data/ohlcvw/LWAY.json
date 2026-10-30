@@ -7498,5 +7498,15 @@
     "close": 22.7999992371,
     "volume": 101300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "LWAY",
+    "open": 23.0,
+    "high": 23.4221992493,
+    "low": 22.9799995422,
+    "close": 23.2199993134,
+    "volume": 60020.0,
+    "wedge_status": "none"
   }
 ]

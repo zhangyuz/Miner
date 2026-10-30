@@ -7498,5 +7498,15 @@
     "close": 253.5,
     "volume": 5276100.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "NXPI",
+    "open": 249.5399932861,
+    "high": 266.9800109863,
+    "low": 246.6000061035,
+    "close": 266.0,
+    "volume": 5807119.0,
+    "wedge_status": "none"
   }
 ]

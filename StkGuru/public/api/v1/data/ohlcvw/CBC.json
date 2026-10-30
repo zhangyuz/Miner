@@ -1888,5 +1888,15 @@
     "close": 35.25,
     "volume": 819500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "CBC",
+    "open": 35.5,
+    "high": 35.9749984741,
+    "low": 34.9199981689,
+    "close": 35.8600006104,
+    "volume": 1026760.0,
+    "wedge_status": "none"
   }
 ]

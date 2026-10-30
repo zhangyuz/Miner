@@ -4758,5 +4758,15 @@
     "close": 17.7800006866,
     "volume": 361800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "FVR",
+    "open": 18.0,
+    "high": 18.5799999237,
+    "low": 17.7800006866,
+    "close": 18.5400009155,
+    "volume": 478841.0,
+    "wedge_status": "none"
   }
 ]

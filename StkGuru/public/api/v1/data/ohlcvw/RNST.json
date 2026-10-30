@@ -7508,5 +7508,15 @@
     "close": 40.1899986267,
     "volume": 1454700.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "RNST",
+    "open": 40.0600013733,
+    "high": 40.6800003052,
+    "low": 40.0,
+    "close": 40.2599983215,
+    "volume": 1146992.0,
+    "wedge_status": "none"
   }
 ]

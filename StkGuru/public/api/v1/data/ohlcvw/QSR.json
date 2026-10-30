@@ -7508,5 +7508,15 @@
     "close": 74.5199966431,
     "volume": 2177500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "QSR",
+    "open": 75.25,
+    "high": 74.875,
+    "low": 71.6600036621,
+    "close": 73.0100021362,
+    "volume": 5224236.0,
+    "wedge_status": "drop"
   }
 ]

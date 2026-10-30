@@ -7498,5 +7498,15 @@
     "close": 12.5799999237,
     "volume": 69056000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "AAL",
+    "open": 12.75,
+    "high": 13.0,
+    "low": 12.6300001144,
+    "close": 12.779999733,
+    "volume": 63032071.0,
+    "wedge_status": "none"
   }
 ]

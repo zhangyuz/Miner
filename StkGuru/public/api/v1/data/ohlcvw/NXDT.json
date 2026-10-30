@@ -7508,5 +7508,15 @@
     "close": 5.2399997711,
     "volume": 220000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "NXDT",
+    "open": 5.25,
+    "high": 5.2699999809,
+    "low": 4.1649999619,
+    "close": 4.3099999428,
+    "volume": 488723.0,
+    "wedge_status": "drop"
   }
 ]

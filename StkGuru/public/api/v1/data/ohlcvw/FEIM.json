@@ -7498,5 +7498,15 @@
     "close": 71.5899963379,
     "volume": 128900.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "FEIM",
+    "open": 71.75,
+    "high": 74.3099975586,
+    "low": 70.6999969482,
+    "close": 71.7799987793,
+    "volume": 149512.0,
+    "wedge_status": "none"
   }
 ]

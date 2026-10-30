@@ -7508,5 +7508,15 @@
     "close": 85.25,
     "volume": 642000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "PVH",
+    "open": 87.0,
+    "high": 88.5250015259,
+    "low": 86.4599990845,
+    "close": 88.2699966431,
+    "volume": 717845.0,
+    "wedge_status": "none"
   }
 ]

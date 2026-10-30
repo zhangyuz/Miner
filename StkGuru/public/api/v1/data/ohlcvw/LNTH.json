@@ -7498,5 +7498,15 @@
     "close": 100.0999984741,
     "volume": 1404800.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "LNTH",
+    "open": 100.5,
+    "high": 100.5,
+    "low": 100.1699981689,
+    "close": 100.3199996948,
+    "volume": 771628.0,
+    "wedge_status": "pop"
   }
 ]

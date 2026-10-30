@@ -7498,5 +7498,15 @@
     "close": 324.6199951172,
     "volume": 773100.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "SAIA",
+    "open": 348.0,
+    "high": 348.9899902344,
+    "low": 319.5799865723,
+    "close": 343.0700073242,
+    "volume": 780579.0,
+    "wedge_status": "none"
   }
 ]

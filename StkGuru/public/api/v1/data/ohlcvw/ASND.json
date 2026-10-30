@@ -7508,5 +7508,15 @@
     "close": 249.5500030518,
     "volume": 660200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "ASND",
+    "open": 250.6199951172,
+    "high": 254.1999969482,
+    "low": 249.5599975586,
+    "close": 253.0,
+    "volume": 491396.0,
+    "wedge_status": "none"
   }
 ]

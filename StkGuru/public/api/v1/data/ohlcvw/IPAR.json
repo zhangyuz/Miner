@@ -7498,5 +7498,15 @@
     "close": 114.2399978638,
     "volume": 190000.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "IPAR",
+    "open": 115.1999969482,
+    "high": 115.8300018311,
+    "low": 114.0599975586,
+    "close": 115.5,
+    "volume": 211674.0,
+    "wedge_status": "none"
   }
 ]

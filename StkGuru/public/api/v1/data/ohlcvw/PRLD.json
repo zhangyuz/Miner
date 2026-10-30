@@ -7508,5 +7508,15 @@
     "close": 4.1399998665,
     "volume": 475100.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "PRLD",
+    "open": 4.1599998474,
+    "high": 4.25,
+    "low": 4.0749998093,
+    "close": 4.0999999046,
+    "volume": 201318.0,
+    "wedge_status": "none"
   }
 ]

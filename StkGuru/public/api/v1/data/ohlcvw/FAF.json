@@ -7508,5 +7508,15 @@
     "close": 63.5499992371,
     "volume": 911600.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "FAF",
+    "open": 64.0,
+    "high": 64.8499984741,
+    "low": 63.3149986267,
+    "close": 63.7200012207,
+    "volume": 1302108.0,
+    "wedge_status": "none"
   }
 ]

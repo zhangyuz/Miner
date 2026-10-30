@@ -7508,5 +7508,15 @@
     "close": 12.6199998856,
     "volume": 5238700.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "CWK",
+    "open": 12.7899999619,
+    "high": 13.2299995422,
+    "low": 12.5,
+    "close": 13.1099996567,
+    "volume": 5228489.0,
+    "wedge_status": "none"
   }
 ]

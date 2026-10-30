@@ -1328,5 +1328,15 @@
     "close": 9.6300001144,
     "volume": 5915300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "INFQ",
+    "open": 9.3999996185,
+    "high": 9.5699996948,
+    "low": 9.251999855,
+    "close": 9.4300003052,
+    "volume": 3361160.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 218.5,
     "volume": 15725200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "BE",
+    "open": 221.0,
+    "high": 229.5,
+    "low": 219.0099945068,
+    "close": 222.3000030518,
+    "volume": 9401971.0,
+    "wedge_status": "none"
   }
 ]

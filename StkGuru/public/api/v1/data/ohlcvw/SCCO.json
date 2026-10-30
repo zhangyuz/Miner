@@ -7508,5 +7508,15 @@
     "close": 193.9100036621,
     "volume": 885200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "SCCO",
+    "open": 189.0,
+    "high": 193.1999969482,
+    "low": 187.3800048828,
+    "close": 191.75,
+    "volume": 1288595.0,
+    "wedge_status": "none"
   }
 ]

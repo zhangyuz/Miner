@@ -7508,5 +7508,15 @@
     "close": 29.0,
     "volume": 1082100.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "DMC",
+    "open": 29.2999992371,
+    "high": 29.7700004578,
+    "low": 26.5699996948,
+    "close": 27.7700004578,
+    "volume": 1426639.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 45.9799995422,
     "volume": 237500.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "UVE",
+    "open": 46.7000007629,
+    "high": 47.75,
+    "low": 46.8300018311,
+    "close": 47.5600013733,
+    "volume": 220051.0,
+    "wedge_status": "none"
   }
 ]

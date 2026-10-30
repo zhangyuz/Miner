@@ -7508,5 +7508,15 @@
     "close": 29.7199993134,
     "volume": 1604300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "HOMB",
+    "open": 30.0699996948,
+    "high": 30.2900009155,
+    "low": 30.0,
+    "close": 30.0900001526,
+    "volume": 1122492.0,
+    "wedge_status": "none"
   }
 ]

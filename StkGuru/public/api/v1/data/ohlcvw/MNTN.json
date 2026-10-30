@@ -3168,5 +3168,15 @@
     "close": 9.6800003052,
     "volume": 668200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,29,00,00,00,000000",
+    "ticker": "MNTN",
+    "open": 9.6899995804,
+    "high": 9.9399995804,
+    "low": 9.5649995804,
+    "close": 9.8400001526,
+    "volume": 654418.0,
+    "wedge_status": "none"
   }
 ]

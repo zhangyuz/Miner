@@ -7508,5 +7508,15 @@
     "close": 51.3400001526,
     "volume": 620608.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "IMAX",
+    "open": 51.7299995422,
+    "high": 54.0,
+    "low": 50.4599990845,
+    "close": 50.6100006104,
+    "volume": 569280.0,
+    "wedge_status": "none"
   }
 ]

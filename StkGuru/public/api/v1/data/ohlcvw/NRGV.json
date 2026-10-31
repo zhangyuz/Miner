@@ -7508,5 +7508,15 @@
     "close": 3.2699999809,
     "volume": 3615998.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "NRGV",
+    "open": 3.0299999714,
+    "high": 3.125,
+    "low": 2.9049999714,
+    "close": 3.0899999142,
+    "volume": 4720555.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 45.4900016785,
     "volume": 502940.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "MAN",
+    "open": 46.5,
+    "high": 46.4900016785,
+    "low": 44.6500015259,
+    "close": 46.2999992371,
+    "volume": 544515.0,
+    "wedge_status": "none"
   }
 ]

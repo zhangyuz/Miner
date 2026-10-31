@@ -7508,5 +7508,15 @@
     "close": 3.6300001144,
     "volume": 367258.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "LZM",
+    "open": 3.5,
+    "high": 3.8499999046,
+    "low": 3.4209001064,
+    "close": 3.8199999332,
+    "volume": 735487.0,
+    "wedge_status": "none"
   }
 ]

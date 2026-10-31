@@ -7508,5 +7508,15 @@
     "close": 10.4899997711,
     "volume": 70717.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "FOA",
+    "open": 10.3400001526,
+    "high": 11.1499004364,
+    "low": 10.0399999619,
+    "close": 10.5,
+    "volume": 84128.0,
+    "wedge_status": "none"
   }
 ]

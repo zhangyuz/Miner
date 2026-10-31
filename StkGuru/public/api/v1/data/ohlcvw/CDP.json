@@ -7508,5 +7508,15 @@
     "close": 34.25,
     "volume": 734995.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "CDP",
+    "open": 35.1699981689,
+    "high": 36.2121009827,
+    "low": 33.2599983215,
+    "close": 33.3499984741,
+    "volume": 1161156.0,
+    "wedge_status": "none"
   }
 ]

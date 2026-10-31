@@ -7508,5 +7508,15 @@
     "close": 8.4799995422,
     "volume": 1369329.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "CIM",
+    "open": 8.5150003433,
+    "high": 8.5500001907,
+    "low": 8.25,
+    "close": 8.3000001907,
+    "volume": 1401924.0,
+    "wedge_status": "none"
   }
 ]

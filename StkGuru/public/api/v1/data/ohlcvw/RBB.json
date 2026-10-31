@@ -7498,5 +7498,15 @@
     "close": 26.0400009155,
     "volume": 110526.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "RBB",
+    "open": 25.9850006104,
+    "high": 26.0400009155,
+    "low": 25.5,
+    "close": 25.5499992371,
+    "volume": 91313.0,
+    "wedge_status": "none"
   }
 ]

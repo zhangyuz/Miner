@@ -7508,5 +7508,15 @@
     "close": 24.0,
     "volume": 4863909.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "GME",
+    "open": 23.9899997711,
+    "high": 24.2900009155,
+    "low": 23.0702991486,
+    "close": 24.2299995422,
+    "volume": 9173960.0,
+    "wedge_status": "none"
   }
 ]

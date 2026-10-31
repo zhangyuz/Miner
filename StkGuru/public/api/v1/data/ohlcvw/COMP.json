@@ -7508,5 +7508,15 @@
     "close": 9.3900003433,
     "volume": 13341836.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "COMP",
+    "open": 9.3100004196,
+    "high": 9.5100002289,
+    "low": 8.7899999619,
+    "close": 9.0,
+    "volume": 17661056.0,
+    "wedge_status": "none"
   }
 ]

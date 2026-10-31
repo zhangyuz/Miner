@@ -7508,5 +7508,15 @@
     "close": 10.3299999237,
     "volume": 688967.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "CLYM",
+    "open": 10.2899999619,
+    "high": 10.5115003586,
+    "low": 10.0200004578,
+    "close": 10.25,
+    "volume": 708718.0,
+    "wedge_status": "none"
   }
 ]

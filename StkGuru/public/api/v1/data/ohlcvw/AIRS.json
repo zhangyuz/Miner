@@ -7498,5 +7498,15 @@
     "close": 1.6699999571,
     "volume": 1545718.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "AIRS",
+    "open": 1.6299999952,
+    "high": 1.7450000048,
+    "low": 1.6100000143,
+    "close": 1.7300000191,
+    "volume": 745146.0,
+    "wedge_status": "none"
   }
 ]

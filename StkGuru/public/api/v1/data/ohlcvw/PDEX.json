@@ -7498,5 +7498,15 @@
     "close": 61.5999984741,
     "volume": 43095.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "PDEX",
+    "open": 65.6500015259,
+    "high": 65.6500015259,
+    "low": 58.0,
+    "close": 58.1599998474,
+    "volume": 38474.0,
+    "wedge_status": "none"
   }
 ]

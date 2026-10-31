@@ -7508,5 +7508,15 @@
     "close": 26.25,
     "volume": 50374392.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "IREN",
+    "open": 24.3500003815,
+    "high": 24.9272003174,
+    "low": 23.0599994659,
+    "close": 23.9500007629,
+    "volume": 52334562.0,
+    "wedge_status": "none"
   }
 ]

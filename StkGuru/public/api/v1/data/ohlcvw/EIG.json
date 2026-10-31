@@ -7508,5 +7508,15 @@
     "close": 49.0800018311,
     "volume": 253665.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "EIG",
+    "open": 49.8300018311,
+    "high": 49.625,
+    "low": 44.6699981689,
+    "close": 44.7700004578,
+    "volume": 280502.0,
+    "wedge_status": "none"
   }
 ]

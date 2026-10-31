@@ -7508,5 +7508,15 @@
     "close": 6.2199997902,
     "volume": 28843.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "LEE",
+    "open": 6.3600001335,
+    "high": 6.3600001335,
+    "low": 6.0599999428,
+    "close": 6.1199998856,
+    "volume": 20405.0,
+    "wedge_status": "none"
   }
 ]

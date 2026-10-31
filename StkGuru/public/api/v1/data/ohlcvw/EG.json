@@ -7498,5 +7498,15 @@
     "close": 400.5899963379,
     "volume": 1689503.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "EG",
+    "open": 405.0,
+    "high": 413.0,
+    "low": 406.2102050781,
+    "close": 410.9700012207,
+    "volume": 702575.0,
+    "wedge_status": "none"
   }
 ]

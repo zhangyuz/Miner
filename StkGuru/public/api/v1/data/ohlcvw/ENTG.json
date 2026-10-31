@@ -7498,5 +7498,15 @@
     "close": 160.0,
     "volume": 4269540.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "ENTG",
+    "open": 152.5399932861,
+    "high": 159.0,
+    "low": 150.5899963379,
+    "close": 154.3899993896,
+    "volume": 6335471.0,
+    "wedge_status": "none"
   }
 ]

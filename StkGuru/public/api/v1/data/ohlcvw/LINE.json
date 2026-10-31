@@ -5238,5 +5238,15 @@
     "close": 36.2200012207,
     "volume": 1242834.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "LINE",
+    "open": 36.3800010681,
+    "high": 36.3800010681,
+    "low": 35.8400001526,
+    "close": 36.0,
+    "volume": 1007012.0,
+    "wedge_status": "none"
   }
 ]

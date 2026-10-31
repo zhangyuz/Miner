@@ -7498,5 +7498,15 @@
     "close": 1.6649999619,
     "volume": 29764146.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "XRX",
+    "open": 1.6486999989,
+    "high": 1.75,
+    "low": 1.3700000048,
+    "close": 1.4650000334,
+    "volume": 29329641.0,
+    "wedge_status": "none"
   }
 ]

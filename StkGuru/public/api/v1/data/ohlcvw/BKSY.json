@@ -7508,5 +7508,15 @@
     "close": 19.2000007629,
     "volume": 1006320.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "BKSY",
+    "open": 18.25,
+    "high": 18.9400005341,
+    "low": 17.0300006866,
+    "close": 17.8700008392,
+    "volume": 924077.0,
+    "wedge_status": "none"
   }
 ]

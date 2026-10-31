@@ -7508,5 +7508,15 @@
     "close": 43.4000015259,
     "volume": 1097623.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "BKU",
+    "open": 43.5999984741,
+    "high": 43.5900001526,
+    "low": 42.75,
+    "close": 43.0,
+    "volume": 719657.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 37.2299995422,
     "volume": 851005.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "AGIO",
+    "open": 31.4300003052,
+    "high": 33.0,
+    "low": 29.7999992371,
+    "close": 30.5499992371,
+    "volume": 3094260.0,
+    "wedge_status": "drop"
   }
 ]

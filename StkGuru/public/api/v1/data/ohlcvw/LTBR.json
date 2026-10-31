@@ -7498,5 +7498,15 @@
     "close": 5.4000000954,
     "volume": 591882.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "LTBR",
+    "open": 5.0,
+    "high": 5.1599998474,
+    "low": 4.9400000572,
+    "close": 5.0799999237,
+    "volume": 846379.0,
+    "wedge_status": "none"
   }
 ]

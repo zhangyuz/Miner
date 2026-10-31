@@ -2698,5 +2698,15 @@
     "close": 23.5400009155,
     "volume": 111482.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "AVBC",
+    "open": 23.5400009155,
+    "high": 23.7000007629,
+    "low": 23.4300003052,
+    "close": 23.5,
+    "volume": 121957.0,
+    "wedge_status": "none"
   }
 ]

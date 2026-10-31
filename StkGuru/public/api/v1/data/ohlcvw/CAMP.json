@@ -4698,5 +4698,15 @@
     "close": 3.9000000954,
     "volume": 151976.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "CAMP",
+    "open": 3.8599998951,
+    "high": 4.0,
+    "low": 3.7750000954,
+    "close": 3.9600000381,
+    "volume": 137649.0,
+    "wedge_status": "none"
   }
 ]

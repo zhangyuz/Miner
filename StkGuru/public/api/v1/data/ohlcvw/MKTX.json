@@ -7498,5 +7498,15 @@
     "close": 164.9199981689,
     "volume": 731545.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "MKTX",
+    "open": 165.0,
+    "high": 165.3800048828,
+    "low": 164.9199981689,
+    "close": 165.3000030518,
+    "volume": 931034.0,
+    "wedge_status": "none"
   }
 ]

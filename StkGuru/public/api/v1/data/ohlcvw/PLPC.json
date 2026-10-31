@@ -7498,5 +7498,15 @@
     "close": 320.0100097656,
     "volume": 159744.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "PLPC",
+    "open": 313.5,
+    "high": 313.5,
+    "low": 284.200012207,
+    "close": 291.1499938965,
+    "volume": 113669.0,
+    "wedge_status": "none"
   }
 ]

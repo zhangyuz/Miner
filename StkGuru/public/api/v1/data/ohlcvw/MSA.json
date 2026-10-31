@@ -7508,5 +7508,15 @@
     "close": 179.1600036621,
     "volume": 182317.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "MSA",
+    "open": 180.0,
+    "high": 181.125,
+    "low": 177.8200073242,
+    "close": 178.5700073242,
+    "volume": 398130.0,
+    "wedge_status": "none"
   }
 ]

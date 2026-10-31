@@ -728,5 +728,15 @@
     "close": 16.2199993134,
     "volume": 2218029.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "BXDC",
+    "open": 16.1700000763,
+    "high": 16.3799991608,
+    "low": 15.5600004196,
+    "close": 15.75,
+    "volume": 2151924.0,
+    "wedge_status": "none"
   }
 ]

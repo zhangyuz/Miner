@@ -7508,5 +7508,15 @@
     "close": 9.1400003433,
     "volume": 260213.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "STRO",
+    "open": 9.1000003815,
+    "high": 9.3999996185,
+    "low": 8.80189991,
+    "close": 9.1000003815,
+    "volume": 122290.0,
+    "wedge_status": "none"
   }
 ]

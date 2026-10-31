@@ -7508,5 +7508,15 @@
     "close": 31.3899993896,
     "volume": 93944.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "SMC",
+    "open": 31.2600002289,
+    "high": 31.6849994659,
+    "low": 30.75,
+    "close": 31.0,
+    "volume": 164575.0,
+    "wedge_status": "none"
   }
 ]

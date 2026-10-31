@@ -7508,5 +7508,15 @@
     "close": 540.0,
     "volume": 496961.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "MUSA",
+    "open": 546.549987793,
+    "high": 549.9998779297,
+    "low": 528.1600952148,
+    "close": 534.950012207,
+    "volume": 274503.0,
+    "wedge_status": "none"
   }
 ]

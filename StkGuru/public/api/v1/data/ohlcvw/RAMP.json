@@ -7508,5 +7508,15 @@
     "close": 38.2299995422,
     "volume": 1173412.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "RAMP",
+    "open": 38.5,
+    "high": 38.5200004578,
+    "low": 38.4900016785,
+    "close": 38.5,
+    "volume": 5004489.0,
+    "wedge_status": "none"
   }
 ]

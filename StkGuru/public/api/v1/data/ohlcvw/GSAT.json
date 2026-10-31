@@ -7498,5 +7498,15 @@
     "close": 83.5299987793,
     "volume": 1203487.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "GSAT",
+    "open": 82.4000015259,
+    "high": 83.0400009155,
+    "low": 82.0,
+    "close": 82.3000030518,
+    "volume": 1422502.0,
+    "wedge_status": "drop"
   }
 ]

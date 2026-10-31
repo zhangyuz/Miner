@@ -7498,5 +7498,15 @@
     "close": 10.6599998474,
     "volume": 2881109.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "SMPL",
+    "open": 10.8900003433,
+    "high": 11.2650003433,
+    "low": 10.8599996567,
+    "close": 11.25,
+    "volume": 1865964.0,
+    "wedge_status": "none"
   }
 ]

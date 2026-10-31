@@ -7498,5 +7498,15 @@
     "close": 64.4599990845,
     "volume": 1523222.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "PTCT",
+    "open": 64.75,
+    "high": 65.3399963379,
+    "low": 59.6450004578,
+    "close": 59.9700012207,
+    "volume": 2349386.0,
+    "wedge_status": "none"
   }
 ]

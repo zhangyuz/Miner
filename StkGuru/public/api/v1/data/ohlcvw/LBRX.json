@@ -2408,5 +2408,15 @@
     "close": 40.1500015259,
     "volume": 400678.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,10,30,00,00,00,000000",
+    "ticker": "LBRX",
+    "open": 40.0999984741,
+    "high": 41.2361984253,
+    "low": 39.125,
+    "close": 39.7000007629,
+    "volume": 429435.0,
+    "wedge_status": "none"
   }
 ]

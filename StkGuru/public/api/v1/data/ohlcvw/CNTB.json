@@ -7488,5 +7488,15 @@
     "close": 0.8022000194,
     "volume": 2503139.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "CNTB",
+    "open": 0.8072000146,
+    "high": 0.8098999858,
+    "low": 0.75,
+    "close": 0.7771000266,
+    "volume": 518620.0,
+    "wedge_status": "none"
   }
 ]

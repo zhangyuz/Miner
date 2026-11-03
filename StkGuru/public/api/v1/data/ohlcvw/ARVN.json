@@ -7478,5 +7478,15 @@
     "close": 7.8600001335,
     "volume": 1125550.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "ARVN",
+    "open": 7.8899998665,
+    "high": 8.0,
+    "low": 7.3649997711,
+    "close": 7.5199999809,
+    "volume": 1143891.0,
+    "wedge_status": "none"
   }
 ]

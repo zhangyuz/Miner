@@ -7488,5 +7488,15 @@
     "close": 57.5,
     "volume": 144769.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "UHAL",
+    "open": 58.1699981689,
+    "high": 60.0950012207,
+    "low": 58.1800003052,
+    "close": 59.6399993896,
+    "volume": 179124.0,
+    "wedge_status": "none"
   }
 ]

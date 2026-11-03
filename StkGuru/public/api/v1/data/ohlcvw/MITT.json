@@ -7488,5 +7488,15 @@
     "close": 5.5999999046,
     "volume": 391880.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "MITT",
+    "open": 5.6300001144,
+    "high": 5.8350000381,
+    "low": 5.6199998856,
+    "close": 5.7699999809,
+    "volume": 321340.0,
+    "wedge_status": "none"
   }
 ]

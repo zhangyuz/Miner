@@ -7488,5 +7488,15 @@
     "close": 18.7299995422,
     "volume": 1181583.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "REZI",
+    "open": 18.9500007629,
+    "high": 19.5499992371,
+    "low": 18.75,
+    "close": 19.25,
+    "volume": 1495452.0,
+    "wedge_status": "none"
   }
 ]

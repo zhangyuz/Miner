@@ -7488,5 +7488,15 @@
     "close": 22.3199996948,
     "volume": 5154575.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "GAP",
+    "open": 22.5,
+    "high": 22.7350006104,
+    "low": 22.0450000763,
+    "close": 22.2199993134,
+    "volume": 6166284.0,
+    "wedge_status": "none"
   }
 ]

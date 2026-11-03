@@ -7488,5 +7488,15 @@
     "close": 6.6399998665,
     "volume": 579741.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "FOSL",
+    "open": 6.7300000191,
+    "high": 7.0999999046,
+    "low": 6.7100000381,
+    "close": 6.8099999428,
+    "volume": 602195.0,
+    "wedge_status": "none"
   }
 ]

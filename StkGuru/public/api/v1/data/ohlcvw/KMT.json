@@ -7488,5 +7488,15 @@
     "close": 29.1000003815,
     "volume": 907378.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "KMT",
+    "open": 29.3199996948,
+    "high": 31.2399997711,
+    "low": 29.25,
+    "close": 30.7199993134,
+    "volume": 2158563.0,
+    "wedge_status": "none"
   }
 ]

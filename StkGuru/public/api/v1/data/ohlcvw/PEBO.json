@@ -7478,5 +7478,15 @@
     "close": 38.5699996948,
     "volume": 501560.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "PEBO",
+    "open": 38.25,
+    "high": 39.5099983215,
+    "low": 38.2099990845,
+    "close": 39.5,
+    "volume": 578331.0,
+    "wedge_status": "none"
   }
 ]

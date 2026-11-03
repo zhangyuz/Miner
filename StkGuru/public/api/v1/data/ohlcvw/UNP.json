@@ -7488,5 +7488,15 @@
     "close": 304.0,
     "volume": 2754594.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "UNP",
+    "open": 304.9599914551,
+    "high": 307.8850097656,
+    "low": 304.0599975586,
+    "close": 307.0,
+    "volume": 3348685.0,
+    "wedge_status": "none"
   }
 ]

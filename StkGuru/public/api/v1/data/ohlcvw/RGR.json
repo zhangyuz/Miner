@@ -7488,5 +7488,15 @@
     "close": 44.2000007629,
     "volume": 336563.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "RGR",
+    "open": 44.75,
+    "high": 44.9799995422,
+    "low": 44.0699996948,
+    "close": 44.8300018311,
+    "volume": 201555.0,
+    "wedge_status": "none"
   }
 ]

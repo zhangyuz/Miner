@@ -7488,5 +7488,15 @@
     "close": 31.1700000763,
     "volume": 5111159.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "ZETA",
+    "open": 31.1700000763,
+    "high": 31.7448997498,
+    "low": 30.5,
+    "close": 30.5200004578,
+    "volume": 2960128.0,
+    "wedge_status": "none"
   }
 ]

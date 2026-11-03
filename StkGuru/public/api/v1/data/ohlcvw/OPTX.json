@@ -7488,5 +7488,15 @@
     "close": 6.2899999619,
     "volume": 681934.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "OPTX",
+    "open": 6.5799999237,
+    "high": 6.5799999237,
+    "low": 5.2010002136,
+    "close": 5.2699999809,
+    "volume": 909168.0,
+    "wedge_status": "none"
   }
 ]

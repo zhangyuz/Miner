@@ -7488,5 +7488,15 @@
     "close": 17.6000003815,
     "volume": 6670997.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "OLN",
+    "open": 17.5,
+    "high": 18.4349994659,
+    "low": 17.2199993134,
+    "close": 18.1499996185,
+    "volume": 5246298.0,
+    "wedge_status": "none"
   }
 ]

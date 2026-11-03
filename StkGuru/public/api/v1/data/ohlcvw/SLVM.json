@@ -7488,5 +7488,15 @@
     "close": 32.2400016785,
     "volume": 418904.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "SLVM",
+    "open": 32.7400016785,
+    "high": 33.4900016785,
+    "low": 32.7400016785,
+    "close": 33.25,
+    "volume": 471238.0,
+    "wedge_status": "pop"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 115.0,
     "volume": 2236278.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "DINO",
+    "open": 112.0,
+    "high": 115.2799987793,
+    "low": 111.2549972534,
+    "close": 111.6600036621,
+    "volume": 2440223.0,
+    "wedge_status": "none"
   }
 ]

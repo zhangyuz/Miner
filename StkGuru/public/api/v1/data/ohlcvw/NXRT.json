@@ -7488,5 +7488,15 @@
     "close": 18.0300006866,
     "volume": 229187.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "NXRT",
+    "open": 18.25,
+    "high": 18.3600006104,
+    "low": 17.75,
+    "close": 18.0400009155,
+    "volume": 371101.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 7.5,
     "volume": 302175.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "TG",
+    "open": 7.5599999428,
+    "high": 7.7300000191,
+    "low": 7.5300002098,
+    "close": 7.5300002098,
+    "volume": 188289.0,
+    "wedge_status": "none"
   }
 ]

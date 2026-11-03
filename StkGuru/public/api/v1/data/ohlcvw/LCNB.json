@@ -7478,5 +7478,15 @@
     "close": 19.7199993134,
     "volume": 20347.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "LCNB",
+    "open": 19.8299999237,
+    "high": 20.2700004578,
+    "low": 19.8299999237,
+    "close": 20.0,
+    "volume": 31926.0,
+    "wedge_status": "none"
   }
 ]

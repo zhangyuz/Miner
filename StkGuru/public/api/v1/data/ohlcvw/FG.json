@@ -7488,5 +7488,15 @@
     "close": 21.1299991608,
     "volume": 364295.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "FG",
+    "open": 21.25,
+    "high": 21.75,
+    "low": 21.0349998474,
+    "close": 21.7000007629,
+    "volume": 472463.0,
+    "wedge_status": "none"
   }
 ]

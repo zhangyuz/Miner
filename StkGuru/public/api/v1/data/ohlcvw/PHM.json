@@ -7488,5 +7488,15 @@
     "close": 124.7399978638,
     "volume": 1946181.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "PHM",
+    "open": 126.625,
+    "high": 131.7400054932,
+    "low": 126.5,
+    "close": 131.2899932861,
+    "volume": 2853483.0,
+    "wedge_status": "none"
   }
 ]

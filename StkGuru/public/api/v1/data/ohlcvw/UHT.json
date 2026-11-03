@@ -7488,5 +7488,15 @@
     "close": 38.25,
     "volume": 124110.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,02,00,00,00,000000",
+    "ticker": "UHT",
+    "open": 38.2799987793,
+    "high": 38.8800010681,
+    "low": 38.3499984741,
+    "close": 38.7900009155,
+    "volume": 97031.0,
+    "wedge_status": "none"
   }
 ]

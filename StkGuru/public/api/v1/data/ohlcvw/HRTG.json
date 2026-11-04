@@ -7498,5 +7498,15 @@
     "close": 35.9399986267,
     "volume": 278809.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "HRTG",
+    "open": 36.0,
+    "high": 36.2999992371,
+    "low": 35.6800003052,
+    "close": 35.7099990845,
+    "volume": 262418.0,
+    "wedge_status": "drop"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 35.5200004578,
     "volume": 10300356.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "ONON",
+    "open": 35.4799995422,
+    "high": 36.7299995422,
+    "low": 35.3899993896,
+    "close": 36.5,
+    "volume": 9285978.0,
+    "wedge_status": "none"
   }
 ]

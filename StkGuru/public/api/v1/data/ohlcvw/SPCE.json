@@ -7498,5 +7498,15 @@
     "close": 2.4700000286,
     "volume": 5067087.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "SPCE",
+    "open": 2.5,
+    "high": 2.5499999523,
+    "low": 2.4800000191,
+    "close": 2.5,
+    "volume": 3120960.0,
+    "wedge_status": "none"
   }
 ]

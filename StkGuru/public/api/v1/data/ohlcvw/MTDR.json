@@ -7498,5 +7498,15 @@
     "close": 55.7599983215,
     "volume": 2030111.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "MTDR",
+    "open": 55.0,
+    "high": 57.25,
+    "low": 54.3100013733,
+    "close": 54.3100013733,
+    "volume": 2637134.0,
+    "wedge_status": "none"
   }
 ]

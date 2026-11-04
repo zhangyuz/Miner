@@ -7498,5 +7498,15 @@
     "close": 20.0,
     "volume": 524624.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "NVGS",
+    "open": 19.8600006104,
+    "high": 20.3299999237,
+    "low": 19.8780002594,
+    "close": 20.2299995422,
+    "volume": 417406.0,
+    "wedge_status": "none"
   }
 ]

@@ -568,5 +568,15 @@
     "close": 7.9000000954,
     "volume": 1917508.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "EROC",
+    "open": 8.1499996185,
+    "high": 9.0699996948,
+    "low": 8.0,
+    "close": 8.9600000381,
+    "volume": 2822721.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 329.5100097656,
     "volume": 2169411.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "CDNS",
+    "open": 322.5700073242,
+    "high": 325.9899902344,
+    "low": 310.0,
+    "close": 323.75,
+    "volume": 2221332.0,
+    "wedge_status": "drop"
   }
 ]

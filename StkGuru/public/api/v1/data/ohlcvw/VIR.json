@@ -7488,5 +7488,15 @@
     "close": 11.0,
     "volume": 1377376.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "VIR",
+    "open": 11.1000003815,
+    "high": 11.3800001144,
+    "low": 11.1000003815,
+    "close": 11.220000267,
+    "volume": 1553082.0,
+    "wedge_status": "none"
   }
 ]

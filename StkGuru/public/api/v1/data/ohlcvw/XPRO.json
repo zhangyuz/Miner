@@ -7498,5 +7498,15 @@
     "close": 15.8699998856,
     "volume": 1603367.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "XPRO",
+    "open": 14.7899999619,
+    "high": 15.0,
+    "low": 12.6450004578,
+    "close": 13.3400001526,
+    "volume": 2937918.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 85.0,
     "volume": 2909188.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "DECK",
+    "open": 84.5599975586,
+    "high": 85.3700027466,
+    "low": 82.4449996948,
+    "close": 84.0899963379,
+    "volume": 2536308.0,
+    "wedge_status": "none"
   }
 ]

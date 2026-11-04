@@ -7498,5 +7498,15 @@
     "close": 18.5,
     "volume": 2753222.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "BANC",
+    "open": 18.5200004578,
+    "high": 18.75,
+    "low": 18.2609996796,
+    "close": 18.3700008392,
+    "volume": 2212989.0,
+    "wedge_status": "none"
   }
 ]

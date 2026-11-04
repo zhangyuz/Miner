@@ -7498,5 +7498,15 @@
     "close": 104.9199981689,
     "volume": 130332.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "HOV",
+    "open": 104.0,
+    "high": 104.25,
+    "low": 100.5899963379,
+    "close": 101.3700027466,
+    "volume": 119195.0,
+    "wedge_status": "none"
   }
 ]

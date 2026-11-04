@@ -7498,5 +7498,15 @@
     "close": 10.5,
     "volume": 4337777.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "FCEL",
+    "open": 10.8649997711,
+    "high": 11.4799995422,
+    "low": 10.744799614,
+    "close": 11.2100000381,
+    "volume": 4784772.0,
+    "wedge_status": "none"
   }
 ]

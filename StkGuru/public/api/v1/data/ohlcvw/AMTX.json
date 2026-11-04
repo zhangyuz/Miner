@@ -7498,5 +7498,15 @@
     "close": 1.1499999762,
     "volume": 1048333.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "AMTX",
+    "open": 1.1900000572,
+    "high": 1.1900000572,
+    "low": 1.1100000143,
+    "close": 1.1499999762,
+    "volume": 885647.0,
+    "wedge_status": "none"
   }
 ]

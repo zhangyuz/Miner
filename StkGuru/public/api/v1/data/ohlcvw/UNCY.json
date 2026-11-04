@@ -7498,5 +7498,15 @@
     "close": 3.4900000095,
     "volume": 2234347.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "UNCY",
+    "open": 3.5,
+    "high": 3.6400001049,
+    "low": 3.4800000191,
+    "close": 3.5899999142,
+    "volume": 940807.0,
+    "wedge_status": "none"
   }
 ]

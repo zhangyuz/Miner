@@ -7498,5 +7498,15 @@
     "close": 487.3099975586,
     "volume": 873015.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "MSI",
+    "open": 485.9549865723,
+    "high": 491.7149963379,
+    "low": 482.0,
+    "close": 491.0,
+    "volume": 1468654.0,
+    "wedge_status": "none"
   }
 ]

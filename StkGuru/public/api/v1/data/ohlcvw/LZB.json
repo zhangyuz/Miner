@@ -7498,5 +7498,15 @@
     "close": 31.7000007629,
     "volume": 728240.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "LZB",
+    "open": 31.7000007629,
+    "high": 32.0,
+    "low": 31.0499992371,
+    "close": 31.1599998474,
+    "volume": 615625.0,
+    "wedge_status": "none"
   }
 ]

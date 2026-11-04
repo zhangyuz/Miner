@@ -7498,5 +7498,15 @@
     "close": 84.25,
     "volume": 501005.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "CNR",
+    "open": 84.5299987793,
+    "high": 85.9850006104,
+    "low": 83.1200027466,
+    "close": 83.3399963379,
+    "volume": 506194.0,
+    "wedge_status": "none"
   }
 ]

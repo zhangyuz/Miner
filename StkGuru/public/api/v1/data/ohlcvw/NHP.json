@@ -908,5 +908,15 @@
     "close": 15.0900001526,
     "volume": 1054476.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "NHP",
+    "open": 15.0799999237,
+    "high": 15.5,
+    "low": 14.8000001907,
+    "close": 15.4899997711,
+    "volume": 1199691.0,
+    "wedge_status": "none"
   }
 ]

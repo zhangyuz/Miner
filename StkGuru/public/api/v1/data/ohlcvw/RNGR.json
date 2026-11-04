@@ -7498,5 +7498,15 @@
     "close": 14.1099996567,
     "volume": 254442.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "RNGR",
+    "open": 14.1999998093,
+    "high": 14.3500003815,
+    "low": 13.910200119,
+    "close": 14.0,
+    "volume": 178082.0,
+    "wedge_status": "none"
   }
 ]

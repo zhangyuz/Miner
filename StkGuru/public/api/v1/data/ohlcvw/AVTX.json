@@ -7498,5 +7498,15 @@
     "close": 7.3200001717,
     "volume": 1618540.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "AVTX",
+    "open": 7.4200000763,
+    "high": 7.625,
+    "low": 7.0500001907,
+    "close": 7.25,
+    "volume": 1826258.0,
+    "wedge_status": "none"
   }
 ]

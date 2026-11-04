@@ -7498,5 +7498,15 @@
     "close": 3.0150001049,
     "volume": 463490.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "HUCK",
+    "open": 3.0,
+    "high": 3.0297999382,
+    "low": 2.9800000191,
+    "close": 3.0099999905,
+    "volume": 574172.0,
+    "wedge_status": "none"
   }
 ]

@@ -3858,5 +3858,15 @@
     "close": 10.2700004578,
     "volume": 1427401.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "TIC",
+    "open": 10.3199996948,
+    "high": 10.75,
+    "low": 10.220000267,
+    "close": 10.5600004196,
+    "volume": 2500313.0,
+    "wedge_status": "none"
   }
 ]

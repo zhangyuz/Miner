@@ -7498,5 +7498,15 @@
     "close": 285.5799865723,
     "volume": 296161.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,03,00,00,00,000000",
+    "ticker": "R",
+    "open": 285.3399963379,
+    "high": 290.5,
+    "low": 281.5400085449,
+    "close": 281.75,
+    "volume": 319112.0,
+    "wedge_status": "none"
   }
 ]

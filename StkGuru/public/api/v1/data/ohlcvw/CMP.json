@@ -7508,5 +7508,15 @@
     "close": 22.8899993896,
     "volume": 423201.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "CMP",
+    "open": 23.5,
+    "high": 23.5,
+    "low": 22.9300003052,
+    "close": 23.2600002289,
+    "volume": 286774.0,
+    "wedge_status": "none"
   }
 ]

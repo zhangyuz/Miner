@@ -7498,5 +7498,15 @@
     "close": 54.25,
     "volume": 7516351.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "EQT",
+    "open": 54.0200004578,
+    "high": 54.25,
+    "low": 51.5800018311,
+    "close": 52.5200004578,
+    "volume": 9810482.0,
+    "wedge_status": "drop"
   }
 ]

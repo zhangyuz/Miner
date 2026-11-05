@@ -7508,5 +7508,15 @@
     "close": 39.4700012207,
     "volume": 385078.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "UVV",
+    "open": 40.2099990845,
+    "high": 40.4900016785,
+    "low": 39.4199981689,
+    "close": 39.75,
+    "volume": 382136.0,
+    "wedge_status": "none"
   }
 ]

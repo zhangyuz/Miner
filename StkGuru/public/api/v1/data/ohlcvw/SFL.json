@@ -7508,5 +7508,15 @@
     "close": 12.3299999237,
     "volume": 1658303.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "SFL",
+    "open": 12.4499998093,
+    "high": 12.5500001907,
+    "low": 11.5,
+    "close": 11.720000267,
+    "volume": 2400314.0,
+    "wedge_status": "none"
   }
 ]

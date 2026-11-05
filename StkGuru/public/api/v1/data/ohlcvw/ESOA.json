@@ -7498,5 +7498,15 @@
     "close": 9.25,
     "volume": 62382.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "ESOA",
+    "open": 9.3100004196,
+    "high": 9.3100004196,
+    "low": 8.6260004044,
+    "close": 8.7299995422,
+    "volume": 81866.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 24.0,
     "volume": 11290947.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "PR",
+    "open": 23.6399993896,
+    "high": 23.6399993896,
+    "low": 22.375,
+    "close": 22.4300003052,
+    "volume": 18283581.0,
+    "wedge_status": "none"
   }
 ]

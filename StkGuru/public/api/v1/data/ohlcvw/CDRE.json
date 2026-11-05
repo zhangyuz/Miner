@@ -7508,5 +7508,15 @@
     "close": 31.0599994659,
     "volume": 288160.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "CDRE",
+    "open": 32.0,
+    "high": 32.1500015259,
+    "low": 30.6299991608,
+    "close": 30.8400001526,
+    "volume": 334534.0,
+    "wedge_status": "none"
   }
 ]

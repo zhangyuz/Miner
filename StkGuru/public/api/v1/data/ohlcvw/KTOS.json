@@ -7498,5 +7498,15 @@
     "close": 40.9900016785,
     "volume": 3225824.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "KTOS",
+    "open": 39.8549995422,
+    "high": 40.25,
+    "low": 35.7145004272,
+    "close": 35.9599990845,
+    "volume": 8199436.0,
+    "wedge_status": "drop"
   }
 ]

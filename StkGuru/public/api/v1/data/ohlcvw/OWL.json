@@ -7508,5 +7508,15 @@
     "close": 10.3299999237,
     "volume": 26597007.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "OWL",
+    "open": 10.5,
+    "high": 10.8599996567,
+    "low": 10.5,
+    "close": 10.6499996185,
+    "volume": 19860241.0,
+    "wedge_status": "none"
   }
 ]

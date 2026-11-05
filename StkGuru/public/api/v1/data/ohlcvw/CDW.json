@@ -7498,5 +7498,15 @@
     "close": 149.7700042725,
     "volume": 2266953.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "CDW",
+    "open": 160.8200073242,
+    "high": 172.4700012207,
+    "low": 155.0,
+    "close": 168.75,
+    "volume": 3398482.0,
+    "wedge_status": "none"
   }
 ]

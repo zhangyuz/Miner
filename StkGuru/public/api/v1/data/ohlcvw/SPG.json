@@ -7508,5 +7508,15 @@
     "close": 222.0800018311,
     "volume": 1747751.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "SPG",
+    "open": 225.0,
+    "high": 228.6600036621,
+    "low": 224.6100006104,
+    "close": 228.5,
+    "volume": 1727313.0,
+    "wedge_status": "none"
   }
 ]

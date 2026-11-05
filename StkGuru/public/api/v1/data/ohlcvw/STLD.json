@@ -7508,5 +7508,15 @@
     "close": 247.6600036621,
     "volume": 806259.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "STLD",
+    "open": 250.3500061035,
+    "high": 258.0,
+    "low": 235.0,
+    "close": 240.1199951172,
+    "volume": 1357842.0,
+    "wedge_status": "drop"
   }
 ]

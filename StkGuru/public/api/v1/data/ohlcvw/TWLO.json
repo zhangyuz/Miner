@@ -7508,5 +7508,15 @@
     "close": 213.7700042725,
     "volume": 2938655.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "TWLO",
+    "open": 210.1199951172,
+    "high": 215.7100067139,
+    "low": 204.0,
+    "close": 213.5,
+    "volume": 2279149.0,
+    "wedge_status": "none"
   }
 ]

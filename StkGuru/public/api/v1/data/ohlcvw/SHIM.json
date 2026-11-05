@@ -7008,5 +7008,15 @@
     "close": 2.5599999428,
     "volume": 45854.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "SHIM",
+    "open": 2.6400001049,
+    "high": 2.6400001049,
+    "low": 2.3900001049,
+    "close": 2.3900001049,
+    "volume": 48739.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 28.0,
     "volume": 363889.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "MYE",
+    "open": 28.5200004578,
+    "high": 28.9899997711,
+    "low": 28.0499992371,
+    "close": 28.5900001526,
+    "volume": 414529.0,
+    "wedge_status": "none"
   }
 ]

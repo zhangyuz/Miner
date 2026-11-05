@@ -7508,5 +7508,15 @@
     "close": 6.25,
     "volume": 9256998.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "WU",
+    "open": 6.3800001144,
+    "high": 6.6500000954,
+    "low": 6.3150000572,
+    "close": 6.5900001526,
+    "volume": 11517785.0,
+    "wedge_status": "none"
   }
 ]

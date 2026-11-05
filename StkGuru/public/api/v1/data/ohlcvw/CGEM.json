@@ -7498,5 +7498,15 @@
     "close": 15.75,
     "volume": 787070.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "CGEM",
+    "open": 15.9899997711,
+    "high": 16.2849998474,
+    "low": 11.9201002121,
+    "close": 12.4899997711,
+    "volume": 2202117.0,
+    "wedge_status": "drop"
   }
 ]

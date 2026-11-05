@@ -7508,5 +7508,15 @@
     "close": 8.3900003433,
     "volume": 2498270.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "HE",
+    "open": 8.470000267,
+    "high": 8.6700000763,
+    "low": 8.375,
+    "close": 8.5,
+    "volume": 5125516.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 21.9400005341,
     "volume": 4373700.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "WRBY",
+    "open": 23.25,
+    "high": 23.8999996185,
+    "low": 21.2000007629,
+    "close": 21.2900009155,
+    "volume": 8617165.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 2.7400000095,
     "volume": 1282408.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "SFIX",
+    "open": 2.8599998951,
+    "high": 3.0,
+    "low": 2.8150000572,
+    "close": 2.9400000572,
+    "volume": 2072944.0,
+    "wedge_status": "none"
   }
 ]

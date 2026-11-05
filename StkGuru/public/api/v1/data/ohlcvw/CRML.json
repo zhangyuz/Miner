@@ -7498,5 +7498,15 @@
     "close": 6.25,
     "volume": 7353559.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "CRML",
+    "open": 6.3480000496,
+    "high": 6.5699000359,
+    "low": 6.0114002228,
+    "close": 6.3699998856,
+    "volume": 5744104.0,
+    "wedge_status": "none"
   }
 ]

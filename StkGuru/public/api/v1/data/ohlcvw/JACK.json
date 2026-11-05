@@ -7498,5 +7498,15 @@
     "close": 13.2700004578,
     "volume": 432905.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,04,00,00,00,000000",
+    "ticker": "JACK",
+    "open": 13.5500001907,
+    "high": 14.75,
+    "low": 13.4399995804,
+    "close": 14.3699998856,
+    "volume": 699082.0,
+    "wedge_status": "none"
   }
 ]

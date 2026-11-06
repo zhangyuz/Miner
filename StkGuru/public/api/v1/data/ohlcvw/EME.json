@@ -7498,5 +7498,15 @@
     "close": 639.25,
     "volume": 873193.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "EME",
+    "open": 611.1699829102,
+    "high": 620.0,
+    "low": 579.4749755859,
+    "close": 595.3200073242,
+    "volume": 1126425.0,
+    "wedge_status": "none"
   }
 ]

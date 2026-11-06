@@ -7508,5 +7508,15 @@
     "close": 3.5199999809,
     "volume": 42784512.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "AMC",
+    "open": 3.625,
+    "high": 3.7699999809,
+    "low": 3.0699999332,
+    "close": 3.0799999237,
+    "volume": 41079610.0,
+    "wedge_status": "none"
   }
 ]

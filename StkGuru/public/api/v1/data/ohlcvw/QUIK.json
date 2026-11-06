@@ -7508,5 +7508,15 @@
     "close": 8.2600002289,
     "volume": 192736.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "QUIK",
+    "open": 7.9800000191,
+    "high": 7.9800000191,
+    "low": 7.0349998474,
+    "close": 7.3400001526,
+    "volume": 298282.0,
+    "wedge_status": "none"
   }
 ]

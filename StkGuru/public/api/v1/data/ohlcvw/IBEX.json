@@ -7498,5 +7498,15 @@
     "close": 44.7000007629,
     "volume": 94417.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "IBEX",
+    "open": 45.3300018311,
+    "high": 45.3300018311,
+    "low": 42.7000007629,
+    "close": 43.0,
+    "volume": 139616.0,
+    "wedge_status": "none"
   }
 ]

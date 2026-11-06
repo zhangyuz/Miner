@@ -7508,5 +7508,15 @@
     "close": 2.1600000858,
     "volume": 508287.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "CNTN",
+    "open": 2.1600000858,
+    "high": 2.1649999619,
+    "low": 1.8899999857,
+    "close": 1.9299999475,
+    "volume": 587760.0,
+    "wedge_status": "none"
   }
 ]

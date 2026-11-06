@@ -7508,5 +7508,15 @@
     "close": 77.9800033569,
     "volume": 516223.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "BCC",
+    "open": 77.0899963379,
+    "high": 77.8399963379,
+    "low": 72.9800033569,
+    "close": 73.75,
+    "volume": 519081.0,
+    "wedge_status": "drop"
   }
 ]

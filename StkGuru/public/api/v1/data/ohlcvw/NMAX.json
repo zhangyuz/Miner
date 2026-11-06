@@ -3588,5 +3588,15 @@
     "close": 8.1400003433,
     "volume": 688120.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "NMAX",
+    "open": 8.3100004196,
+    "high": 8.3500003815,
+    "low": 7.3400001526,
+    "close": 7.4200000763,
+    "volume": 973237.0,
+    "wedge_status": "none"
   }
 ]

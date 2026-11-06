@@ -7488,5 +7488,15 @@
     "close": 226.5399932861,
     "volume": 3028975.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "ILMN",
+    "open": 220.25,
+    "high": 221.4750061035,
+    "low": 205.1100006104,
+    "close": 208.0,
+    "volume": 4199426.0,
+    "wedge_status": "none"
   }
 ]

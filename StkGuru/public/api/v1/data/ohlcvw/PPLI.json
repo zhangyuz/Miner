@@ -7508,5 +7508,15 @@
     "close": 41.9900016785,
     "volume": 2863214.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "PPLI",
+    "open": 43.0,
+    "high": 43.2099990845,
+    "low": 40.2150001526,
+    "close": 41.0099983215,
+    "volume": 1641168.0,
+    "wedge_status": "none"
   }
 ]

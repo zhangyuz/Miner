@@ -7508,5 +7508,15 @@
     "close": 51.6300010681,
     "volume": 1959401.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "SON",
+    "open": 52.0,
+    "high": 52.3149986267,
+    "low": 50.1699981689,
+    "close": 51.3699989319,
+    "volume": 1351844.0,
+    "wedge_status": "none"
   }
 ]

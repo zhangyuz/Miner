@@ -7498,5 +7498,15 @@
     "close": 13.5,
     "volume": 2625132.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "FWRG",
+    "open": 13.3299999237,
+    "high": 13.486000061,
+    "low": 12.8400001526,
+    "close": 13.1199998856,
+    "volume": 1922729.0,
+    "wedge_status": "none"
   }
 ]

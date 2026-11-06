@@ -7498,5 +7498,15 @@
     "close": 73.2600021362,
     "volume": 765731.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "HWC",
+    "open": 74.0,
+    "high": 75.0699996948,
+    "low": 70.8649978638,
+    "close": 71.4100036621,
+    "volume": 607309.0,
+    "wedge_status": "drop"
   }
 ]

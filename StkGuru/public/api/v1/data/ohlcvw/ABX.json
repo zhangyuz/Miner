@@ -7508,5 +7508,15 @@
     "close": 9.0500001907,
     "volume": 639714.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "ABX",
+    "open": 8.9499998093,
+    "high": 9.1149997711,
+    "low": 8.4300003052,
+    "close": 8.75,
+    "volume": 1068702.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 156.0,
     "volume": 612458.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "ENS",
+    "open": 151.0,
+    "high": 151.5449981689,
+    "low": 141.8500061035,
+    "close": 142.5800018311,
+    "volume": 705347.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 11.0,
     "volume": 3988052.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "STGW",
+    "open": 10.8999996185,
+    "high": 11.1099996567,
+    "low": 10.5649995804,
+    "close": 10.8299999237,
+    "volume": 2955173.0,
+    "wedge_status": "none"
   }
 ]

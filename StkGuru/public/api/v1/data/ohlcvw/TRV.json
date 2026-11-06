@@ -7508,5 +7508,15 @@
     "close": 409.25,
     "volume": 1889626.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "TRV",
+    "open": 414.4299926758,
+    "high": 418.0,
+    "low": 401.6600036621,
+    "close": 402.8900146484,
+    "volume": 2079148.0,
+    "wedge_status": "none"
   }
 ]

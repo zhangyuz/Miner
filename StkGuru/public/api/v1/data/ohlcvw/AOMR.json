@@ -7508,5 +7508,15 @@
     "close": 6.4600000381,
     "volume": 304210.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "AOMR",
+    "open": 6.5199999809,
+    "high": 6.6985001564,
+    "low": 6.0949997902,
+    "close": 6.1700000763,
+    "volume": 132808.0,
+    "wedge_status": "none"
   }
 ]

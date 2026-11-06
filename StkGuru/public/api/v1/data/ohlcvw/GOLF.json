@@ -7508,5 +7508,15 @@
     "close": 85.8799972534,
     "volume": 536940.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "GOLF",
+    "open": 86.2300033569,
+    "high": 87.3499984741,
+    "low": 81.75,
+    "close": 83.6200027466,
+    "volume": 387731.0,
+    "wedge_status": "drop"
   }
 ]

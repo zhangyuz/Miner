@@ -1448,5 +1448,15 @@
     "close": 6.3899998665,
     "volume": 658571.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "EIKN",
+    "open": 6.3899998665,
+    "high": 6.4299998283,
+    "low": 5.75,
+    "close": 5.8400001526,
+    "volume": 787738.0,
+    "wedge_status": "none"
   }
 ]

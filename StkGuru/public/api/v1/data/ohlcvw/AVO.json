@@ -7498,5 +7498,15 @@
     "close": 11.7100000381,
     "volume": 777964.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "AVO",
+    "open": 11.8000001907,
+    "high": 11.9200000763,
+    "low": 11.375,
+    "close": 11.5100002289,
+    "volume": 661028.0,
+    "wedge_status": "none"
   }
 ]

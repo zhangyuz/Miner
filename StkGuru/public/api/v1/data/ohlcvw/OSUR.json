@@ -7498,5 +7498,15 @@
     "close": 3.7200000286,
     "volume": 561326.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "OSUR",
+    "open": 3.7200000286,
+    "high": 3.75,
+    "low": 3.3599998951,
+    "close": 3.3699998856,
+    "volume": 376573.0,
+    "wedge_status": "none"
   }
 ]

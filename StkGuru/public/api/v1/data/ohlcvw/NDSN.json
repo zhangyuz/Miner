@@ -7508,5 +7508,15 @@
     "close": 330.700012207,
     "volume": 397576.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "NDSN",
+    "open": 330.75,
+    "high": 332.5508117676,
+    "low": 309.75,
+    "close": 310.4899902344,
+    "volume": 438241.0,
+    "wedge_status": "drop"
   }
 ]

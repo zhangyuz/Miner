@@ -7508,5 +7508,15 @@
     "close": 20.5,
     "volume": 179665.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "RJET",
+    "open": 20.3999996185,
+    "high": 20.7700004578,
+    "low": 19.6200008392,
+    "close": 19.8700008392,
+    "volume": 98057.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 25.5,
     "volume": 106898.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "TWIN",
+    "open": 25.5,
+    "high": 25.5699996948,
+    "low": 22.3799991608,
+    "close": 22.9699993134,
+    "volume": 116871.0,
+    "wedge_status": "drop"
   }
 ]

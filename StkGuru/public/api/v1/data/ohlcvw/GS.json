@@ -7498,5 +7498,15 @@
     "close": 928.0,
     "volume": 2815324.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "GS",
+    "open": 932.3200073242,
+    "high": 934.0,
+    "low": 854.5150146484,
+    "close": 868.950012207,
+    "volume": 3858723.0,
+    "wedge_status": "drop"
   }
 ]

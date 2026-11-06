@@ -7498,5 +7498,15 @@
     "close": 19.5200004578,
     "volume": 3321760.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,05,00,00,00,000000",
+    "ticker": "IMNM",
+    "open": 19.375,
+    "high": 19.4099998474,
+    "low": 17.2849998474,
+    "close": 17.9050006866,
+    "volume": 2206706.0,
+    "wedge_status": "none"
   }
 ]

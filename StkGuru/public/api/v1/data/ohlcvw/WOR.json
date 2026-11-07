@@ -7508,5 +7508,15 @@
     "close": 61.2200012207,
     "volume": 250069.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "WOR",
+    "open": 60.9799995422,
+    "high": 61.8950004578,
+    "low": 60.2599983215,
+    "close": 60.5,
+    "volume": 277342.0,
+    "wedge_status": "none"
   }
 ]

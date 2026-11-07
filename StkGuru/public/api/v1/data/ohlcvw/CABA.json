@@ -7508,5 +7508,15 @@
     "close": 1.2799999714,
     "volume": 6245584.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "CABA",
+    "open": 1.2699999809,
+    "high": 1.3300000429,
+    "low": 1.25,
+    "close": 1.2999999523,
+    "volume": 2997368.0,
+    "wedge_status": "none"
   }
 ]

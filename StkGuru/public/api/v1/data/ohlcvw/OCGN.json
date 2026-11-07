@@ -7508,5 +7508,15 @@
     "close": 0.8165000081,
     "volume": 7142781.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "OCGN",
+    "open": 0.8300999999,
+    "high": 0.966899991,
+    "low": 0.8249999881,
+    "close": 0.9250000119,
+    "volume": 7421580.0,
+    "wedge_status": "none"
   }
 ]

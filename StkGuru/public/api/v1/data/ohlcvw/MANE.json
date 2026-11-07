@@ -1468,5 +1468,15 @@
     "close": 128.6000061035,
     "volume": 788054.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "MANE",
+    "open": 130.9299926758,
+    "high": 139.8899993896,
+    "low": 130.0,
+    "close": 138.7799987793,
+    "volume": 500253.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 175.0,
     "volume": 1357532.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "ATO",
+    "open": 172.25,
+    "high": 173.9299926758,
+    "low": 171.2400054932,
+    "close": 173.2799987793,
+    "volume": 687184.0,
+    "wedge_status": "none"
   }
 ]

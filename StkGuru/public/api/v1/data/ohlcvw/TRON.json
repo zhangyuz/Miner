@@ -7508,5 +7508,15 @@
     "close": 1.3500000238,
     "volume": 594609.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "TRON",
+    "open": 1.3500000238,
+    "high": 1.4249999523,
+    "low": 1.3350000381,
+    "close": 1.4099999666,
+    "volume": 397075.0,
+    "wedge_status": "none"
   }
 ]

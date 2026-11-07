@@ -7498,5 +7498,15 @@
     "close": 13.6800003052,
     "volume": 47190.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "WNEB",
+    "open": 13.75,
+    "high": 13.8299999237,
+    "low": 13.6499996185,
+    "close": 13.6899995804,
+    "volume": 30995.0,
+    "wedge_status": "none"
   }
 ]

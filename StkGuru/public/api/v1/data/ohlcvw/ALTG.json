@@ -7508,5 +7508,15 @@
     "close": 5.7800002098,
     "volume": 266243.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "ALTG",
+    "open": 5.9099998474,
+    "high": 6.0599999428,
+    "low": 5.7150001526,
+    "close": 5.9299998283,
+    "volume": 298099.0,
+    "wedge_status": "none"
   }
 ]

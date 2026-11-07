@@ -7508,5 +7508,15 @@
     "close": 13.0500001907,
     "volume": 968231.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "MEC",
+    "open": 13.25,
+    "high": 13.7100000381,
+    "low": 12.6800003052,
+    "close": 13.1199998856,
+    "volume": 713463.0,
+    "wedge_status": "none"
   }
 ]

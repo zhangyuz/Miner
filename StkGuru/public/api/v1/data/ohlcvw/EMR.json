@@ -7498,5 +7498,15 @@
     "close": 162.6100006104,
     "volume": 5803211.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "EMR",
+    "open": 164.6699981689,
+    "high": 165.0,
+    "low": 161.125,
+    "close": 162.3500061035,
+    "volume": 2460280.0,
+    "wedge_status": "none"
   }
 ]

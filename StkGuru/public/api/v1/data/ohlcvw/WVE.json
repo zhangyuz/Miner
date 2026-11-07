@@ -7498,5 +7498,15 @@
     "close": 3.2200000286,
     "volume": 5317219.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "WVE",
+    "open": 3.25,
+    "high": 3.4200000763,
+    "low": 3.2300000191,
+    "close": 3.3650000095,
+    "volume": 2204914.0,
+    "wedge_status": "none"
   }
 ]

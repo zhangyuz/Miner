@@ -7498,5 +7498,15 @@
     "close": 221.3500061035,
     "volume": 843069.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "SLAB",
+    "open": 222.0800018311,
+    "high": 222.0800018311,
+    "low": 221.25,
+    "close": 221.5,
+    "volume": 420670.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 28.25,
     "volume": 144701.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "CZNC",
+    "open": 28.1399993896,
+    "high": 28.4150009155,
+    "low": 27.8775005341,
+    "close": 27.9200000763,
+    "volume": 54091.0,
+    "wedge_status": "none"
   }
 ]

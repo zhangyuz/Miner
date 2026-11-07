@@ -7508,5 +7508,15 @@
     "close": 48.1199989319,
     "volume": 568257.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "CNA",
+    "open": 47.25,
+    "high": 47.75,
+    "low": 46.9000015259,
+    "close": 47.3199996948,
+    "volume": 420699.0,
+    "wedge_status": "drop"
   }
 ]

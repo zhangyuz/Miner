@@ -7508,5 +7508,15 @@
     "close": 11.470000267,
     "volume": 1187658.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "CODI",
+    "open": 11.5,
+    "high": 11.6800003052,
+    "low": 10.8599996567,
+    "close": 11.3100004196,
+    "volume": 640149.0,
+    "wedge_status": "none"
   }
 ]

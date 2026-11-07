@@ -7498,5 +7498,15 @@
     "close": 89.9199981689,
     "volume": 7920404.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "ECHO",
+    "open": 92.5400009155,
+    "high": 95.4499969482,
+    "low": 91.25,
+    "close": 94.6200027466,
+    "volume": 4372791.0,
+    "wedge_status": "none"
   }
 ]

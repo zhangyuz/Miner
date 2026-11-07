@@ -7508,5 +7508,15 @@
     "close": 16.6700000763,
     "volume": 137571.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "PINE",
+    "open": 16.5,
+    "high": 16.9582004547,
+    "low": 16.4461994171,
+    "close": 16.6200008392,
+    "volume": 143997.0,
+    "wedge_status": "none"
   }
 ]

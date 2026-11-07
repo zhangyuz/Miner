@@ -828,5 +828,15 @@
     "close": 12.7600002289,
     "volume": 1991571.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "HAWK",
+    "open": 13.0799999237,
+    "high": 15.0,
+    "low": 12.5699996948,
+    "close": 14.7899999619,
+    "volume": 2028697.0,
+    "wedge_status": "none"
   }
 ]

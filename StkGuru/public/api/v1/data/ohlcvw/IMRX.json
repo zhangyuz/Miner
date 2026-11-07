@@ -7508,5 +7508,15 @@
     "close": 3.3699998856,
     "volume": 761851.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "IMRX",
+    "open": 3.4100000858,
+    "high": 3.6949999332,
+    "low": 3.3682999611,
+    "close": 3.6800000668,
+    "volume": 681434.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 8.9200000763,
     "volume": 1362332.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "OFIX",
+    "open": 8.6800003052,
+    "high": 8.6800003052,
+    "low": 7.8099999428,
+    "close": 7.8699998856,
+    "volume": 804255.0,
+    "wedge_status": "none"
   }
 ]

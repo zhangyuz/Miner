@@ -7498,5 +7498,15 @@
     "close": 43.25,
     "volume": 163051.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "CCB",
+    "open": 43.1500015259,
+    "high": 44.0,
+    "low": 42.2599983215,
+    "close": 42.7200012207,
+    "volume": 88686.0,
+    "wedge_status": "none"
   }
 ]

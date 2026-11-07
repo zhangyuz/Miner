@@ -2818,5 +2818,15 @@
     "close": 19.9300003052,
     "volume": 1233046.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "NIQ",
+    "open": 19.4300003052,
+    "high": 20.4500007629,
+    "low": 19.0,
+    "close": 20.4200000763,
+    "volume": 1068284.0,
+    "wedge_status": "none"
   }
 ]

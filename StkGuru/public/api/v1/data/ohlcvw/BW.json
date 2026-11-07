@@ -7508,5 +7508,15 @@
     "close": 3.0999999046,
     "volume": 6334508.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "BW",
+    "open": 3.2100000381,
+    "high": 3.2899999619,
+    "low": 3.0799999237,
+    "close": 3.25,
+    "volume": 4434335.0,
+    "wedge_status": "none"
   }
 ]

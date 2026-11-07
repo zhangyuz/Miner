@@ -7498,5 +7498,15 @@
     "close": 172.5,
     "volume": 11205591.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "BA",
+    "open": 172.0,
+    "high": 174.4550018311,
+    "low": 169.9100036621,
+    "close": 173.3500061035,
+    "volume": 5092665.0,
+    "wedge_status": "none"
   }
 ]

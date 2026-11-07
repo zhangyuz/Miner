@@ -7498,5 +7498,15 @@
     "close": 27.0,
     "volume": 7600825.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "ARQT",
+    "open": 26.7000007629,
+    "high": 27.0900001526,
+    "low": 25.3050003052,
+    "close": 25.5499992371,
+    "volume": 3262254.0,
+    "wedge_status": "none"
   }
 ]

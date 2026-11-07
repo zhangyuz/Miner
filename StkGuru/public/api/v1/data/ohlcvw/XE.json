@@ -918,5 +918,15 @@
     "close": 9.0,
     "volume": 9348504.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,06,00,00,00,000000",
+    "ticker": "XE",
+    "open": 9.6049995422,
+    "high": 10.5399999619,
+    "low": 9.2838001251,
+    "close": 10.4300003052,
+    "volume": 6964915.0,
+    "wedge_status": "none"
   }
 ]

@@ -7478,5 +7478,15 @@
     "close": 42.0900001526,
     "volume": 4358049.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "DOX",
+    "open": 42.0,
+    "high": 42.9099998474,
+    "low": 41.3349990845,
+    "close": 41.7400016785,
+    "volume": 2986964.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 5.3350000381,
     "volume": 44652400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "ONDS",
+    "open": 5.4679999352,
+    "high": 6.125,
+    "low": 5.3699998856,
+    "close": 5.9699997902,
+    "volume": 47626486.0,
+    "wedge_status": "none"
   }
 ]

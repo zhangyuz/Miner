@@ -7488,5 +7488,15 @@
     "close": 17.0400009155,
     "volume": 160516.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "TRC",
+    "open": 17.1800003052,
+    "high": 17.8799991608,
+    "low": 17.1049995422,
+    "close": 17.75,
+    "volume": 204062.0,
+    "wedge_status": "none"
   }
 ]

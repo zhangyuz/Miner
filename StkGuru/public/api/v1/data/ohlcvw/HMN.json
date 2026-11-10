@@ -7488,5 +7488,15 @@
     "close": 53.25,
     "volume": 350108.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "HMN",
+    "open": 53.7999992371,
+    "high": 53.7999992371,
+    "low": 52.5200004578,
+    "close": 53.0600013733,
+    "volume": 466739.0,
+    "wedge_status": "none"
   }
 ]

@@ -368,5 +368,15 @@
     "close": 14.3400001526,
     "volume": 1502641.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "CSQR",
+    "open": 14.6400003433,
+    "high": 15.5699996948,
+    "low": 14.625,
+    "close": 15.2700004578,
+    "volume": 2090864.0,
+    "wedge_status": "pop"
   }
 ]

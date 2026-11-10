@@ -7478,5 +7478,15 @@
     "close": 7.0,
     "volume": 13147824.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "TRIP",
+    "open": 7.2399997711,
+    "high": 7.3000001907,
+    "low": 6.8249998093,
+    "close": 7.1199998856,
+    "volume": 12824372.0,
+    "wedge_status": "none"
   }
 ]

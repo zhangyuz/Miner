@@ -7488,5 +7488,15 @@
     "close": 2.6900000572,
     "volume": 1347867.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "ONL",
+    "open": 2.75,
+    "high": 2.9300000668,
+    "low": 2.6800000668,
+    "close": 2.8599998951,
+    "volume": 1063262.0,
+    "wedge_status": "none"
   }
 ]

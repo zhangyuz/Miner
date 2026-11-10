@@ -7488,5 +7488,15 @@
     "close": 5.6900000572,
     "volume": 617544.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "XPER",
+    "open": 5.6900000572,
+    "high": 5.8775000572,
+    "low": 5.6300001144,
+    "close": 5.8299999237,
+    "volume": 292923.0,
+    "wedge_status": "none"
   }
 ]

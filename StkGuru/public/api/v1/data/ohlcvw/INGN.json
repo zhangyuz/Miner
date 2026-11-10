@@ -7478,5 +7478,15 @@
     "close": 6.0300002098,
     "volume": 974905.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "INGN",
+    "open": 5.9899997711,
+    "high": 6.2100000381,
+    "low": 5.8646001816,
+    "close": 6.1149997711,
+    "volume": 391619.0,
+    "wedge_status": "none"
   }
 ]

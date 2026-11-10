@@ -7488,5 +7488,15 @@
     "close": 11.3599996567,
     "volume": 2577099.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "SGHC",
+    "open": 11.4600000381,
+    "high": 11.7100000381,
+    "low": 11.3549995422,
+    "close": 11.5,
+    "volume": 2093795.0,
+    "wedge_status": "none"
   }
 ]

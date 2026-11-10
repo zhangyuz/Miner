@@ -7478,5 +7478,15 @@
     "close": 271.8299865723,
     "volume": 1220659.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "IQV",
+    "open": 274.0,
+    "high": 279.9599914551,
+    "low": 270.0,
+    "close": 278.8399963379,
+    "volume": 1261376.0,
+    "wedge_status": "none"
   }
 ]

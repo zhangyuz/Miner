@@ -7478,5 +7478,15 @@
     "close": 59.8699989319,
     "volume": 144356.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "MSEX",
+    "open": 60.1100006104,
+    "high": 60.25,
+    "low": 59.2400016785,
+    "close": 59.5,
+    "volume": 150526.0,
+    "wedge_status": "none"
   }
 ]

@@ -7478,5 +7478,15 @@
     "close": 75.8199996948,
     "volume": 5732291.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "IBKR",
+    "open": 77.0,
+    "high": 78.8099975586,
+    "low": 76.5599975586,
+    "close": 77.5699996948,
+    "volume": 4662050.0,
+    "wedge_status": "none"
   }
 ]

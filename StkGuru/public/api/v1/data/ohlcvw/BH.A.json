@@ -7488,5 +7488,15 @@
     "close": 1573.8800048828,
     "volume": 15635.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "BH.A",
+    "open": 1573.8800048828,
+    "high": 1806.75,
+    "low": 1568.0,
+    "close": 1806.75,
+    "volume": 19634.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 31.0,
     "volume": 108362.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "ONIT",
+    "open": 31.7000007629,
+    "high": 32.1399993896,
+    "low": 31.0949993134,
+    "close": 32.1100006104,
+    "volume": 92163.0,
+    "wedge_status": "none"
   }
 ]

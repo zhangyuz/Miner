@@ -7478,5 +7478,15 @@
     "close": 12.9200000763,
     "volume": 1697326.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "PRAA",
+    "open": 13.0200004578,
+    "high": 13.75,
+    "low": 11.9600000381,
+    "close": 12.7100000381,
+    "volume": 1530357.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 75.0,
     "volume": 1426912.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "LRN",
+    "open": 75.7600021362,
+    "high": 77.6999969482,
+    "low": 75.7200012207,
+    "close": 75.7200012207,
+    "volume": 925753.0,
+    "wedge_status": "none"
   }
 ]

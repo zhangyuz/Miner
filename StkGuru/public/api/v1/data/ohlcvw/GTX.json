@@ -7478,5 +7478,15 @@
     "close": 20.1299991608,
     "volume": 4259519.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "GTX",
+    "open": 20.5,
+    "high": 21.1049995422,
+    "low": 20.3349990845,
+    "close": 20.75,
+    "volume": 2894751.0,
+    "wedge_status": "none"
   }
 ]

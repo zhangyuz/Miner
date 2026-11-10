@@ -7488,5 +7488,15 @@
     "close": 36.25,
     "volume": 72593.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "RM",
+    "open": 36.9199981689,
+    "high": 37.4799995422,
+    "low": 35.4500007629,
+    "close": 36.0200004578,
+    "volume": 82279.0,
+    "wedge_status": "none"
   }
 ]

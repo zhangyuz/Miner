@@ -7488,5 +7488,15 @@
     "close": 26.0,
     "volume": 803659.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,09,00,00,00,000000",
+    "ticker": "FBP",
+    "open": 26.2900009155,
+    "high": 26.4375,
+    "low": 26.0249996185,
+    "close": 26.0900001526,
+    "volume": 1253985.0,
+    "wedge_status": "none"
   }
 ]

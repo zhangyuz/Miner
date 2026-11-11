@@ -7498,5 +7498,15 @@
     "close": 19.25,
     "volume": 2103855.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "MDU",
+    "open": 19.1299991608,
+    "high": 19.4950008392,
+    "low": 19.030500412,
+    "close": 19.2800006866,
+    "volume": 1668635.0,
+    "wedge_status": "none"
   }
 ]

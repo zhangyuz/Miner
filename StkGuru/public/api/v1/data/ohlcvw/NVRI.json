@@ -7498,5 +7498,15 @@
     "close": 25.0100002289,
     "volume": 830747.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "NVRI",
+    "open": 24.7800006866,
+    "high": 25.3950004578,
+    "low": 24.0300006866,
+    "close": 25.25,
+    "volume": 568889.0,
+    "wedge_status": "none"
   }
 ]

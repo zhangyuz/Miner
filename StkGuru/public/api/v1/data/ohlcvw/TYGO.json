@@ -7498,5 +7498,15 @@
     "close": 0.7599999905,
     "volume": 544804.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "TYGO",
+    "open": 0.75,
+    "high": 0.7799000144,
+    "low": 0.6514999866,
+    "close": 0.6901000142,
+    "volume": 388274.0,
+    "wedge_status": "none"
   }
 ]

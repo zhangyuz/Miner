@@ -7498,5 +7498,15 @@
     "close": 9.6800003052,
     "volume": 589692.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "DTIL",
+    "open": 9.5699996948,
+    "high": 10.0200004578,
+    "low": 9.220000267,
+    "close": 9.5,
+    "volume": 352757.0,
+    "wedge_status": "none"
   }
 ]

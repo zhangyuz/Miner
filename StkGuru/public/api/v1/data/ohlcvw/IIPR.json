@@ -7498,5 +7498,15 @@
     "close": 55.5400009155,
     "volume": 250397.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "IIPR",
+    "open": 55.25,
+    "high": 55.3199996948,
+    "low": 54.1301002502,
+    "close": 55.0600013733,
+    "volume": 199819.0,
+    "wedge_status": "none"
   }
 ]

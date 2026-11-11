@@ -7498,5 +7498,15 @@
     "close": 8.5,
     "volume": 773221.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "OIS",
+    "open": 8.3500003815,
+    "high": 8.4799995422,
+    "low": 8.1599998474,
+    "close": 8.3299999237,
+    "volume": 802925.0,
+    "wedge_status": "none"
   }
 ]

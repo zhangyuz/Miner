@@ -7498,5 +7498,15 @@
     "close": 40.4700012207,
     "volume": 204953.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "REX",
+    "open": 40.0499992371,
+    "high": 40.0400009155,
+    "low": 39.5,
+    "close": 39.8199996948,
+    "volume": 246200.0,
+    "wedge_status": "none"
   }
 ]

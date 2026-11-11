@@ -7488,5 +7488,15 @@
     "close": 20.0,
     "volume": 228894.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "DAKT",
+    "open": 19.7800006866,
+    "high": 19.9799995422,
+    "low": 19.6599998474,
+    "close": 19.8099994659,
+    "volume": 333076.0,
+    "wedge_status": "none"
   }
 ]

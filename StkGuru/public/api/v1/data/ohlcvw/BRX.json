@@ -7498,5 +7498,15 @@
     "close": 30.2999992371,
     "volume": 2597291.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "BRX",
+    "open": 30.1599998474,
+    "high": 30.4599990845,
+    "low": 30.0,
+    "close": 30.3299999237,
+    "volume": 1854600.0,
+    "wedge_status": "none"
   }
 ]

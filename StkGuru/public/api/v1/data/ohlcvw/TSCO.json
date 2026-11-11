@@ -7498,5 +7498,15 @@
     "close": 37.4000015259,
     "volume": 8596863.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "TSCO",
+    "open": 37.1300010681,
+    "high": 37.7150001526,
+    "low": 36.3450012207,
+    "close": 37.5,
+    "volume": 7823963.0,
+    "wedge_status": "none"
   }
 ]

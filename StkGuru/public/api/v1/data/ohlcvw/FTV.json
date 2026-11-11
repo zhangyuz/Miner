@@ -7488,5 +7488,15 @@
     "close": 67.0999984741,
     "volume": 2770954.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "FTV",
+    "open": 67.0,
+    "high": 67.7900009155,
+    "low": 66.2099990845,
+    "close": 67.7300033569,
+    "volume": 2652061.0,
+    "wedge_status": "none"
   }
 ]

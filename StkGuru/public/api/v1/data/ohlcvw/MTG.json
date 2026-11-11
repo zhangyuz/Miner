@@ -7498,5 +7498,15 @@
     "close": 28.5,
     "volume": 3302699.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "MTG",
+    "open": 28.4799995422,
+    "high": 28.7590007782,
+    "low": 28.0400009155,
+    "close": 28.1700000763,
+    "volume": 2568698.0,
+    "wedge_status": "drop"
   }
 ]

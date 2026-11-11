@@ -7498,5 +7498,15 @@
     "close": 3.2200000286,
     "volume": 1153663.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "WHWK",
+    "open": 3.1600000858,
+    "high": 3.1749999523,
+    "low": 2.9700000286,
+    "close": 3.0799999237,
+    "volume": 292948.0,
+    "wedge_status": "none"
   }
 ]

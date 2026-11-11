@@ -7498,5 +7498,15 @@
     "close": 3.2200000286,
     "volume": 188468.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "CVGI",
+    "open": 3.2100000381,
+    "high": 3.2750000954,
+    "low": 3.0399999619,
+    "close": 3.2100000381,
+    "volume": 354035.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 6.0,
     "volume": 140383.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "AP",
+    "open": 5.9800000191,
+    "high": 6.9499001503,
+    "low": 5.7800002098,
+    "close": 6.8000001907,
+    "volume": 181412.0,
+    "wedge_status": "none"
   }
 ]

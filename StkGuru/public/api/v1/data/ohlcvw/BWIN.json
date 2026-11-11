@@ -7488,5 +7488,15 @@
     "close": 32.1500015259,
     "volume": 960725.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "BWIN",
+    "open": 32.0999984741,
+    "high": 32.25,
+    "low": 32.0099983215,
+    "close": 32.1800003052,
+    "volume": 1052586.0,
+    "wedge_status": "none"
   }
 ]

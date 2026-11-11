@@ -7488,5 +7488,15 @@
     "close": 28.25,
     "volume": 13137295.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "HPQ",
+    "open": 28.0,
+    "high": 28.6399993896,
+    "low": 27.7000007629,
+    "close": 28.4200000763,
+    "volume": 10676213.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 60.5,
     "volume": 3256231.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,10,00,00,00,000000",
+    "ticker": "OVV",
+    "open": 59.5400009155,
+    "high": 61.9199981689,
+    "low": 58.9799995422,
+    "close": 61.5999984741,
+    "volume": 3042480.0,
+    "wedge_status": "none"
   }
 ]

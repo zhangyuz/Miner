@@ -7030,6 +7030,16 @@
     "wedge_status": "pop"
   },
   {
+    "trade_date": "2026,09,03,00,00,00,000000",
+    "ticker": "AKBA",
+    "open": 1.0,
+    "high": 1.0,
+    "low": 0.9620000123977661,
+    "close": 0.9829999804496765,
+    "volume": 7456615.0,
+    "wedge_status": "none"
+  },
+  {
     "trade_date": "2026,09,04,00,00,00,000000",
     "ticker": "AKBA",
     "open": 0.9879999757,

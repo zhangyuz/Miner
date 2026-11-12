@@ -7508,5 +7508,15 @@
     "close": 82.7099990845,
     "volume": 2158984.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "SWKS",
+    "open": 85.0,
+    "high": 88.0449981689,
+    "low": 83.1549987793,
+    "close": 87.6399993896,
+    "volume": 3110478.0,
+    "wedge_status": "pop"
   }
 ]

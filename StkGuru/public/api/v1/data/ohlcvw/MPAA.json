@@ -7498,5 +7498,15 @@
     "close": 7.4200000763,
     "volume": 203181.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "MPAA",
+    "open": 7.5,
+    "high": 7.7199997902,
+    "low": 7.3699998856,
+    "close": 7.6199998856,
+    "volume": 142736.0,
+    "wedge_status": "none"
   }
 ]

@@ -1218,5 +1218,15 @@
     "close": 8.7700004578,
     "volume": 477343.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "SWMR",
+    "open": 8.3500003815,
+    "high": 9.5,
+    "low": 8.0500001907,
+    "close": 9.4300003052,
+    "volume": 577680.0,
+    "wedge_status": "none"
   }
 ]

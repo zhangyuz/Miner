@@ -7508,5 +7508,15 @@
     "close": 1.0800000429,
     "volume": 1291113.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "AREC",
+    "open": 1.1200000048,
+    "high": 1.1200000048,
+    "low": 1.0700000525,
+    "close": 1.0750000477,
+    "volume": 697260.0,
+    "wedge_status": "none"
   }
 ]

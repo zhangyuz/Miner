@@ -7508,5 +7508,15 @@
     "close": 42.3600006104,
     "volume": 802947.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "PRKS",
+    "open": 42.25,
+    "high": 43.3699989319,
+    "low": 41.6899986267,
+    "close": 41.75,
+    "volume": 586271.0,
+    "wedge_status": "none"
   }
 ]

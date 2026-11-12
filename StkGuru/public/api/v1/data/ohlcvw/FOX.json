@@ -7498,5 +7498,15 @@
     "close": 60.25,
     "volume": 1748982.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "FOX",
+    "open": 60.25,
+    "high": 60.6949996948,
+    "low": 59.4300003052,
+    "close": 60.6300010681,
+    "volume": 727774.0,
+    "wedge_status": "none"
   }
 ]

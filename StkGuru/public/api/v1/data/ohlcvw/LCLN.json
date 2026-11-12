@@ -768,5 +768,15 @@
     "close": 26.5699996948,
     "volume": 251607.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "LCLN",
+    "open": 26.5,
+    "high": 27.2099990845,
+    "low": 26.2700004578,
+    "close": 27.0900001526,
+    "volume": 249068.0,
+    "wedge_status": "none"
   }
 ]

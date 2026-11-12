@@ -7498,5 +7498,15 @@
     "close": 11.0699996948,
     "volume": 2885044.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "BGC",
+    "open": 11.1599998474,
+    "high": 11.279999733,
+    "low": 11.0399999619,
+    "close": 11.25,
+    "volume": 2401808.0,
+    "wedge_status": "none"
   }
 ]

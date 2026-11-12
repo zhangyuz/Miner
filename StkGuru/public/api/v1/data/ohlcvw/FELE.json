@@ -7498,5 +7498,15 @@
     "close": 97.7200012207,
     "volume": 248207.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "FELE",
+    "open": 98.6500015259,
+    "high": 99.0,
+    "low": 97.0746002197,
+    "close": 98.8799972534,
+    "volume": 287110.0,
+    "wedge_status": "pop"
   }
 ]

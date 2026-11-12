@@ -7498,5 +7498,15 @@
     "close": 119.4899978638,
     "volume": 3263177.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "INSM",
+    "open": 119.4899978638,
+    "high": 120.875,
+    "low": 117.3550033569,
+    "close": 120.75,
+    "volume": 1414152.0,
+    "wedge_status": "none"
   }
 ]

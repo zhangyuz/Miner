@@ -7498,5 +7498,15 @@
     "close": 2.4100000858,
     "volume": 564534.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "CURI",
+    "open": 2.4500000477,
+    "high": 2.4600000381,
+    "low": 2.3250000477,
+    "close": 2.3699998856,
+    "volume": 1668965.0,
+    "wedge_status": "none"
   }
 ]

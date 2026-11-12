@@ -7498,5 +7498,15 @@
     "close": 155.4299926758,
     "volume": 3436189.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "SANM",
+    "open": 163.5,
+    "high": 165.7899932861,
+    "low": 157.2501068115,
+    "close": 159.25,
+    "volume": 1212797.0,
+    "wedge_status": "none"
   }
 ]

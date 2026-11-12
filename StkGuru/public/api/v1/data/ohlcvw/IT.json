@@ -7498,5 +7498,15 @@
     "close": 188.9199981689,
     "volume": 806533.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "IT",
+    "open": 186.8600006104,
+    "high": 193.1699981689,
+    "low": 185.5,
+    "close": 193.0,
+    "volume": 826399.0,
+    "wedge_status": "none"
   }
 ]

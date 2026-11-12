@@ -998,5 +998,15 @@
     "close": 31.5,
     "volume": 468996.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "ALMR",
+    "open": 31.5499992371,
+    "high": 32.5,
+    "low": 29.3199996948,
+    "close": 31.6100006104,
+    "volume": 750111.0,
+    "wedge_status": "none"
   }
 ]

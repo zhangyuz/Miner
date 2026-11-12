@@ -7508,5 +7508,15 @@
     "close": 87.0400009155,
     "volume": 1372473.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "BKH",
+    "open": 87.0,
+    "high": 87.1500015259,
+    "low": 85.8300018311,
+    "close": 86.9599990845,
+    "volume": 1264492.0,
+    "wedge_status": "none"
   }
 ]

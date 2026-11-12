@@ -678,5 +678,15 @@
     "close": 10.720000267,
     "volume": 1187833.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "AADX",
+    "open": 10.1000003815,
+    "high": 10.2650003433,
+    "low": 9.111000061,
+    "close": 9.3000001907,
+    "volume": 4560960.0,
+    "wedge_status": "drop"
   }
 ]

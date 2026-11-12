@@ -6518,5 +6518,15 @@
     "close": 28.6100006104,
     "volume": 515790.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "ANRO",
+    "open": 29.75,
+    "high": 31.2999992371,
+    "low": 28.8799991608,
+    "close": 31.1499996185,
+    "volume": 1221856.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 41.2400016785,
     "volume": 5399342.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "CNP",
+    "open": 40.9399986267,
+    "high": 41.1800003052,
+    "low": 40.7099990845,
+    "close": 41.0,
+    "volume": 8408678.0,
+    "wedge_status": "none"
   }
 ]

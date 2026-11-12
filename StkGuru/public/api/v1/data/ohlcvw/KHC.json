@@ -7498,5 +7498,15 @@
     "close": 24.2600002289,
     "volume": 8434878.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "KHC",
+    "open": 24.0,
+    "high": 24.3050003052,
+    "low": 23.7700004578,
+    "close": 24.2700004578,
+    "volume": 9199323.0,
+    "wedge_status": "drop"
   }
 ]

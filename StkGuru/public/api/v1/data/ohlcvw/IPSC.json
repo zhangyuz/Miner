@@ -7508,5 +7508,15 @@
     "close": 1.6799999475,
     "volume": 720025.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "IPSC",
+    "open": 1.7350000143,
+    "high": 1.75,
+    "low": 1.6399999857,
+    "close": 1.7400000095,
+    "volume": 327716.0,
+    "wedge_status": "none"
   }
 ]

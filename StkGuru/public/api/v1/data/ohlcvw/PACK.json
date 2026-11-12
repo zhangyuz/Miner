@@ -7508,5 +7508,15 @@
     "close": 3.5299999714,
     "volume": 495007.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "PACK",
+    "open": 3.5599999428,
+    "high": 3.7000000477,
+    "low": 3.5,
+    "close": 3.5499999523,
+    "volume": 516171.0,
+    "wedge_status": "pop"
   }
 ]

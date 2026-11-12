@@ -7508,5 +7508,15 @@
     "close": 47.4399986267,
     "volume": 1479719.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "CNM",
+    "open": 44.8499984741,
+    "high": 46.5999984741,
+    "low": 44.3100013733,
+    "close": 46.0,
+    "volume": 3127635.0,
+    "wedge_status": "none"
   }
 ]

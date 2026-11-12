@@ -7498,5 +7498,15 @@
     "close": 44.0,
     "volume": 1199957.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "LASR",
+    "open": 45.4199981689,
+    "high": 45.7599983215,
+    "low": 43.8800010681,
+    "close": 44.4799995422,
+    "volume": 832391.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 93.0,
     "volume": 1456308.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "CWST",
+    "open": 92.9400024414,
+    "high": 98.6750030518,
+    "low": 91.7699966431,
+    "close": 98.5299987793,
+    "volume": 1089597.0,
+    "wedge_status": "none"
   }
 ]

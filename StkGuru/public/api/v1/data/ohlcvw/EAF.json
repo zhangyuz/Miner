@@ -7508,5 +7508,15 @@
     "close": 10.2899999619,
     "volume": 667577.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "EAF",
+    "open": 10.5900001526,
+    "high": 11.5500001907,
+    "low": 10.4250001907,
+    "close": 11.25,
+    "volume": 247298.0,
+    "wedge_status": "none"
   }
 ]

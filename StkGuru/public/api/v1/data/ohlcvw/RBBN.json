@@ -7498,5 +7498,15 @@
     "close": 1.3999999762,
     "volume": 511230.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "RBBN",
+    "open": 1.4400000572,
+    "high": 1.4700000286,
+    "low": 1.4200999737,
+    "close": 1.4700000286,
+    "volume": 332588.0,
+    "wedge_status": "none"
   }
 ]

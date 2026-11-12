@@ -608,5 +608,15 @@
     "close": 143.0899963379,
     "volume": 81260539.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "SPCX",
+    "open": 143.375,
+    "high": 145.1600036621,
+    "low": 138.6226043701,
+    "close": 139.75,
+    "volume": 111667663.0,
+    "wedge_status": "none"
   }
 ]

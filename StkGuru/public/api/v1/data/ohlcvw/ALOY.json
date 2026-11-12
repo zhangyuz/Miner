@@ -7508,5 +7508,15 @@
     "close": 6.2100000381,
     "volume": 2010343.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "ALOY",
+    "open": 6.4482002258,
+    "high": 7.0100002289,
+    "low": 6.375,
+    "close": 6.6500000954,
+    "volume": 1897651.0,
+    "wedge_status": "none"
   }
 ]

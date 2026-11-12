@@ -7448,5 +7448,15 @@
     "close": 20.4300003052,
     "volume": 6940060.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,11,00,00,00,000000",
+    "ticker": "KVYO",
+    "open": 20.4400005341,
+    "high": 21.2900009155,
+    "low": 20.25,
+    "close": 21.2299995422,
+    "volume": 3335590.0,
+    "wedge_status": "none"
   }
 ]

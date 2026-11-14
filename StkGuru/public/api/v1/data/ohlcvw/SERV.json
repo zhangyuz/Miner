@@ -6288,5 +6288,25 @@
     "close": 3.1649999619,
     "volume": 2057703.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "SERV",
+    "open": 3.0,
+    "high": 3.0099999905,
+    "low": 2.8399999142,
+    "close": 2.9049999714,
+    "volume": 2707000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "SERV",
+    "open": 2.9700000286,
+    "high": 2.9700000286,
+    "low": 2.5499999523,
+    "close": 2.6199998856,
+    "volume": 4815100.0,
+    "wedge_status": "none"
   }
 ]

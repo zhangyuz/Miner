@@ -7488,5 +7488,25 @@
     "close": 226.0,
     "volume": 1673334.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "MKSI",
+    "open": 214.8399963379,
+    "high": 225.9499969482,
+    "low": 214.3500061035,
+    "close": 221.5,
+    "volume": 1338400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "MKSI",
+    "open": 220.2899932861,
+    "high": 221.4700012207,
+    "low": 207.0,
+    "close": 215.6499938965,
+    "volume": 1314700.0,
+    "wedge_status": "none"
   }
 ]

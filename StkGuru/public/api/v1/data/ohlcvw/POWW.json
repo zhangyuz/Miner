@@ -7488,5 +7488,25 @@
     "close": 2.3299999237,
     "volume": 529227.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "POWW",
+    "open": 2.3299999237,
+    "high": 2.3399999142,
+    "low": 2.2599999905,
+    "close": 2.2799999714,
+    "volume": 304400.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "POWW",
+    "open": 2.2899999619,
+    "high": 2.3199999332,
+    "low": 2.25,
+    "close": 2.2899999619,
+    "volume": 565400.0,
+    "wedge_status": "none"
   }
 ]

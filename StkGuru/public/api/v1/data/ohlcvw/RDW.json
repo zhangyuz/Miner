@@ -7488,5 +7488,25 @@
     "close": 8.3999996185,
     "volume": 10550073.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "RDW",
+    "open": 8.0,
+    "high": 8.375,
+    "low": 7.9200000763,
+    "close": 8.029999733,
+    "volume": 11569300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "RDW",
+    "open": 7.8600001335,
+    "high": 8.0500001907,
+    "low": 7.4499998093,
+    "close": 7.7300000191,
+    "volume": 10824500.0,
+    "wedge_status": "none"
   }
 ]

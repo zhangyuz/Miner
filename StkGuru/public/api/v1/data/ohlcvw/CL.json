@@ -7488,5 +7488,25 @@
     "close": 98.0,
     "volume": 4629204.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "CL",
+    "open": 98.9000015259,
+    "high": 99.0800018311,
+    "low": 97.6399993896,
+    "close": 97.9000015259,
+    "volume": 3156400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "CL",
+    "open": 98.5,
+    "high": 99.75,
+    "low": 98.0500030518,
+    "close": 99.6699981689,
+    "volume": 5422238.0,
+    "wedge_status": "none"
   }
 ]

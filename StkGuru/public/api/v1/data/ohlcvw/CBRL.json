@@ -7488,5 +7488,25 @@
     "close": 66.1299972534,
     "volume": 488818.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "CBRL",
+    "open": 66.0199966431,
+    "high": 67.75,
+    "low": 64.25,
+    "close": 64.8600006104,
+    "volume": 586600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "CBRL",
+    "open": 65.7099990845,
+    "high": 67.5999984741,
+    "low": 65.5,
+    "close": 66.9499969482,
+    "volume": 549900.0,
+    "wedge_status": "none"
   }
 ]

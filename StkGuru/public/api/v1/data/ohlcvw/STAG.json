@@ -7488,5 +7488,25 @@
     "close": 37.1199989319,
     "volume": 942518.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "STAG",
+    "open": 37.25,
+    "high": 37.25,
+    "low": 36.8499984741,
+    "close": 36.9900016785,
+    "volume": 788000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "STAG",
+    "open": 37.2999992371,
+    "high": 37.2999992371,
+    "low": 36.8899993896,
+    "close": 36.9700012207,
+    "volume": 604200.0,
+    "wedge_status": "none"
   }
 ]

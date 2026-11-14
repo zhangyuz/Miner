@@ -7488,5 +7488,25 @@
     "close": 22.9799995422,
     "volume": 553.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "ARL",
+    "open": 23.0,
+    "high": 23.3899993896,
+    "low": 22.75,
+    "close": 22.9300003052,
+    "volume": 8200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "ARL",
+    "open": 22.3500003815,
+    "high": 22.4400005341,
+    "low": 21.6200008392,
+    "close": 21.6200008392,
+    "volume": 4062.0,
+    "wedge_status": "none"
   }
 ]

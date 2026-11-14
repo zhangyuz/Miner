@@ -7488,5 +7488,25 @@
     "close": 7.75,
     "volume": 481160.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "YEXT",
+    "open": 7.7399997711,
+    "high": 7.8299999237,
+    "low": 7.5850000381,
+    "close": 7.6500000954,
+    "volume": 437800.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "YEXT",
+    "open": 7.75,
+    "high": 7.75,
+    "low": 7.5900001526,
+    "close": 7.6700000763,
+    "volume": 390200.0,
+    "wedge_status": "none"
   }
 ]

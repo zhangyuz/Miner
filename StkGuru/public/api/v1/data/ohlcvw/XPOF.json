@@ -7488,5 +7488,25 @@
     "close": 4.7899999619,
     "volume": 415803.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "XPOF",
+    "open": 4.75,
+    "high": 4.75,
+    "low": 4.4699997902,
+    "close": 4.6300001144,
+    "volume": 380100.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "XPOF",
+    "open": 4.6199998856,
+    "high": 4.7899999619,
+    "low": 4.5799999237,
+    "close": 4.6999998093,
+    "volume": 371900.0,
+    "wedge_status": "none"
   }
 ]

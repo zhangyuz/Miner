@@ -7488,5 +7488,25 @@
     "close": 386.0,
     "volume": 212170.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "BIO",
+    "open": 382.8800048828,
+    "high": 390.0,
+    "low": 369.3999938965,
+    "close": 370.4800109863,
+    "volume": 182300.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "BIO",
+    "open": 370.1900024414,
+    "high": 373.5,
+    "low": 364.1099853516,
+    "close": 366.3599853516,
+    "volume": 256200.0,
+    "wedge_status": "none"
   }
 ]

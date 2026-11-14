@@ -7488,5 +7488,25 @@
     "close": 31.2800006866,
     "volume": 1568182.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "BEPC",
+    "open": 31.0200004578,
+    "high": 31.25,
+    "low": 30.2350006104,
+    "close": 30.2399997711,
+    "volume": 1676600.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "BEPC",
+    "open": 30.3400001526,
+    "high": 30.7800006866,
+    "low": 30.25,
+    "close": 30.7099990845,
+    "volume": 1826400.0,
+    "wedge_status": "none"
   }
 ]

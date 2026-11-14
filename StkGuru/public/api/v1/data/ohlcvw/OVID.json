@@ -7488,5 +7488,25 @@
     "close": 2.7799999714,
     "volume": 1823059.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "OVID",
+    "open": 2.7699999809,
+    "high": 2.7699999809,
+    "low": 2.5099999905,
+    "close": 2.5499999523,
+    "volume": 2924900.0,
+    "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "OVID",
+    "open": 2.5,
+    "high": 2.5550000668,
+    "low": 2.3299999237,
+    "close": 2.5399999619,
+    "volume": 2900700.0,
+    "wedge_status": "none"
   }
 ]

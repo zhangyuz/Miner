@@ -7488,5 +7488,25 @@
     "close": 6.0199999809,
     "volume": 6485728.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "SBET",
+    "open": 5.6599998474,
+    "high": 5.9800000191,
+    "low": 5.6599998474,
+    "close": 5.7699999809,
+    "volume": 6536900.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "SBET",
+    "open": 5.6999998093,
+    "high": 5.75,
+    "low": 5.4800000191,
+    "close": 5.6100001335,
+    "volume": 7080200.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,25 @@
     "close": 277.450012207,
     "volume": 975651.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "CAH",
+    "open": 280.0,
+    "high": 280.0,
+    "low": 275.9800109863,
+    "close": 278.1400146484,
+    "volume": 1295600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "CAH",
+    "open": 280.0899963379,
+    "high": 281.8550109863,
+    "low": 276.75,
+    "close": 281.1000061035,
+    "volume": 1249128.0,
+    "wedge_status": "none"
   }
 ]

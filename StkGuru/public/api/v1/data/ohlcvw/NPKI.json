@@ -7488,5 +7488,25 @@
     "close": 9.3599996567,
     "volume": 893353.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "NPKI",
+    "open": 9.2299995422,
+    "high": 9.6599998474,
+    "low": 9.1800003052,
+    "close": 9.25,
+    "volume": 1078400.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "NPKI",
+    "open": 9.3299999237,
+    "high": 9.3900003433,
+    "low": 9.0200004578,
+    "close": 9.029999733,
+    "volume": 1140700.0,
+    "wedge_status": "none"
   }
 ]

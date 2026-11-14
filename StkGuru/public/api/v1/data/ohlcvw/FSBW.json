@@ -7488,5 +7488,25 @@
     "close": 43.0999984741,
     "volume": 15391.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "FSBW",
+    "open": 43.1300010681,
+    "high": 44.3600006104,
+    "low": 42.7200012207,
+    "close": 43.2099990845,
+    "volume": 21500.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "FSBW",
+    "open": 43.1100006104,
+    "high": 43.3100013733,
+    "low": 42.8899993896,
+    "close": 43.0,
+    "volume": 29000.0,
+    "wedge_status": "none"
   }
 ]

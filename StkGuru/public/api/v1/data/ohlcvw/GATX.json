@@ -7488,5 +7488,25 @@
     "close": 187.6699981689,
     "volume": 170317.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "GATX",
+    "open": 189.0,
+    "high": 190.0,
+    "low": 186.3800048828,
+    "close": 189.3000030518,
+    "volume": 150600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "GATX",
+    "open": 190.0,
+    "high": 192.4600067139,
+    "low": 189.0,
+    "close": 191.4299926758,
+    "volume": 165700.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,25 @@
     "close": 9.9799995422,
     "volume": 5892699.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "NVAX",
+    "open": 9.6999998093,
+    "high": 9.7399997711,
+    "low": 8.75,
+    "close": 8.7600002289,
+    "volume": 7014000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "NVAX",
+    "open": 8.7700004578,
+    "high": 8.7899999619,
+    "low": 8.3500003815,
+    "close": 8.529999733,
+    "volume": 4639800.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,25 @@
     "close": 49.6699981689,
     "volume": 277377.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "CWT",
+    "open": 50.25,
+    "high": 50.25,
+    "low": 49.3499984741,
+    "close": 49.3899993896,
+    "volume": 317300.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "CWT",
+    "open": 49.6699981689,
+    "high": 49.9500007629,
+    "low": 49.4099998474,
+    "close": 49.5299987793,
+    "volume": 216000.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,25 @@
     "close": 53.9900016785,
     "volume": 82819.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "OBK",
+    "open": 53.7299476993,
+    "high": 54.0084984343,
+    "low": 53.4613510327,
+    "close": 53.7200012207,
+    "volume": 69200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "OBK",
+    "open": 54.0,
+    "high": 54.75,
+    "low": 53.6599998474,
+    "close": 54.0600013733,
+    "volume": 110900.0,
+    "wedge_status": "none"
   }
 ]

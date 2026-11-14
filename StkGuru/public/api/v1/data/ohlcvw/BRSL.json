@@ -7488,5 +7488,25 @@
     "close": 10.279999733,
     "volume": 2753926.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "BRSL",
+    "open": 10.279999733,
+    "high": 10.3299999237,
+    "low": 9.6700000763,
+    "close": 9.6899995804,
+    "volume": 2480000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "BRSL",
+    "open": 9.75,
+    "high": 10.0100002289,
+    "low": 9.720000267,
+    "close": 9.8100004196,
+    "volume": 1985100.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,25 @@
     "close": 3.3199999332,
     "volume": 1225252.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "MDXG",
+    "open": 3.2999999523,
+    "high": 3.3399999142,
+    "low": 3.2100000381,
+    "close": 3.2400000095,
+    "volume": 1474700.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "MDXG",
+    "open": 3.25,
+    "high": 3.2899999619,
+    "low": 3.1600000858,
+    "close": 3.2100000381,
+    "volume": 1127500.0,
+    "wedge_status": "none"
   }
 ]

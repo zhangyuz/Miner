@@ -7488,5 +7488,25 @@
     "close": 679.4199829102,
     "volume": 83895.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "UI",
+    "open": 663.0,
+    "high": 687.8599853516,
+    "low": 663.0,
+    "close": 683.2100219727,
+    "volume": 71200.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "UI",
+    "open": 680.0,
+    "high": 688.0,
+    "low": 656.9299926758,
+    "close": 669.7600097656,
+    "volume": 65800.0,
+    "wedge_status": "none"
   }
 ]

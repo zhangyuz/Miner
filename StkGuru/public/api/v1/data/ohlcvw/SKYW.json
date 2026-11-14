@@ -7488,5 +7488,25 @@
     "close": 85.4100036621,
     "volume": 363372.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "SKYW",
+    "open": 84.7900009155,
+    "high": 85.4100036621,
+    "low": 82.0999984741,
+    "close": 82.5,
+    "volume": 343000.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "SKYW",
+    "open": 83.1299972534,
+    "high": 83.8300018311,
+    "low": 81.5,
+    "close": 82.3399963379,
+    "volume": 304500.0,
+    "wedge_status": "none"
   }
 ]

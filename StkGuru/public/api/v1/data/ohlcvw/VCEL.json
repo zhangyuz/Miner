@@ -7488,5 +7488,25 @@
     "close": 59.4500007629,
     "volume": 809203.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,12,00,00,00,000000",
+    "ticker": "VCEL",
+    "open": 59.5,
+    "high": 59.5,
+    "low": 56.9199981689,
+    "close": 57.4199981689,
+    "volume": 826600.0,
+    "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,13,00,00,00,000000",
+    "ticker": "VCEL",
+    "open": 57.6599998474,
+    "high": 58.4199981689,
+    "low": 56.8600006104,
+    "close": 56.9599990845,
+    "volume": 698800.0,
+    "wedge_status": "none"
   }
 ]

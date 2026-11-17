@@ -7488,5 +7488,15 @@
     "close": 6.3800001144,
     "volume": 523500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "AHRT",
+    "open": 6.4099998474,
+    "high": 6.4099998474,
+    "low": 6.2814002037,
+    "close": 6.3000001907,
+    "volume": 671031.0,
+    "wedge_status": "drop"
   }
 ]

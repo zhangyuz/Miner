@@ -7488,5 +7488,15 @@
     "close": 45.5,
     "volume": 95500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "FCBC",
+    "open": 45.7900009155,
+    "high": 45.8600006104,
+    "low": 45.1899986267,
+    "close": 45.5699996948,
+    "volume": 72642.0,
+    "wedge_status": "none"
   }
 ]

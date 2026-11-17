@@ -7488,5 +7488,15 @@
     "close": 56.0,
     "volume": 664300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "MC",
+    "open": 54.7900009155,
+    "high": 55.4500007629,
+    "low": 53.8250007629,
+    "close": 54.8600006104,
+    "volume": 740411.0,
+    "wedge_status": "none"
   }
 ]

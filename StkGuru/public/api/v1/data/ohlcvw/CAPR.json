@@ -7488,5 +7488,15 @@
     "close": 9.529999733,
     "volume": 3659100.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "CAPR",
+    "open": 9.2100000381,
+    "high": 9.3500003815,
+    "low": 8.1899995804,
+    "close": 8.3000001907,
+    "volume": 3785671.0,
+    "wedge_status": "drop"
   }
 ]

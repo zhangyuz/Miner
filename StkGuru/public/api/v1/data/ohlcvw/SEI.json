@@ -7488,5 +7488,15 @@
     "close": 63.8100013733,
     "volume": 1215200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "SEI",
+    "open": 60.1399993896,
+    "high": 62.5,
+    "low": 59.9799995422,
+    "close": 60.9599990845,
+    "volume": 1699000.0,
+    "wedge_status": "none"
   }
 ]

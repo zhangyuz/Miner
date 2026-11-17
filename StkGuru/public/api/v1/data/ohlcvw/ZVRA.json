@@ -7488,5 +7488,15 @@
     "close": 9.0799999237,
     "volume": 2941800.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "ZVRA",
+    "open": 9.1099996567,
+    "high": 9.7849998474,
+    "low": 8.9200000763,
+    "close": 9.25,
+    "volume": 1761700.0,
+    "wedge_status": "none"
   }
 ]

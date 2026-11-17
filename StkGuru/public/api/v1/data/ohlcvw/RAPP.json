@@ -5678,5 +5678,15 @@
     "close": 26.1499996185,
     "volume": 315600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "RAPP",
+    "open": 25.7800006866,
+    "high": 26.1399993896,
+    "low": 24.625,
+    "close": 24.8199996948,
+    "volume": 462563.0,
+    "wedge_status": "none"
   }
 ]

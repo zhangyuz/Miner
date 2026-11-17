@@ -7488,5 +7488,15 @@
     "close": 21.6000003815,
     "volume": 475300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "DMRA",
+    "open": 21.875,
+    "high": 23.75,
+    "low": 21.3299999237,
+    "close": 22.4950008392,
+    "volume": 1232435.0,
+    "wedge_status": "none"
   }
 ]

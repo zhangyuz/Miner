@@ -7488,5 +7488,15 @@
     "close": 15.9600000381,
     "volume": 1543600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "HLF",
+    "open": 16.0,
+    "high": 16.2999992371,
+    "low": 15.7899999619,
+    "close": 16.1499996185,
+    "volume": 1785315.0,
+    "wedge_status": "none"
   }
 ]

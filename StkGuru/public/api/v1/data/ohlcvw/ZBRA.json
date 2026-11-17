@@ -7488,5 +7488,15 @@
     "close": 324.0,
     "volume": 655300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "ZBRA",
+    "open": 319.7380065918,
+    "high": 325.1700134277,
+    "low": 317.0155944824,
+    "close": 320.1300048828,
+    "volume": 778384.0,
+    "wedge_status": "none"
   }
 ]

@@ -5398,5 +5398,15 @@
     "close": 4.0100002289,
     "volume": 868500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "ARTV",
+    "open": 3.9800000191,
+    "high": 4.0599999428,
+    "low": 3.9249999523,
+    "close": 3.9600000381,
+    "volume": 1310895.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 11.8599996567,
     "volume": 2032000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "ARLO",
+    "open": 11.75,
+    "high": 12.3400001526,
+    "low": 11.6168003082,
+    "close": 12.3100004196,
+    "volume": 2699751.0,
+    "wedge_status": "none"
   }
 ]

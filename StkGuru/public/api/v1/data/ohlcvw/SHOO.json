@@ -7488,5 +7488,15 @@
     "close": 42.0,
     "volume": 997800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "SHOO",
+    "open": 41.3800010681,
+    "high": 41.7000007629,
+    "low": 40.4300003052,
+    "close": 40.9799995422,
+    "volume": 1475000.0,
+    "wedge_status": "none"
   }
 ]

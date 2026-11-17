@@ -7488,5 +7488,15 @@
     "close": 8.5,
     "volume": 2232200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "LADR",
+    "open": 8.5500001907,
+    "high": 8.5901002884,
+    "low": 8.3943996429,
+    "close": 8.4300003052,
+    "volume": 2329554.0,
+    "wedge_status": "none"
   }
 ]

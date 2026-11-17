@@ -7488,5 +7488,15 @@
     "close": 4.0300002098,
     "volume": 207900.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "INSG",
+    "open": 3.9300000668,
+    "high": 3.9848001003,
+    "low": 3.7400000095,
+    "close": 3.75,
+    "volume": 276678.0,
+    "wedge_status": "none"
   }
 ]

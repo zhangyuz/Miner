@@ -7488,5 +7488,15 @@
     "close": 16.0,
     "volume": 1060700.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "ADNT",
+    "open": 15.9300003052,
+    "high": 15.9399995804,
+    "low": 15.0850000381,
+    "close": 15.1499996185,
+    "volume": 1858318.0,
+    "wedge_status": "none"
   }
 ]

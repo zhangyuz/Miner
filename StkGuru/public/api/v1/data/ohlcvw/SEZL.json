@@ -7488,5 +7488,15 @@
     "close": 154.6000061035,
     "volume": 342000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "SEZL",
+    "open": 154.0,
+    "high": 167.9499969482,
+    "low": 153.3500061035,
+    "close": 161.9199981689,
+    "volume": 788700.0,
+    "wedge_status": "none"
   }
 ]

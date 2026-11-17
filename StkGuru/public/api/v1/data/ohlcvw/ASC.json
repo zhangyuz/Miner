@@ -7488,5 +7488,15 @@
     "close": 19.5200004578,
     "volume": 680200.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "ASC",
+    "open": 19.4500007629,
+    "high": 19.5,
+    "low": 18.7099990845,
+    "close": 18.8700008392,
+    "volume": 649667.0,
+    "wedge_status": "none"
   }
 ]

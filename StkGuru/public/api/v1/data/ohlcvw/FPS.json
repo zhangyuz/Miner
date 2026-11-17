@@ -1518,5 +1518,15 @@
     "close": 22.1200008392,
     "volume": 10032600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "FPS",
+    "open": 20.75,
+    "high": 22.0,
+    "low": 20.2800006866,
+    "close": 20.5699996948,
+    "volume": 8411164.0,
+    "wedge_status": "none"
   }
 ]

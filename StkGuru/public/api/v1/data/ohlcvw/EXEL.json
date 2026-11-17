@@ -7488,5 +7488,15 @@
     "close": 69.0,
     "volume": 1521800.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "EXEL",
+    "open": 69.2099990845,
+    "high": 69.9800033569,
+    "low": 66.8700027466,
+    "close": 67.0999984741,
+    "volume": 2680451.0,
+    "wedge_status": "drop"
   }
 ]

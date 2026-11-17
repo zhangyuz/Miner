@@ -7488,5 +7488,15 @@
     "close": 16.1499996185,
     "volume": 24400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "CHCI",
+    "open": 15.75,
+    "high": 16.4549999237,
+    "low": 15.75,
+    "close": 15.8400001526,
+    "volume": 25940.0,
+    "wedge_status": "none"
   }
 ]

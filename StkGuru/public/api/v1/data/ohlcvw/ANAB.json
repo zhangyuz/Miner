@@ -7488,5 +7488,15 @@
     "close": 46.25,
     "volume": 499600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "ANAB",
+    "open": 45.7799987793,
+    "high": 46.2299995422,
+    "low": 44.7999992371,
+    "close": 45.7299995422,
+    "volume": 483756.0,
+    "wedge_status": "none"
   }
 ]

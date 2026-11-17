@@ -7488,5 +7488,15 @@
     "close": 70.5,
     "volume": 1214900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "ACM",
+    "open": 70.4000015259,
+    "high": 72.6699981689,
+    "low": 70.1549987793,
+    "close": 72.5,
+    "volume": 2320818.0,
+    "wedge_status": "none"
   }
 ]

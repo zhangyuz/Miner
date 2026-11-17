@@ -7488,5 +7488,15 @@
     "close": 101.8799972534,
     "volume": 242000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "BDC",
+    "open": 99.1399993896,
+    "high": 101.0,
+    "low": 98.5299987793,
+    "close": 99.1999969482,
+    "volume": 357644.0,
+    "wedge_status": "none"
   }
 ]

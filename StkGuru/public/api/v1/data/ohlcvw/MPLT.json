@@ -2208,5 +2208,15 @@
     "close": 7.25,
     "volume": 367700.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "MPLT",
+    "open": 7.3299999237,
+    "high": 7.4800000191,
+    "low": 6.8800001144,
+    "close": 6.9000000954,
+    "volume": 305244.0,
+    "wedge_status": "none"
   }
 ]

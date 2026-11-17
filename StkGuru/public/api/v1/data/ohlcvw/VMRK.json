@@ -7488,5 +7488,15 @@
     "close": 64.2200012207,
     "volume": 5411000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "VMRK",
+    "open": 64.9000015259,
+    "high": 65.2399978638,
+    "low": 64.4899978638,
+    "close": 64.75,
+    "volume": 5885985.0,
+    "wedge_status": "none"
   }
 ]

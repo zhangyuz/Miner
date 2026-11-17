@@ -7488,5 +7488,15 @@
     "close": 94.9800033569,
     "volume": 290300.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "AAMI",
+    "open": 93.7799987793,
+    "high": 94.875,
+    "low": 89.6600036621,
+    "close": 89.7200012207,
+    "volume": 486481.0,
+    "wedge_status": "drop"
   }
 ]

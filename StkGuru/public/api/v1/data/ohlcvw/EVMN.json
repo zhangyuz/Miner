@@ -2128,5 +2128,15 @@
     "close": 7.6300001144,
     "volume": 723400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "EVMN",
+    "open": 7.5399999619,
+    "high": 7.7699999809,
+    "low": 7.0700001717,
+    "close": 7.0999999046,
+    "volume": 671350.0,
+    "wedge_status": "none"
   }
 ]

@@ -7488,5 +7488,15 @@
     "close": 50.9099998474,
     "volume": 105000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "UFCS",
+    "open": 51.3899993896,
+    "high": 51.5,
+    "low": 49.9900016785,
+    "close": 50.9399986267,
+    "volume": 97000.0,
+    "wedge_status": "none"
   }
 ]

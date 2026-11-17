@@ -7488,5 +7488,15 @@
     "close": 25.4599990845,
     "volume": 343500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "AMRC",
+    "open": 24.5,
+    "high": 25.7999992371,
+    "low": 24.4200000763,
+    "close": 24.6800003052,
+    "volume": 441428.0,
+    "wedge_status": "none"
   }
 ]

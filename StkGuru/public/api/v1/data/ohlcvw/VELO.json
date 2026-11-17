@@ -7488,5 +7488,15 @@
     "close": 4.1500000954,
     "volume": 1357500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "VELO",
+    "open": 4.0,
+    "high": 4.0590000153,
+    "low": 3.5399999619,
+    "close": 3.5450000763,
+    "volume": 1959600.0,
+    "wedge_status": "none"
   }
 ]

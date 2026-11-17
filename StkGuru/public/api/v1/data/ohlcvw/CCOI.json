@@ -7488,5 +7488,15 @@
     "close": 4.0100002289,
     "volume": 2463000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "CCOI",
+    "open": 3.75,
+    "high": 3.8949999809,
+    "low": 3.4800999165,
+    "close": 3.7300000191,
+    "volume": 4152478.0,
+    "wedge_status": "none"
   }
 ]

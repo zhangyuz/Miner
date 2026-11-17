@@ -7488,5 +7488,15 @@
     "close": 43.25,
     "volume": 1012400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "EXLS",
+    "open": 43.5099983215,
+    "high": 43.9500007629,
+    "low": 43.2099990845,
+    "close": 43.5999984741,
+    "volume": 1267536.0,
+    "wedge_status": "none"
   }
 ]

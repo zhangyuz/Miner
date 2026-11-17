@@ -7488,5 +7488,15 @@
     "close": 4.9400000572,
     "volume": 1613400.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "FWDI",
+    "open": 4.5,
+    "high": 4.6199998856,
+    "low": 4.2100000381,
+    "close": 4.2649998665,
+    "volume": 2970568.0,
+    "wedge_status": "none"
   }
 ]

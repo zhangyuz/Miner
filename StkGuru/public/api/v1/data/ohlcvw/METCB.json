@@ -7488,5 +7488,15 @@
     "close": 3.75,
     "volume": 104100.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "METCB",
+    "open": 3.7365000248,
+    "high": 3.8599998951,
+    "low": 3.4400000572,
+    "close": 3.5599999428,
+    "volume": 92959.0,
+    "wedge_status": "none"
   }
 ]

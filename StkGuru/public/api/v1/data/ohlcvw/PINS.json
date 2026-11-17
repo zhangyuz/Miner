@@ -7488,5 +7488,15 @@
     "close": 19.1499996185,
     "volume": 6752700.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "PINS",
+    "open": 19.0,
+    "high": 19.0900001526,
+    "low": 18.2150001526,
+    "close": 18.4200000763,
+    "volume": 9407113.0,
+    "wedge_status": "none"
   }
 ]

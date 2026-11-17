@@ -7488,5 +7488,15 @@
     "close": 46.1199989319,
     "volume": 98000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "PGC",
+    "open": 46.25,
+    "high": 46.4599990845,
+    "low": 45.3499984741,
+    "close": 45.4799995422,
+    "volume": 108310.0,
+    "wedge_status": "drop"
   }
 ]

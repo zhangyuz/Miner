@@ -7488,5 +7488,15 @@
     "close": 8.4399995804,
     "volume": 135100.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "BRCC",
+    "open": 8.4600000381,
+    "high": 8.5135002136,
+    "low": 7.6700000763,
+    "close": 8.0500001907,
+    "volume": 146958.0,
+    "wedge_status": "none"
   }
 ]

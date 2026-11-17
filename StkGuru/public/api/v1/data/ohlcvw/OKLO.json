@@ -7488,5 +7488,15 @@
     "close": 23.9200000763,
     "volume": 6526000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "OKLO",
+    "open": 22.75,
+    "high": 24.1355991364,
+    "low": 22.5400009155,
+    "close": 23.0300006866,
+    "volume": 6545148.0,
+    "wedge_status": "none"
   }
 ]

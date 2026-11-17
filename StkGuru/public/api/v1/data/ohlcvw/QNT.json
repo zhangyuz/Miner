@@ -698,5 +698,15 @@
     "close": 35.4000015259,
     "volume": 1957500.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "QNT",
+    "open": 33.9799995422,
+    "high": 34.3050003052,
+    "low": 31.4200000763,
+    "close": 31.75,
+    "volume": 3360617.0,
+    "wedge_status": "none"
   }
 ]

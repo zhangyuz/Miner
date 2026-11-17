@@ -7488,5 +7488,15 @@
     "close": 1.6449999809,
     "volume": 3528900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,16,00,00,00,000000",
+    "ticker": "ALT",
+    "open": 1.6399999857,
+    "high": 1.6649999619,
+    "low": 1.5,
+    "close": 1.5599999428,
+    "volume": 6046935.0,
+    "wedge_status": "none"
   }
 ]

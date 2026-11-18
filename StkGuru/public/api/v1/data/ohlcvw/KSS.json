@@ -7498,5 +7498,15 @@
     "close": 23.3700008392,
     "volume": 3615547.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "KSS",
+    "open": 23.5,
+    "high": 23.8799991608,
+    "low": 22.7549991608,
+    "close": 23.0900001526,
+    "volume": 4035486.0,
+    "wedge_status": "none"
   }
 ]

@@ -1578,5 +1578,15 @@
     "close": 4.9200000763,
     "volume": 3009600.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "YSS",
+    "open": 4.9200000763,
+    "high": 4.9349999428,
+    "low": 4.1999998093,
+    "close": 4.25,
+    "volume": 3374132.0,
+    "wedge_status": "none"
   }
 ]

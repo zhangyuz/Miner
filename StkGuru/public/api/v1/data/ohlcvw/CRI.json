@@ -7498,5 +7498,15 @@
     "close": 35.0999984741,
     "volume": 1303285.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "CRI",
+    "open": 35.0800018311,
+    "high": 35.4199981689,
+    "low": 34.5900001526,
+    "close": 34.75,
+    "volume": 988743.0,
+    "wedge_status": "none"
   }
 ]

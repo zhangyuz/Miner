@@ -1958,5 +1958,15 @@
     "close": 8.3100004196,
     "volume": 16219691.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "PURR",
+    "open": 8.3800001144,
+    "high": 8.5,
+    "low": 7.9349999428,
+    "close": 7.9600000381,
+    "volume": 16766080.0,
+    "wedge_status": "none"
   }
 ]

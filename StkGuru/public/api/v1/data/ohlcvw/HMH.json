@@ -1148,5 +1148,15 @@
     "close": 11.5900001526,
     "volume": 307939.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "HMH",
+    "open": 11.5200004578,
+    "high": 12.0,
+    "low": 10.9799995422,
+    "close": 10.9799995422,
+    "volume": 530628.0,
+    "wedge_status": "none"
   }
 ]

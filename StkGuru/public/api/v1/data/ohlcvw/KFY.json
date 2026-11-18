@@ -7498,5 +7498,15 @@
     "close": 76.2900009155,
     "volume": 359588.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "KFY",
+    "open": 75.5100021362,
+    "high": 76.0049972534,
+    "low": 74.9400024414,
+    "close": 75.0,
+    "volume": 368266.0,
+    "wedge_status": "drop"
   }
 ]

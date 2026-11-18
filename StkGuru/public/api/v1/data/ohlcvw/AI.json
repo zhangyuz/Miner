@@ -7498,5 +7498,15 @@
     "close": 10.6800003052,
     "volume": 3965082.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "AI",
+    "open": 10.5,
+    "high": 10.6400003433,
+    "low": 9.7603998184,
+    "close": 9.9499998093,
+    "volume": 6567571.0,
+    "wedge_status": "none"
   }
 ]

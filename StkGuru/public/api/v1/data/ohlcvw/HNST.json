@@ -7498,5 +7498,15 @@
     "close": 4.875,
     "volume": 1714249.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "HNST",
+    "open": 4.8400001526,
+    "high": 4.9299998283,
+    "low": 4.5799999237,
+    "close": 4.6750001907,
+    "volume": 2493803.0,
+    "wedge_status": "drop"
   }
 ]

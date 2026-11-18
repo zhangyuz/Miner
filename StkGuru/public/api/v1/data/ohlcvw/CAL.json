@@ -7498,5 +7498,15 @@
     "close": 13.1400003433,
     "volume": 440441.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "CAL",
+    "open": 13.0699996948,
+    "high": 13.25,
+    "low": 12.6899995804,
+    "close": 12.7299995422,
+    "volume": 463105.0,
+    "wedge_status": "none"
   }
 ]

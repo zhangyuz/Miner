@@ -7498,5 +7498,15 @@
     "close": 42.8699989319,
     "volume": 6697625.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "GFL",
+    "open": 43.0,
+    "high": 43.3250007629,
+    "low": 42.5900001526,
+    "close": 42.7400016785,
+    "volume": 5292782.0,
+    "wedge_status": "none"
   }
 ]

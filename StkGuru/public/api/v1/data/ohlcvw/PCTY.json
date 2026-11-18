@@ -7498,5 +7498,15 @@
     "close": 184.4600067139,
     "volume": 994848.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "PCTY",
+    "open": 182.2100067139,
+    "high": 182.2100067139,
+    "low": 177.1450042725,
+    "close": 177.5,
+    "volume": 750074.0,
+    "wedge_status": "none"
   }
 ]

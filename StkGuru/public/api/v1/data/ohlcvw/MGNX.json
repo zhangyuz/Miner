@@ -7498,5 +7498,15 @@
     "close": 2.1700000763,
     "volume": 886676.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "MGNX",
+    "open": 2.1300001144,
+    "high": 2.179899931,
+    "low": 2.0199999809,
+    "close": 2.0499999523,
+    "volume": 572900.0,
+    "wedge_status": "none"
   }
 ]

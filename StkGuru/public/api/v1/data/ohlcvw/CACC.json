@@ -7498,5 +7498,15 @@
     "close": 490.1000061035,
     "volume": 89592.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "CACC",
+    "open": 489.75,
+    "high": 499.8349914551,
+    "low": 483.4201049805,
+    "close": 488.9899902344,
+    "volume": 64277.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 3.0899999142,
     "volume": 863265.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "RILY",
+    "open": 3.0350000858,
+    "high": 3.1600000858,
+    "low": 2.8650000095,
+    "close": 3.0050001144,
+    "volume": 850160.0,
+    "wedge_status": "none"
   }
 ]

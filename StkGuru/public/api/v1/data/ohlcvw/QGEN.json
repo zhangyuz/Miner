@@ -7498,5 +7498,15 @@
     "close": 49.8100013733,
     "volume": 1716367.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "QGEN",
+    "open": 49.75,
+    "high": 49.8699989319,
+    "low": 49.7000007629,
+    "close": 49.75,
+    "volume": 2205836.0,
+    "wedge_status": "none"
   }
 ]

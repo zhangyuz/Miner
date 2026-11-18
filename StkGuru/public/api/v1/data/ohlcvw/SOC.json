@@ -7498,5 +7498,15 @@
     "close": 0.7160000205,
     "volume": 32656000.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "SOC",
+    "open": 0.75,
+    "high": 0.7613999844,
+    "low": 0.6423000097,
+    "close": 0.6529999971,
+    "volume": 15287181.0,
+    "wedge_status": "none"
   }
 ]

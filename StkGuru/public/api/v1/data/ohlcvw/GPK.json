@@ -7498,5 +7498,15 @@
     "close": 11.0,
     "volume": 4995105.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "GPK",
+    "open": 10.8400001526,
+    "high": 11.0699996948,
+    "low": 10.5100002289,
+    "close": 10.5200004578,
+    "volume": 3840259.0,
+    "wedge_status": "none"
   }
 ]

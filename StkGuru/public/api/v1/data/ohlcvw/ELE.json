@@ -7498,5 +7498,15 @@
     "close": 13.25,
     "volume": 646612.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "ELE",
+    "open": 13.25,
+    "high": 13.6000003815,
+    "low": 13.25,
+    "close": 13.4099998474,
+    "volume": 631367.0,
+    "wedge_status": "none"
   }
 ]

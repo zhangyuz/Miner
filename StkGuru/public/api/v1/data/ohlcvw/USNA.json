@@ -7498,5 +7498,15 @@
     "close": 13.5399999619,
     "volume": 185900.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "USNA",
+    "open": 13.3199996948,
+    "high": 13.7274999619,
+    "low": 13.25,
+    "close": 13.5699996948,
+    "volume": 159576.0,
+    "wedge_status": "none"
   }
 ]

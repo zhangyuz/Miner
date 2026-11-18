@@ -7498,5 +7498,15 @@
     "close": 1.5,
     "volume": 45006153.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "MPT",
+    "open": 1.4900000095,
+    "high": 1.5900000334,
+    "low": 1.4800000191,
+    "close": 1.5900000334,
+    "volume": 18283070.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 10.0,
     "volume": 6297621.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "DX",
+    "open": 9.9399995804,
+    "high": 9.9757003784,
+    "low": 9.7049999237,
+    "close": 9.7299995422,
+    "volume": 6421143.0,
+    "wedge_status": "none"
   }
 ]

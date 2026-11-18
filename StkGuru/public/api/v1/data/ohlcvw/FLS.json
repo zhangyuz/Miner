@@ -7498,5 +7498,15 @@
     "close": 80.5999984741,
     "volume": 1476649.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "FLS",
+    "open": 80.75,
+    "high": 81.75,
+    "low": 79.2099990845,
+    "close": 79.75,
+    "volume": 1040663.0,
+    "wedge_status": "none"
   }
 ]

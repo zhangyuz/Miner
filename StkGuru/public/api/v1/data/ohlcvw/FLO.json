@@ -7498,5 +7498,15 @@
     "close": 5.2399997711,
     "volume": 15545697.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "FLO",
+    "open": 5.0999999046,
+    "high": 5.25,
+    "low": 4.9650001526,
+    "close": 5.0,
+    "volume": 11395769.0,
+    "wedge_status": "none"
   }
 ]

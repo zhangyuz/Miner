@@ -7498,5 +7498,15 @@
     "close": 7.3200001717,
     "volume": 908089.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "RGNX",
+    "open": 7.3499999046,
+    "high": 7.4927000999,
+    "low": 6.8400001526,
+    "close": 7.2399997711,
+    "volume": 963087.0,
+    "wedge_status": "none"
   }
 ]

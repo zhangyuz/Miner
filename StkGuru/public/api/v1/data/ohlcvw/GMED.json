@@ -7498,5 +7498,15 @@
     "close": 70.5,
     "volume": 1375322.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "GMED",
+    "open": 70.25,
+    "high": 70.8850021362,
+    "low": 69.4899978638,
+    "close": 69.9899978638,
+    "volume": 1139953.0,
+    "wedge_status": "none"
   }
 ]

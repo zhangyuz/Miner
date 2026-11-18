@@ -7498,5 +7498,15 @@
     "close": 32.4300003052,
     "volume": 25514.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "PKBK",
+    "open": 32.25,
+    "high": 32.2550010681,
+    "low": 31.7399997711,
+    "close": 31.9599990845,
+    "volume": 36735.0,
+    "wedge_status": "none"
   }
 ]

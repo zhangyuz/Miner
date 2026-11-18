@@ -3978,5 +3978,15 @@
     "close": 21.0699996948,
     "volume": 5595519.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "SAIL",
+    "open": 20.8799991608,
+    "high": 21.0,
+    "low": 19.75,
+    "close": 20.1800003052,
+    "volume": 3304904.0,
+    "wedge_status": "none"
   }
 ]

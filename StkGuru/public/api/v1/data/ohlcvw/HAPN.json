@@ -7498,5 +7498,15 @@
     "close": 15.3950004578,
     "volume": 905361.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,17,00,00,00,000000",
+    "ticker": "HAPN",
+    "open": 15.25,
+    "high": 15.3299999237,
+    "low": 14.720000267,
+    "close": 14.8800001144,
+    "volume": 2202515.0,
+    "wedge_status": "none"
   }
 ]

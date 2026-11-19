@@ -7508,5 +7508,15 @@
     "close": 5.2399997711,
     "volume": 1035525.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "SRTA",
+    "open": 5.2350001335,
+    "high": 5.3499999046,
+    "low": 4.9499998093,
+    "close": 4.9600000381,
+    "volume": 993400.0,
+    "wedge_status": "none"
   }
 ]

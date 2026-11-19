@@ -7508,5 +7508,15 @@
     "close": 93.8600006104,
     "volume": 401756.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "ITRI",
+    "open": 93.8499984741,
+    "high": 99.0500030518,
+    "low": 93.5299987793,
+    "close": 98.0,
+    "volume": 623299.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 75.5699996948,
     "volume": 1946604.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "FLUT",
+    "open": 75.5,
+    "high": 77.0299987793,
+    "low": 72.6999969482,
+    "close": 72.8799972534,
+    "volume": 2365478.0,
+    "wedge_status": "none"
   }
 ]

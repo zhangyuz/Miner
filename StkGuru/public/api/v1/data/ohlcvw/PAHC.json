@@ -7508,5 +7508,15 @@
     "close": 34.9199981689,
     "volume": 130088.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "PAHC",
+    "open": 34.5600013733,
+    "high": 35.7200012207,
+    "low": 34.5,
+    "close": 35.5699996948,
+    "volume": 109170.0,
+    "wedge_status": "none"
   }
 ]

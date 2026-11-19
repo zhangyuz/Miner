@@ -7508,5 +7508,15 @@
     "close": 4.9400000572,
     "volume": 181676.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "ASLE",
+    "open": 4.9200000763,
+    "high": 5.0850000381,
+    "low": 4.9200000763,
+    "close": 5.0799999237,
+    "volume": 301150.0,
+    "wedge_status": "none"
   }
 ]

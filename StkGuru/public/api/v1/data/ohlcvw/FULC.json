@@ -7508,5 +7508,15 @@
     "close": 3.75,
     "volume": 1307236.0,
     "wedge_status": "pop"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "FULC",
+    "open": 3.75,
+    "high": 3.7650001049,
+    "low": 3.7149999142,
+    "close": 3.7200000286,
+    "volume": 632172.0,
+    "wedge_status": "none"
   }
 ]

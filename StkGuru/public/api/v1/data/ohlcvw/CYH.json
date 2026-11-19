@@ -7508,5 +7508,15 @@
     "close": 2.0199999809,
     "volume": 1954218.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "CYH",
+    "open": 2.0,
+    "high": 2.0460000038,
+    "low": 1.8500000238,
+    "close": 1.8600000143,
+    "volume": 2878689.0,
+    "wedge_status": "none"
   }
 ]

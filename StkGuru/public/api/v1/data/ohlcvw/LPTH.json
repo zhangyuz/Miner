@@ -7508,5 +7508,15 @@
     "close": 6.2300000191,
     "volume": 2769426.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "LPTH",
+    "open": 6.5,
+    "high": 6.6571998596,
+    "low": 6.2199997902,
+    "close": 6.2600002289,
+    "volume": 2061745.0,
+    "wedge_status": "none"
   }
 ]

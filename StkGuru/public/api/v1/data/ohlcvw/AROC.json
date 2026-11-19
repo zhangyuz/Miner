@@ -7508,5 +7508,15 @@
     "close": 26.75,
     "volume": 2138169.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "AROC",
+    "open": 26.6700000763,
+    "high": 27.1599998474,
+    "low": 26.5650005341,
+    "close": 26.7800006866,
+    "volume": 1223741.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 34.9000015259,
     "volume": 266045.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "MPB",
+    "open": 34.75,
+    "high": 34.9850006104,
+    "low": 34.5099983215,
+    "close": 34.7200012207,
+    "volume": 207616.0,
+    "wedge_status": "drop"
   }
 ]

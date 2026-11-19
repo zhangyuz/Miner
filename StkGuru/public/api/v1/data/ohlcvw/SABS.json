@@ -7508,5 +7508,15 @@
     "close": 2.9500000477,
     "volume": 368047.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "SABS",
+    "open": 3.0,
+    "high": 3.3199999332,
+    "low": 2.9500000477,
+    "close": 3.2000000477,
+    "volume": 886268.0,
+    "wedge_status": "none"
   }
 ]

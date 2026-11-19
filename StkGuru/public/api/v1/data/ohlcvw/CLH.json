@@ -7508,5 +7508,15 @@
     "close": 288.5,
     "volume": 473315.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "CLH",
+    "open": 283.0,
+    "high": 287.2799987793,
+    "low": 275.0,
+    "close": 284.7799987793,
+    "volume": 930280.0,
+    "wedge_status": "none"
   }
 ]

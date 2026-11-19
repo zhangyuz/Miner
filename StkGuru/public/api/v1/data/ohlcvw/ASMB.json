@@ -7508,5 +7508,15 @@
     "close": 22.5,
     "volume": 326387.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "ASMB",
+    "open": 22.5,
+    "high": 23.5,
+    "low": 22.0699996948,
+    "close": 22.3899993896,
+    "volume": 486346.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 3.0,
     "volume": 285295.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "CABO",
+    "open": 3.0299999714,
+    "high": 3.1394999027,
+    "low": 2.693500042,
+    "close": 2.75,
+    "volume": 275933.0,
+    "wedge_status": "none"
   }
 ]

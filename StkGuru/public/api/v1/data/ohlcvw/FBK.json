@@ -7508,5 +7508,15 @@
     "close": 53.1699981689,
     "volume": 355629.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "FBK",
+    "open": 53.2000007629,
+    "high": 53.75,
+    "low": 52.7383003235,
+    "close": 53.0,
+    "volume": 395632.0,
+    "wedge_status": "none"
   }
 ]

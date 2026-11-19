@@ -7508,5 +7508,15 @@
     "close": 287.4700012207,
     "volume": 2243404.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "NTRA",
+    "open": 286.6700134277,
+    "high": 289.5899963379,
+    "low": 277.5,
+    "close": 289.5,
+    "volume": 1959408.0,
+    "wedge_status": "none"
   }
 ]

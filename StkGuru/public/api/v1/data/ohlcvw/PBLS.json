@@ -678,5 +678,15 @@
     "close": 28.25,
     "volume": 480477.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "PBLS",
+    "open": 28.2199993134,
+    "high": 29.2600002289,
+    "low": 27.8950004578,
+    "close": 28.4699993134,
+    "volume": 602362.0,
+    "wedge_status": "none"
   }
 ]

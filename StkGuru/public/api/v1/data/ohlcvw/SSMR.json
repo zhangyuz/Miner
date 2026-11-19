@@ -718,5 +718,15 @@
     "close": 13.0600004196,
     "volume": 2833182.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "SSMR",
+    "open": 12.5,
+    "high": 13.1099996567,
+    "low": 12.3249998093,
+    "close": 12.5799999237,
+    "volume": 1912386.0,
+    "wedge_status": "none"
   }
 ]

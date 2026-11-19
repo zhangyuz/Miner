@@ -7508,5 +7508,15 @@
     "close": 3.3399999142,
     "volume": 985838.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "BNAI",
+    "open": 3.3499999046,
+    "high": 3.3499999046,
+    "low": 2.8001000881,
+    "close": 2.8199999332,
+    "volume": 229059.0,
+    "wedge_status": "none"
   }
 ]

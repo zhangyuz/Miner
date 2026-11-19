@@ -7508,5 +7508,15 @@
     "close": 4.8299999237,
     "volume": 1025747.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "RXST",
+    "open": 4.8200001717,
+    "high": 5.0700001717,
+    "low": 4.8000001907,
+    "close": 5.0100002289,
+    "volume": 736093.0,
+    "wedge_status": "none"
   }
 ]

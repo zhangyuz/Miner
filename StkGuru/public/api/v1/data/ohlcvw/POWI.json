@@ -7508,5 +7508,15 @@
     "close": 42.5499992371,
     "volume": 557278.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "POWI",
+    "open": 43.0,
+    "high": 43.5,
+    "low": 42.0299987793,
+    "close": 43.1399993896,
+    "volume": 638827.0,
+    "wedge_status": "none"
   }
 ]

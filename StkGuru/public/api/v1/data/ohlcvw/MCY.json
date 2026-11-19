@@ -7508,5 +7508,15 @@
     "close": 84.0,
     "volume": 252187.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "MCY",
+    "open": 84.0100021362,
+    "high": 84.3399963379,
+    "low": 82.5899963379,
+    "close": 83.75,
+    "volume": 245522.0,
+    "wedge_status": "none"
   }
 ]

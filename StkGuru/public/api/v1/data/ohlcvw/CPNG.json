@@ -7508,5 +7508,15 @@
     "close": 14.0,
     "volume": 11517730.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "CPNG",
+    "open": 13.9399995804,
+    "high": 14.3500003815,
+    "low": 13.8350000381,
+    "close": 14.279999733,
+    "volume": 13252018.0,
+    "wedge_status": "none"
   }
 ]

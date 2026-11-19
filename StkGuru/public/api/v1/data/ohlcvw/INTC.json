@@ -7508,5 +7508,15 @@
     "close": 55.1699981689,
     "volume": 97435435.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "INTC",
+    "open": 55.3899993896,
+    "high": 56.0,
+    "low": 53.4399986267,
+    "close": 54.6699981689,
+    "volume": 78323570.0,
+    "wedge_status": "none"
   }
 ]

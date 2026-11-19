@@ -7508,5 +7508,15 @@
     "close": 16.1000003815,
     "volume": 406767.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "TBCH",
+    "open": 16.25,
+    "high": 16.7250003815,
+    "low": 16.1499996185,
+    "close": 16.3500003815,
+    "volume": 402433.0,
+    "wedge_status": "none"
   }
 ]

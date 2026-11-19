@@ -1888,5 +1888,15 @@
     "close": 36.4000015259,
     "volume": 1752542.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "VSNT",
+    "open": 36.25,
+    "high": 36.7949981689,
+    "low": 35.8783988953,
+    "close": 35.9399986267,
+    "volume": 1581286.0,
+    "wedge_status": "none"
   }
 ]

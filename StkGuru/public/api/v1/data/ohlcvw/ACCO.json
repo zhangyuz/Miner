@@ -7508,5 +7508,15 @@
     "close": 5.3600001335,
     "volume": 1343278.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "ACCO",
+    "open": 5.3600001335,
+    "high": 5.6550002098,
+    "low": 5.390999794,
+    "close": 5.5999999046,
+    "volume": 1769244.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 1.7999999523,
     "volume": 19792510.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "BBAI",
+    "open": 1.7999999523,
+    "high": 1.8500000238,
+    "low": 1.7300000191,
+    "close": 1.75,
+    "volume": 14378438.0,
+    "wedge_status": "none"
   }
 ]

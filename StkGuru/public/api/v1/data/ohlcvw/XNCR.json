@@ -7508,5 +7508,15 @@
     "close": 34.5,
     "volume": 1616907.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "XNCR",
+    "open": 34.5400009155,
+    "high": 35.5600013733,
+    "low": 33.7799987793,
+    "close": 34.3899993896,
+    "volume": 867357.0,
+    "wedge_status": "none"
   }
 ]

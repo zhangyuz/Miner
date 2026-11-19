@@ -1868,5 +1868,15 @@
     "close": 37.6800003052,
     "volume": 9038914.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,18,00,00,00,000000",
+    "ticker": "MDLN",
+    "open": 36.8300018311,
+    "high": 39.4099998474,
+    "low": 36.75,
+    "close": 39.1599998474,
+    "volume": 39751877.0,
+    "wedge_status": "none"
   }
 ]

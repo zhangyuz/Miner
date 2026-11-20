@@ -348,5 +348,15 @@
     "close": 9.0,
     "volume": 1736446.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "ADIG",
+    "open": 9.0200004578,
+    "high": 9.2777996063,
+    "low": 8.5100002289,
+    "close": 8.8999996185,
+    "volume": 1737254.0,
+    "wedge_status": "none"
   }
 ]

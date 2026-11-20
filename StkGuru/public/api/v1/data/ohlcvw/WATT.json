@@ -7508,5 +7508,15 @@
     "close": 7.0599999428,
     "volume": 68880.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "WATT",
+    "open": 7.3000001907,
+    "high": 7.3649997711,
+    "low": 6.8000001907,
+    "close": 6.9600000381,
+    "volume": 109234.0,
+    "wedge_status": "none"
   }
 ]

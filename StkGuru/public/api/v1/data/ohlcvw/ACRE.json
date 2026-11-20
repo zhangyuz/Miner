@@ -7508,5 +7508,15 @@
     "close": 3.4600000381,
     "volume": 474576.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "ACRE",
+    "open": 3.4400000572,
+    "high": 3.4649999142,
+    "low": 3.3605000973,
+    "close": 3.3900001049,
+    "volume": 630604.0,
+    "wedge_status": "none"
   }
 ]

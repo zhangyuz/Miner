@@ -7508,5 +7508,15 @@
     "close": 310.25,
     "volume": 2004036.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "CME",
+    "open": 308.5849914551,
+    "high": 309.6650085449,
+    "low": 306.0,
+    "close": 306.3099975586,
+    "volume": 2195497.0,
+    "wedge_status": "none"
   }
 ]

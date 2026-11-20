@@ -7508,5 +7508,15 @@
     "close": 12.0,
     "volume": 36775790.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "WULF",
+    "open": 12.6400003433,
+    "high": 12.9600000381,
+    "low": 11.470000267,
+    "close": 11.5799999237,
+    "volume": 58158513.0,
+    "wedge_status": "none"
   }
 ]

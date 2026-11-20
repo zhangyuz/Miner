@@ -1388,5 +1388,15 @@
     "close": 80.4499969482,
     "volume": 2134305.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "SUNB",
+    "open": 80.9199981689,
+    "high": 81.2750015259,
+    "low": 77.2649993896,
+    "close": 77.5,
+    "volume": 2560194.0,
+    "wedge_status": "drop"
   }
 ]

@@ -5438,5 +5438,15 @@
     "close": 14.3999996185,
     "volume": 7268713.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "ARDT",
+    "open": 14.3299999237,
+    "high": 14.6700000763,
+    "low": 14.1000995636,
+    "close": 14.5,
+    "volume": 2193239.0,
+    "wedge_status": "none"
   }
 ]

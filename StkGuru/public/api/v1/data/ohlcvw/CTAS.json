@@ -7508,5 +7508,15 @@
     "close": 222.0,
     "volume": 1630946.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "CTAS",
+    "open": 220.2700042725,
+    "high": 221.2899932861,
+    "low": 216.75,
+    "close": 218.9199981689,
+    "volume": 1508636.0,
+    "wedge_status": "drop"
   }
 ]

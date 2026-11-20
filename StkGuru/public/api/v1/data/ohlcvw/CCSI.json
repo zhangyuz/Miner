@@ -7508,5 +7508,15 @@
     "close": 40.9000015259,
     "volume": 265199.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "CCSI",
+    "open": 41.5600013733,
+    "high": 41.5600013733,
+    "low": 38.75,
+    "close": 38.9300003052,
+    "volume": 177859.0,
+    "wedge_status": "drop"
   }
 ]

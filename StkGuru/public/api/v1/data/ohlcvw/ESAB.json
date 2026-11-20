@@ -7508,5 +7508,15 @@
     "close": 79.0899963379,
     "volume": 533003.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "ESAB",
+    "open": 79.3499984741,
+    "high": 79.6849975586,
+    "low": 76.25,
+    "close": 77.2600021362,
+    "volume": 656003.0,
+    "wedge_status": "drop"
   }
 ]

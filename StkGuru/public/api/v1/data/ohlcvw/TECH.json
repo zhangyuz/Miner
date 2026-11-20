@@ -7508,5 +7508,15 @@
     "close": 72.75,
     "volume": 2572502.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "TECH",
+    "open": 72.7600021362,
+    "high": 72.7600021362,
+    "low": 72.6900024414,
+    "close": 72.6999969482,
+    "volume": 3322299.0,
+    "wedge_status": "drop"
   }
 ]

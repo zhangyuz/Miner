@@ -7508,5 +7508,15 @@
     "close": 83.25,
     "volume": 944357.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "KTB",
+    "open": 82.7900009155,
+    "high": 83.1999969482,
+    "low": 79.4100036621,
+    "close": 79.4499969482,
+    "volume": 574032.0,
+    "wedge_status": "none"
   }
 ]

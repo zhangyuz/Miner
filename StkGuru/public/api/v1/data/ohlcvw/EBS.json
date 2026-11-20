@@ -7508,5 +7508,15 @@
     "close": 5.5,
     "volume": 817050.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "EBS",
+    "open": 5.4499998093,
+    "high": 5.5560002327,
+    "low": 5.0311999321,
+    "close": 5.1500000954,
+    "volume": 994132.0,
+    "wedge_status": "none"
   }
 ]

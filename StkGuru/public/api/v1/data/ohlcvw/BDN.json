@@ -7508,5 +7508,15 @@
     "close": 3.0,
     "volume": 1739929.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,19,00,00,00,000000",
+    "ticker": "BDN",
+    "open": 3.0,
+    "high": 2.9900000095,
+    "low": 2.8900001049,
+    "close": 2.9200000763,
+    "volume": 2520688.0,
+    "wedge_status": "none"
   }
 ]

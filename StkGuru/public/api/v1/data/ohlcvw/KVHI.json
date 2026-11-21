@@ -7508,5 +7508,15 @@
     "close": 7.1500000954,
     "volume": 106586.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "KVHI",
+    "open": 6.9499998093,
+    "high": 7.3050999641,
+    "low": 6.4699997902,
+    "close": 6.6100001335,
+    "volume": 182132.0,
+    "wedge_status": "drop"
   }
 ]

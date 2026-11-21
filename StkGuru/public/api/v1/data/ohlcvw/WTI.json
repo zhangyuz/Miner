@@ -7508,5 +7508,15 @@
     "close": 2.9600000381,
     "volume": 3873381.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "WTI",
+    "open": 2.9000000954,
+    "high": 2.9849998951,
+    "low": 2.875,
+    "close": 2.9400000572,
+    "volume": 3172971.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 1251.6199951172,
     "volume": 33115.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "GHC",
+    "open": 1264.8599853516,
+    "high": 1281.4799804688,
+    "low": 1252.25,
+    "close": 1252.25,
+    "volume": 48402.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 27.0900001526,
     "volume": 98880.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "PPIH",
+    "open": 26.8999996185,
+    "high": 26.8999996185,
+    "low": 25.4500007629,
+    "close": 25.5,
+    "volume": 111407.0,
+    "wedge_status": "none"
   }
 ]

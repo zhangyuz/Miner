@@ -1478,5 +1478,15 @@
     "close": 20.5400009155,
     "volume": 3522268.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "SHAZ",
+    "open": 20.3799991608,
+    "high": 20.5,
+    "low": 16.3159999847,
+    "close": 16.8299999237,
+    "volume": 3658623.0,
+    "wedge_status": "none"
   }
 ]

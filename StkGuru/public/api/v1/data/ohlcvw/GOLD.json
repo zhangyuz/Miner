@@ -7508,5 +7508,15 @@
     "close": 37.2099990845,
     "volume": 836056.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "GOLD",
+    "open": 36.7400016785,
+    "high": 37.75,
+    "low": 35.6699981689,
+    "close": 36.1399993896,
+    "volume": 1066256.0,
+    "wedge_status": "none"
   }
 ]

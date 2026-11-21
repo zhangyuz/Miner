@@ -7508,5 +7508,15 @@
     "close": 64.7099990845,
     "volume": 589894.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "EEFT",
+    "open": 64.6900024414,
+    "high": 66.2300033569,
+    "low": 63.0,
+    "close": 64.4000015259,
+    "volume": 592503.0,
+    "wedge_status": "none"
   }
 ]

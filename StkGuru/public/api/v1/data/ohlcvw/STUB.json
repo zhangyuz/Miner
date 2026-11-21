@@ -2528,5 +2528,15 @@
     "close": 4.8400001526,
     "volume": 6941477.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "STUB",
+    "open": 4.8099999428,
+    "high": 4.9800000191,
+    "low": 4.5,
+    "close": 4.5399999619,
+    "volume": 6619682.0,
+    "wedge_status": "none"
   }
 ]

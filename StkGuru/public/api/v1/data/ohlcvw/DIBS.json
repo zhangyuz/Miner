@@ -7508,5 +7508,15 @@
     "close": 5.5100002289,
     "volume": 101908.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "DIBS",
+    "open": 5.4899997711,
+    "high": 5.6900000572,
+    "low": 5.4000000954,
+    "close": 5.4200000763,
+    "volume": 113440.0,
+    "wedge_status": "none"
   }
 ]

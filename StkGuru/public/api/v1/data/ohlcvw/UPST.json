@@ -7508,5 +7508,15 @@
     "close": 17.0,
     "volume": 5285241.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "UPST",
+    "open": 16.5900001526,
+    "high": 17.0499992371,
+    "low": 15.540599823,
+    "close": 15.6599998474,
+    "volume": 6073689.0,
+    "wedge_status": "none"
   }
 ]

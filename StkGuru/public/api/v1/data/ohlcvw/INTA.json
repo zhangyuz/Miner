@@ -7508,5 +7508,15 @@
     "close": 42.4300003052,
     "volume": 610060.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "INTA",
+    "open": 42.0,
+    "high": 43.9872016907,
+    "low": 40.5600013733,
+    "close": 43.4500007629,
+    "volume": 629903.0,
+    "wedge_status": "none"
   }
 ]

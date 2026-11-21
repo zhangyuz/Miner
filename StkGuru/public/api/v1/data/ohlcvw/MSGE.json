@@ -7508,5 +7508,15 @@
     "close": 79.7900009155,
     "volume": 301377.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "MSGE",
+    "open": 79.0100021362,
+    "high": 80.0149993896,
+    "low": 77.75,
+    "close": 77.8700027466,
+    "volume": 385748.0,
+    "wedge_status": "drop"
   }
 ]

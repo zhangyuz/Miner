@@ -7508,5 +7508,15 @@
     "close": 1.0199999809,
     "volume": 2944539.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "ALXO",
+    "open": 1.0099999905,
+    "high": 1.1100000143,
+    "low": 0.9801999927,
+    "close": 1.0599999428,
+    "volume": 997708.0,
+    "wedge_status": "none"
   }
 ]

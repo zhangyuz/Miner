@@ -7508,5 +7508,15 @@
     "close": 47.4599990845,
     "volume": 750183.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "ANDE",
+    "open": 47.5,
+    "high": 48.2349014282,
+    "low": 44.75,
+    "close": 44.9700012207,
+    "volume": 475818.0,
+    "wedge_status": "none"
   }
 ]

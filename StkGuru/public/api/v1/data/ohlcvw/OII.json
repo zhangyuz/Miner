@@ -7508,5 +7508,15 @@
     "close": 33.2999992371,
     "volume": 598488.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "OII",
+    "open": 32.75,
+    "high": 33.1500015259,
+    "low": 31.3950004578,
+    "close": 31.6700000763,
+    "volume": 845620.0,
+    "wedge_status": "none"
   }
 ]

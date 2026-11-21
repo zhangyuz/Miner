@@ -7508,5 +7508,15 @@
     "close": 1.5,
     "volume": 131468.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "ELTX",
+    "open": 1.4700000286,
+    "high": 1.5900000334,
+    "low": 1.4400000572,
+    "close": 1.4500000477,
+    "volume": 231230.0,
+    "wedge_status": "none"
   }
 ]

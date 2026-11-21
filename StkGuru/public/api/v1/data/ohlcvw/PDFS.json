@@ -7508,5 +7508,15 @@
     "close": 35.0,
     "volume": 438349.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "PDFS",
+    "open": 33.4399986267,
+    "high": 33.6878013611,
+    "low": 30.0400009155,
+    "close": 30.4400005341,
+    "volume": 852692.0,
+    "wedge_status": "none"
   }
 ]

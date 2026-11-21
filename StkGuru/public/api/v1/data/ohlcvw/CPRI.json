@@ -7508,5 +7508,15 @@
     "close": 18.5,
     "volume": 4086659.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "CPRI",
+    "open": 18.2999992371,
+    "high": 18.6550006866,
+    "low": 17.4599990845,
+    "close": 17.5400009155,
+    "volume": 4560971.0,
+    "wedge_status": "none"
   }
 ]

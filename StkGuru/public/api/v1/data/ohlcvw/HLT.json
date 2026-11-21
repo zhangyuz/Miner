@@ -7508,5 +7508,15 @@
     "close": 362.299987793,
     "volume": 1579862.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "HLT",
+    "open": 363.5,
+    "high": 363.9200134277,
+    "low": 354.5199890137,
+    "close": 356.25,
+    "volume": 2422685.0,
+    "wedge_status": "none"
   }
 ]

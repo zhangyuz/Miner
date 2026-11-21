@@ -7508,5 +7508,15 @@
     "close": 11.8800001144,
     "volume": 3483825.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "FUN",
+    "open": 11.75,
+    "high": 11.8800001144,
+    "low": 10.946100235,
+    "close": 11.0600004196,
+    "volume": 2859772.0,
+    "wedge_status": "none"
   }
 ]

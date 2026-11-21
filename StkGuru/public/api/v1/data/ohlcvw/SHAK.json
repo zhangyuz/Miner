@@ -7508,5 +7508,15 @@
     "close": 72.9400024414,
     "volume": 921506.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,20,00,00,00,000000",
+    "ticker": "SHAK",
+    "open": 72.4499969482,
+    "high": 74.2750015259,
+    "low": 71.5,
+    "close": 71.9599990845,
+    "volume": 1189035.0,
+    "wedge_status": "drop"
   }
 ]

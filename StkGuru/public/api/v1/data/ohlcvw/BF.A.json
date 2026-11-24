@@ -7498,5 +7498,15 @@
     "close": 30.7399997711,
     "volume": 151673.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "BF.A",
+    "open": 30.25,
+    "high": 30.5400009155,
+    "low": 29.5499992371,
+    "close": 29.6100006104,
+    "volume": 172600.0,
+    "wedge_status": "none"
   }
 ]

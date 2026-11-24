@@ -7498,5 +7498,15 @@
     "close": 1.375,
     "volume": 32921336.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "KEEL",
+    "open": 1.6710000038,
+    "high": 1.7699999809,
+    "low": 1.5800000429,
+    "close": 1.6000000238,
+    "volume": 27179704.0,
+    "wedge_status": "none"
   }
 ]

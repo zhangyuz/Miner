@@ -7498,5 +7498,15 @@
     "close": 4.3000001907,
     "volume": 292026.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "RAIL",
+    "open": 4.4699997902,
+    "high": 4.5199999809,
+    "low": 4.3550000191,
+    "close": 4.5199999809,
+    "volume": 214675.0,
+    "wedge_status": "none"
   }
 ]

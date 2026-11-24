@@ -7498,5 +7498,15 @@
     "close": 80.4000015259,
     "volume": 2121415.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "WYNN",
+    "open": 82.0,
+    "high": 83.9700012207,
+    "low": 81.1299972534,
+    "close": 83.3399963379,
+    "volume": 1703856.0,
+    "wedge_status": "none"
   }
 ]

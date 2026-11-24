@@ -7498,5 +7498,15 @@
     "close": 7.8800001144,
     "volume": 1216812.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "SWIM",
+    "open": 8.1300001144,
+    "high": 8.1800003052,
+    "low": 7.9400000572,
+    "close": 8.1800003052,
+    "volume": 674467.0,
+    "wedge_status": "none"
   }
 ]

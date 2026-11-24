@@ -7498,5 +7498,15 @@
     "close": 120.5,
     "volume": 550324.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "JBTM",
+    "open": 123.7799987793,
+    "high": 125.0,
+    "low": 121.75,
+    "close": 124.1600036621,
+    "volume": 364805.0,
+    "wedge_status": "none"
   }
 ]

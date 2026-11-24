@@ -7498,5 +7498,15 @@
     "close": 11.0,
     "volume": 399099.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "GDOT",
+    "open": 11.1599998474,
+    "high": 11.1499004364,
+    "low": 10.9449996948,
+    "close": 11.0500001907,
+    "volume": 315078.0,
+    "wedge_status": "none"
   }
 ]

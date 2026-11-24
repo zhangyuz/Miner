@@ -7498,5 +7498,15 @@
     "close": 13.0100002289,
     "volume": 184237.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "ZUMZ",
+    "open": 13.3699998856,
+    "high": 13.75,
+    "low": 13.1400003433,
+    "close": 13.6700000763,
+    "volume": 226679.0,
+    "wedge_status": "none"
   }
 ]

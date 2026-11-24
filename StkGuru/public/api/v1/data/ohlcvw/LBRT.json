@@ -7498,5 +7498,15 @@
     "close": 10.7600002289,
     "volume": 6706726.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "LBRT",
+    "open": 12.0,
+    "high": 12.5,
+    "low": 11.4549999237,
+    "close": 11.6700000763,
+    "volume": 5405446.0,
+    "wedge_status": "none"
   }
 ]

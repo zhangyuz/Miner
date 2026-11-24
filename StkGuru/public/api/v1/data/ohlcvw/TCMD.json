@@ -7498,5 +7498,15 @@
     "close": 25.6000003815,
     "volume": 239295.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "TCMD",
+    "open": 26.1499996185,
+    "high": 26.7099990845,
+    "low": 26.0,
+    "close": 26.4599990845,
+    "volume": 216395.0,
+    "wedge_status": "none"
   }
 ]

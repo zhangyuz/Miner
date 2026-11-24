@@ -4908,5 +4908,15 @@
     "close": 51.8300018311,
     "volume": 35490.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "CBNA",
+    "open": 52.6399993896,
+    "high": 52.75,
+    "low": 51.1899986267,
+    "close": 52.1399993896,
+    "volume": 13283.0,
+    "wedge_status": "none"
   }
 ]

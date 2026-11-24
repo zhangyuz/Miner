@@ -7498,5 +7498,15 @@
     "close": 44.5,
     "volume": 24591.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "EFSI",
+    "open": 44.9199981689,
+    "high": 45.625,
+    "low": 44.2799987793,
+    "close": 44.8300018311,
+    "volume": 18346.0,
+    "wedge_status": "none"
   }
 ]

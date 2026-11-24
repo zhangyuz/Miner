@@ -7498,5 +7498,15 @@
     "close": 22.5,
     "volume": 745983.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "GNK",
+    "open": 23.1599998474,
+    "high": 23.3899002075,
+    "low": 22.6000003815,
+    "close": 23.1499996185,
+    "volume": 609695.0,
+    "wedge_status": "none"
   }
 ]

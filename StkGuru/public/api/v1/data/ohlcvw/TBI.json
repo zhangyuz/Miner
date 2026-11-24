@@ -7498,5 +7498,15 @@
     "close": 11.1599998474,
     "volume": 354411.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "TBI",
+    "open": 11.25,
+    "high": 11.8000001907,
+    "low": 11.0100002289,
+    "close": 11.720000267,
+    "volume": 230593.0,
+    "wedge_status": "none"
   }
 ]

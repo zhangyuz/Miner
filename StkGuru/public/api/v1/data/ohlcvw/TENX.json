@@ -7498,5 +7498,15 @@
     "close": 1.25,
     "volume": 2283907.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "TENX",
+    "open": 1.3300000429,
+    "high": 1.3569999933,
+    "low": 1.2200000286,
+    "close": 1.2899999619,
+    "volume": 1450045.0,
+    "wedge_status": "none"
   }
 ]

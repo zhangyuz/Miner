@@ -7498,5 +7498,15 @@
     "close": 99.4599990845,
     "volume": 3787190.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "EL",
+    "open": 102.0,
+    "high": 105.4800033569,
+    "low": 101.4599990845,
+    "close": 103.75,
+    "volume": 3091998.0,
+    "wedge_status": "none"
   }
 ]

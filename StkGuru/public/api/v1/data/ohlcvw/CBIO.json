@@ -7498,5 +7498,15 @@
     "close": 13.0,
     "volume": 422370.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "CBIO",
+    "open": 13.4200000763,
+    "high": 14.3100004196,
+    "low": 13.154999733,
+    "close": 13.4300003052,
+    "volume": 288776.0,
+    "wedge_status": "pop"
   }
 ]

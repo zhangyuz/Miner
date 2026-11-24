@@ -7498,5 +7498,15 @@
     "close": 38.0099983215,
     "volume": 60206.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "FSTR",
+    "open": 39.5,
+    "high": 39.5600013733,
+    "low": 39.1049995422,
+    "close": 39.4799995422,
+    "volume": 38580.0,
+    "wedge_status": "none"
   }
 ]

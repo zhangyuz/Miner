@@ -7498,5 +7498,15 @@
     "close": 95.5,
     "volume": 1730053.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "VOYA",
+    "open": 98.8700027466,
+    "high": 100.2699966431,
+    "low": 98.2699966431,
+    "close": 98.9499969482,
+    "volume": 1289722.0,
+    "wedge_status": "none"
   }
 ]

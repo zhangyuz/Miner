@@ -7498,5 +7498,15 @@
     "close": 1.8400000334,
     "volume": 1385439.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "NAGE",
+    "open": 1.9199999571,
+    "high": 1.9400000572,
+    "low": 1.8400000334,
+    "close": 1.9099999666,
+    "volume": 583437.0,
+    "wedge_status": "none"
   }
 ]

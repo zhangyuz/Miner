@@ -7498,5 +7498,15 @@
     "close": 6.0,
     "volume": 3369757.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "GNL",
+    "open": 6.1900000572,
+    "high": 6.2899999619,
+    "low": 6.0700001717,
+    "close": 6.2899999619,
+    "volume": 4176870.0,
+    "wedge_status": "none"
   }
 ]

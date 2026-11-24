@@ -7498,5 +7498,15 @@
     "close": 78.6200027466,
     "volume": 15005465.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "WFC",
+    "open": 81.0,
+    "high": 81.0,
+    "low": 79.5,
+    "close": 80.0,
+    "volume": 11328817.0,
+    "wedge_status": "none"
   }
 ]

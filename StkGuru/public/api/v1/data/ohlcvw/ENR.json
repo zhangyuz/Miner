@@ -7498,5 +7498,15 @@
     "close": 28.5599994659,
     "volume": 1601990.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "ENR",
+    "open": 28.75,
+    "high": 29.25,
+    "low": 27.9300003052,
+    "close": 28.9699993134,
+    "volume": 1245551.0,
+    "wedge_status": "none"
   }
 ]

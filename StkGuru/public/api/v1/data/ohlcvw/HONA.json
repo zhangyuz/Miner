@@ -678,5 +678,15 @@
     "close": 150.7100067139,
     "volume": 2803023.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "HONA",
+    "open": 157.5,
+    "high": 157.5500030518,
+    "low": 153.0,
+    "close": 154.6199951172,
+    "volume": 2101325.0,
+    "wedge_status": "none"
   }
 ]

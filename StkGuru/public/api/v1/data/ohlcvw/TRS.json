@@ -7498,5 +7498,15 @@
     "close": 36.7700004578,
     "volume": 667593.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "TRS",
+    "open": 37.5,
+    "high": 38.0750007629,
+    "low": 36.4350013733,
+    "close": 37.9199981689,
+    "volume": 482758.0,
+    "wedge_status": "none"
   }
 ]

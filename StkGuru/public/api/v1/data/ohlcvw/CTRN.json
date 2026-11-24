@@ -7498,5 +7498,15 @@
     "close": 40.3400001526,
     "volume": 258726.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "CTRN",
+    "open": 42.0,
+    "high": 43.7099990845,
+    "low": 41.1699981689,
+    "close": 41.4300003052,
+    "volume": 250661.0,
+    "wedge_status": "none"
   }
 ]

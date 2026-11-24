@@ -7498,5 +7498,15 @@
     "close": 31.0,
     "volume": 4567647.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "SIRI",
+    "open": 31.4099998474,
+    "high": 31.875,
+    "low": 31.0499992371,
+    "close": 31.6800003052,
+    "volume": 3520092.0,
+    "wedge_status": "none"
   }
 ]

@@ -7498,5 +7498,15 @@
     "close": 69.0,
     "volume": 641505.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "TDW",
+    "open": 71.4700012207,
+    "high": 72.0,
+    "low": 70.8600006104,
+    "close": 71.9300003052,
+    "volume": 539823.0,
+    "wedge_status": "none"
   }
 ]

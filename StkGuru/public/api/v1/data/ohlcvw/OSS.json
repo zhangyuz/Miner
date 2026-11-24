@@ -7498,5 +7498,15 @@
     "close": 4.0100002289,
     "volume": 1606893.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,23,00,00,00,000000",
+    "ticker": "OSS",
+    "open": 4.5,
+    "high": 4.6300001144,
+    "low": 4.2399997711,
+    "close": 4.3200001717,
+    "volume": 1619566.0,
+    "wedge_status": "none"
   }
 ]

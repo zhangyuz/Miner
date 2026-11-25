@@ -7508,5 +7508,15 @@
     "close": 3.75,
     "volume": 276085.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "ORMP",
+    "open": 3.7200000286,
+    "high": 3.8350000381,
+    "low": 3.7049999237,
+    "close": 3.7200000286,
+    "volume": 139525.0,
+    "wedge_status": "none"
   }
 ]

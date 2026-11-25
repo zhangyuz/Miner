@@ -7508,5 +7508,15 @@
     "close": 7.4099998474,
     "volume": 580651.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "YEXT",
+    "open": 7.3299999237,
+    "high": 7.5999999046,
+    "low": 7.375,
+    "close": 7.4899997711,
+    "volume": 373590.0,
+    "wedge_status": "pop"
   }
 ]

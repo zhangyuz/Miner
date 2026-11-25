@@ -7508,5 +7508,15 @@
     "close": 50.5400009155,
     "volume": 2085765.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "DAR",
+    "open": 50.0,
+    "high": 50.9099998474,
+    "low": 45.9099998474,
+    "close": 47.0600013733,
+    "volume": 5243470.0,
+    "wedge_status": "none"
   }
 ]

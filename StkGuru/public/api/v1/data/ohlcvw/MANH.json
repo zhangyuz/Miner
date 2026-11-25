@@ -7508,5 +7508,15 @@
     "close": 245.0,
     "volume": 734104.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "MANH",
+    "open": 245.6799926758,
+    "high": 255.3500061035,
+    "low": 244.1049957275,
+    "close": 249.6600036621,
+    "volume": 816316.0,
+    "wedge_status": "none"
   }
 ]

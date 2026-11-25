@@ -7508,5 +7508,15 @@
     "close": 145.3699951172,
     "volume": 626633.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "SPXC",
+    "open": 142.5,
+    "high": 144.2050018311,
+    "low": 140.3200073242,
+    "close": 141.7799987793,
+    "volume": 622008.0,
+    "wedge_status": "none"
   }
 ]

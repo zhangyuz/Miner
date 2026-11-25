@@ -658,5 +658,15 @@
     "close": 13.0699996948,
     "volume": 80812.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "FCBM",
+    "open": 13.0799999237,
+    "high": 13.2100000381,
+    "low": 12.9750003815,
+    "close": 13.0900001526,
+    "volume": 94955.0,
+    "wedge_status": "none"
   }
 ]

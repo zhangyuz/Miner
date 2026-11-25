@@ -7508,5 +7508,15 @@
     "close": 378.75,
     "volume": 8042719.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "ADI",
+    "open": 328.0,
+    "high": 337.5700073242,
+    "low": 304.237487793,
+    "close": 312.950012207,
+    "volume": 12299125.0,
+    "wedge_status": "none"
   }
 ]

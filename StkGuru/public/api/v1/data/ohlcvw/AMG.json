@@ -7508,5 +7508,15 @@
     "close": 378.5599975586,
     "volume": 322190.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "AMG",
+    "open": 375.9800109863,
+    "high": 378.0,
+    "low": 365.625,
+    "close": 366.3800048828,
+    "volume": 222495.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 7.0,
     "volume": 29355.0,
     "wedge_status": "drop"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "NL",
+    "open": 7.0250000954,
+    "high": 7.0599999428,
+    "low": 6.8501000404,
+    "close": 6.8899998665,
+    "volume": 14624.0,
+    "wedge_status": "none"
   }
 ]

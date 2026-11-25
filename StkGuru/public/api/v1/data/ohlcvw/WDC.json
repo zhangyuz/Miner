@@ -7508,5 +7508,15 @@
     "close": 297.25,
     "volume": 7548245.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "WDC",
+    "open": 287.0,
+    "high": 288.75,
+    "low": 269.4200134277,
+    "close": 273.950012207,
+    "volume": 6196604.0,
+    "wedge_status": "none"
   }
 ]

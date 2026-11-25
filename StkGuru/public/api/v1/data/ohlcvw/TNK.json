@@ -7508,5 +7508,15 @@
     "close": 88.0800018311,
     "volume": 365401.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "TNK",
+    "open": 88.0800018311,
+    "high": 89.0,
+    "low": 86.9550018311,
+    "close": 87.6699981689,
+    "volume": 345157.0,
+    "wedge_status": "none"
   }
 ]

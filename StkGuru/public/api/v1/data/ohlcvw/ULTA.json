@@ -7508,5 +7508,15 @@
     "close": 625.0200195312,
     "volume": 431877.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "ULTA",
+    "open": 631.8300170898,
+    "high": 645.0549926758,
+    "low": 624.75,
+    "close": 641.0,
+    "volume": 396991.0,
+    "wedge_status": "none"
   }
 ]

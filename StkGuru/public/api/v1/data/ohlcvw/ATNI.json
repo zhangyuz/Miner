@@ -7508,5 +7508,15 @@
     "close": 26.5,
     "volume": 71782.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "ATNI",
+    "open": 26.5,
+    "high": 27.1000003815,
+    "low": 25.6399993896,
+    "close": 26.8099994659,
+    "volume": 85529.0,
+    "wedge_status": "none"
   }
 ]

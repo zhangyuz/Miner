@@ -7478,5 +7478,15 @@
     "close": 16.5,
     "volume": 201019.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "CASK",
+    "open": 16.6299991608,
+    "high": 17.0599994659,
+    "low": 16.4899997711,
+    "close": 16.4899997711,
+    "volume": 197571.0,
+    "wedge_status": "none"
   }
 ]

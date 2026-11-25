@@ -7508,5 +7508,15 @@
     "close": 12.2100000381,
     "volume": 1609984.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "CRSR",
+    "open": 11.8599996567,
+    "high": 12.0,
+    "low": 11.4099998474,
+    "close": 11.779999733,
+    "volume": 784638.0,
+    "wedge_status": "none"
   }
 ]

@@ -7508,5 +7508,15 @@
     "close": 30.8299999237,
     "volume": 252663.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "CVLG",
+    "open": 30.75,
+    "high": 30.6424999237,
+    "low": 29.6800003052,
+    "close": 30.0900001526,
+    "volume": 98430.0,
+    "wedge_status": "none"
   }
 ]

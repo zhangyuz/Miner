@@ -7508,5 +7508,15 @@
     "close": 4.3200001717,
     "volume": 170610.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "RDNW",
+    "open": 4.3400001526,
+    "high": 5.3400001526,
+    "low": 4.3400001526,
+    "close": 4.8000001907,
+    "volume": 496251.0,
+    "wedge_status": "none"
   }
 ]

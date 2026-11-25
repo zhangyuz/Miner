@@ -618,5 +618,15 @@
     "close": 33.3499984741,
     "volume": 2752637.0,
     "wedge_status": "none"
+  },
+  {
+    "trade_date": "2026,11,24,00,00,00,000000",
+    "ticker": "DPC",
+    "open": 33.5499992371,
+    "high": 33.8499984741,
+    "low": 30.5400009155,
+    "close": 31.75,
+    "volume": 1334371.0,
+    "wedge_status": "none"
   }
 ]
